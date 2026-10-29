@@ -94,7 +94,7 @@ committed. Edits to `tl/` only need `build.py` again.
 
 Tested in melonDS.
 
-Please report bugs, including crashes and mistranslations, as [GitHub issues](https://github.com/damon-daemon/daikoukai-jidai-4-english/issues), with a
+Please report bugs, including crashes and mistranslations, as [GitHub issues](https://github.com/damon-daemon/daikoukai-jidai-4-nds-english/issues), with a
 screenshot and where it happened.
 
 ## Credits

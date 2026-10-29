@@ -92,7 +92,7 @@ committed. Edits to `tl/` only need `build.py` again.
 - Indented thought lines in a few story events lose their indent.
 - A few small labels (cargo/ship selection buttons) have only been checked in previews.
 
-Tested in melonDS.
+Tested in melonDS; boots on a Nintendo 3DS (TWiLight Menu++).
 
 Please report bugs, including crashes and mistranslations, as [GitHub issues](https://github.com/damon-daemon/daikoukai-jidai-4-ds-english/issues), with a
 screenshot and where it happened.

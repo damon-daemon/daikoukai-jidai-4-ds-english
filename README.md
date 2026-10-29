@@ -13,6 +13,17 @@ This repository contains the English text and the tools that build the patch.
 It does **not** contain the game, any of its data, or the Japanese script — you need
 your own copy of the game.
 
+## Screenshots
+
+| | | |
+|:-:|:-:|:-:|
+| ![Title menu](docs/screenshots/01_title_menu.png) | ![Character select](docs/screenshots/02_character_select.png) | ![Story event](docs/screenshots/03_event.png) |
+| Title menu | Character select | Story event |
+| ![Port](docs/screenshots/04_port.png) | ![Harbor](docs/screenshots/05_harbor.png) | ![Common menu](docs/screenshots/06_common_menu.png) |
+| Port (Lisbon) | Harbor | Common menu |
+| ![Route map](docs/screenshots/07_route_map.png) | ![At sea](docs/screenshots/08_sea.png) | ![Loading a save](docs/screenshots/09_load.png) |
+| Route map | At sea | Loading a save |
+
 ## What's translated
 
 - All four scenarios (Rafael, Hodrum, Ril, Maria): story events, dialogue and choices

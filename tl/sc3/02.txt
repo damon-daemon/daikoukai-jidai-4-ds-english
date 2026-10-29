@@ -1,0 +1,899 @@
+@055.000A
+Angelo, Angelo!
+
+@055.002A
+Xian, what is it?
+
+@055.0046
+Angelo has collapsed.
+
+@055.0064
+...He's burning up.
+
+@055.008C
+Sir Angelo!
+
+@055.00A6
+Angelo! Angelo! Ange...
+
+@055.00D8
+<Bianca>\n...Brother. Brother Angelo.\nBrother Angelo.
+
+@055.0122
+Huh, isn't that Bianca?\nBianca...\nAnd where is this...?
+
+@055.0160
+<Bianca>\nWhat are you saying, Brother?\nYou brought flowers for me,\ndidn't you?
+
+@055.01B2
+F-flowers...?\nHuh, why am I holding flowers?\nAnd what's with these clothes...
+
+@055.01F4
+<Bianca>\nYou're funny, Brother.
+
+@055.0218
+(Strange... I thought I boarded a ship...\n Oh well.\n Bianca is here with me, after all.)
+
+@055.0274
+<Bianca>\nBeautiful...\nMy favorite, amaryllis flowers.
+
+@055.02AA
+Never mind that, where have you been?\nI've been looking everywhere!
+
+@055.02E4
+<Bianca>\nHm? I've been right here the whole time.
+
+@055.0316
+?\nBut I was looking for you...
+
+@055.033A
+<Bianca>\nNever mind that.\nTell me more about the lands across the sea.
+
+@055.037C
+Oh, sure...
+
+@055.0390
+...And that's how it went.
+
+@055.03A4
+<Bianca>\nWow, how wonderful...\n*cough* *cough*
+
+@055.03D8
+H-hey, are you all right?\nYou should lie down for a bit.
+
+@055.040C
+<Bianca>\nI'm fine, I feel good today.\nPlease, tell me more...
+
+@055.044E
+Oh, sure...
+
+@055.0462
+Oh yeah, Bianca, I'm a mate now.\nI work on a ship.
+
+@055.04A0
+Remember our promise from when\nwe were kids?
+
+@055.04C2
+You said you wanted to see flowers\nfrom all over the world, so I promised\nI'd show you on my ship.
+
+@055.0514
+<Bianca>\n...Yeah...
+
+@055.0530
+Okay, it's not exactly my ship, but\ncome with me.\nLet's go see the flowers of the world.
+
+@055.057A
+<Bianca>\n.........I can't go.........
+
+@055.05A4
+Don't worry about your illness.\nThere are doctors across the sea too.
+
+@055.05E0
+Maybe we'll even find a doctor who\ncan cure you.
+
+@055.062C
+<Bianca>\n...I'm sorry, Brother.\nI have to go now...
+
+@055.0668
+Go? Go where?
+
+@055.0688
+<Bianca>\nThis is goodbye. I have to go back.
+
+@055.06BC
+Goodbye? Go back?
+
+@055.06D4
+<Bianca>\nBrother, live strong.\nYou're a strong person......
+
+@055.0712
+Don't go...\nCome on, that's not funny.
+
+@055.073A
+<Bianca>\nPlease stop wasting your life looking\nfor me. From now on, live for yourself, okay?
+
+@055.0794
+Bianca!\nYou're all I have!
+
+@055.07C0
+We're the only family each other has!\nAre you going to leave me all alone?!
+
+@055.0802
+<Bianca>\nYou're not alone...
+
+@055.0840
+<Bianca>\nYou have companions, Brother...
+
+@055.086C
+Companions...
+
+@055.087A
+<Bianca>\n...Yes, companions...\nThey're your new family...
+
+@055.08C2
+Those guys are my family...
+
+@055.08DE
+<Bianca>\nThat's right... With your new family,\nyou have to live for yourself.
+
+@055.0936
+<Bianca>\nBesides, I'm in your heart.
+
+@055.0976
+<Bianca>\nI'm out of time. I have to go...
+
+@055.09A8
+<Bianca>\n...Goodbye, Brother...\nThank you for everything.\nBe happy, for my sake too......
+
+@055.0A04
+<Angelo>\nBianca, wait! Bianca!
+
+@055.0A3C
+...ianca, Bianca!
+
+@055.0A58
+Angelo, Angelo!
+
+@055.0A78
+Ugh, haah, haah...\nHuh, where's Bianca...?
+
+@055.0AA6
+Are you all right, Angelo?
+
+@055.0AC2
+...What happened to me...?
+
+@055.0ADA
+You collapsed with a high fever...
+
+@055.0AFE
+Collapsed...\nA dream...?
+
+@055.0B30
+We were worried, man.
+
+@055.0B46
+You were moaning "Bianca."\nWere you dreaming about your sister?
+
+@055.0B98
+I hope you find her soon.
+
+@055.0BB6
+No, my sister... Bianca...\nIt doesn't matter anymore...
+
+@055.0BE8
+Angelo, you must not give up.
+
+@055.0C24
+That's right.\nI will help you as well.
+
+@055.0C50
+Thanks...\nLeave me alone for now...
+
+@055.0C78
+Angelo...
+
+@056.000C
+Whoa, looks like they're holding\na bullfight!
+
+@056.003C
+A bullfight?
+
+@056.005A
+A man fights a bull and dances with it...\nWhat a barbaric custom.
+
+@056.009A
+Yahoo!\nWe've got to see this!\nCome on, Admiral, let's go!!
+
+@056.0110
+What a crowd...\n(I'm not good with these.)
+
+@056.013A
+Yahoo! Lucky us!\nThey say the most popular bullfighter\nis performing today!
+
+@056.01C6
+...Is that him?\nThe most popular bullfighter?
+
+@056.01F0
+Nah, that's the picador.
+
+@056.021C
+He wears the bull down like that,\nthen the main man, the matador,\ndelivers the finishing blow.
+
+@056.042C
+...Let's invite him.
+
+@056.0446
+Seriously?
+
+@056.045A
+He'd be a powerful ally.
+
+@056.0474
+A bullfighter?\nWould he really be of use?
+
+@056.04AA
+Excuse me, do you have a moment?
+
+@056.04DA
+What!?\n......Th-that one...?
+
+@056.050C
+Would you like to sail the great\nocean with me on my ship?
+
+@056.0544
+A ship? A ship, huh. Sounds scary.\nDoesn't sound tasty, either.
+
+@056.058C
+Ships aren't scary at all. And you can\neat all the delicious food you want\nacross the sea.
+
+@056.05E8
+Delicious food? Heh. Heh heh.
+
+@056.060E
+The world has all kinds of food.
+
+@056.0636
+O-oh. Lots and lots of kinds, huh.\nThen I'll go! The sea!
+
+@056.067E
+It's settled.\nLet me hear your name. I'm\n{FI} {FA}.
+
+@056.06B8
+I-I'm Emilio Ferrog.
+
+@056.06DE
+Welcome aboard, Emilio.
+
+@058.003E
+It's your hometown, so take your time\nand rest.
+
+@058.00BC
+That's fine.\nWe'll go on ahead to the inn.
+
+@058.0D7C
+Oh, him? Not bad.
+
+@058.0DC0
+Heh, he's here.
+
+@058.0FCE
+Those two make a good pair.
+
+@059.000C
+This port seems to have a thriving\nshipping trade. Maybe there's a capable\nmate here.
+
+@059.0048
+I'd say so.\nLet's ask around.
+
+@059.0076
+Um, excuse me.\nWe're looking for someone who knows ships...
+
+@059.00BC
+Oh? You're a sailor?\n...But\nAs for Master Adelnkatz...
+
+@059.0138
+What was that about? What a creepy man.\nAdel...? Did he say Adelnkatz?\nLet's try looking for him.
+
+@059.01A6
+Oh, little guy.\nDo you know someone named Adelnkatz?
+
+@059.01E4
+You mean Admiral Adelnkatz?\nHis mansion is that way.
+
+@059.0228
+Thanks, little guy.\nAdmiral {FI},\nit looks like his mansion is that way.
+
+@059.026A
+Let's go see.
+
+@059.02D4
+Oh, nice to meet you.\nUm, from the {FO}...
+
+@059.02FA
+I'm {FI} {FA}.\nAnd this is our mate, Jenas Passer.
+
+@059.032A
+Oh, a mate...\nWell, come in.
+
+@059.0356
+So, what brings you here?
+
+@059.03EC
+Would you not sail again?
+
+@059.041A
+An old relic's strength is of no use...
+
+@059.0442
+...You are not old.\nWe would like your guidance.
+
+@059.04AC
+If only I had met someone like you\nsooner, my life might have turned out\ndifferently.
+
+@059.0506
+Then?
+
+@059.0514
+Very well.\nPlease make full use of the skills of\nGerhard Adelnkatz.
+
+@060.006E
+What's this? Who are you?
+
+@060.008E
+Do you have any special skills?
+
+@060.014E
+What?!\nThe nerve of him!\nAdmiral, don't bother with this man.
+
+@060.01AC.0
+Let's pay it
+
+@060.01AC.1
+We don't have that kind of money
+
+@060.024C
+Very well.
+
+@060.0270
+Admiral! No!\nBe nice to him and he gets\nfull of himself.
+
+@060.02B8
+Do you know who you're speaking to?!
+
+@060.0330
+Hey, you!
+
+@060.0482
+I can rest easy with you. If you like,\nplease use this ship.
+
+@060.04BC
+...Your name?
+
+@060.0516
+I asked for your name.
+
+@060.05D0
+Take the ship out of the dock and\ngive it any name you like under\n"Refit."
+
+@061.000A
+We've finally come this far. When I\nthink of it, from the eastern end of\nthe world to the western end...\nIt moves me.
+
+@061.0070
+What is that roar?
+
+@061.0088
+It seems to be the sound of a "bomb,"\ndoesn't it?
+
+@061.00B6
+Ugh... Charles again.\nI can't even nap in peace.\nI wish he'd keep it down for once...
+
+@061.0118
+Charles?\nIs this "bomb" his doing?
+
+@061.0152
+Yes, it is. He's a menace to the\nneighborhood... He fell in love with\n"science" and now this roar echoes\nevery day.
+
+@061.01BE
+"Science"??\nWhat is that, Xian?
+
+@061.01EA
+Ah, a field of study popular in the\nWest. They say it's so amazing it can\nchange how people live. The "bomb" is\none part of it.
+
+@061.0254
+Hmm...\nChanging how people live. I'd like to\nknow more about that. It sounds\ninteresting.
+
+@061.02A6
+Hmm. If this Charles can make "bombs,"\nhe must know gunnery too. Why not go\nsee him?
+
+@061.0310
+Yes, he seems worth meeting.
+
+@061.0338
+Hey, hey, are you serious?
+
+@061.0354
+Could you take us to him?\nWe'll make it worth your while.
+
+@061.038A
+Guiding a young lady is no trouble,\nbut I'd advise against it...
+
+@061.0410
+Mister? Come back later, please.\nI'm really busy right now. I'm about to\nprove my theory...
+
+@061.047C
+Come on, give us some quiet for once.\nAll this constant roaring is unbearable.
+
+@061.04CC
+...Sorry to disturb you.\nYou must be Charles. I've heard about you.\nYou seem very knowledgeable.
+
+@061.0528
+Well, people call me "Dr. Charles"\nout of respect, you know.
+
+@061.0576
+I see. How wonderful.\nI came because I think you could test\nthat knowledge out in the wider world.
+
+@061.05DA
+Oh, the world...? That's a big idea!\nBut can one person really\ndo that?
+
+@061.0638
+Well, if you don't know who you're\nspeaking with, I can see why you'd think\nso.
+
+@061.0682
+This is {FI}.\nA splendid admiral who leads the {FO}\nat such a young age.
+
+@061.06BC
+Her achievements so far include...\n(skipping ahead)... and the list is\nendless. That's the kind of person she is.\nWell?
+
+@061.071A
+That's amazing!!\nPlease let me put my scientific\nknowledge to use!\nIt's like a dream!
+
+@061.0772
+Hohoho, what an amusing scholar.\nWell then, {FI}, let's go back to the\nship and introduce him to everyone.
+
+@061.07CA
+First, let me introduce myself properly.\nI'm Admiral {FI}.\nThis old gentleman is Xian.
+
+@061.0818
+Hey now, "old gentleman" is a bit much.\nI'm still young!
+
+@061.085A
+Wow, this sounds fun. I'm\nCharles Jean Rochefort.\nPleased to meet you!
+
+@062.0022
+Oh... so this is the "Silla Gold Crown"...
+
+@062.004A
+It's beautiful...
+
+@062.005E
+With this, the trouble it took was\nworth it.
+
+@062.008C
+Still, hasn't that man shown up yet?
+
+@062.00C2
+If he left the Tavern before us, he'd\nhave found it long ago...
+
+@062.0112
+...Someone's coming.
+
+@062.012C
+Haah, haah\nI finally made it here...\nThat's the "Silla Gold Crown" I've been\nworking so hard to find...
+
+@062.018E
+You're late.\nI'm {FI}.
+
+@062.01A8
+{FI}? Hmm,\nthat's a lovely name.
+
+@062.01CE
+Hey... how did you know I'd come?\nWhy are you looking for the\n"Silla Gold Crown"?
+
+@062.0222
+I overheard you talking about the\n"Silla Gold Crown" in Hangzhou.
+
+@062.0266
+What?! You eavesdropped on Meihua and me!\nAnd then followed me too! ...Oh, don't\ntell me you fell for me?
+
+@062.02EC
+Hey! How dare you say that to the Admiral!
+
+@062.0312
+...How rude. I'm sorry I eavesdropped,\nbut I didn't mean to follow you, and I\nhave no feelings for you at all.
+
+@062.0382
+Oh, that's too bad.\nYou're actually my type, miss.
+
+@062.03CC
+That's enough! This lady is...
+
+@062.03F4
+Xian, ignore him.\nHe flirts with every woman he sees.
+
+@062.0436
+Aw, don't glare at me like that.\nYou'll ruin your beautiful face.
+
+@062.0476
+...Anyway, back to the point.\nDo you want the "Silla Gold Crown,"\nmiss?
+
+@062.04B6
+Well... I'm not without interest.
+
+@062.04DE
+Hmm.\nIf that's all your attachment, you\ncould give it to me, right?
+
+@062.0522
+! The nerve...\n{FI},\ndon't sympathize with this fellow.
+
+@062.055C
+Please, miss, I'm begging you.\nI promised Meihua I'd find this and\nbring it back.
+
+@062.05B0
+Otherwise I'll lose all face!\nI can't go home empty-handed.\nYou understand, right?
+
+@062.060A
+I see. I'll let you have it.\nNow hurry back to her.
+
+@062.064E
+Thanks, {FI}!\nSee you again in Hangzhou!
+
+@062.0680
+Oh, right!\nI'll tell her the {FO} admiral\nwas as beautiful as the rumors said!
+
+@062.06CC
+That rascal...\nHe knew you were the {FO}'s\nLeader...
+
+@062.06FC
+He got us...\nHe might turn out to be a big shot.
+
+@062.072C
+A bold, fearless nature is well suited\nto adventure.
+
+@064.02F8
+But this is a valuable item, isn't it?\nAre you sure I can have it?
+
+@064.03B2
+I see...\nThen I'll gratefully accept.
+
+@064.048A
+Y-yes.
+
+@065.0030
+Yes, that's right.
+
+@065.006E
+Yes, that's right.
+
+@065.00AE
+...Y-yes.
+
+@065.0160
+Is that all right?
+
+@065.01BA
+Then we'll gratefully accept.
+
+@065.0200
+...Don't eat so much that you upset\nyour stomach.
+
+@066.0100
+"Something"... who do you mean?
+
+@066.01CE
+Which one?\nOh. I've never seen a seed like this\nbefore.\nIt might turn out to be a lucky find.
+
+@066.027A
+...Shall we go eat some of this town's\nspecialties?
+
+@066.02B6
+Yes, my treat.
+
+@068.00AE
+Hmm, your sword?
+
+@068.013C
+...That's a shame.\nDid you never find it?
+
+@068.01D6
+Is that so? Someone with a good eye may\nhave picked it up and be using it\ncarefully.
+
+@070.032E
+Even Yukihisa, a Japanese, doesn't know\neverything.
+
+@070.0462
+Stop it!\nThat childish bickering is\nembarrassing.
+
+@070.051E
+I'd imagine so.
+
+@074.0018
+What's the matter, Julio?
+
+@074.005C
+You mean Christina.
+
+@074.00C8
+She's someone who can overcome any\ndifficulty. A war goddess, yes, Athena,\nwasn't it...? Christina has that\nkind of air about her.
+
+@074.0160
+If I remember correctly, in another\nmythology she's called Minerva.
+
+@074.0230
+I don't know much about Western gods\neither. But Christina will be all\nright.
+
+@074.0482
+Julio...
+
+@074.0514
+Yes, you're right.
+
+@075.007E
+What is this about...?\n...Did you pick up another rumor?
+
+@075.00F8
+A mail made of peacock feathers?
+
+@075.0170
+...It doesn't sound very strong.
+
+@075.01E8
+...\nSo where is this mail?
+
+@075.0280
+That's really not enough to go on.
+
+@075.02FC
+I see. I'll keep it in mind.\nDon't expect too much.
+
+@076.0062
+What is that?
+
+@076.00C8
+You heard another new rumor.
+
+@076.010A
+The last?
+
+@076.01D2
+I-I see.\nBack to the vest, then. Do you know\nwhere in the New World it is?
+
+@076.0240
+...Can't you narrow it down a bit?
+
+@076.02B8
+Heh. I will.
+
+@077.005E
+This is the first I've heard of it.
+
+@077.00F4
+That's impressive.
+
+@077.0160
+...Is that true?
+
+@077.02B2
+With a telescope like that, finding\ntowns and enemy ships would be easy.\nIt seems worth searching for.
+
+@078.0038
+Emilio says the same thing every time we\nreach a port.
+
+@078.00F4
+The best taste in the world... But I\nthink it's hard to judge that nothing\ncould taste better.
+
+@081.0070
+Of course, I don't mind.\nWe couldn't have found it without your\nreport.
+
+@083.0056
+You should already know far more\nthan I do.
+
+@083.008C
+If you are destined to take it in hand,\nthen I have nothing more to say.
+
+@083.010E
+Do not resist fate.\nDo what you must.
+
+@085.007A
+About this cross...\nAre you sure I can really have it?
+
+@085.00B6
+?\nYes, please.
+
+@085.00CC
+(It seems different from the others...\n Am I overthinking it?)
+
+@087.000E
+...Impressive.
+
+@087.02A6
+I'd rather decline...
+
+@087.02BE
+There are ten people here in all.\nThe hands, feet and canes on the floor\ntotal 32. If the old and the babies are\nequal in number, how many are adults?
+
+@087.0330.0
+2 people
+
+@087.03EA
+...The calculation is a hassle.
+
+@087.0400
+Do you get it, {FI}?\nI'm hopeless at this sort of problem.
+
+@087.0446
+...Ten people have twenty feet.\nSo 32 minus 20 leaves twelve hands and\ncanes on the floor...
+
+@087.04A4
+The old and the babies are equal in number,\nso...for every one cane, there are\ntwo hands.
+
+@087.04F6
+I see, I see.\nSo each old man and baby pair makes\nthree hands and canes in total.
+
+@087.0538
+Right. Here the total is twelve, so\nthat's four pairs.\nFour canes and eight hands.
+
+@087.0586
+So four old men and four babies,\nthen.
+
+@087.05B4
+Of the ten, four are old and four are\nbabies, so that leaves two adults.
+
+@088.0010
+Wh-what!?
+
+@088.004A
+That must be it, those strange people.
+
+@088.0140
+Hmm, they're mad...
+
+@088.01C6
+!!\n...Looks like we've stumbled onto\nsomething terrible.
+
+@088.0202
+What do we do, {FI}?\nWe don't have enough guns to storm them.
+
+@088.023A
+The guns we have will do.\nPrepare blanks.
+
+@088.0262
+Blanks?
+
+@088.0290
+And we'll use that, too. Get it ready.
+
+@088.02CA
+And Jam,\nwe'll use that.
+
+@088.02EE
+Yahoo! A festival!
+
+@088.0314
+And Charles,\nwe'll use that.
+
+@088.033A
+Huh?\nOh, that! Got it!
+
+@088.03CA
+Heretics!!\nThe Church has issued a notice!\nSurrender quietly!!
+
+@088.040E
+Who are you!?
+
+@088.041E
+Fire!!
+
+@088.043E
+Eek!!
+
+@088.0458
+Waah, it's the national army!!\nRun!
+
+@088.0480
+Hey, you! Don't run away!!\nProtect me!
+
+@088.04BA
+If the army's here, it's over!\nI-I don't want to die!!
+
+@088.04F2
+Damn, nothing I say gets through!\nCowards, all of you!
+
+@088.052C
+I can't leave that behind!
+
+@088.0556
+Ugh!!
+
+@088.0582
+D-don't touch it!\nGive it back! Give it back!!
+
+@088.05AA
+Judging by how flustered you are, it\nmust be something very important.
+
+@088.05E4
+You...!
+
+@088.05F8
+Oh, you'll use a sword?\nYou should be careful handling\nblades.
+
+@088.063E
+Shut up!
+
+@088.0664
+What a rowdy cult leader.\nHe needs a stern punishment.
+
+@088.06A2
+!?\nW-why are there only Easterners in the\nnational army?
+
+@088.06D8
+The national army?\nDoes your country's army fight\nenemies with fireworks and firecrackers?
+
+@088.0718
+F-fireworks!! Firecrackers!?
+
+@088.073C
+Gunpowder is a Chinese invention. The\nWesterners seem to use it better in war,\nbut you don't seem to know of uses\nlike this.
+
+@088.07B0
+Grrr...!!
+
+@088.07C4
+Pull back!
+
+@089.00B0
+If your village has any legends about\nthe "Victor's Mark," I'd like to hear\nthem.
+
+@089.0260
+Yes.\nWe will do our best not to betray\nyour hopes.
+
+@090.0038
+Now all that's left is to return to\nIstanbul.
+
+@090.006A
+Did that take too long?\nI have to hurry back.
+
+@090.00AC
+We'll never make it now.\nLet's go back to Istanbul and start\nover.
+
+@091.0022
+Hmm.\nLooks like you went a bit over.\nCould you try one more time?
+
+@091.0086
+Oh! You did it!\nSee? Now you know the round trip can\nbe done in 30 days!
+
+@091.00E0
+Tsk, they found out.
+
+@091.00FE
+Thank you!\nPlease take your reward!
+
+@092.0048
+A riddle...
+
+@092.019E
+Xian, what do you think?
+
+@092.01BA
+No idea at all...\nIn times like these,\n"hit or miss" is the way!
+
+@092.01FE
+All right!\nThe answer is "1 second"!
+
+@092.024E
+Xian, I think half, "30 seconds."\nWhat do you say?
+
+@092.028E
+No idea at all...\nIn times like these,\n"hit or miss" is the way!
+
+@092.02D2
+All right!\nThe answer is "30 seconds"!
+
+@092.0324
+Xian. I've solved it.
+
+@092.033C
+So, what's the answer?
+
+@092.0352
+"59 seconds."

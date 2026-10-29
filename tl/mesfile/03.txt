@@ -1,0 +1,749 @@
+@750
+You really want to start over?
+
+@751
+What a hassle.
+
+@752
+I'm busy. No joking around, please.
+
+@753
+You don't have enough gold for that.
+
+@754
+It looks like if you pay double this time,\nthere are goods\nyou could buy more of.
+
+@755
+Looks like if you pay double this time,\nthere are goods they'll\nsell you more of.
+
+@756
+If you pay double this time,\nI think there are goods\nyou can buy more of.
+
+@757
+Pay double right now and there are\ngoods you can probably\nbuy more of.
+
+@758
+It seems that if you pay double this time,\nthere are goods you could\nbuy more of.
+
+@759
+I think if you pay double this time,\nthere are goods you can\nbuy lots more of!
+
+@760
+It appears that if you pay double this time,\nthere are goods they'd sell\nyou more of.
+
+@761
+Sorry, but make a contract in %s\nand then come back.
+
+@762
+You want to invest, even though you\ncan't trade without a share...?\nYou're a rare one.\nSo how much will you invest?
+
+@763
+You're going to invest?\nI knew you were different from\nthe rest of them.\nSo how much are you putting in?
+
+@764
+You're short on gold.\nThis isn't charity. No gold,\nno looking.
+
+@765
+While I'm at it, I'll give you\na little better share.\nDon't worry, I'll handle it well.
+
+@766
+Well then, see you next time.
+
+@767
+%s and\n%s, huh!\nThey sell like crazy, so we\nkeep running out.
+
+@768
+You'll sell me %s?\nThey sell like crazy, so we\nkeep running out of stock.\nThat's a big help.
+
+@769
+All right, I'll throw in a bonus.\n%s and %s\nare selling like crazy right now,\nand you're selling them to me.
+
+@770
+Hmm... all right, a bonus for you.\n%s is selling like crazy\nright now, and you're\nselling it to me.
+
+@771
+I wish this war would end soon.\nIt makes business hard.
+
+@772
+Times have gotten better lately,\nand business is easier.
+
+@773
+Times have gotten bad lately,\nand business is awful.
+
+@774
+I know!\nAs thanks for selling me trendy goods,\nI'll write you a letter\nof introduction.
+
+@775
+And as thanks for selling me\nso many trendy goods,\nI'll write you a letter of\nrecommendation.
+
+@776
+I know!\nAs thanks for selling me so many\ntrendy goods, I'll write you\na letter of introduction.
+
+@777
+Oh, you have a letter of introduction.\nLet me add a few lines to it.\nThen it'll be a letter of recommendation.
+
+@778
+I know!\nAs thanks for selling me so many\ntrendy goods, I'll write you\na letter of recommendation.
+
+@779
+Take it to the palace or governor's\noffice of a small port,\nand they should arrange a share for you.
+
+@780
+Take it to the palace or governor's\noffice, and any port should\narrange a share for you.
+
+@781
+A letter of introduction only works\nin small ports, but a letter of\nrecommendation works in any port.
+
+@782
+Hmm... All right!\nSince you're selling me trendy goods,\nI'll give you a special bonus.
+
+@783
+Oh! You're selling me trendy goods?\nThanks, I appreciate it.\nKeep it up.
+
+@784
+A fleet holds up to 5 ships, so the\nnew ship will go to the dock.
+
+@785
+Which ship do you want to buy\na copy of, refits and all?
+
+@786
+That ship has %s masts\nand %s durability.
+
+@787
+All right, I'll keep it at the dock.
+
+@788
+Which ship are you selling?
+
+@789
+That'll be %s gold coins.\nIs that okay?
+
+@790
+No ships need repairs!
+
+@791
+Admiral, I'll help with the repairs too.
+
+@792
+Admiral, I'll help with the repairs too!
+
+@793
+Admiral, let me help with the repairs too.
+
+@794
+Admiral, I'll lend a hand too.
+
+@795
+Admiral, repairs, eh? I'll lend a hand.
+
+@796
+Admiral, I'll help fix it too!
+
+@797
+Admiral, if it's repairs, I'll...
+
+@798
+If that one helps out, I'll knock\n%s%% off the repair fee.
+
+@799
+The repairs cost\n%s gold coins,\n...but you don't have enough.
+
+@800
+The repairs cost\n%s gold coins.\nOkay?
+
+@801
+Give me one day\nto finish the repairs.
+
+@802
+For %s gold coins\nI can fully repair it.\nWant me to?
+
+@803
+Same specs as %s?\nThen that's %s gold coins.\nIt takes %s day(s) to prepare.\nWant to buy?
+
+@804
+If it's the same as %s,\nno refit is needed.\nIt's %s gold coins.\nWant to buy?
+
+@805
+What are you doing? The Admiral\nshould be the Captain!
+
+@806
+Leftover food will be thrown out.\nIs that okay?
+
+@807
+You'd be hopeless\nwithout me around!
+
+@808
+I'm worried about %s...\nI can stay with you, right?
+
+@809
+No.\nI'll only ever serve as the\nAdmiral's aide.
+
+@810
+...I don't... want to... leave...
+
+@811
+I'm your guardian, you know.\nI can't leave this ship.
+
+@812
+Leftover water will be thrown out.\nIs that okay?
+
+@813
+Looks like you're low on water.\nWant to restock?
+
+@814
+The sailors look tired.\nMaybe you should rest\nat the inn?
+
+@815
+You don't have any cargo.
+
+@816
+You don't have enough gold for a full\nresupply. Resupply as much\nas you can afford?
+
+@817
+Want to change the ratio of\nwater and food to resupply?
+
+@818
+Customer, our shop takes pride in\nhonest pricing, so...
+
+@819
+We don't give out free drinks.
+
+@820
+Around here, %s of %s,\nthe %s, is making\na name for himself.
+
+@821
+Around here, %s of %s,\nthe %s, is throwing\nhis weight around.
+
+@822
+Have you visited the port\nof %s\nnearby?
+
+@823
+Hey, you.\nDo you know the port of %s?\nIt's right near here.
+
+@824
+I don't have any particular\nnews right now.
+
+@825
+Hm?
+
+@826
+Oh, you're weaker than I thought.
+
+@827
+Hmm, %s, was it?\nWell then, a toast to our new acquaintance!
+
+@828
+Hey, do you know about '%s'?\nIt's somewhere in the world,\nand they say it's incredibly beautiful.
+
+@829
+Oh, what's that? What is it?
+
+@830
+Hm, this?\nThis is '%s'.
+
+@831
+This?\nThis is '%s'.
+
+@832
+This?\nIt's called '%s'.
+
+@833
+This?\nIt's '%s'.
+
+@834
+Oh, how lovely!
+
+@835
+Want it?
+
+@836
+Like it?
+
+@837
+Oh, do you like it?
+
+@838
+Oh, are you interested?
+
+@839
+Could it be...\nyou're giving it to me?
+
+@840
+Really!? I'm so happy!\nThank you, I'll treasure it!
+
+@841
+I see... I'm sorry.\nThat was selfish of me.
+
+@842
+As for the exact spot... let's see.\nSomewhere around %s, maybe.
+
+@843
+'%s'?\nI know it. Try going to\n%s and %s,\nor %s and %s.\nYou might find it.
+
+@844
+You want to know about '%s'?\nI heard it's in the direction of\n%s and %s from this port.
+
+@845
+'%s', hmm...\nCome to think of it, I think I heard\nit was seen in %s and %s...
+
+@846
+Oh, '%s'?\nI think it's right near this port.
+
+@847
+%s looks like it'll get trendy\nin this port.\nMight be a chance to make a fortune!
+
+@848
+Right now, %s is\nselling like crazy in this port!
+
+@849
+Hey, listen. Big news!\nThey say in %s,\n%s is about to become trendy.
+
+@850
+They say in %s,\n%s is all the rage\nright now.\nIt's the talk of the town.
+
+@851
+The fleet of %s\nis anchored at %s.
+
+@852
+It looks like it'll cost about\n%s gold coins. Is that all right?
+
+@853
+Looks like it'll cost about\n%s gold coins. Okay?
+
+@854
+It'll cost about\n%s gold coins. Is that okay?
+
+@855
+It'll probably cost about\n%s gold coins. That's fine, right?
+
+@856
+It'll probably cost about\n%s gold coins. Is that all right?
+
+@857
+It'll probably cost about\n%s gold coins. Is that okay?
+
+@858
+It looks like it'll cost about\n%s gold. Do you mind?
+
+@859
+Barkeep,\nthe same for everyone here, please.
+
+@860
+Barkeep,\nthe same for everyone here.
+
+@861
+Mister,\nthe same for everyone here, please.
+
+@862
+Barkeep,\nthe same for everyone here, please.
+
+@863
+By the way, did you know?\nSomeone supposedly saw a rarity\ncalled %s\nin %s. Or maybe not...
+
+@864
+Barkeep,\na drink for everyone here.
+
+@865
+Barkeep,\ndrinks for everyone here!
+
+@866
+Mister,\ndrinks for everyone, please.
+
+@867
+Barkeep,\nplease serve everyone a drink.
+
+@868
+Well, it's drunkards' talk,\nso I can't vouch for it,\nbut someone like you\nmight make sense of it.
+
+@869
+Certainly.\nThis round is a gift to everyone\nfrom the Boss of %s.
+
+@870
+%s,\nI've got an interesting tip for you.\nRumor has it a rare treasure\ncalled %s\nis hidden in %s.
+
+@871
+Whoa!\nClap clap clap clap!\nThat's the great %s\nfor you!
+
+@872
+Here you go!\nToday it's all on %s!\nLet's make it a party!
+
+@873
+Someone as skilled as you, %s,\nwill surely find it,\nI'd say.
+
+@874
+Whoa! Really!?\nThanks a lot!\nYou're stylish! What a big spender!
+
+@875
+%s,\nthere's something I'd like to tell you...
+
+@876
+The fleet of %s\nis said to be chasing you.\nYou'd better be careful.
+
+@877
+Say, %s,\nhave you heard?
+
+@878
+The fleet of %s\nis hunting you,\n%s.
+
+@879
+By the way... I heard that\nthe fleet of %s\nis headed to\n%s.
+
+@880
+I just overheard that\nthe fleet of %s\nis heading to\n%s.
+
+@881
+From what I heard,\nthe fleet of %s\nis anchored at\n%s.
+
+@882
+I heard from a friend that\nthe fleet of %s\nis anchored at\n%s.
+
+@883
+Admiral, we don't have enough gold.
+
+@884
+Admiral, it looks like we're short on gold.
+
+@885
+Um... Admiral, we don't have enough gold.
+
+@886
+Admiral, we're short on gold.
+
+@887
+Admiral, we're short on gold, hmm.
+
+@888
+Admiraaal, we're short on gold.
+
+@889
+Admiral, we don't have enough gold, but...
+
+@890
+I'll gather sailors for\n%s gold coins.
+
+@891
+I'll gather sailors for\n%s gold coins.
+
+@892
+I'll spend %s gold coins\nto gather sailors.
+
+@893
+I'll spend %s gold coins\nto gather sailors, then.
+
+@894
+I'll spend %s gold coins\nto gather sailors.
+
+@895
+I'll gather sailors for\n%s gold coins.
+
+@896
+I'll spend %s gold coins\nto gather sailors.
+
+@897
+Anyone want to sail on the Admiral's ship?
+
+@898
+Who wants to sail on the Admiral's ship?
+
+@899
+Anyone who wants to sail on the\nAdmiral's ship, step forward!
+
+@900
+Anybody want to sail on\nthe Admiral's ship?
+
+@901
+Anyone want to sail on the Admiral's ship?
+
+@902
+Anyone who wants to sail on the\nAdmiral's ship, come on out!
+
+@903
+Anyone want to sail on the Admiral's ship?
+
+@904
+%s people\ngathered.
+
+@905
+Lately, the port of %s\nis said to be in\nquite a %s.
+
+@906
+Lately, the port of %s\nis said to be in\nquite a %s.
+
+@907
+Whoa!
+
+@908
+Throwing the enemy into disarray\ncosts about 1000 gold coins.\nWhat plan will you use?
+
+@909
+With 1000 gold coins you can\nthrow the enemy into disarray.\nWhat plan will you use?
+
+@910
+1000 gold coins should be enough.\nWhat plan should we use?
+
+@911
+With 1000 gold coins we can\nthrow the enemy into disarray.\nWhat plan are you going for?
+
+@912
+With 1000 gold coins we can\nthrow the enemy into disarray.\nWhat plan would be best, hmm?
+
+@913
+With 1000 gold coins we can\ngive them a real scare!\nWhat should we do?
+
+@914
+For about 1000 gold coins we can\nthrow the enemy into disarray.\nWhat plan shall we use?
+
+@915
+%s, then?\nPlease choose the opposing faction.
+
+@916
+You're going with %s?\nThen which faction is the target?
+
+@917
+%s, right?\nWhich faction is the target?
+
+@918
+%s, is it?\nThen which faction will it be?
+
+@919
+%s, right?\nSo which faction do we go after?
+
+@920
+Hmm, %s, is it?\nThen which faction\nshall it be?
+
+@921
+Which port should I send them to?
+
+@922
+Which port are you sending them to?
+
+@923
+Which port should I send them to?
+
+@924
+Which port do we send them to?
+
+@925
+Which port should I send them to?
+
+@926
+Which port shall I send them to?
+
+@927
+Which port should I spread the rumor in?
+
+@928
+Which port should we spread the rumor in?
+
+@929
+Which port should I spread the rumor in?
+
+@930
+Which port shall we spread the rumor in?
+
+@931
+Which port are you spreading the rumor in?
+
+@932
+Which port shall I spread the rumor in?
+
+@933
+Who should we turn against each other?
+
+@934
+Who should we get fighting?
+
+@935
+Who should we set against each other?
+
+@936
+Who do you want to start a fight with?
+
+@937
+Who should we turn against each other?
+
+@938
+Who are you getting to fight?
+
+@939
+Who shall we turn against each other?
+
+@940
+So we lure the fleet of %s\nout to\n%s?
+
+@941
+So we are to lure the fleet of %s\nout to\n%s?
+
+@942
+We're drawing the fleet of %s\nout to\n%s, right?
+
+@943
+We just need to draw the fleet of %s\nout to\n%s, right?
+
+@944
+We lure the fleet of %s\nout to\n%s, right?
+
+@945
+So we lure the fleet of %s\nout to\n%s, hmm?
+
+@946
+We're getting the fleet of %s\nto come out to\n%s, right?
+
+@947
+So we lure the fleet of %s\nout to\n%s, correct?
+
+@948
+So we are to make %s and %s\nfight each other?
+
+@949
+So we are to make %s and %s\nfight each other?
+
+@950
+We just need %s and %s\nto fight, right?
+
+@951
+We just need %s and %s\nto fight each other, right?
+
+@952
+We make %s and %s\nfight, right?
+
+@953
+So we set %s and %s\nagainst each other, hmm?
+
+@954
+We just need %s and %s\nto fight, right?
+
+@955
+So we are to make %s and %s\nfight each other, correct?
+
+@956
+So we spread bad rumors\nin %s about %s?
+
+@957
+So we are to spread bad rumors\nin %s about %s?
+
+@958
+We spread bad rumors\nin %s about %s, right?
+
+@959
+We just need to spread bad rumors\nin %s about %s, right?
+
+@960
+We just spread bad rumors\nin %s about %s, right?
+
+@961
+So we spread bad rumors\nin %s about %s, hmm?
+
+@962
+So in %s, we spread the rumor\nthat %s\nis a terrible person, right?
+
+@963
+Hmm, so we spread bad rumors\nin %s about %s, correct?
+
+@964
+Then I'll make the arrangements.\nI'm looking forward to seeing what happens.
+
+@965
+Then I'll make the arrangements.\nLet's wait for good news.
+
+@966
+Then leave the arrangements to me.\nI wonder what will happen...
+
+@967
+Then leave the rest to me.\nI hope it goes well.
+
+@968
+Then leave the arrangements to me.\nCan't wait to see what happens...
+
+@969
+Then I'll make the arrangements.\nI wonder what will happen...
+
+@970
+Then I'll take care of the rest.\nI wonder if it'll work out.
+
+@971
+Then I'll make the arrangements.\nI look forward to the result.
+
+@972
+The regular ship due in port this month\nseems to have sunk in a storm...
+
+@973
+Which port's broker will you bribe?
+
+@974
+Which port's broker are you going to bribe?
+
+@975
+Which port's broker are we bribing?
+
+@976
+Which port's broker are we bribing, hmm?
+
+@977
+Which port's broker are we bribin'?
+
+@978
+So we bribe %s's\n%s broker?
+
+@979
+So we are to bribe\n%s's %s broker?
+
+@980
+We bribe %s's\n%s broker, right?
+
+@981
+We bribe %s's\n%s broker, right?
+
+@982
+So we bribe %s's\n%s broker, hmm?
+
+@983
+We're bribin' %s's\n%s broker, right?
+
+@984
+Admiral, the place is packed.\nThere's no seat for a private talk.\nLet's try another day.
+
+@985
+With this many customers, a private\ntalk is out of the question.\nLet's try another day.
+
+@986
+Admiral, with this many customers\nwe can't talk in private.\nLet's make it another day.
+
+@987
+It's so crowded there's no seat\nfor a private talk.\nLet's come back later, Admiral.
+
+@988
+Wow, it's packed with customers.\nNo secret talks today.\nLet's do it tomorrow.
+
+@989
+I'm %s! Your name is...\n%s? Got it.\nYou're welcome here anytime, so drop by!
+
+@990
+%s?\nThat's a nice name.\nI'm %s. Nice to meet you.
+
+@991
+Are you rich?\nI'm so jealous.\nSigh. I want to find a good man\nand be happy soon.
+
+@992
+Stay and listen to my song.\nIt's called fado.\nLa la la!
+
+@993
+I fall in love so easily.\nThat's why I always\nend up failing.
+
+@994
+Sorry, I have to go home early today.\nMy little brothers and sisters\nare waiting for me.
+
+@995
+People who get drunk and fall asleep\nare such a pain.
+
+@996
+Everyone risks their lives at sea...\nThey're amazing.\nI have to try harder too. I want\nto make life easier for my parents.
+
+@997
+My age?\nHee hee. How old do I look?
+
+@998
+Take your time and relax.
+
+@999
+Eek!\nThat's why I love you,\n%s!

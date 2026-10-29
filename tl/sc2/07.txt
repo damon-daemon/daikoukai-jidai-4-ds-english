@@ -1,0 +1,1010 @@
+@135.0010
+M-medicine... Mr. Espinosa,\nplease, let me have some medicine...
+
+@135.0048
+The money? You did bring it, I trust?
+
+@135.0072
+H-here...
+
+@135.0086
+Hmm... one, two, three... What a pity.\nThis won't buy you any "Goddess's Temptation."\nGo earn some money and come back.
+
+@135.00F2
+B-but this was enough last time!
+
+@135.0122
+Last time is last time.\nPrices are always changing, you know.
+
+@135.0158
+B-but I've already sold my land\nand everything else...
+
+@135.018E
+That is no concern of mine.\nNo money, no sale.\nNow, please, be on your way.
+
+@135.01E8
+M-Mr. Espinosa...
+
+@135.0204
+Get lost already! Mr. Espinosa said\nyou're an eyesore!
+
+@135.024A
+U-uuh...
+
+@135.025E
+Heh heh heh, "Goddess's Temptation"...\nWhat a wonderful business.\nI can't stop laughing.
+
+@135.02AA
+Hey, you!
+
+@135.02C4
+Well, what a charming young lady.\nAre you here for some\n"Goddess's Temptation" as well?
+
+@135.0314
+So you're the one! The Espinosa guy\nspreading drugs and making\neveryone suffer!
+
+@135.0364
+Making them suffer...? Absurd!\nMiss, that's a misunderstanding. All my\ncustomers are perfectly happy.
+
+@135.03CC
+Oh, the nerve! Running a rotten\nbusiness like that and you're not even\nashamed?!
+
+@135.0428
+You're the one who should stop making\nbaseless accusations! I can't have\nyou meddling in honest trade.
+
+@135.0486
+Don't play dumb! I know\neverything! If that's how you want it,\nI've got a plan of my own!
+
+@135.04EE
+Oh? And what plan is that?
+
+@135.0510
+If you won't stop dealing drugs,\nthe {FO} will\ntake your company down!
+
+@135.0568
+Heh heh heh. Did you hear that, everyone?\nShe says the most entertaining things.
+
+@135.05B0
+Hyahahaha!\nWhat a joke, little girl!\nThat's hilarious!
+
+@135.05F2
+Hmph!\nYou'll regret laughing when it's too late!
+
+@135.061A
+Well, do try your best.\nHeh heh heh.
+
+@135.065C
+No matter what happens, I'm taking\ndown that Espinosa Company!\nDon't try to stop me, Kamil!
+
+@135.06B4
+Yeah. I won't stop you this time.\nA vile man like that... I can't forgive him!
+
+@136.0008
+Hey, why is this in pieces?
+
+@136.0032
+Huh? Oh, you mean the "Stone Tablet Top"\nand the "Stone Tablet Base"?
+
+@136.0072
+Now that you mention it, they're separate,\nbut they look like one tablet split apart...
+
+@136.00BC
+Look!\nIf you do this, they stick together!
+
+@136.00E0
+Oh, a perfect fit!
+
+@136.00FC
+This is... a map. Could it be\nthe map to the Victor's Mark in Africa?
+
+@136.0142
+Ch-cheese!?\nWhere is it?\nI wanna eat it!
+
+@136.017C
+...\nEmilio, not cheese, a map.\nCome on, let's go find the Victor's Mark!
+
+@137.0012
+Mister, make us something to eat!\nI'm starving!
+
+@137.006A
+Me too, I'm starving...\nMy back and belly are stuck together...
+
+@137.00BE
+Me toooo.
+
+@137.00DA
+...I'm a bit short on ingredients right now.\nIf bar snacks will do...
+
+@137.011E
+Aw, nooo. How can you be out of\ningredients at this hour?
+
+@137.0168
+A-awww, I'm gonna die!
+
+@137.01A2
+I don't wanna die of hunger!
+
+@137.01CA
+The truth is, that gentleman bought\nup almost everything...
+
+@137.01F6
+Almost everything???
+
+@137.020C
+Hohoho, bring me more delicacies!\nI have plenty of money, you see.
+
+@137.025E
+Thank you for waiting.
+
+@137.027A
+Hohoho, what a cute girl.\nI can't help wanting to touch you.
+
+@137.02AE
+Eek, Master Nagarpur!
+
+@137.02CC
+Hohoho, have a tip.\nHere, take it!
+
+@137.030E
+Hohoho, with money, anything is possible!\nWhat a wonderful world!\nTruly paradise! Hohoho!
+
+@137.0388
+"Paradise," my foot!\nParadise is just inside\nyour head!
+
+@137.03E6
+I don't like this guy...
+
+@137.0406
+Hey, you!
+
+@137.0420
+Hm, a new barmaid? Hmm,\nbit lacking, isn't she?\nShe's a low level next to the other girls...
+
+@137.047C
+Well, fine. Come here.
+
+@137.04A4
+W-what, "low level"!?\nHow rude!\nYou have no right to say that to me!
+
+@137.0512
+That's right!\nSaying "low" is going too far!\nCall her lower-middle at worst!
+
+@137.056A
+Yeah, yeah!
+
+@137.0586
+Hey!!\nAre you praising me or insulting me?
+
+@137.05BA
+Hohoho, you look so charming\nwhen you're angry. How lovely.\nI'll give you a big tip.\nNow, what's your name?
+
+@137.063E
+Making a fool of our Admiral...!
+
+@137.0668
+Hey! You've got the wrong idea!!\nI'm {FI}!\nIf you're a merchant, you must know\nthat name!?
+
+@137.06CE
+Never heard of it...?\nWell, it's nothing to me.\nI'm only interested in my own "money."
+
+@137.0722
+You know nothing about the world and\nyou still manage as a merchant...
+
+@137.075E
+So, {FI}, was it?\nYou said you're a merchant?
+
+@137.0788
+...That's right!
+
+@137.079C
+Then you know how precious money is?\nWith enough of it,\nyou can do anything.
+
+@137.07EC
+Are you stupid!?\nThere are things in this world\nmoney can't buy!
+
+@137.084A
+({FI}!\nWow, you've really grown!)
+
+@137.088C
+Indeed, as expected of our Admiral. Words\nto live by! Splendid!\nI shall jot them down in my poetry notes!
+
+@137.08E8
+No, you're the stupid one. With money,\nyou get power, goods, everything.\nThe world runs on money!\nHohoho!
+
+@137.094E
+I'm telling you, some things\nmoney can't buy!
+
+@137.0984
+Is that so? Then say I offered\nfive times your wages. What would your\nmates and sailors do, I wonder?
+
+@137.0A06
+He's rotten to the core...\nBeyond saving...
+
+@137.0A4A
+Plenty of people would be tempted by\nthat offer, I'm sure. Hohoho.
+
+@137.0A90
+...But there must be people who can't\nbe lured by money!\nMoney alone can't buy everything!
+
+@137.0AEE
+What a stubborn woman!\nWell then... how about I bring your\nwhole company under my wing?
+
+@137.0B42
+I won't let you!
+
+@137.0B64
+Should you be saying such things?\nWell, you'll find out soon enough.
+
+@137.0BAA
+You're the one who'll find out!
+
+@137.0BD0
+Once your company is under me,\nI'll make you my servant.\nDon't worry, there's plenty of work.
+
+@137.0C32
+Enough of this nonsense!\nDon't come crying to me later!
+
+@138.001E
+What's wrong, mister?
+
+@138.0050
+It's terrible! The Nagarpur Company\ngot swallowed up by some outfit\ncalled the {FO}!
+
+@138.009C
+They say it's as good as\nruined!
+
+@138.00DE
+Oh boy,\nwith the Nagarpur Company gone,\nit's just awful...
+
+@138.0128
+??\nWhy is that awful for you?
+
+@138.014E
+My place practically lived off\nwhat those people ate and drank...\nSo now\nsales have plummeted.
+
+@138.01B0
+I-I see.\nThat's rough...
+
+@138.01C8
+And what's worse, the Nagarpur people\nleft their tabs unpaid.
+
+@138.0220
+This poor old guy... What a mess.\nI feel for him...
+
+@138.024C
+They had no money, so they gave me this\nstuff, but what is it supposed to be?\nIt's no use for paying a bar tab.
+
+@138.02BE
+This. They say it's a treasure map.\nHonestly, it's dubious, isn't it?\nI don't know what to do with it...
+
+@138.031C
+Young lady, are you interested?\nWould you like to buy it?
+
+@138.0362
+For how much?
+
+@138.0374
+Let's see... 100 gold coins will do.
+
+@138.03B0
+Sorry, I don't have that much...
+
+@138.03D8
+I see... Then take it.\nConsider it thanks for listening to my gripes.
+
+@138.041E
+Sorry. And thank you.
+
+@138.043E
+Sure.
+
+@138.044E
+All right, it's a deal.
+
+@138.0476
+Nagarpur... He thought money could\nbuy anything. What an awful man.\nHe asked for it.
+
+@138.04C6
+But... come to think of it,\nhe was a lonely man who could only\ntrust money. I'm glad\nI didn't turn out like that.
+
+@138.053E
+Indeed.\nOnce money blinds you, you're finished...
+
+@138.0576
+Hey, mister.\nYou aren't out of ingredients today too, are you?\nI'm hungry.
+
+@138.05E0
+I'm hungry.
+
+@138.060A
+Same.
+
+@138.0620
+Haha, today we're fine.\nTo make up for last time, I'll cook\nup something special.\nLook forward to it.
+
+@138.0682
+Maybe I did something\nbad to you, mister...
+
+@138.06B0
+How so?
+
+@138.06C6
+Well... Nagarpur was a good customer\nof this place, wasn't he?\nHe spent a lot of money...
+
+@138.0742
+Well, you could say that...
+
+@138.0768
+True. He paid well, no doubt.\nBut... back then, I think I had\nlost my pride as a human being.
+
+@138.07D8
+Fawning over Nagarpur's money,\ndoing whatever he said...\nI was ashamed of myself.
+
+@138.084A
+Young lady, back then you said,\n"There are things money can't buy," right?\nThat woke me up.
+
+@138.08C6
+Indeed! Those were words to live by.
+
+@138.08EC
+From now on, I'll live with pride,\nlike you.
+
+@138.0932
+...Oh, mister.\nYou're making me blush.\nBut let's both do our best.
+
+@138.098C
+Heh, thanks.\nBy the way, young lady,\ndo you know what this is?
+
+@138.09E2
+A customer left it behind\nin place of payment, but\nI've no idea what it is.
+
+@138.0A30
+A leaf... What could it be?
+
+@138.0A4A
+You can have it.\nI have no use for it.
+
+@138.0A7C
+Thank you!
+
+@139.000C
+The "Evergreen Lotus Leaf" and the\n"Kushan Platter"... These two should be\nthe key to the Victor's Mark map...
+
+@139.0076
+A leaf and a plate, huh???\nIt's not like you eat it\noff the plate...
+
+@139.00BE
+What if I whack the leaf with the plate? ...Oh!\nSorry. I spilled some water.\nOh no, it got on the leaf.
+
+@139.0122
+You're so rough.\nYou should handle important stuff\nmore carefully.
+
+@139.0168
+...Hey! Look at the wet part!
+
+@139.0192
+What's this...\nIt looks like some strange pattern.
+
+@139.01BC
+I get it!\nPut the leaf on the plate and pour water!
+
+@139.01EA
+So that's how they go together!\nLet's try it!
+
+@139.021A
+Whoa, the water's soaking into the veins...
+
+@139.0244
+The leaf floating on the water is the map.\nThe key is that it only works with\nthis plate.
+
+@139.029C
+But I never would've thought of it if water\nhadn't splashed on the leaf. You really\nshowed your talent at the right moment.\nHeh.
+
+@139.030A
+You're not praising me, are you...
+
+@139.0330
+Anyway, we've got the map to the Indian\nOcean's Victor's Mark!\nLet's go find it, quick!
+
+@140.000A
+Ah, why does nobody understand\nme!
+
+@140.0056
+Y-you, are you Dutch?
+
+@140.007C
+Yes, but...?
+
+@140.0092
+Please, hear me out.\nIf you're Dutch, you'll understand!
+
+@140.00D0
+"If you're Dutch"... what does that mean?
+
+@140.00FA
+I have no money.\nOh, not for living expenses,\nI'm short of funds for my "polder."
+
+@140.0150
+A "polder"? What's that?
+
+@140.0176
+It's a way of creating new land.\nI came up with it.
+
+@140.01A8
+First, build a dike along the coast\nand enclose part of the sea. Then pump\nthe seawater out of the enclosure,\nand you have new land.
+
+@140.0214
+That is a "polder."
+
+@140.0246
+Oh! \nThat's a wonderful idea!
+
+@140.027A
+And then?\nWhat happens once you have the land?
+
+@140.02A4
+With lots of usable land,\nthe poor should be saved.
+
+@140.02F0
+My hometown is a poor farming village, and\ngood, wide land is everyone's dream.\nIf only we could farm on good\nland...
+
+@140.035E
+I see...\nMy hometown is poor too, and everyone\nsuffers there. It's a good idea.
+
+@140.03B4
+You understand!\nThe "polder" will surely make\neveryone happy!
+
+@140.0408
+Once it's finished, everyone back home\ncould live comfortably...
+
+@140.043E
+That's it! This is it!
+
+@140.045E
+Hello. Long time no see.
+
+@140.047C
+Oh, {FI}...
+
+@140.04A6
+You look down...
+
+@140.04C8
+From the look of you...\nyou still haven't raised the funds?
+
+@140.04F8
+Nobody understood...\nThey all said, "It can't be done."
+
+@140.053A
+But this method will\nabsolutely work!\nThe "polder" can make everyone's\nlives richer!
+
+@140.059C
+But... why\ndoes nobody believe me...\nIf only I had money now!
+
+@140.0606
+I'd like to help them too.\n{FI}.
+
+@140.0634
+Yeah...\n!? That's it, this is it!
+
+@140.0670
+What is it, {FI}?
+
+@140.068C
+???  What's the matter?
+
+@140.06AE
+I'll put up the funds!
+
+@140.06D0
+Y-you will? \nYou'll really pay for it?
+
+@140.073C
+H-hey, the funds\nare a huge amount!
+
+@140.076A
+You know, I've been thinking lately...\nWhat am I doing business\nfor?
+
+@140.07CC
+Well... you wanted to get rich,\ndidn't you, {FI}?
+
+@140.0800
+At first, yes...
+
+@140.0822
+But after seeing so many countries,\nI realized I don't just want\nto be rich.
+
+@140.087A
+Delicious food? Pretty clothes?\nA big mansion? What I want is...\nit's not that!
+
+@140.08F4
+But when I saw the towns of India,\nI remembered my hometown village...\nand I finally understood.
+
+@140.093E
+I want to make people in trouble,\nlike my hometown village, happy.\nI want to make everyone in trouble\nin the world happy.
+
+@140.09A0
+That's an outlandish dream...
+
+@140.09E0
+That's my dream now.\nI know it's an enormous one.\nBut I want to help other people,\neven a little.
+
+@140.0A4A
+If I can help a little each day,\ntoday, tomorrow, maybe someday I'll\nbe able to help everyone in the\nworld, right!
+
+@140.0AC6
+So,\nthis "polder" is my first step.\nThat's what I want it to be.
+
+@140.0B1E
+{FI}...!\nNot "maybe." You can\ndo it, for sure. I'll help too!
+
+@140.0B62
+Thanks, Kamil.
+
+@140.0B94
+A fine idea.\nI approve.
+
+@140.0BCE
+I'll cooperate as well.
+
+@140.0BEC
+I'll cooperate too.
+
+@141.002C
+But sorry...\nI don't have enough yet.
+
+@141.006A
+It's 1,000,000 gold, after all...
+
+@141.00A4
+That's not an amount you save up easily.\nWe'll just have to work hard and earn it.
+
+@141.00EA
+I understand your feelings well.\nThank you.
+
+@141.011E
+No, not just feelings.\nI'll definitely have it ready soon.\nTrust me and wait!
+
+@141.0176
+Thank you. In the meantime,\nI'll work out the plan so we can\nstart right away.
+
+@141.01CE
+Good luck!\nI'll do my best too!
+
+@141.0200
+Leave it to me. I'm not a merchant\nfor nothing, you know.
+
+@141.0244
+{FI}...!!\nOh, how can I...
+
+@141.0268
+I traveled everywhere and borrowed money\nfrom all sorts of people. But I only\ngot one tenth of it...
+
+@141.02CA
+Which means\nyou're still 900,000 gold short.\nThen use this. Here.
+
+@141.031A
+Wow...!!\nBut... is this really all right?
+
+@141.0346
+Yes.\nDo your best, and\nbuild your "polder" quickly.
+
+@141.0382
+Th-thank you very much! \nLeave it to me!
+
+@142.0008
+Oh, {FI}!\nDon't tell me you have the money already?
+
+@142.0054
+...Not yet, wait a little longer.
+
+@142.0078
+Sorry, I sounded like I was\nrushing you.\nPlease don't mind it.
+
+@142.00C6
+No, it's fine. I'll\nwork hard and save up quickly.
+
+@142.00F8
+Yes! \nNow you can get started on\nthe "polder"!
+
+@142.0136
+{FI}...!!\nOh, how can I...
+
+@142.016E
+Now everybody will be saved!
+
+@142.0194
+Since then I've traveled everywhere\nand borrowed money. But I only\ngot one tenth of it...
+
+@142.01EE
+Which means\nyou're still 900,000 gold short.\nThen use this.\nHere.
+
+@142.0244
+Wow...!! But... are you\nsure? It must have been hard\nto gather this much...
+
+@142.02A0
+Don't worry about me.\nI'm looking forward to seeing\nthe "polder" finished.
+
+@142.0304
+We look forward to its completion.
+
+@142.0328
+Th-thank you very much!\nI'll get started right away!
+
+@143.0008
+Boss, I have a little favor\nto ask.
+
+@143.0048
+We're working out a way to add armor\nat our shipyard, but we're\nshort on research funds.
+
+@143.00A8
+Hmm,\nI might consider it, depending on the amount.
+
+@143.00D4
+Really?\nYou're the best, Boss!
+
+@143.00FA
+That's about all I can do.\nSo how much do you need?
+
+@143.0140
+300,000 should be enough\nto finish it.
+
+@143.0172
+Easy. Here,\nuse it well.
+
+@143.01A4
+Much obliged!\nWe'll get started right away!
+
+@144.0008
+Boss, it's finally done!\nNow we can fit even more extra\narmor!
+
+@144.0064
+Amazing!
+
+@144.008C
+Hm hm, I see.\nSo this is how it works...
+
+@144.00E0
+Goodness! Isn't this method an application\nof a theory I once saw in a book?
+
+@144.0136
+Oh? You understand it, lad?
+
+@144.015C
+Of course, sir!\nIt's a field I was planning to\nstudy myself someday.
+
+@144.01AE
+You folks are the sponsors.\nUse this technology as much\nas you like.
+
+@144.0202
+Thank you!
+
+@144.022A
+Hmm, impressive.\nThis technology can be used on any ship.
+
+@144.0276
+More extra armor can now\nbe fitted!
+
+@145.000C
+I think this "Patterned Cloth" is the map to\nthe Mediterranean's Victor's Mark,\nbut...
+
+@145.005A
+I figure the "Brass Lamp" is involved\ntoo. We have to somehow combine\nthese two...
+
+@145.00B8
+Light the lamp...\nWhat do we do next?
+
+@145.00F4
+Shot in the dark... how about\nsmoking it out?
+
+@145.0120
+Smoking it out!\nCould be a good idea. Let's try!\nHolding the "Patterned Cloth" over the flame...
+
+@145.0174
+We did it!\nThis is the map to the Mediterranean's\nVictor's Mark! All right, let's go find it!
+
+@146.0008
+Hey, where's Kamil?\nHasn't Kamil come back?
+
+@146.003A
+No, Kamil wasn't with\nyou, Admiral?
+
+@146.008A
+Where the hell did he go!?\nI can't read what he's up to either...
+
+@146.00D0
+Kamil, what's gotten into you...
+
+@146.00FE
+Meanwhile, Kamil...
+
+@146.0118
+Father... nothing has changed?
+
+@146.013E
+{FI}...\nWhat should I do?
+
+@146.0178
+Hey, you! You're pale as a ghost!\nIs something wrong?
+
+@146.01A8
+! Who are you?
+
+@146.01BE
+Excuse me.\nI'm Hodrum Bergstrom.
+
+@146.01E8
+Bergstrom...\nNot of the Bergstrom Army?
+
+@146.021A
+Something like that.
+
+@146.0236
+Oh, sorry.\nI should have introduced myself.\nI'm Kamil Overijssel.
+
+@146.0284
+Kamil, is it... Are you feeling ill?\nYour hands are shaking.
+
+@146.02BC
+No, I'm fine.\nIt's just...
+
+@146.02E8
+...! You...
+
+@146.02FC
+Oh, you're... Mr. Hodrum, right?
+
+@146.0322
+What a coincidence, meeting here.
+
+@146.0350
+You seem down. What's wrong?
+
+@146.0376
+Well, yes...
+
+@146.038A
+Is the girl who was with you doing well?\nHer name was... {FI}...\nwasn't it?
+
+@146.03BE
+...We're apart now.
+
+@146.03D8
+If you're not sick...\nthen there's some reason behind it.
+
+@146.040E
+Hm. Why not sail on my ship\nfor a while?
+
+@146.043E
+Huh... but
+
+@146.0450
+I can't leave you alone in this state.\nYou're not giving up on being a sailor, are you?
+
+@146.04A4
+No, nothing like that...\nBut me, on a Bergstrom Army ship?
+
+@146.04E2
+...Kamil.\nIf you're troubled, go out to sea.
+
+@146.0522
+When troubled, don't shut yourself in.\nKeeping busy takes your mind off things.\nOnce your mind settles,\nyou can find a solution.
+
+@146.05A2
+I had my share of worries once too...
+
+@146.05C0
+...You did, Mr. Hodrum?
+
+@146.05DA
+Yes. At such times, the master who drilled\nsailing into me would often take me\naboard his ship. Strangely, my\nworries always melted away.
+
+@146.0652
+...\nThank you.\nThen I'll be in your care for a while.
+
+@146.0692
+Yes, you're welcome.
+
+@147.000C
+{FI} {FA}?
+
+@147.001E
+That's me.
+
+@147.002C
+I've heard about you.\nFollow me.
+
+@147.005E
+<Mysterious Woman>\nWelcome to my residence.
+
+@147.0082
+Honestly, what a troublesome Admiral.\nLike that Hodrum fellow, how can you\ntrust Westerners so readily?\nI can't understand it.
+
+@147.00F4
+<Mysterious Woman>\nIt's fine. Trust my eyes.\nShe is a person worthy of our trust.
+
+@147.013E
+<Mysterious Woman>\nShe does seem a bit reckless, though.
+
+@147.0174
+Oh, "worthy of trust"...\nYou seem quite taken with her.\nHow unusual.
+
+@147.01BE
+Hey! You made me come all this way,\nso what do you want?\nI'm not exactly free, you know!
+
+@147.0238
+Yeah!\nHurry up and talk!
+
+@147.0262
+<Mysterious Woman>\nI know.
+
+@147.0280
+<Mysterious Woman>\nI asked you to come all this way\nto talk about Coen.
+
+@147.02CE
+Coen? What's Coen got to do\nwith this?
+
+@147.0304
+<Mysterious Woman>\nI'll be blunt.\nYou are being used by Coen.
+
+@147.035A
+Used, you say!? That's absurd!
+
+@147.039A
+What are you saying, lady!
+
+@147.03BE
+<Mysterious Woman>\nYou will get burned sooner or later.\nCut ties with that man at once.
+
+@147.0410
+...What is she talking about?
+
+@147.042A
+Coen is my ally! We've trusted each\nother and come this far together!
+
+@147.048E
+Yeah!
+
+@147.04A4
+I don't have to take that from\na total stranger like you!
+
+@147.04E4
+...That's right!\nWho are you anyway?!\nTime you gave your name!
+
+@147.0532
+Oh, yes.\nI am Maria Huamei Li.
+
+@147.0560
+Li? Li, as in
+
+@147.058C
+I thought she was no ordinary woman...\nBut she's the head of the "Li Clan"...
+
+@147.05E0
+That "Li Clan"?
+
+@147.05FC
+Yes, that's right.\nI came today to give you a warning.
+
+@147.0630
+A warning?
+
+@147.0642
+The Li Clan, huh! You tried to kill me!\nUsing assassins, how low!
+
+@147.069E
+"Assassins"...? What do you mean?
+
+@147.06D6
+Unbelievable!\nAfter what you did, you play innocent!
+
+@147.0714
+Don't play dumb!\nI was attacked by assassins you sent!\nI got hurt, it was awful!
+
+@147.077E
+Yeah, using such dirty tricks.
+
+@147.07AA
+Wait a moment...\nWhy did you think those assassins\nwere my men?
+
+@147.07EE
+Hmph! They dropped the Li Clan crest\nas they fled!\nWhat clumsy henchmen!
+
+@147.083A
+...This is Coen's doing.\nThat villain would do something like this.
+
+@147.0872
+Coen?\nBlaming others for what you did,\nyou're the worst!
+
+@147.08C0
+You...\nYou don't know Coen's true nature, do you?
+
+@147.08EC
+What do you mean, true nature!\nHe's a wonderful merchant trying to\nsave the people of Southeast Asia!
+
+@147.0960
+That's right!\nWe're both doing our best\nfor a noble cause!
+
+@147.09B0
+That's the front...\nBut what has he ever done that\nhelps the people of the towns...
+
+@147.0A06
+Since falling under Coen's rule,\npeople's lives must have become\nall the harder.
+
+@147.0A58
+That's a lie!\nI've never heard anything like that!
+
+@147.0A94
+That's the clever part about Coen.\nThat man uses power and money to\nskillfully manipulate information.
+
+@147.0AEC
+No... that's a lie...\nIt has to be a lie!
+
+@147.0B16
+Listen. His method is this... On the surface,\nhe cooperates with people like you\nto expand his power. And then...
+
+@147.0B7A
+When he's done with them, he gets rid of\nhis partner at a convenient moment...\nAll that remains is Coen's wider domain.
+
+@147.0BF2
+So we were set up...
+
+@147.0C18
+It's all, all nonsense!\nDo you have proof Coen's a villain!?\nYou don't, do you!\nI won't believe you!
+
+@147.0C84
+{FI}!\nYou still don't see! Your life is\nin danger! I told you, Coen gets rid\nof his partners!
+
+@147.0CE6
+!\nThen the next target is... me...?
+
+@147.0D20
+Well, well...\nThis is serious!
+
+@147.0D4E
+You may not want to believe it,\nbut this is the truth.\nYou'll see in time.
+
+@147.0D9E
+Coen is a villain...
+
+@147.0DB6
+You still seem to have doubts.\nIf you want proof that badly,\ntry finding Coen's son.
+
+@147.0E0C
+Coen has a son?
+
+@147.0E2A
+He should have a disowned son.\nTry looking into why he was\ndisowned.
+
+@147.0E6E
+But I have no leads...
+
+@147.0E88
+Then go to Batavia\nand see.
+
+@147.0EB4
+Batavia, huh...\nI haven't started trusting you, but\nI'll go and see for now.
+
+@147.0F02
+...That's all you wanted, right?\nI'm leaving.
+
+@147.0F52
+No choice but to go... Go and\nsee the truth with our own eyes...
+
+@147.0F9A
+No choice but to go... Go and\nsee the truth with our own eyes...
+
+@147.0FE0
+...I hope this opens\nthat girl's eyes...
+
+@147.1012
+It'll be fine... She's smarter\nthan we thought.\nShe'll surely... find out the truth.
+
+@147.106C
+Both that girl and Hodrum\nshould be the "key" to saving\nAsia...
+
+@147.10B2
+So it seems.
+
+@147.10C4
+{FI} {FA}...\nDo your best...

@@ -1,0 +1,902 @@
+@139.000C
+Once you're past the Strait of Gibraltar,\nyou'd better stay away from the\nsouthern Mediterranean.
+
+@139.005A
+Why?
+
+@139.006A
+Whoa, that's all I can say. Just trust\nme and keep away from that area.
+
+@140.000C
+Hey, there's someone I'd like you to meet.
+
+@140.0036
+The Governor of Mexico,\nDiogo de Escante.
+
+@140.0070
+A pleasure.
+
+@140.0082
+Oh? And what does the governor\nhimself want with me?
+
+@140.00AE
+Watch your mouth, you!
+
+@140.00DA
+It's all right.\nThere is something I wish to discuss\nwith you.
+
+@140.010A
+With me?
+
+@140.0118
+Do you know a man named\nVazquez de Maldonado?
+
+@140.0156
+...Yes.
+
+@140.0164
+He has been a thorn in our side.
+
+@140.0190
+...He's Spanish, like you,\nif I remember right.
+
+@140.01C2
+On paper he is acting governor of Cuba,\nwhich has no governor now. In truth he is\nthe kingpin of the pirates who hold\nthe whole Caribbean.
+
+@140.0234
+His pirates keep attacking our merchant\nships between Spain and the New World,\nwhile he collects kickbacks as if\nnothing happened and lines his pockets.
+
+@140.02BA
+Unless that hyena is removed soon,\nSpain's holdings in these waters will\ncollapse. And if that happens...
+
+@140.032C
+The English, who have only just begun\nto appear, will seize not just the\nCaribbean but the entire New World, and\nthe very backbone of Spain may shake.
+
+@140.03BA
+So I want to join forces with you\nand bring that traitor down together.\nWhat do you say?
+
+@140.041C
+If that's true, he is guilty of high\ntreason.\nIt hardly seems our place to step in.
+
+@140.0468
+Without clear proof, we cannot\ncondemn him for now. And we cannot\nstart a fight with our fellow\nSpaniards ourselves.
+
+@140.04DC
+If you drive Maldonado out in our\nplace, you will have all the\ncooperation we can give.
+
+@140.0532
+Even if that means we end up ruling\nthe Caribbean?
+
+@140.0578
+A hundred times better that a power\nfriendly to us holds sway than that a\nman who attacks transport ships\nindiscriminately runs wild.
+
+@140.05FA
+Heh. You can't have the English coming,\nbut you think we'd be easy to deal with.
+
+@140.0648
+...I would rather you not read it\nthat way.
+
+@140.0674
+England and the homeland are at full\nwar. I cannot openly side with England.
+
+@140.06CE
+We are Protestants too, the kind the\nSpanish king hates enough to want dead.\nDoes that not bother you?
+
+@140.070E
+Let the wars of religion stay in Europe.\nI have no intention of dragging such\npointless conflict into the New World.\nBut the English are different!
+
+@140.079C
+They are special... the sworn enemies of\nevery Spaniard! Just imagining the\nEnglish flag flying over these waters\nmakes my skin crawl!
+
+@140.0834
+I believe it's not a bad deal for you,\neither... If you mean to expand into the\nCaribbean, you can't avoid\nMaldonado.
+
+@140.08B0
+He's a ruthless admiral who rose from\npiracy, and he still commands a\npowerful fleet. You would be hard\npressed to handle him alone.
+
+@140.091E.0
+...Fine.
+
+@140.091E.1
+What does Gerhard think?
+
+@140.0950
+...I follow your reasoning.\nIt's a good chance for us to build up\nstrength, too...
+
+@140.098C
+(...For us as well, it is a good chance\nto build strength by exploiting the\nsplit in Spanish territory. It is not\nwise to make enemies of both sides.)
+
+@140.0A0C
+Hmm...
+
+@140.0A1E
+All right.\nI'll take you up on it.
+
+@140.0A4C
+I'm relieved you are not\na stubborn man.
+
+@141.0008
+But does this Escante really\nintend to cooperate with us?
+
+@141.005A
+Who knows...\nI'd say the odds are even.
+
+@141.0088
+With Maldonado's power gone, I only\nhope he isn't plotting something\nunsavory.
+
+@141.00E6
+Come to think of it, I hear that even in\nareas freed from the pirate-like\nMaldonado, the people are still\nbeing squeezed and suffering.
+
+@141.014E
+Escante may well be following in\nMaldonado's brutal footsteps.
+
+@141.0196
+Probably it's happening not just here\nbut across the whole New World...\nIt's not a problem that will be\nsolved easily...
+
+@141.0202
+...I couldn't help overhearing.\nWas it you who took down Maldonado?
+
+@141.0252
+Yes, it was.
+
+@141.0268
+...While you're at it, you could take\ndown Escante, too.
+
+@141.02A6
+What do you mean?
+
+@141.02BE
+You said it yourselves a moment ago,\ndidn't you? Maldonado and Escante are\ntwo of a kind.
+
+@141.031C
+It makes no difference which one it is.\nWe just have to live our lives being\nthreatened and bled dry. It's hell.
+
+@142.000E
+<Foreign Girl>\nAh...
+
+@142.0028
+Hm, what is it? Don't worry.\nNo one can seize you in this town.\nNot even slavers would openly break\nthe law in front of everyone.
+
+@142.00AC
+<Foreign Girl>\n...
+
+@142.00C4
+Can't you understand what I'm saying...
+
+@142.00EE
+Admiral, we've found out who the\nsmuggling fleet belongs to.
+
+@142.011A
+Hm.
+
+@142.012A
+It seems they serve\nJeronimo de Espinosa.
+
+@142.0162
+...Espinosa!!
+
+@142.0196
+I've heard of him.
+
+@142.01B8
+He's never been short of dark rumors:\nhuman trafficking, drugs, poaching.
+
+@142.01FE
+Yet on the surface he controls most of\nthe African trade, a man of real power.\n...We've made a troublesome enemy.
+
+@142.0290
+He's far too strong an enemy to take\non with our present strength.
+
+@142.02E8
+..."Make a name for yourself in the\nCaribbean"... Perhaps, as that pirate\nsaid, we should have the crew gain\nexperience in the New World...
+
+@142.034E
+The New World, is it?... True, in a state\nwhere we can't sail that distance, we\nhave no hope of winning against\nEspinosa.
+
+@142.03BA
+For training, we might as well\nhunt some Caribbean pirates.
+
+@142.03E4
+An excellent idea. If we trade back and\nforth between the New World and Europe,\nwe may easily secure funds for our\nmilitary buildup.
+
+@142.046C
+<Foreign Girl>\n...
+
+@142.0484
+Hm? This girl is still here?
+
+@142.04AA
+She follows me wherever I go.
+
+@142.04DA
+Well, it can't be helped.\nIt's fate, Admiral.\nWhy not keep her by your side?
+
+@142.0536
+Heh heh, well, it can't be helped.\nIt's fate, Admiral.\nWhy not keep her by your side?
+
+@142.0594
+I can't take a civilian aboard a\nwarship, and a girl at that.
+
+@142.05D8
+Then will you cast her out in this town?\nHungry beasts are watching in the\ntavern. Dressed like that, she'd be\nan ideal target.
+
+@142.065E
+Hmm...
+
+@142.066E
+The decision is yours.\nI'm going back to prepare for departure.
+
+@142.06A8
+Then you mean to cast her out here?\nThe tavern is crawling with beasts who\nprey on helpless women. Will a beautiful\ngirl with no family be all right alone?
+
+@142.0736
+......\nWhat's that smirk for?
+
+@142.075A
+Oh no, it's nothing at all.\nWell then, I'll go back to prepare\nfor departure. Ho ho ho.
+
+@142.07AE
+The decision is yours.\nWell then...
+
+@142.07DA
+...\nThis is trouble...
+
+@142.07EE
+<Foreign Girl>\n...
+
+@142.0808
+...Will you... come with me?
+
+@142.0822
+<Foreign Girl>\n... (nod)
+
+@142.0846
+!!\nYou understand?
+
+@142.085E
+<Foreign Girl>\n...
+
+@142.0876
+...You went by my gestures and\nexpression, then.
+
+@142.0898
+...It can't be helped.\nI'll keep you with me until we find out\nwho you are.
+
+@142.08D8
+But... what should I call you?\nWhat's your name?
+
+@142.0904
+<Foreign Girl>\n?
+
+@142.091C
+No good, then...
+
+@142.092C
+I'm {FI}.\n{FI}. Can you say it?\n"{FI}"...
+
+@142.0956
+<Foreign Girl>\n...{FI}...?
+
+@142.0974
+Yes, that's it!\n{FI}!
+
+@142.098E
+<Foreign Girl>\n{FI}...
+
+@142.09A8
+You understand?
+
+@142.09BE
+<Foreign Girl>\n{FI}!
+
+@142.09D8
+Oh, you get it! Now, then,\nwhat's your name? I'm\n{FI}. And you?
+
+@142.0A22
+<Foreign Girl>\n...
+
+@142.0A3A
+Yes, your name.\nWhat should I call you?
+
+@142.0A6A
+<Foreign Girl>\n......Sera
+
+@142.0A88
+...Sera? Sera, is it!?
+
+@142.0AA4
+...Sera... Altos......\nCharbarraz
+
+@142.0ACE
+Oh! Sera Altos... uh?\n...Anyway, I can just call you Sera,\nright? Sera?
+
+@142.0B28
+Oh, she smiled!
+
+@142.0B54
+Um... Admiral?
+
+@142.0B76
+...? What's the matter?
+
+@142.0B92
+...No, nothing. Did you need something?
+
+@142.0BB8
+Yes. The release of the prisoners\nis complete.
+
+@142.0BDE
+Good, that's good to hear!\nYes, well done!
+
+@142.0C0C
+......??
+
+@142.0C46
+...Oh, right, Admiral!\nI hear we're heading for the\nNew World?
+
+@142.0C7A
+Hm? Yes.
+
+@142.0C8C
+Oh, so it's true!\nMm-hmm, I see.
+
+@142.0CB4
+What is it?\nIs there something in the New World?
+
+@142.0CDC
+No, no, it's a personal matter.\nSo it's true, it's true.
+
+@143.000E
+Hm?\n...Sera?
+
+@143.0022
+...?\nWhere did she go?
+
+@143.004C
+Looking for someone, mister?
+
+@143.0090
+...No, never mind.\nShe'll probably come back while I drink.
+
+@143.00BE
+......\n......\n......
+
+@143.00D4
+...\nShe's slow.
+
+@143.00F0
+...What a troublesome girl.
+
+@143.010C
+Sera, where are you?
+
+@143.0166
+Ah, {FI}
+
+@143.017E
+An acquaintance?\n...Of course not.
+
+@143.019E
+(Smile.)
+
+@143.01C0
+{FI}?
+
+@144.000C
+Both the "Stone Tablet Top" and the\n"Stone Tablet Base" are in our hands.
+
+@144.0048
+They must have been a single piece\noriginally.
+
+@144.007C
+Yes. Let's try fitting them together...
+
+@144.00A2
+Well, well... So this is the map to\nAfrica's Victor's Mark.
+
+@144.00DC
+It isn't over yet, sir. Now let's go\nfind the Victor's Mark.
+
+@145.0008
+Come on, pay up your tab and\nget out of here!
+
+@145.003A
+...Eek!
+
+@145.004A
+That man...
+
+@145.005C
+...Nagarpur.
+
+@145.0070
+Y-you're {FI}!\nLook what you've done to me!
+
+@145.009A
+My friends abandoned me...\nI can't even eat good food anymore!
+
+@145.00DA
+You brought it on yourself...\nBut everyone around you until now was\nonly after your money.
+
+@145.0132
+That's why they all left when the money\ndid. Relationships can't be bought with\nmoney. Surely you've realized that\nyourself?
+
+@145.01AA
+If you have, then you can start over\nfrom scratch.
+
+@145.01DE
+Tch... Farewell,\n{FI}...
+
+@145.01FC
+As expected of you, Admiral.\nThose were wonderful words. I was moved.
+
+@145.0246
+Moving a heart like his, that's amazing.\nI knew I was right to follow\nyou, Admiral.
+
+@146.000C
+There's no doubt that this "Evergreen\nLotus Leaf" is a map pointing to the\nIndian Ocean's Victor's Mark, but...
+
+@146.0074
+How should we combine it with the\n"Kushan Platter"?\n...I haven't the faintest idea.
+
+@146.00CA
+A plate and a leaf...\nMaybe pour water into the "Kushan\nPlatter" and float the leaf on it...
+
+@146.011E
+Oh, the leaf absorbs the water and the\nveins become a map!
+
+@146.0144
+Heh.\nNow the Indian Ocean's Victor's Mark\nis within reach.
+
+@147.000C
+Oh? That's a "Milk Jar," isn't it?\nI hear that liquid is amazing stuff,\nit dissolves every metal except gold.
+
+@147.007A
+Oh... That's news to me.
+
+@147.00AA
+Dissolves metal... a kind of acid?\nHmm, I wonder what it's made from.
+
+@147.00EA
+They say an ancient king used it to\nexpose gold-plated fakes.
+
+@148.0018
+By the way, Admiral,\nabout that "Ancient Coin"...
+
+@148.0052
+Admiral, it's about the\n"Ancient Coin"...
+
+@148.008C
+What about it?
+
+@148.00B2
+How about soaking it in the\n"Milk Jar"?
+
+@148.00E8
+I've been thinking.\nHow about soaking it in the\n"Milk Jar"?
+
+@148.013A
+A rather bold idea.\n...But we can't rule out the whole coin\ndissolving.
+
+@148.01A6
+Wouldn't action be better than\nwasting time with no plan at all?
+
+@148.01F0
+Scientifically I can't rule it out, but\npersonally I think it's worth a try.
+
+@148.0248
+...You're right. Let's try it.
+
+@148.0278
+Then\nwe'll soak the coin in the milk...
+
+@148.029C
+Then\nwe'll soak the coin in the milk...
+
+@148.02C4
+...!\nA map appears where the coin\ndissolved...
+
+@148.0308
+Problem solved, sir. Now let's go look\nfor Southeast Asia's Victor's Mark.
+
+@148.035A
+My science said this was it!\nNow we can go look for Southeast Asia's\nVictor's Mark!
+
+@149.002A
+Wow!\nThis is the workshop that built those\niron-clad ships!
+
+@149.0064
+Wow! This is amazing!!\nThis is the workshop that built those\niron-clad ships, isn't it?
+
+@149.00C0
+Ooooh! Tru-ly mag-nificent!!\nThis is the workshop that built those\niron-clad ships, sir!
+
+@149.0124
+The "Ironclad," eh...\nIt needs rowers, so ocean voyages\nwould be hard.
+
+@149.0184
+But with this method, we can make the\nship's armor even stronger!
+
+@149.01D0
+But with this method, we can make the\nship's armor even stronger!
+
+@149.0220
+But with this method, we can make the\nship's armor even stronger!
+
+@150.0018
+Admiral,\nI just noticed something about this\n"Tang Bamboo Craft"...
+
+@150.0056
+Admiral,\nabout this "Tang Bamboo Craft"...
+
+@150.0088
+It's quite intricately made.\nWhat about it?
+
+@150.00D8
+I think it's connected to this "Bamboo\nCraft Diagram". It looks like it can be\ntaken apart following these steps.
+
+@150.013A
+Doesn't it look like the picture in the\n"Bamboo Craft Diagram"? I bet it comes\napart following these steps.
+
+@150.01A6
+Oh? Then why not try it?
+
+@150.01DE
+Really!?\nThen I'll take you up on that...
+
+@150.0210
+Yes!\nI love this kind of thing!
+
+@150.0252
+Done! It's all in pieces now.\n...Huh?\nThere's something drawn on the back of\nthis bamboo.
+
+@150.02A8
+All done!\nIt's completely in pieces now.\nHuh? Something's drawn on the back of\nthe bamboo...
+
+@150.02FE
+Oh, it's a map!
+
+@150.0322
+It must show where East Asia's Victor's\nMark is. I see, so that was\nhow it worked...
+
+@151.000C
+The "Ritual Dagger" and the "Sun Crest\nSheath"... Strangely, they're exactly the\nsame size. Almost like a matching set.
+
+@151.0078
+Indeed...\nThey may well have been one originally.
+
+@151.00B6
+Then let's sheathe the dagger...\n!?
+
+@151.00E8
+Whoa, what's happening!
+
+@151.0100
+Light from the sheath...?\nUgh, it's too bright, I can't keep\nmy eyes open!
+
+@151.0148
+What on earth happened...
+
+@151.0170
+Look at the blade!\nA pattern has suddenly appeared...
+
+@151.01A4
+How extraordinary...\nIt must be a map to the New World's\nVictor's Mark. A strange phenomenon, though...
+
+@152.0008
+Somebody said they're waiting for\nyou in Alexandria.
+
+@152.0040
+Alexandria...?
+
+@153.000A
+You're from the {FO}, right?\nAll right, go on through.
+
+@153.002A
+Master of the Mediterranean,\nI give you this.
+
+@153.006A
+One who has long resisted Ottoman rule.
+
+@153.00AE
+Then you are the one who helped Sera\nand the others?
+
+@153.00DA
+No need to ask the details.\nNow, solve that and quickly find the\nMark.
+
+@153.013A
+There are others besides us who escaped\nOttoman rule. Seek the ruins in Turkey.
+
+@154.000C
+This "Patterned Cloth"... There's no\ndoubt it's the map to the Mediterranean's\nVictor's Mark, but...
+
+@154.0066
+As it is, it doesn't look like a map.
+
+@154.00A0
+Couldn't we use that "Brass Lamp"?\nFor example, to make it show,\nlike invisible ink...
+
+@154.00F8
+Hey, how about heating it over the\n"Brass Lamp"?
+
+@154.013A
+Let's try it.\nHold the cloth over the lamp...
+
+@154.0166
+Oh!
+
+@154.0184
+We did it!
+
+@154.0194
+Well done, Charles.\nNow we have the map to the\nMediterranean's Victor's Mark.
+
+@154.01E2
+Bingo!
+
+@154.01F6
+Well done, Ifa.\nNow we have the map to the\nMediterranean's Victor's Mark.
+
+@155.0008
+Oh, right, Mr. {FA}.\nDid you know?
+
+@155.002E
+A new town has apparently been built\non the Black Sea recently.
+
+@155.005A
+Oh? What's it called?
+
+@155.0076
+Abkhazia... I think?
+
+@155.0096
+Abkhazia...\n...Never heard of it.
+
+@155.00C8
+What is it, Sera?
+
+@155.00E0
+{FI}...\nTake me to that town...
+
+@155.0100
+Sure, I don't mind.\nDo you know something about it?
+
+@155.0130
+My country...\nEveryone is building it again...
+
+@155.0158
+!  Could it be your homeland?
+
+@155.017C
+(Nod.)
+
+@155.018E
+I see, so your people are building a\ntown in your homeland...
+
+@155.01C6
+If it's on the Black Sea, it should be\nclose from here.\nSera, let's go.
+
+@156.003E
+Ah, {FA}!\nWell done, truly!\nOur nation's prosperity is now assured!
+
+@156.0098
+I appoint you Supreme Commander of the\nNavy. I expect even greater growth and\nachievement from our navy hereafter.
+
+@156.00F4
+(Oh!!)
+
+@156.0108
+(No one could suit it better, Admiral!)
+
+@156.0132
+Supreme Commander......
+
+@156.0148
+Moreover, you may name your reward.\nIs there anything you desire?
+
+@156.0186
+May I... state my wish?
+
+@156.01C2
+You may. Do not hold back, speak.
+
+@156.01E4
+Then...
+
+@156.01F2
+Your words appointing me Supreme\nCommander are a great honor, Your\nMajesty, but...
+
+@156.024A
+If I may be so selfish, I wish to\nretire from the navy.
+
+@156.02A6
+What!?
+
+@156.02B4
+(Whaaat!?)
+
+@156.02CC
+(W-what!?)
+
+@156.02E8
+What is the meaning of this!?
+
+@156.0302
+I have been thinking of it for some time.
+
+@156.0336
+I was fortunate to be blessed with\nwonderful subordinates, and we managed to\naccomplish the great task of creating\nthe strongest navy.
+
+@156.03A8
+I owe it all to Your Majesty's mercy in\nemploying one so unworthy, and I\nthank you from my heart.\nHowever...
+
+@156.041A
+I lack the ability to maintain it and\nto guide the many recruits who will\nbe assigned in future by discipline,\nmaking the royal navy everlasting.
+
+@156.04A8
+Nonsense. The mere fact that you\nlead our navy is enough to make other\nnations fear us and to inspire\nour soldiers.
+
+@156.0520
+Forgive me for contradicting you, Your\nMajesty, but that is exactly what\nI fear most.
+
+@156.0596
+Most presumptuously, if we make others\nwary, our nation will end up isolated.\nPride in being the world's strongest\nwill surely bring great disaster.
+
+@156.0624
+It is my absence that will lull other\nnations into carelessness and give our\nofficers and men a sense of danger.
+
+@156.0682
+Hmm...
+
+@156.0690
+I desire nothing else. I beg you, in\nyour mercy, to forgive my selfishness.
+
+@156.0708
+...Very well. It is a great pity, but\nif it is your own wish, it can't be\nhelped.
+
+@156.0762
+Yes, sire. I am most grateful.
+
+@156.078A
+(Admiral...)
+
+@156.07CA
+{FI}\nWon't you come to my country?
+
+@156.07EC
+Ah... It seems I'm the kind of man who\ncan only live on the sea.
+
+@156.0842
+Besides, it may sound cold, but your\nhomeland's revival is something\nyour people must achieve.
+
+@156.0894
+\n\nBut I... want you to come, {FI}.
+
+@156.08B8
+\n\nSera... I'm no legendary king.
+
+@156.08E6
+\n\nThat's fine... I... I...!
+
+@156.090E
+\n\n...
+
+@156.093C
+\nYou're a princess, and I'm now just a\nretired soldier. Our positions are\ntoo different.
+
+@156.098E
+\n\n...
+
+@156.099A
+\nDon't make that face.\nIt's not as if it's a farewell forever.
+
+@156.09F6
+\n<Sera>\n...Will we meet again?
+
+@156.0A18
+\n<{FI}>\nOf course.
+
+@156.0A32
+\n<Sera>\n...
+
+@156.0A4C
+\n<{FI}>\nIt's true. I'm a free man now.
+
+@156.0A78
+\n<{FI}>\nI'll come now and then to watch your\ncountry come back to life.
+
+@156.0ABC
+\n<Sera>\n...Yes.
+
+@156.0AD8
+Silwood, I leave Sera\nin your care.
+
+@156.0B00
+...Leave... to me.
+
+@156.0B18
+Oh, Sera taught you?\nI look forward to our next meeting.
+
+@156.0B64
+\n\n{FI}...!
+
+@156.0B74
+\n\n...
+
+@156.0BA2
+\n\nPlease... come.
+
+@156.0BB8
+\n\nI'm going.
+
+@156.0BE6
+\n\n...
+
+@156.0BF2
+\n\nSera...
+
+@156.0C20
+\nIt will be hard,\nbut take care of yourself.
+
+@156.0C72
+\n\n(Nod.)
+
+@156.0C88
+\nUntil we meet again...\n...so long.
+
+@156.0CEA
+Now, where should I go...
+
+@156.0D0C
+Admiral! We can set sail anytime!
+
+@156.0D3C
+Gerhard!?
+
+@156.0D52
+Now, your orders!
+
+@156.0D6A
+Gerhard!! What are you doing!?
+
+@156.0D94
+Why, everything from procuring your new\nship to supplies and departure\npreparations...
+
+@156.0DD2
+That's not what I mean. I had every one\nof my men given a post with real\nresponsibility, didn't I?
+
+@156.0E2A
+Yes, Charles is the director of the Royal\nAcademy's research institute. He was\nfloating on air that he can use as much\nequipment as he likes.
+
+@156.0EA0
+No, I'm not talking about Charles...
+
+@156.0EC2
+Yes, yes. Manuel is chairman of the\nMarine Technology Committee. He was\nglaring at the blueprints of the new\nship with an unusually stern face.
+
+@156.0F2A
+No!\nYou've been entrusted with a grave duty\nas Supreme Commander of the Navy!
+
+@156.0F7A
+...It isn't my style.\nPlease spare me.
+
+@156.0FA4
+Don't talk nonsense. I chose you for\nyour ability, experience, and the\nrespect men have for you.
+
+@156.0FE6
+Admiral, pushing a heavy burden onto\nothers while retiring in comfort\nyourself is hardly fair.
+
+@156.1040
+A nation's defense should be handled by\nits own people. It's no business for an\noutsider like me to meddle in.
+
+@156.109E
+Besides, without you there's no reason\nfor me to remain in this country.\nI'll follow you anywhere.
+
+@156.1108
+Looks like it'll be a dull trip.
+
+@156.112A
+Hahaha, what are you saying!\nTwo fine men like us,\nthe ladies at every port won't leave\nus alone!
+
+@156.1198
+\n\n...What a happy fool.

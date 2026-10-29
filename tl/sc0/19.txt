@@ -1,0 +1,1151 @@
+@311.000C
+Oh, {FI}!\nJust the person I wanted to see.
+
+@311.002E
+Do you know about the Colosseum?
+
+@311.0058
+The Colosseum?
+
+@311.006E
+It's a ruin from Roman times.\nI heard you've been looking for ruins,\nso I thought I'd tell you about it.
+
+@311.00C4
+Thanks, that's a big help.\nAll right, let's go and see it.
+
+@311.00F4
+Yes, be careful.\nAnd don't forget to buy a map!
+
+@312.0018.0
+Admiral, I'm afraid we'll lose our\nway without a map...
+
+@312.0018.1
+Admiral, we need a map here.
+
+@312.0018.2
+Admiral, there's no way we can go on\nwithout looking at a map.
+
+@312.0018.3
+Admiral, we'd better get a map first\nso we don't get lost.
+
+@312.0018.4
+Admiral, it's a bad idea to push on\nwithout a map.
+
+@312.0018.5
+Admiral, without a map we'll lose our way.
+
+@312.0018.6
+Admiraaal, we'll get lost\nif we don't have a map!
+
+@312.0018.7
+Admiral, without a map we shall lose our way.
+
+@312.0188.0
+It's quite hot here, isn't it?
+
+@312.0188.1
+Hot...
+
+@312.0188.2
+Phew, it's hot!
+
+@312.0188.3
+It really is hot, isn't it?
+
+@312.0188.4
+Man, it's hot!
+
+@312.0188.5
+My, it's terribly hot.
+
+@312.0188.6
+Phew, it's so hot!
+
+@312.0188.7
+Goodness, it's hot, isn't it?
+
+@312.0228
+Everyone,\nit's a long way, so drink your water\ncarefully.
+
+@312.025A.0
+A sand dune. Let's go around it.
+
+@312.025A.1
+A dune... Admiral, let's go around.
+
+@312.025A.2
+It's a dune. We should take the long way.
+
+@312.025A.3
+A dune!\nWe'd better go around it.
+
+@312.025A.4
+A dune, huh... Fine, let's go around.
+
+@312.025A.5
+A dune, eh. Let's go around it.
+
+@312.025A.6
+It's a huge pile of sand!\nOkay, let's go around.
+
+@312.025A.7
+A dune. Let us go around it.
+
+@312.036E.0
+Climb
+
+@312.036E.1
+Go around right
+
+@312.036E.2
+Go around left
+
+@312.03A0
+Huff, puff...\nWhy did we have to take such a\nhard route...
+
+@312.03F2
+The sailors seem to be exhausted.
+
+@312.041E
+A sandstorm!
+
+@312.042E
+Ptoo, ptoo! Sand in my mouth...
+
+@312.044E.0
+I can't see ahead like this.
+
+@312.044E.1
+I can't... see ahead...
+
+@312.044E.2
+I can't see a thing!
+
+@312.044E.3
+I can't see ahead!
+
+@312.044E.4
+Damn it, I can't see a thing!
+
+@312.044E.5
+I can't see ahead, blast it.
+
+@312.044E.6
+I can't see anything at all!
+
+@312.044E.7
+I cannot see ahead, I'm afraid.
+
+@312.0524
+Some of the sailors seem to have\ndropped out.
+
+@312.0550.0
+Admiral, it seems we've strayed\nquite far to the left.
+
+@312.0550.1
+Admiral...\nHaven't we drifted to the left?
+
+@312.0550.2
+Admiral, aren't we too far left?
+
+@312.0550.3
+Admiral,\ndon't you think we've veered left?
+
+@312.0550.4
+Admiral, looks like we've strayed\nway off to the left.
+
+@312.0550.5
+Admiral, I have a feeling we've strayed\nquite far to the left, mm?
+
+@312.0550.6
+Admiraaal, I think we went\nway too far left!
+
+@312.0550.7
+Admiral, have we not strayed\nquite far to the left?
+
+@312.069C
+You think so?
+
+@312.06AE.0
+Shouldn't we head a little\nmore to the right?
+
+@312.06AE.1
+I believe it's a bit more\nto the right...
+
+@312.06AE.2
+A bit more to the right, isn't it?
+
+@312.06AE.3
+I think it's a bit more to the right.
+
+@312.06AE.4
+Isn't it a bit more to the right?
+
+@312.06AE.5
+I think the direction is a bit more\nto the right, you see.
+
+@312.06AE.6
+I think it's a little more right!
+
+@312.06AE.7
+I do think it's a bit more to the right.
+
+@312.07B4
+Do you think so? According to the map,\nthis direction should be right.\nLet's keep going.
+
+@312.0810.0
+I think we should be out of the\ndesert soon...
+
+@312.0810.1
+We ought to be out of the desert\nby now...
+
+@312.0810.2
+We should be out of the desert\nby now...
+
+@312.0810.3
+We should be out of the desert\nby now, right...?
+
+@312.0810.4
+I'd say we ought to be out of the\ndesert by now...
+
+@312.0810.5
+We should be out of the desert\nsoon, but...
+
+@312.0810.6
+The desert should be over\nby now, but...
+
+@312.0810.7
+We ought to be out of the desert\nsoon, I should think...
+
+@312.094E.0
+Admiral!\nLook at that!
+
+@312.094E.1
+Admiral!\nLook at that!
+
+@312.094E.2
+Admiral!\nLook!
+
+@312.094E.3
+Admiral!\nLook!
+
+@312.094E.4
+Admiral!\nTake a look at that!
+
+@312.094E.5
+Admiral!\nBehold!
+
+@312.094E.6
+Admiral!\nLook!
+
+@312.094E.7
+Admiral!\nThere!
+
+@313.0008
+Oh, what do I do...
+
+@313.0022
+What's wrong?
+
+@313.0036
+At the next festival, I'm supposed to\ndance in front of the lord.
+
+@313.006C
+Wow. So you can dance.
+
+@313.008E
+No, I only just started, so I'm not\nthat good. I happened to show a\ncustomer who came here, and it\nseems to have reached the lord...
+
+@313.0102
+But somehow the story got bigger,\nand now I'm supposedly the best\ndancer in the country!
+
+@313.015E
+What? B-but how?
+
+@313.017E
+...That's the scary thing about rumors.\nI can't say I can't dance now, can I?\nBut there's no way I'll get good\nthat easily.
+
+@313.01F4
+What are you going to do?
+
+@313.0210
+What do you think I should do?\nOh, if only I'd checked on that\nrumor properly.
+
+@313.0272
+A rumor? What kind?
+
+@313.0288
+They say there are earrings somewhere\nin the world that make you dance\nbetter. It sounded fake, so I didn't\nreally listen.
+
+@313.0300
+Hmm. It'd be amazing if it were true.
+
+@313.0324
+Right? Now I'd love to get them,\neven if they only give me some comfort.\n...Oh, what do I do?
+
+@314.000C
+Oh, {FI}!\nWelcome!
+
+@314.002E
+Thanks to you, I've gotten so much\nbetter at dancing!
+
+@314.0068
+Really? That's great!
+
+@314.0084
+Let me tell you something nice\nto thank you.
+
+@314.00A6
+Far inland from this town there's a\nmosque honoring a king of old, and\nthey say it holds a wonderful treasure.
+
+@314.010E
+The rumor is that only someone the\nking approves of can get that treasure.\nWhy not go and try?
+
+@315.0008
+Are you the one?\nThe reckless fool who went to the\nMasjid-i-Shah?
+
+@315.004E
+Reckless fool?\nWe're the ones who went, but...\nis something wrong?
+
+@315.008E
+Oh, it's become a real mess.
+
+@315.00B4
+Explorers who heard of your exploits\nrushed to the mosque one after another\nto get the treasure, but...
+
+@315.0114
+Not a single one has come back.\nThere's even a rumor that they were\ncursed by the king.
+
+@315.0166
+A curse!?
+
+@315.0176
+The moment the curse rumor spread,\nnobody would go near the place.\nThe missing men are just left there.
+
+@315.01D2
+You're partly to blame, too. If you\nreally have courage, won't you go\nagain and look for them?
+
+@315.0232
+Dumping that on us, huh...
+
+@315.025A
+...\nBut we can't just leave them there.\nRight?
+
+@315.029C
+W-well, yeah, that's true...
+
+@315.02C6
+Huh? Don't tell me...\nYou're not afraid of a curse, are you?
+
+@315.02FC
+Clau? Surely...\nyou are not afraid of a curse?
+
+@315.032E
+D-don't be stupid!
+
+@315.0346
+In a way, I think we're responsible\ntoo. Let's go investigate again.
+
+@315.038E
+Y-yeah, right.\n{FI} is right.\nWe can't leave those poor guys\nbehind!
+
+@316.0010
+Phew...\nWe should be almost there.
+
+@316.0034
+Hm? Don't you hear something?
+
+@316.0054
+Help us...
+
+@316.006A
+That must be the voices of the\nmissing explorers!
+
+@316.009A
+Hey, where are you!?
+
+@316.00B6
+No!
+
+@316.00C6
+!?
+
+@316.00D2
+Those men disturbed the king's sleep\nand have earned his wrath.
+
+@316.010E
+They cannot be returned.\nBegone.
+
+@316.013E
+Waaah!
+
+@316.0150
+Damn, no good!
+
+@316.0166
+It really was the king's curse...
+
+@316.018A
+What do we do, {FI}?
+
+@316.01A0
+We have to think of some way to\nlift the curse...!
+
+@316.01D0
+Damn it, let's regroup!
+
+@317.000C
+...So that's how it was.
+
+@317.002A
+I wonder what we can do to calm\nthe king's anger.
+
+@317.0060
+I'm not very sure about this...
+
+@317.0082
+Do you know something?
+
+@317.00A0
+First, you need to prepare the scent the\nking's beloved queen always wore\nwhen she was alive.
+
+@317.00FA
+A scent?
+
+@317.0108
+Incense.
+
+@317.0118
+What kind of incense?
+
+@317.012C
+Who knows. I don't know that much.
+
+@317.0152
+Anyway, take it there and spend\nthe whole night in prayer.
+
+@317.0190
+I see!\nIf we can just find the incense,\nwe should be able to manage!
+
+@317.01CC
+But it's best if a non-believer\ndoesn't go. It might make the king\neven angrier.
+
+@317.0230
+What!?\nSo we can't do it?\nThat means...
+
+@317.026E
+We have no choice but to ask Al.
+
+@317.029E
+...Me, of all people. I've always been\ntold I'm a pretty lax believer\nfor an Arab... Is that all right?
+
+@317.0302
+Oh, and one more thing you can't forget:\na copy of "The Arabian Nights."
+
+@317.0356
+"The Arabian Nights"...\nI've never heard of it.
+
+@317.0388
+They were the king's favorite stories\nin life. They're so famous, some Guild\nis sure to be selling it.
+
+@317.03E8
+Oh, maybe... the translated edition\ncame out under a different name.
+
+@317.0432
+Under a different name...
+
+@317.0446
+Anyway, you read "The Arabian Nights"\nto the king. Then I think his mood\nwill improve.
+
+@317.04B2
+Hey, come on... This sounds like\nentertaining a guest, no, like babysitting.\nIs that really okay?
+
+@317.050E
+Who knows.\nMemorial rites are about sincerity,\nafter all.
+
+@317.0548
+Memorial rites...?\nUm, we're going there to lift\na curse, you know.
+
+@317.0584
+It's fine, they're about the same.\nIf it doesn't work, we'll think of\nsomething else.
+
+@317.05C4
+If we get cursed, we won't be able\nto come back!
+
+@317.05F6
+Then I'll come rescue you myself.\nDon't worry.
+
+@317.0628
+...I can't count on that.
+
+@318.0018
+Right, I need to call Al back.
+
+@318.004E
+All right, let's burn the incense.
+
+@318.00AA
+...First we have to buy some\nincense.
+
+@318.00EE
+...Useless.\nThe king's wrath is fierce.\nFool. Begone.
+
+@318.0128
+...This doesn't seem to be the scent.
+
+@318.0168
+Oh, right.\nWe need to get "The Arabian Nights"...
+
+@318.019E
+It might be under another name...\nWe'll search carefully.
+
+@318.01D2
+And make sure nobody has it equipped!
+
+@318.020E
+...Let's begin.
+
+@318.0220
+Yeah.
+
+@318.022C
+Ahem!
+
+@318.0242
+"...This is the will of Allah.\n  In the name of Allah, the Merciful,\n  the Compassionate."
+
+@318.0298
+"Praise be to Allah, Lord of the heavens\n  and the earth, and to the chief of\n  those sent upon it, our sovereign..."
+
+@318.02FE
+"The Tale of the Merchant and the Ifrit"
+
+@318.0322
+"Shahrazad said:\n  O fortunate king, it has reached me\n  that once, long ago..."
+
+@318.038E
+Ugh... Damn.\nI fell asleep without noticing.
+
+@318.03B8
+It's already morning.
+
+@318.03D2
+Oh! Thank goodness!\nDid you lift the king's curse for us?
+
+@318.0410
+What? The curse is lifted!?
+
+@318.0430
+Thank heavens!\nNow I can finally go home!
+
+@318.0460
+Too bad we didn't find the treasure,\nbut life comes first!\nI'm getting out of here right now!
+
+@318.04C4
+Well, so long. You'd better clear\nout of here fast too!
+
+@318.04FC
+...He's gone.
+
+@318.0512
+What an ungrateful bunch.
+
+@318.053E
+Well, whatever.\nLet's head back, too.
+
+@318.0568
+Wait.
+
+@318.0574
+Whoa!! What is it!?\nIs something still wrong!?
+
+@318.05AC
+For soothing the king with fond memories\nand guiding him to peaceful sleep,\nyou shall be rewarded. Take it.
+
+@318.061C
+Phew, what the...\nOh, that scared me.
+
+@318.0658
+Pfft, hee hee...
+
+@318.0670
+W-what's so funny!
+
+@319.0008
+The Basra Tavern Owner was\nlooking for you.
+
+@320.0018
+Did you get a map?
+
+@320.002E
+Oops, that's right.
+
+@320.0060
+Well then, take care\non the way.
+
+@320.0092
+Yeah, thanks.
+
+@320.00AA.0
+Well, let's go.
+
+@320.00AA.1
+Well, let's go.
+
+@320.00AA.2
+Okay, let's go!
+
+@320.00AA.3
+Well, let's go.
+
+@320.00AA.4
+Well, off we go.
+
+@320.00AA.5
+Then let's be on our way.
+
+@320.00AA.6
+Let's gooo!
+
+@320.00AA.7
+Then, shall we be off?
+
+@320.012E
+Are you sure this is the right path?\nIt's so narrow.
+
+@320.015E
+Hey, hey, it's a dead end.
+
+@320.017E
+We're lost...
+
+@320.0198
+What!?\nI thought you were looking at the map!
+
+@320.01CC
+Sorry, Clau.\nI think we should have turned\none corner earlier.
+
+@320.021A.0
+Turn back
+
+@320.021A.1
+Look for a shortcut
+
+@320.0240
+Let's turn back.\nThey say haste makes waste.
+
+@320.0268.0
+That seems best.
+
+@320.0268.1
+That seems best.
+
+@320.0268.2
+Yeah, that's a good idea.
+
+@320.0268.3
+Yes, let's do that.
+
+@320.0268.4
+Sounds like the best idea.
+
+@320.0268.5
+Hmm, there's nothing else for it.
+
+@320.0268.6
+Yeah, that's a good idea.
+
+@320.0268.7
+Yes, that does seem best.
+
+@320.032E
+Isn't there a shortcut somewhere?
+
+@320.0354
+Nope...
+
+@320.0366
+No, if we cut through these woods,\nI'm sure...
+
+@320.03AE
+One day has passed.\nThe sailors seem to be exhausted.
+
+@320.03E0
+Yes, I found it!
+
+@320.03FC
+That took a long time.\nTurning back might have been faster.
+
+@320.0442
+You think so?\nI don't think that's true.
+
+@320.046E
+Yeah, yeah.\n(He's surprisingly stubborn.)
+
+@320.04A2
+A-Admiral!\nWe found it!
+
+@321.000C
+Oh, {FI}!\nI've been waiting for you!
+
+@321.0030
+Hey, hey.\nWill you tell me stories about\nforeign lands?
+
+@321.005C
+Hahaha, all right, all right.\nToday I'll tell you about India.
+
+@321.00AC
+Wow, India has animals that huge!?\nHow fascinating!
+
+@321.00F4
+Speaking of India, I heard there's a\nfine luxury cloth there called calico,\nand it's really beautiful?
+
+@321.015A
+I'd love to see it just once.
+
+@321.017E
+Calico, huh.\nNext time I buy some, I'll show you.
+
+@321.01A8
+Really!? I'll look forward to it!
+
+@322.001C
+Come to think of it,\nI promised to bring back calico...
+
+@322.005E
+Oh, {FI}!
+
+@322.0074
+Remember I promised?\nHere, this is calico.
+
+@322.00A4
+Oh, so this is it...!\nIt's really beautiful.\nAnd it feels so nice, too...
+
+@322.00EC
+Would you like one?
+
+@322.0108
+I'd love that, but... I can't accept\nsomething so expensive. It's for sale,\nisn't it? Just seeing it is enough.
+
+@322.016C
+More than that, I'd like to hear\nlots of stories about foreign lands.
+
+@322.019C
+All right.\nThen how about I tell you about\nthe Mediterranean, my homeland?
+
+@322.01D8
+Yes!
+
+@322.01EA
+A mild climate, cheerful people,\ndelicious food...\nHmm, what a wonderful place!
+
+@322.023A
+Hey, that drink called wine,\nwhat does it taste like?\nIt's different from Japanese sake,\nright? Oh, I'd love to try it!
+
+@322.029E
+You're so curious, aren't you?\nNext time I buy wine,\nI'll bring you some.
+
+@322.02EC
+Really!? I'll look forward to it!
+
+@323.001C
+Come to think of it,\nI promised to bring back wine...
+
+@323.005E
+Hi.
+
+@323.006A
+Oh, you brought the wine!
+
+@323.0096
+Go ahead, try it.
+
+@323.00AC
+Okay!\n...
+
+@323.00BC
+Well?
+
+@323.00CA
+Delicious!!\nIt tastes different from sake!
+
+@323.00FC
+Let's see.
+
+@323.010C
+Let me have some, too.
+
+@323.0128
+Um...
+
+@323.013A
+Oh! Tasty!
+
+@323.0152
+This is great!
+
+@323.0174
+It's gone in no time...
+
+@323.01A4
+I'm so sorry!\nIt was something you sell, too.
+
+@323.01CC
+N-no, it's fine.\nBesides, it's not your fault.
+
+@323.0200
+But...
+
+@323.020E
+Don't worry about it.\n...So, this time, will you tell me\nabout Japan?
+
+@323.0254
+Sure, I'd love to!
+
+@323.026E
+Wow, the capital Kyoto, where the\nEmperor lives. I'd like to see it\nsomeday.
+
+@323.02A6
+With a map, it's easy to get there.\nI can guide you part of the way.
+
+@323.02E6
+Really?\nThen maybe I'll go there next time.
+
+@324.0008.0
+Admiral, let's by all means go meet the\nclan that guards the Mark's map.\nIt was a village far to the northeast\nof China, wasn't it?
+
+@324.0008.1
+Admiral. We should meet the clan that\nguards the Mark's map as soon as we can.\nThe village is far to the northeast\nof China, I was told.
+
+@324.0008.2
+Admiral, I wonder what the clan that\nguards the Mark's map is like? The\nvillage was far northeast of China,\nright? Shall we go now?
+
+@324.0008.3
+Admiral, let's go meet the clan that\nguards the Mark's map before we forget.\nIt's a village far to the northeast\nof China, wasn't it?
+
+@324.0008.4
+Admiral, let's go meet the clan that\nguards the Mark's map soon. They're in\na village far northeast of China,\nright?
+
+@324.0008.5
+Admiral, about that Mark... I think we\nshould meet the clan guarding its map\nsoon. Shall we head for the village far\nnortheast of China?
+
+@324.0008.6
+Admiraaal, aren't you curious about the\npeople who guard the Mark's map? The\nvillage is far northeast of China,\nright? Let's go see!
+
+@324.0008.7
+Admiral, I am curious about the Mark's\nmap. Shall we visit the village where\nthe clan guarding it lives? It was...\nfar northeast of China, was it not?
+
+@325.0018.0
+Admiral,\nwe'll lose our way without a map.
+
+@325.0018.1
+Admiral,\nwithout a map we'll lose our way.
+
+@325.0018.2
+Admiral,\nisn't it bad to go without a map?
+
+@325.0018.3
+Admiral,\nwe'll probably get lost without a map.
+
+@325.0018.4
+Admiral,\nno map means trouble, you know.
+
+@325.0018.5
+Admiral,\nwithout a map we'll lose our way.
+
+@325.0018.6
+Admiraaal,\nwe need a map to go on.
+
+@325.0018.7
+Admiral,\nwithout a map we shall lose our way.
+
+@325.0142.0
+Well, let's go.
+
+@325.0142.1
+Well, let's go.
+
+@325.0142.2
+Okay, let's go!
+
+@325.0142.3
+Well, let's go.
+
+@325.0142.4
+Well, off we go.
+
+@325.0142.5
+Then let's be on our way.
+
+@325.0142.6
+Okay, let's go!
+
+@325.0142.7
+Well, let's go.
+
+@325.01A6.0
+A-Admiral! Wolves!
+
+@325.01A6.1
+Hm! Wolves!
+
+@325.01A6.2
+A-Admiral! Wolves!
+
+@325.01A6.3
+Eeek! Wolves!!
+
+@325.01A6.4
+Whoa! Wolves!
+
+@325.01A6.5
+A-Admiral! Wolves!
+
+@325.01A6.6
+Waaah! Wolves!
+
+@325.01A6.7
+A-Admiral! There are wolves!
+
+@325.0296
+Eek! Eeeek!!
+
+@325.02B2
+Everyone, stay calm.
+
+@325.02CC
+W-what do you plan to do?
+
+@325.02EC.0
+Drive off
+
+@325.02EC.1
+Fight
+
+@325.02EC.2
+Run
+
+@325.0318
+Leave it to me!\nGo away! Shoo, shoo!
+
+@325.0348.0
+Admiral!\nLook out!
+
+@325.0348.1
+Admiral!\nLook out!
+
+@325.0348.2
+Admiral!\nWatch out!
+
+@325.0348.3
+Admiral!\nLook out!
+
+@325.0348.4
+Watch out!
+
+@325.0348.5
+Admiral!\nWatch out there!
+
+@325.0348.6
+Admiral!\nWatch out!
+
+@325.0348.7
+Admiral!\nLook out!
+
+@325.03F4
+Ow!
+
+@325.0404.0
+Are you all right!
+
+@325.0404.1
+Are you all right!
+
+@325.0404.2
+Are you okay!?
+
+@325.0404.3
+Are you all right!
+
+@325.0404.4
+Are you all right!
+
+@325.0404.5
+Are you all right!
+
+@325.0404.6
+You okay?
+
+@325.0404.7
+Are you all right!
+
+@325.044E
+I'm fine. Ow, ow...
+
+@325.046A
+Thanks, everyone.\nNow, let's hurry on.
+
+@325.04B6
+{FI} was\ninjured.
+
+@325.04D2
+What's a wolf to us!\nEveryone, let's go!
+
+@325.04FA.0
+Look out!
+
+@325.04FA.1
+Look out!
+
+@325.04FA.2
+Look out!
+
+@325.04FA.3
+Look out!
+
+@325.04FA.4
+Look out!
+
+@325.04FA.5
+Look out!
+
+@325.04FA.6
+Watch out!
+
+@325.04FA.7
+Look out!
+
+@325.053A.0
+Gah!
+
+@325.053A.1
+Gah!
+
+@325.053A.2
+Gah!
+
+@325.053A.3
+Aaaaah!
+
+@325.053A.4
+Gah!
+
+@325.053A.5
+Yeow!
+
+@325.053A.6
+Waaaah!
+
+@325.053A.7
+Gah!
+
+@325.0580
+Are you okay!?
+
+@325.0592.0
+Ngh!\nI-I'll manage.
+
+@325.0592.1
+Ngh!\nI-I'll manage.
+
+@325.0592.2
+Ow!\nOw, ow, ow...
+
+@325.0592.3
+Ah!\nOw, that hurts...
+
+@325.0592.4
+Ngh!\nIt's n-nothing, just a scratch.
+
+@325.0592.5
+Ngh!\nI-I'm fine.
+
+@325.0592.6
+Waaah!\nI'm not fine!
+
+@325.0592.7
+Ngh!\nI-I'll manage.
+
+@325.063E
+It's my fault, I lost my grip...\nI'm sorry! I'm really sorry!!
+
+@325.067A.0
+If we treat it right away, it'll be\nfine. And the wolves ran away, too.
+
+@325.067A.1
+Admiral... Please don't worry.\nIt will heal if treated right away.\nThe wolves ran off, too.
+
+@325.067A.2
+It's okay!\nWe just need to treat it right away.\nAnd the wolves are gone, too.
+
+@325.067A.3
+We just need to treat it right away.\nThe wolves are gone, too, thank goodness.
+
+@325.067A.4
+Don't sweat it!\nA wound like this heals fast if we\ntreat it. And the wolves are gone.
+
+@325.067A.5
+No need to fret. A wound like this\nwon't be serious if treated at once.\nThe wolves are gone, so all's well.
+
+@325.067A.6
+It's fine if we patch it up quick!\nThe wolves ran away, too. Good!
+
+@325.067A.7
+It's all right, a wound like this will\nheal if treated right away.\nThe wolves ran off as well.
+
+@325.08A8
+Thank goodness...
+
+@325.08CA
+The sailors seem to be exhausted.
+
+@325.08F0
+They don't seem to attack\nunless we make the first move.
+
+@325.0940.0
+We should be able to get out of\nthe forest soon.
+
+@325.0940.1
+We should be able to get out of\nthe forest soon.
+
+@325.0940.2
+Aren't we about out of\nthe forest?
+
+@325.0940.3
+We should be able to get out of\nthe forest soon.
+
+@325.0940.4
+We should be able to get out of\nthe forest soon.
+
+@325.0940.5
+We should be able to get out of\nthe forest soon.
+
+@325.0940.6
+The forest must be\nending soon, right?
+
+@325.0940.7
+We should be able to get out of\nthe forest soon.
+
+@325.09F4.0
+Admiral, I can see it!
+
+@325.09F4.1
+Admiral, I can see it!
+
+@325.09F4.2
+That's it, Admiral!
+
+@325.09F4.3
+Admiral, I can see it!
+
+@325.09F4.4
+Admiral, I can see it!
+
+@325.09F4.5
+Admiral, I can see it!
+
+@325.09F4.6
+There it is, Admiral!
+
+@325.09F4.7
+Admiral, I can see it!

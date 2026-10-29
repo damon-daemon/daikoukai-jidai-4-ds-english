@@ -1,0 +1,630 @@
+@277.000C
+There! That's them!
+
+@277.0034
+Do you recognize anyone?
+
+@277.0048
+No...\nHang on!?
+
+@277.005E
+That man!
+
+@277.0078
+Look, the big guy next to the\nmissionary, the one who looks like a guard!!
+
+@277.00C4
+Yeah!\nI've met him before, on a job!\nThat's Jacob, a bigwig in the organization!
+
+@277.0124
+W-what's going on!?\nWhy is he with this group?
+
+@277.016C
+Y-you figured it out, didn't you?\nI don't get it at all!\nWhat the hell is going on here!?
+
+@277.01CC
+Calm down...\nAll right?\nI think that band of missionaries is fake...
+
+@277.0216
+W-what!?
+
+@277.023C
+(Oops.)
+
+@277.0250
+I'd guess they mean to talk the Ming\ngovernment into buying a huge load of\narms and contraband.
+
+@277.029E
+B-but if they did that, the home\ncountry would find out in no time, right?
+
+@277.02E0
+This is a deal between states.\nIf it works, the profit is enormous.\nAnd with that money, they probably...
+
+@277.0338
+...mean to buy the latest weapons. Enough\nto wipe out any fleet sent to hunt\nsmugglers in an instant.
+
+@277.03A4
+(...Gulp.)
+
+@277.03C4
+Leave this to me.
+
+@277.03E2
+{FI}.\nThink about it calmly, and this may be\na good opportunity.
+
+@277.042E
+If the Ming government, so lax about\ndefense, buys a large stock of arms, it\nmay gain the strength to resist the\npressure of the Powers.
+
+@277.0498
+...That's naive.\nThey're veterans of a hundred deals.
+
+@277.04CA
+Officials who know nothing about weapons\nwould be quoted a ridiculous price\nand end up gaping at ancient guns.\nThat's how it would go.
+
+@277.053A
+I won't let the people's hard-earned\ntaxes be wasted on worthless\nweapons like that.
+
+@277.058E
+Once they get a taste of success,\nthere will be a next time. They'll\nprobably start selling drugs and slaves.
+
+@277.05E4
+If we let this pass, we play right\ninto their hands.\nWe can never allow it.
+
+@277.062E
+Hmm... Perhaps so.
+
+@277.064C
+If the army won't believe us,\nwe have to do something ourselves...
+
+@277.069A
+They headed for the Governor's office.\nLet's hurry, too!
+
+@278.0008
+We are a company of one hundred and some,\nsent by the Society of Jesus.\nWe have just arrived.
+
+@278.0052
+Oh, well done on the journey.\nRest well in preparation for your\naudience later.
+
+@278.009C
+Wait! Wait just a moment!!
+
+@278.00C0
+You filthy smugglers who deceive us\nand dare to cheat even the Son of Heaven!!
+
+@278.0120
+W-what!?
+
+@278.0136
+Do not be fooled!\nThey are a gang of petty crooks who\nwork evil in the area!
+
+@278.0182
+Damn it, what's going on!
+
+@278.01A2
+I-is this true!?
+
+@278.01BA
+It's a false charge!\nWe are genuine...
+
+@278.01E8
+Enough, enough, be silent!!\nSomeone who remembers your faces\nhas informed on you!
+
+@278.023A
+You disguised yourselves as missionaries\nand made it all the way to Macau,\nbut your sham ends here!
+
+@278.02A2
+Now there is no more talking your way out!\nSeize them all!!
+
+@278.02DE
+Yes, sir!!
+
+@278.0304
+Yahoo!!
+
+@278.0334
+Hyah!
+
+@278.034A
+E-eek!
+
+@278.035E
+Tch!\nI won't be caught in a place like this!
+
+@278.0392
+Hmm... I was completely fooled, and my\nhead nearly rolled. I owe it all to...\nHm?
+
+@278.03F2
+Where did the troops that exposed\nthe smugglers disappear to?
+
+@278.042A
+Huh?\nThey've already left.
+
+@278.0450
+Oh, is that so? Well...\nWithout a word of greeting to me?\n...??
+
+@278.04AE
+But still...\nWesterners and Japanese in the Ming\narmy these days...?
+
+@278.04F6
+Um... Was that good enough?
+
+@278.0526
+I'm amazed.\nYou played it to perfection.
+
+@278.055A
+Ha, what a masterpiece!\nYou should have seen their faces!
+
+@278.05B0
+Right!\nThe Governor of Macau totally\nbought it!
+
+@278.05F4
+As expected of a former actor.\nThe best mimic in town.
+
+@278.0626
+Imitating a county magistrate... I'm\nterrified of my own audacity...
+
+@278.0650
+It couldn't be helped.\nIf they came in disguise, we had to\nanswer in kind.
+
+@278.069C
+With this, the smuggling organization\nwill keep quiet for a while.\n...Now, what will you do?
+
+@278.06F4
+What else is there to do?\nI've got nowhere else to go now.\nI'll work for you here.
+
+@278.0754
+All right. Glad to have you.
+
+@279.000C
+Oh, {FI}!\nI was so worried about you.
+
+@279.0030
+I'm fine.
+
+@279.0040
+Sorry for the trouble I caused you back then.
+
+@279.0068
+Thank goodness! You're well again!
+
+@279.0094
+...And that's how it was.
+
+@279.00AA
+Wow! That sounds rough!\n...Oh, my. Is it that late already?
+
+@279.00E8
+Oh, were you on your way out?
+
+@279.010E
+Yes. I thought I'd go visit\nthe temple.
+
+@279.013C
+I'm sorry for keeping you.\nWe'll be going.
+
+@279.016E
+Why not go see Kyoto next time?\nWith a map it's easy to get there,\nand I can guide you part of the way.
+
+@281.02B2
+Shh! Everyone, stay calm.
+
+@281.0322
+Leave it to me.\nI'll drive them off.
+
+@281.03F2
+I let my guard down.
+
+@281.044E
+I'm all right, thank you.
+
+@281.04A8
+Everyone, draw your swords\nand push forward!
+
+@281.0614
+This injury is my fault...\nI'm sorry...
+
+@281.08B6
+Those wolves look terribly hungry.\nLet's get out of here quickly!
+
+@282.0026
+I went to see the Forbidden City the\nother day. It was an enormous palace.\nYou should go too!
+
+@283.028E
+A dead end...
+
+@283.02AA.0
+Turn back for now
+
+@283.02AA.1
+Look for a detour
+
+@283.02D8
+Let's go back for now.\nWe'll look for another way.
+
+@283.031E
+Can we go any farther?
+
+@283.0338.0
+No, it's no use.\nI can't find anything like a road.
+
+@283.0338.1
+No... There's nothing anywhere.
+
+@283.0338.2
+No good. I don't see any way through.
+
+@283.0338.3
+No, it's no use.\nI can't find anything like a road.
+
+@283.0338.4
+Nope.\nI can't find anything like a road.
+
+@283.0338.5
+No good. There's no road to speak of.
+
+@283.0338.6
+There's no road at all!
+
+@283.0338.7
+No, I'm afraid not.\nThere is nothing like a road to be found.
+
+@283.0430
+It can't be helped. Let's look for\nanother way as we head back.
+
+@284.00B8
+A pictorial map... I'd like to see it.\nDo you know where it is?
+
+@285.01DA
+It's hot because it's a desert.\nThere's no helping it. Let's go on.
+
+@285.02E4
+Shh! Everyone, stay calm.
+
+@285.035E
+Leave it to me.\nHyah!
+
+@285.04E6
+Leave it to me.\nI'll drive them off.
+
+@285.06E6
+I let my guard down.
+
+@285.0816
+Thank you.\nI'm fine now.
+
+@285.0838
+Slip away without a sound.\nDon't provoke them needlessly.
+
+@285.0AF2
+Everyone, run!\nHurry!
+
+@287.0008
+Hey, you.\nI've got a job I'd like to ask you\nabout. Got a minute?
+
+@287.0048
+What is it?
+
+@287.005A
+Lately a gang of bandits has been\nshowing up in this town.
+
+@287.0082
+Bandits? That's dangerous.
+
+@287.0098
+They mostly go after the gold and ivory\nhere, and they're a well-trained outfit.
+
+@287.00E0
+The guards here have little experience\nin land fighting, and they're short on\nweapons and armor. They're struggling.
+
+@287.012A
+So I'd like you to buy five holds of\nArmor for us. You should be able to\nfind Armor for sale somewhere in\nEurope.
+
+@287.0192
+The Mediterranean or the North Sea...\nThat might take a while.
+
+@287.01CC
+I'll wait patiently. Still, for us it's\na matter of life and death.\nPlease, don't forget.
+
+@287.0222
+Five holds of Armor, understood.\nI won't forget.
+
+@287.0252
+I'm counting on you.
+
+@288.0010
+Oh, thank you!
+
+@288.002A
+...Actually, once we added more guards,\nwe realized we're short on guns too.
+
+@288.0076
+Sorry, but could you also get five holds\nof Guns? I'll pay for everything\ntogether at that time.
+
+@288.00D0
+Guns. Understood.
+
+@289.0010
+Oh, that was quick!
+
+@289.002C
+Things have gotten bad. They noticed we\nbuilt up our arms, and now they've\nstarted arming themselves too.
+
+@289.009C
+Now we need at least some Cannons\nof our own.
+
+@289.00D6
+Two holds will do, but bring them\nquickly. I'll pay for it all together\nthen.
+
+@289.0120
+...You could have told me all of it at once.
+
+@289.0146
+Sorry about that.\nCome on, don't be like that.
+
+@289.016C
+Two holds of Cannons, then.
+
+@290.0010
+Perfect.\nWith defenses this tight, they'll\nsurely give up.
+
+@290.0056
+Sorry for making you go back and forth.\nHere's the payment and your reward.\nThank you so much.
+
+@290.00A8
+You received 77000 gold coins.
+
+@290.0148
+By the way, could you tell me where\nthose bandits' hideout is?
+
+@290.0184
+W-what?\nWhat do you plan to do with that?
+
+@290.01BC
+Now, what do you think I'll do?
+
+@290.01DC
+You're a strange one. Rumor says they're\nhiding in ruins deep in the Sahara...\nBut I wouldn't do anything reckless.
+
+@291.02CE
+Let's try pressing on for now.
+
+@291.03D4
+Could we push our way through the trees?
+
+@291.050C
+Let's look for a way through.
+
+@291.0642
+It's dangerous to move around like this.\nLet's wait for the fog to lift.
+
+@291.076A
+It's finally cleared.\nCome on, let's go.
+
+@292.0246
+What a climate...\nThe humidity is terrible.\nCrossing this will be hard.
+
+@292.02E0
+It's pitch black...
+
+@292.032A
+My eyes are adjusting...\nLet's keep going like this.
+
+@292.03FC
+...We're outmatched.\nEveryone, retreat!
+
+@292.045E
+Where have we come out?
+
+@292.063A
+Let's light a fire...
+
+@292.0660
+!!  Bats this time?\nHonestly, one thing after another...
+
+@292.077C
+These bats don't seem harmful.\nIgnore them and keep moving.
+
+@293.0250
+Then let's return to the port.
+
+@293.046C
+You've made it...\nI'm coming.
+
+@295.0008
+Sis {FA}.\nYou're the only one I can ask\nfor something like this.
+
+@295.0046
+What is it?\nYou look awfully serious.
+
+@295.0070
+Lately, every fleet passing near here\nhas been sunk, one after another,\nby a ship nobody can identify.
+
+@295.00BE
+Pirates' work?
+
+@295.00D2
+That's the mystery.\nNobody who saw the enemy has come back alive.
+
+@295.0110
+We've sent patrol and subjugation fleets,\nbut we haven't found it even once.\nIt appears and vanishes like a ghost.
+
+@295.0172
+They must be highly skilled.
+
+@295.0188
+But there's actually a strange rumor.
+
+@295.01AC
+What kind of rumor?
+
+@295.01BE
+That it might be a ghost ship.
+
+@295.01EE
+...You take that seriously?
+
+@295.0208
+When we can't pin down the enemy at all...\nI don't want to believe it, but I\ncan't help it. So here's my request.
+
+@295.027A
+I want you to find out what it is.
+
+@295.029C
+Just find out?
+
+@295.02B8
+Of course, if you can destroy it,\nall the better.
+
+@295.02FC
+Sorry to give you such an eerie job.\nI'm counting on you.
+
+@296.0008
+You actually sank a ghost ship...\nI'm amazed.\nPlease accept this as thanks.
+
+@296.0068
+You received 65000 gold coins.
+
+@296.0106
+I think you'll be fine.\nThere's someone I'd like you to meet.
+
+@296.01DA
+They are ruins said to have been built\nby our ancestors to honor their\nwarriors.
+
+@296.027C
+The way you destroyed that ghost ship\nconvinced me.
+
+@296.02F6
+...I'm happy you think so highly of me,\nbut can someone like me really help\nfind ruins?
+
+@296.0352
+Honestly, for us it's like chasing\nclouds as well.
+
+@296.03D6
+It is rude of me to say so, but no one\nhas ever managed it before, so there is\nno need to worry if you fail.
+
+@296.0446
+I've never had a request that says\nit's fine to fail.\n...I'm a little let down.
+
+@296.0488
+Oh, I put that terribly!\nOf course, I do want you to find them!\nBut if it doesn't work out, please don't\nlose heart...
+
+@296.0504
+Hehe, I'm joking.\nI'll do everything I can.
+
+@296.0532
+Y-you will!
+
+@296.054A
+We'll pay part of the reward in advance.\nOf course, you won't have to return it\nif you fail to find them.
+
+@296.05DA
+First you will need a map to the ruins.\nWhen you get the "Ancient City Map,"\ncome and talk to me.\nI will join the search.
+
+@297.0008
+So this is Guam...\nSorry to keep you waiting.\nNow you can go home.
+
+@297.0042
+Xiexie.
+
+@297.0052
+Hm? What is it?
+
+@297.006E
+This is for me?\nOh, it's a thank-you gift.\n...Thank you, I'll gladly accept.
+
+@297.00B2
+Xiexie, xiexie.
+
+@297.00CC
+Take care.\nBe careful the next time you go to sea.
+
+@298.0008
+Wow, you finally found it!
+
+@298.0040
+...Y-you people are collecting the\nMarks, aren't you?
+
+@298.0086
+I knew it!\nI'll never hand it over, even at the\ncost of my life!
+
+@298.00C0
+Please calm down.\nI have no intention of taking it by force.
+
+@298.00FA
+I won't be fooled!\nThat's what the people from across the\nsea say before they take everything!
+
+@298.0150
+...\nSo you think I'm no different from the\nWestern conquerors.
+
+@298.0196
+Fine. Let's give up.
+
+@298.01B6
+{FI}!\nSo you mean to give up the New World's\nMark!?
+
+@298.01EE
+I can't force them.
+
+@298.0214
+If the other conquerors find out, they\nmay come and seize it by force. If it\nfalls into their hands, what becomes of\nall our toil?
+
+@298.0288
+Besides, if that happens, these people\nwill not be spared.
+
+@298.02BC
+!\nAre you threatening us!?
+
+@298.02E4
+I don't mean to.\nBut...
+
+@298.0306
+Nevertheless, fact is fact.\nThe Escante threat is gone, but I doubt\nSpain will give up the New World\nas it is.
+
+@298.036E
+Huh?\nWhat about Escante?
+
+@298.03AA
+We wiped out the Escante Army.
+
+@298.03D8
+The Escante Army has submitted to us...\nThey will never act violently\non this land again.
+
+@298.0436
+What!?\nThen you're the lady admiral from\nthe East...?
+
+@298.046C
+Has the rumor reached even this far?
+
+@298.0498
+No, the friend who entrusted this to me\nspoke of you...
+
+@298.04DE
+I will trust you. I pray you bring\ntrue peace to this land.
+
+@298.053E
+Thank you. I'll do my very best.
+
+@299.0038
+China.
+
+@299.0046
+Oh, from China? Really?\nTo think someone could come\nall this way...
+
+@302.011A
+Did he have some medical knowledge?
+
+@302.02B4
+Charles, what's wrong!?
+
+@302.02D4
+The reason I came all the way to\nthis New World... was because I'd heard\nrumors of a newly discovered\nexperimental material!!
+
+@302.040C
+...I'll hear the rest later.
+
+@302.042C
+So where is that monk now?
+
+@302.0686
+...All right.\nLet's give it a try.
+

@@ -1,0 +1,1136 @@
+@124.000C
+Hey, wait.
+
+@124.0020
+?
+
+@124.002A
+I can't just keep taking presents\nwithout giving something back.\nSo here's a tip, as thanks.
+
+@124.0088
+India has some wonderful buildings.\nSince you've come this far,\nyou'd be crazy not to visit.
+
+@124.00D8
+The catch is, you can't find it without\na map. But do go and see it.
+
+@124.0122
+Thank you.\nIf I find a map, I'll go.
+
+@125.0014
+Admiral, this statue...
+
+@125.002A
+Huh?
+
+@125.0036.0
+Somehow, the shape doesn't seem\nto suit this building.
+
+@125.0036.1
+Somehow, the shape doesn't look\nlike it suits this building.
+
+@125.0036.2
+It just sticks out from this building,\ndon't you think?
+
+@125.0036.3
+It really clashes with this building,\ndoesn't it?
+
+@125.0036.4
+Don't you think it doesn't\nfit this building?
+
+@125.0036.5
+Hmm, it doesn't seem to belong\nin this building, somehow.
+
+@125.0036.6
+It doesn't match this building, huh.
+
+@125.0036.7
+Somehow the shape does not suit\nthis building, wouldn't you say?
+
+@125.01AA
+You think so?
+
+@125.01B8.0
+It's shaped like a figurehead...\nMight it have been one originally?
+
+@125.01B8.1
+It's shaped like a figurehead...\nNo, perhaps it simply is one.
+
+@125.01B8.2
+Doesn't it look like a figurehead?\nActually, isn't it just\na figurehead?
+
+@125.01B8.3
+It looks sort of like a figurehead...\nOh, maybe it actually is one?
+
+@125.01B8.4
+Looks like a figurehead to me...\nCome to think of it, it IS one, isn't it?
+
+@125.01B8.5
+It has the shape of a figurehead.\nNo, it is a figurehead, to begin with.
+
+@125.01B8.6
+You could use this as a figurehead.\nLook!
+
+@125.01B8.7
+It has the shape of a figurehead...\nNo, perhaps it simply is one.
+
+@125.0390
+Oh, you're right.
+
+@126.0010
+Oh! This is...!
+
+@126.002C
+As its discoverers, you have the right\nto keep this dagger.
+
+@126.0074
+Thanks to you, we've finally found the\nspiritual heart of our tribe.\nPlease, accept it.
+
+@126.00D4
+Received 24,000 gold coins.
+
+@126.0104
+Now, let's head back.\nYour fleet must be waiting for you.
+
+@127.000C
+First, let's head for Ceuta.
+
+@127.0032
+Now, let's actually move the ship.
+
+@127.0056
+First, check which way\nthe ship is facing.
+
+@127.008E
+You tell everyone the fleet's course.\nPoint the ship the way you want it to go.
+
+@127.00DE
+Set the ship's heading with\nthe +Control Pad or the stylus.
+
+@127.0114
+Press the +Control Pad in the direction\nyou want, or touch the screen.
+
+@127.0158
+With the stylus, the sails automatically\nset to the best angle.\nTo stop, touch the flagship.
+
+@127.01BC
+Did that explanation make sense?\nWell?
+
+@127.01E8.0
+Perfectly
+
+@127.01E8.1
+Maybe the wind's wrong...
+
+@127.021E
+Keep it up, Admiral!
+
+@127.0244
+I can set a heading, but if the wind\ndoesn't catch the sails, we won't\nmove forward, will we...?
+
+@127.028C
+Of course, a headwind makes for slow\ngoing, but the route to Ceuta has a\ntailwind, so don't worry.
+
+@127.02F2
+Will we be all right...?
+
+@127.0308
+"It's easier done than worried about,"\nas they say. If we really\ncan't move, you can return to Lisbon.
+
+@127.036C
+Sail for many days and all sorts of\nthings happen. Illness, rats,\nleaks and so on.
+
+@127.03D6
+Usually there's little you can do\nabout it at sea. So just put into\nport as soon as you can.
+
+@127.044E
+When your fleet is in a bad state,\nput into any port to recover.
+
+@127.0494
+Now, Ceuta lies southeast of here.\nCheck the "Route Map" to be sure.
+
+@128.001A
+Now then, {FI}.\nThere are a few more things you can do\nat sea, and I'd like to explain\nthem to you.
+
+@128.007C
+Yes. Please do.
+
+@128.0096
+Opening the sails fully, and anchoring.\nWhen each of them is useful.
+
+@128.00D8
+"Full Sail" is for running the ship at top\nspeed. In that case, you as captain\nmust give the sailhands direct orders.
+
+@128.0156
+Well, until you're used to it, "Half Sail"\nis fine. Assign sailhands to every mast\nand they'll handle the sails for you.
+
+@128.01D4
+At "Full Sail," the ship may go too fast\nto handle easily. Even in battle,\n"Half Sail" may be more convenient.
+
+@128.023E
+"Anchor" has many uses, like gathering\na spread-out fleet together,\nor lying in ambush for the enemy.
+
+@128.02AE
+I see.
+
+@128.02C0
+At sea, you can raise or lower your\nspeed by changing how far the sails\nare open. You can also anchor on the spot.
+
+@128.031E
+Use the A Button and B Button\nfor the sails. B slows you down,\nand A speeds you up.
+
+@128.0386
+Press B at "Full Sail" to go to\n"Half Sail" and slow down.
+
+@128.03CE
+Press B at "Half Sail" to "Anchor"\nand stop on the spot.
+
+@128.0418
+Press A at "Anchor" for "Half Sail,"\nand A at "Half Sail" for "Full Sail."
+
+@128.0478
+Mind you, even at "Half Sail," if you\nlack sailhands, you'll still have to\ngive the sail orders yourself.
+
+@128.04FA
+Huh? Really?
+
+@128.0518
+There will come a time when you need\nfull speed. A captain ought to be able\nto handle the sails himself.
+
+@128.0584
+Y-yes, sir!
+
+@128.0596
+The basics of moving a ship:\ncatch the wind behind the sails.
+
+@128.05D2
+Set the sail angle with L and R.\nAdjusting the sails\nraises the ship's speed.
+
+@128.0622
+Press L to turn the sails left,\nand R to turn them right.
+
+@128.0672
+With the stylus, the sails automatically\nset to the best angle.\nTo stop, touch the flagship.
+
+@128.06D0
+Watch the wind direction, and trim so\nthe wind enters from behind the sails,\nas seen from the ship's heading.
+
+@128.072A
+With a tailwind it's fairly easy, but\na headwind takes a bit of a knack.
+
+@128.0776
+You can check your speed on the\nspeedometer. To go faster, adjust until\nthe bar is as long as possible.
+
+@128.07E6
+Well, I think I've taught you the basics.\nThe rest is up to your own study.
+
+@128.0832
+Understood.\nI'll give it a try!!
+
+@128.0856
+Hmm...\nI feel like I'm forgetting something...
+
+@128.0888
+?
+
+@128.08A2
+Oh! That's it!\n{FI}, sorry to ask,\nbut could you sail to Athens?
+
+@128.08E4
+Athens...?\nUm, that's in Greece, right?\nIn the eastern Mediterranean.
+
+@128.092E
+That's right.\nI have some business there.
+
+@128.0956
+Hey. You're letting the old man's errand\ndecide where we go?
+
+@128.0998
+It's not only my business.\nI'm going to look into something that\nconcerns all of us from now on.
+
+@128.09FC
+"Something that concerns all of us\nfrom now on"...?\nLike a goal for us, or something?
+
+@128.0A4E
+Hmm, you could say that.
+
+@128.0A72
+We needn't act on it right away.\nBut we're sure to need it later on.
+
+@128.0ACE
+If we go to Athens,\nwe'll find out?
+
+@128.0AFA
+That's right.
+
+@128.0B10
+It's also needed to keep our promise\nto Hayreddin.
+
+@128.0B52
+Hey, nice!\n{FI}, this sounds\nlike fun!
+
+@128.0B7C
+Yeah!
+
+@128.0B8A
+No time to waste.\nI'm counting on you, {FI}.
+
+@128.0BBE
+I wonder what's there.
+
+@128.0BE0
+All right!\nLet's set off on a "goal hunt"!
+
+@128.0C02
+??\nWeird...
+
+@129.000A
+Now then, {FI}.\nHave you got the secret to making big\nmoney in trade yet?
+
+@129.0050.0
+Not yet
+
+@129.0050.1
+I'm fine
+
+@129.007A
+Hmm. First, look at Madeira, a\nPortuguese holding. It's a small island\nsouthwest of Lisbon.
+
+@129.00DA
+It's rich in specialty goods like sugar,\nand it'll be a key base when the {FO}\nexpands into Africa and the New World.
+
+@129.014E
+If there's share open in Madeira,\ninvest in it as much as you can.
+
+@129.0194
+Once you've saved up some funds with\ntriangle trade among Lisbon, Ceuta\nand Madeira, take Las Palmas and Cape Verde.
+
+@129.020E
+They're the gateways to Africa and the\nMediterranean. Cape Verde especially\nlets you get many specialty goods\nfor a small investment.
+
+@129.0284
+For a while, go back and forth between\nAfrica and the Mediterranean, buy bigger\nships with the money, and build up\nyour share in ports.
+
+@129.02F2
+The more cargo holds your fleet has\nand the more specialty goods ports\nsell, the more each trade earns.
+
+@129.036A
+After that, just keep widening your\ntrade range farther and farther.
+
+@129.03A6
+Even a port with no profitable goods at\nfirst glance may produce new specialty\ngoods once you invest in commerce.
+
+@129.0410
+If you can spare the means, try venturing\nto the New World. Though there's\nno need to push yourself.
+
+@129.047C
+Understood.\nI'll do my best.
+
+@129.04A4
+Will you be all right?\nOld folks do tend to worry\nover nothing.
+
+@129.04EC
+Well, try it your own way.
+
+@132.0026
+All right, the showdown with Valdes!\nEveryone, count on you!
+
+@132.0072
+Ready?
+
+@132.00A4
+Heh, anytime!\nCome at us from anywhere!
+
+@132.00D8
+Yeah! Let's do this!
+
+@132.0108
+Leave it to me!
+
+@132.0122
+Oh, so that's the Portuguese fleet.\nFools without fear, raising the flag of\nrevolt against the Spanish Empire now.
+
+@132.0190
+We'll teach them a lesson.\nAll ships, prepare for battle!
+
+@132.01BE
+Aye, sir! All ships, prepare for battle!!
+
+@132.01E2
+...
+
+@132.01EE
+Form the battle line!
+
+@132.0206
+Enemy ahead, the Portuguese rebels!\nCharge!!
+
+@133.000A
+Come to think of it...
+
+@133.001E
+?
+
+@133.0028
+Yes, yes, that's it.\nLet's bring Christina along.
+
+@133.0066
+Who's that?
+
+@133.007E
+My granddaughter. She's trained in the\nsword. Quite a skilled fighter.
+
+@133.00BE
+What, a girl?!\nSailing is a man's romance. I'm against it.\nAs it is, girls are...\nWhoops, never mind.
+
+@133.0118
+Ahem, Clau...
+
+@133.0130
+Anyway, a girl\nwould be trouble, right?
+
+@133.015A
+I think it's a good idea.\nAnd she's a swordswoman, right?\nShe'd surely be a great help.
+
+@133.01A8
+No, I'm against it!\nOw, ow! Hey, what are you doing?!
+
+@133.01DC
+(...One or two, what's the difference?)
+
+@133.0202
+(Right. I bet Arcadius would feel\nmore at ease with another woman\naround.)
+
+@133.0258
+Ahem. I agree as well.
+
+@133.0274
+A trip is more fun with women aboard.\nCome on, Clau, okay?
+
+@133.02AA
+(Man...\nEven {FI}...\nFine, fine.)
+
+@133.02DC
+If you all feel that strongly,\nthen fine, I guess...
+
+@133.030E
+?
+
+@133.0318
+So, where does she live?
+
+@133.0342
+London.
+
+@133.0358
+Understood.\nThen let's head there.
+
+@134.000C
+Wh-what?!
+
+@134.0022
+An ambush!! Looks like pirates!!\nW-we were caught off guard!!\nWe can't fight back!!
+
+@134.0084
+What?! That flag!?\nThe pirate Vels!!\nThis is bad, Admiral!
+
+@134.00D4
+I've heard rumors. He's notorious\nas a dangerous man.\nOf all the ones to find us...
+
+@134.012C
+{FI}! Look out!
+
+@134.014A
+!!
+
+@134.0158
+Gwah!!
+
+@134.0180
+Claudio!
+
+@134.019C
+Clau! Are you all right?!
+
+@134.01B8
+Just a scratch! Don't worry about it!
+
+@134.01DA
+Damn!!\nFull speed, get out of here!!
+
+@134.020A
+We shook them off, somehow...\nBut this isn't good.\nLet's put into a port nearby.
+
+@134.025A
+Amsterdam is dangerous.\nLet's pick another port.
+
+@135.000A
+Admiral, you travel all over the world,\nso you must know friendly girls at\ntaverns in lots of towns, right?
+
+@135.006E
+Not what I'd call friendly...
+
+@135.0096
+That won't do. The girls at taverns\nknow all kinds of information an\nadventurer needs.
+
+@135.00FA
+Like rumors of treasure, enemy fleet\nmovements, and sometimes even\nrare ruins only the locals know about.
+
+@135.016C
+You have to befriend girls all over\nthe world, or you're no good\nas an adventurer.
+
+@135.01B6
+But...\nit isn't that easy to get friendly, is it?
+
+@135.01E6
+Just talking to them as a customer\nwon't cut it. They talk with dozens\nof people every single day.
+
+@135.025A
+In the end, nothing beats a present\nthat wins a girl's heart.
+
+@135.0290
+Of course, each girl likes different\nthings, so find out what interests her\nand give her that.
+
+@135.0312
+Take Sakura of Osaka. She'd love the\n"Snowflake Robe" sold somewhere\nin the North Sea.
+
+@135.0378
+Even a girl with no greed feels good\nabout getting something she wants.
+
+@135.03CA
+I see. So you hitting on all those\ntavern girls was just normal\nfor an adventurer...
+
+@135.042E
+O-of course!
+
+@135.0446
+All right, I'd better follow your lead!
+
+@135.0468
+Hahaha!\nThat's the spirit.
+
+@136.000E
+Hey, {FI}!
+
+@136.0020
+What's up?
+
+@136.0034
+I heard a rumor about some amazing\ntreasure!
+
+@136.005C
+Oh? What treasure is it?
+
+@136.007C
+Something called the "Guiding Cane."
+
+@136.00A8
+What's so great about it?
+
+@136.00C0
+The Guild's buy list has a price on it\nhigher than I've ever seen! And it looks\nlike nobody has found it yet!
+
+@136.0138
+So?
+
+@136.0148
+So if we get it, we'll be rich\njust like that! Come on,\nlet's go right now!
+
+@136.01AC
+Go... where?
+
+@136.01CC
+Where? To wherever the "Guiding Cane"\nis, of course!\nObviously!
+
+@136.0218
+And where is that?
+
+@136.0234
+Huh?\n...Don't know.
+
+@136.024A
+Then we can't look for it.
+
+@136.026C
+...Fair point.
+
+@136.027C
+Come on, get it together.\nBesides, with info that sloppy, I doubt\nit even exists.
+
+@136.02DE
+...Hmm, yeah, you're right.\nGuess it's no good.
+
+@136.0304
+Why am I so simple\nminded, anyway...
+
+@136.0330
+Clau...?
+
+@136.034A
+...Little {FI}.
+
+@136.035C
+Oh, Julio.\n...Please stop calling me little.
+
+@136.0392
+Oh, sorry. Old habits.
+
+@136.03BC
+About the "Guiding Cane,"\nthough...
+
+@136.03EA
+The treasure Clau mentioned\njust now?
+
+@136.0414
+Well?\nWant to hear what I know?
+
+@136.043E.0
+Please tell me
+
+@136.043E.1
+No, that's okay
+
+@136.0474
+...The "Guiding Cane" is said to be\na treasure that leads people\ntoward goodness.
+
+@136.04C4
+Then it really exists?
+
+@136.04E8
+So the legend says.
+
+@136.0500
+Where could it be...?
+
+@136.051E
+They say India.
+
+@136.053A
+Then it really does exist.
+
+@136.055A
+It's only a legend.
+
+@136.057A
+I see.\nI said such awful things...\nI have to apologize to Clau.
+
+@136.05B6
+Julio, thank you!
+
+@136.05D6
+Oh, hey.
+
+@136.05E8
+He's gone.
+
+@136.0602
+Well, that should cheer Claudio up.\nWhen he mopes it's so gloomy that\nthe sake goes sour.
+
+@136.0676
+But I'd clean forgotten the legend of\nthe "Guiding Cane." Is {FI} really\ngoing to look for it...?
+
+@136.06EC
+Well, either way.\nI'll invite Jenas and have a drink.
+
+@136.0744
+You're saying that again, aren't you?\nYou and Clau are teaming up to fool me.\nI won't fall for it.
+
+@136.07A4
+Huh?\nI'd never do that.
+
+@136.07C4
+You want to make me your drinking\nsnack. I know it.
+
+@136.0802
+I said I'd never do that!\n...Oh, forget it.
+
+@136.0836
+Clau is down after what just happened,\nso I wanted you to do something\nabout it. That's all I came to say.
+
+@136.08A8
+Huh? S-so that's what it was?\n...Sorry, Julio.
+
+@136.08E4
+...As long as you understand.\nNow go cheer Clau up.
+
+@136.092C
+Oh, yes!
+
+@136.093E
+Honestly, what a handful.\nAnd now that you said drinking snack,\nI really want a drink.
+
+@136.09B4
+That's it, I'll invite Jenas\nand have a drink.
+
+@136.09EC
+Heh heh heh. Sake, sake!
+
+@137.000E
+Buy goods cheap, sell them high.\nThat's the basis of trade.
+
+@137.0044
+Once you can shuttle between the\nMediterranean and Africa, you can make\nprofits quickly.
+
+@137.009A
+Well, a long trip is out of the question\nat first, so test the waters nearby.
+
+@137.00DE
+Check each port's prices and\ngo after a big profit if you like.
+
+@137.0110
+Here in Lisbon, buy saffron or almonds\nand sell them around Ceuta.\nThat should do nicely.
+
+@137.0176
+At first you have few ships and little\nhold space, so you can't buy and sell\nmany goods at once.
+
+@137.01DA
+One full cargo hold is one unit of trade.\nYou can buy as many units as you\nhave cargo holds.
+
+@137.0248
+The "Share" also changes how much you\ncan handle at once. Naturally, the higher\nyour "Share," the more you can trade.
+
+@137.02C0.0
+Share?
+
+@137.02C0.1
+I see
+
+@137.02E2
+About share...\nhow do I increase it?
+
+@137.0310
+If there's share open, it's divided up\namong those who invest at the Palace\nor the Market.
+
+@137.035A
+Don't worry about it at first. That comes\nafter you've earned some money and\ngot more ships. For now, just try trading.
+
+@137.03E8
+If everything looks good, press "Confirm"\nto finish the deal.\nNow, give it a try!
+
+@138.000E
+First, the ship has to move. Naturally,\nwe can't handle it alone.\nWe need sailors.
+
+@138.0068
+The trick to gathering sailors is to\nstand them a round of drinks and show\nwhat a big-hearted admiral you are.
+
+@138.00C0
+Nobody minds being given a drink.\nThough early on you'll have enough\nmen even without doing that.
+
+@138.0130
+Now, will a few sign on if we\n"Gather Sailors"...?
+
+@138.016C
+Lastly, you assign the sailors. With just\none ship, "Favor Flagship" is fine.
+
+@138.01CA
+More sailors shorten the days you can\nsail, so be careful when hiring more\nthan you need.
+
+@138.0226
+Now, give it a try!
+
+@139.0008
+{FI}, so far so good?\nIt may be confusing, so I'd like to explain\nsea routes. Is that all right?
+
+@139.0070.0
+Yes, please
+
+@139.0070.1
+I'm fine, I get it
+
+@139.00A8
+Good. Make a contract with the ports\nand towns right next to each other,\nand a sea route is drawn between them.
+
+@139.0104
+Right now, the {FO}\nhas contracts with\nLisbon and Ceuta.
+
+@139.0140
+These two ports are neighbors, so\n"the {FO} has a\nsea route between them."
+
+@139.0194
+On the Deck Screen, with a "Captain" and\na "Surveyor" aboard and a route open,\n"Auto Move" becomes available.
+
+@139.01F6
+"Auto Move"?
+
+@139.020C
+As long as the route is connected, you\nneedn't order the ship's every move.\nPick a destination and we mates\nwill navigate there ourselves.
+
+@139.0290
+Choose "Auto Move" at the Harbor and\npick a destination on the Route Map.
+
+@139.02F8
+Only...
+
+@139.0306
+?
+
+@139.0310
+No one in this fleet can serve\nas a surveyor...
+
+@139.0342
+Old man,\nyou talk big, but can't you\neven survey?
+
+@139.0384
+...Can't be helped. Go to Lisbon and\nbuy a sextant. With that, I can\nmanage somehow.
+
+@139.03F4
+Don't forget to "Equip" it\non me.
+
+@139.042A
+Equip?
+
+@139.0438
+Look closely at the item you bought\nand you'll see. Anyway, head to Lisbon.
+
+@139.0486
+Y-yes, sir.
+
+@139.04AA
+Now, do your best.
+
+@140.0008
+If you want to raise a port's defenses\nagainst enemy attacks, invest at the\nPalace or the Governor's.
+
+@140.0062
+Portugal built forts in every port\nalong the way to the Indian Ocean\nas trading bases.
+
+@140.00B0
+Thanks to the building skills gained\nthere, you should be able to raise\ndefenses with less military investment.
+
+@140.0116
+I see.\nOkay, I'll remember that.
+
+@141.0014
+Whoa!!\nThis is incredible!
+
+@141.0056
+W-what!!\nIt's a new Man-of-War!
+
+@141.0084
+Amazing!!
+
+@141.0096
+I see... This is Hayreddin's parting gift.
+
+@141.00BE
+W-what does that mean?
+
+@141.00E2
+Perhaps he meant not so much\nto defeat Spain, but...
+
+@141.0124
+Surely not!
+
+@141.0138
+What?!
+
+@141.0148
+Yeah. Even I can tell.\nHe wants us to take down\nthe Ottoman Turks, right?
+
+@141.0192
+B-but that's...!\nAfter all...
+
+@141.01B0
+I can't say for certain, but I hear the\nPasha wants to fold the Algiers pirates\ninto the Turkish forces.
+
+@141.0216
+Hayreddin Barbarossa... A lone pirate\nking. His creed is to belong\nto no one...
+
+@141.0264
+Yet he can't openly turn against\nthe Ottoman Turks...
+
+@141.02A8
+Perhaps he sensed\nsomething in {FI}.
+
+@141.02DE
+Heh.\nWith that much expected of us,\nwe've got to do it.\nRight, {FI}?
+
+@141.0322
+...Y-yeah.
+
+@141.0348
+Well, I think I'll go inspect the ship.
+
+@141.036E
+Admiral!\nNo, Leader {FI}!\nLet's do it!\nLet's beat the Pasha's forces!
+
+@141.03B2
+Right. We have no choice, do we!\nEveryone, let's go!
+
+@141.03EC
+Aye!
+
+@142.000C
+This "Red Pigment" is the key to\nthe map of the "Victor's Mark"...
+
+@142.0044
+Pigment, huh...\nHow about coloring that "Old Parchment"\nfrom the ruins with it?
+
+@142.00A0
+Coloring it...!\nThat might work!\nAll right, let's try...
+
+@142.00E2
+Whoa!
+
+@142.00F2
+I knew it!\nA map appeared on the parchment!
+
+@142.0124
+So this is the map to the North Sea\n"Victor's Mark"!
+
+@143.000A
+You are Admiral {FA} of the\n{FO}, correct?\nAlbuquerque awaits you.\nPlease go on inside.
+
+@143.0058
+Thank you.
+
+@143.0080
+How imposing.
+
+@143.009E
+Hmm.\nI haven't done anything wrong, but\nI'm no good in places like this.
+
+@143.00F8
+Just stand up straight and you'll be fine.
+
+@143.0136
+Hmm. So this is the Palace...
+
+@143.0162
+Ah, we've been waiting for you!\nUm... Mr. {FA},\nwas it?
+
+@143.0198
+It's {FU}.\nYou called for me, Your Excellency?
+
+@143.01BC
+Wow! Cool!\n{FI}
+
+@143.01EE
+Ahem.\nThis is no place for us.\nLet's stay quiet.
+
+@143.023E
+Now, now, no "Excellency."\nI'm the one who summoned you.\nWell done for coming.
+
+@143.0292
+So, what is it you need?
+
+@143.02A8
+Ah, yes.\nDo you know Portugal's rules on\ncommercial enterprise?
+
+@143.02EC
+Well,\nnot really.
+
+@143.0306
+...Well, fine. Honesty is good.\nThen I'll skip the difficult parts\nand explain it simply.
+
+@143.0366
+Thank you.
+
+@143.0382
+These days private companies trade in\nmany lands and work for the nation's\nprosperity. But some of them engage\nin inhumane conduct.
+
+@143.0404
+Inhumane?
+
+@143.041C
+Trading in slaves and drugs.\nOur regular army's inquiries exposed\nthe Espinosa Company doing it in\nsoutheast Africa.
+
+@143.0482
+At this rate, Portugal's dignity will only\nfall. Which is where you come in.
+
+@143.04CE
+You are among our promising navigators.\nTake all their trade territory and\ndetain Espinosa himself.
+
+@143.0548
+...Can we really\ndo that?
+
+@143.0574
+Hahaha. I'm not telling you to do it\nwithout support. I'm not that cruel.\n...Bring in Mr. Silveira!
+
+@143.05EC
+Yes, sir!\n...\nMr. Silveira. Please come in.
+
+@143.061E
+Fernan Silveira, reporting.
+
+@143.0652
+Good.
+
+@143.0660
+Your Excellency, I trust you are well...
+
+@143.0688
+Skip the pleasantries. Let me introduce\nyou right away. This is {FI}\n{FA}.\nA young man of real promise.
+
+@143.06E0
+Nice... to meet...\nyou. I'm {FI} {FA}.
+
+@143.0702
+Mr. {FA},\nthis is Fernan Silveira.\nYou will be teaming up with\nMr. Silveira.
+
+@143.0760
+...What does that mean?
+
+@143.0782
+Well, I'm someone who has made no\nsmall contribution to the nation\naround southwest Africa, you see.
+
+@143.07DC
+Ahem.\n...You certainly do business\non a wide scale, that's true.
+
+@143.081A
+Oh my, you flatter me...
+
+@143.0842
+...I said that's enough of that.
+
+@143.0862
+Even a crooked merchant can't be\nattacked openly by the regular army\non circumstantial evidence alone. Hence,\nyour part in this.
+
+@143.08D8
+Heh heh heh. With us together, I'll\nshut Espinosa out of my Africa\nin no time!
+
+@143.0932
+(...My Africa?)\n...Hmph.\nWell, never mind. That's how it is.
+
+@143.097A
+Any objections?
+
+@143.0994
+...No.
+
+@143.09A2
+My base is Sao Jorge, by the way.\nDrop by whenever you like.\nWahaha.
+
+@143.0A34
+Silveira gave you some of his\nshare in Sao Jorge.
+
+@143.0A82
+Now then, I have war funds from His\nMajesty the King. ...Bring them in.
+
+@143.0ABE
+Yes, sir!
+
+@143.0ACE
+Now, Silveira.
+
+@143.0AEA
+Yes, sir!\nThank you very much.
+
+@143.0B0E
+Silveira received\ngold coins!
+
+@143.0B42
+Mr. {FA}.
+
+@143.0B50
+Yes.\nThank you...
+
+@143.0B7C
+Received 50,000 gold coins from the\nKing of Portugal as war funds\nagainst Espinosa!
+
+@143.0BD4
+I hear Espinosa has a very powerful\nfleet. Make sure you build up\nenough arms.
+
+@143.0C32
+Both of you, spare no cooperation.\nI'm counting on you.
+
+@143.0C64
+Understood.
+
+@143.0C78
+Yes, sir. As you command.
+
+@143.0C94
+Good. You may go.
+
+@143.0CBA
+By the way, {FI},\nare you good at naval battles?
+
+@143.0CDC
+...No, I can't say I am.
+
+@143.0CFE
+I see. I like your honesty.
+
+@143.0D20
+...
+
+@143.0D2A
+Well, no shame in it.\nYou can learn from here on.
+
+@143.0D68
+Yes...
+
+@143.0D76
+So then. Admiral Albuquerque asked\nme to give {FI}\na lecture.
+
+@143.0DC2
+A lecture...\non what?
+
+@143.0DDC
+How to take down Espinosa, in\nspecific. To strike an enemy power,\ndo you know what you need to do?
+
+@143.0E3C
+Shut Espinosa out of the ports,\nyou mean?\n...Then I just keep investing\nin those ports, right?
+
+@143.0EA2
+You seem to understand quite well,\nbut that alone won't do.
+
+@143.0EDC.0
+Meaning?
+
+@143.0EDC.1
+I understand
+
+@143.0F06
+In Lisbon, could you lower Admiral\nAlbuquerque's share by investment\nalone?
+
+@143.0F56
+...No.
+
+@143.0F66
+Right? To shut out a rival by\ninvestment, you must be in a state\nof "war" with them.
+
+@143.0FB6
+So I need to declare war...
+
+@143.0FD4
+Exactly. There are two ways: start a\nnaval battle at sea, or have your\nFirst Mate write a negotiation letter\nat the Guild.
+
+@143.1040
+I see.
+
+@143.1050
+Beat an opponent at war in a naval\nbattle and their reputation drops,\nand their share falls a little in nearby\nports.
+
+@143.10BE
+Then quickly sign a contract with the\nport, and after that investment alone\nwill drive them out.
+
+@143.1116
+(I see! Using the same method, I could\neven sign contracts with ports that\nanother power holds 100% of!)
+
+@143.1182
+But investment alone won't dissolve\nthe Espinosa Company.
+
+@143.11C6
+...Meaning?
+
+@143.11DE
+At their home base, you can't shut a\nrival out completely by investment.\nIn the end, you have to win\na battle at sea.
+
+@143.1250
+If you aren't confident of winning at\nsea yet, trade for a while with the war\nfunds and prepare enough ships and\ninvestment money.
+
+@143.12CE
+Admiral Fernan,\nthank you for the lecture.
+
+@143.1308
+Oh ho, how reassuring in a comrade.\nPerhaps you didn't need my\nlecture?
+
+@143.135A
+Oh... sorry.
+
+@143.1376
+No, no.\nThen let's take down Espinosa\ntogether!\n{FI}!
+
+@143.13B8
+Likewise, I'm in your hands.\nAdmiral Fernan.

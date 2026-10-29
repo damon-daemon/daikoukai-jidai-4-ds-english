@@ -1,0 +1,749 @@
+@1750
+Watch and learn\nfrom a veteran!
+
+@1751
+I'll do great out there,\nso treat me later!
+
+@1752
+Well now, sailors,\nare we all ready?
+
+@1753
+I'll punch a hole\nin their line in melee!
+
+@1754
+To win with few losses,\nit has to be a duel...
+
+@1755
+Trust me and\nfollow me!
+
+@1756
+Ready, right?\nTime to cut in!
+
+@1757
+Aim well and\nfire!
+
+@1758
+Target locked.\nDon't miss...
+
+@1759
+More "Accuracy" means\nwe can fire more.
+
+@1760
+We just\nkeep missing.
+
+@1761
+Blast away! If we\nfire enough, we'll hit!
+
+@1762
+Don't you dare\nhit our own side!
+
+@1763
+I'll sink their\nflagship, you'll see!
+
+@1764
+An "Armed Battery"\nwould help...
+
+@1765
+Get too close and\nthe guns can't fire.
+
+@1766
+Don't waste shots!\nAim properly!
+
+@1767
+Aw, so close...\nJust a little more...
+
+@1768
+Reloading!\nFiring right away!
+
+@1769
+With deck crew, we have\nthe edge in melee.
+
+@1770
+Give the order\nwhen the melee starts.
+
+@1771
+I've got nothing to do,\nso I'm cleaning.
+
+@1772
+Cleaning at a time\nlike this... how relaxed.
+
+@1773
+Might as well clean\nuntil the melee starts!
+
+@1774
+Time to show the strength\nI built scrubbing decks!
+
+@1775
+I'll be first aboard\nin the melee!
+
+@1776
+Battle makes a mess,\nso cleaning is a chore...
+
+@1777
+Leave the melee\nto me!
+
+@1778
+Leaving the fight to\nthe others. Scrub...?
+
+@1779
+Leaving the battle to\neveryone else. Scrub... huh?
+
+@1780
+Why am I scrubbing\nthe deck, anyway?
+
+@1781
+I feel really\nsluggish...
+
+@1782
+Somehow...\nam I tired?
+
+@1783
+I'm worn out...\nLet me rest...
+
+@1784
+I'm tired...\nTo the "Rec Room"...
+
+@1785
+No strength left...\nWhat's wrong with me?
+
+@1786
+I'm tired, you know...\nLet me rest a bit...
+
+@1787
+I'm all worn out,\nAdmiral...
+
+@1788
+I seem to have\nbuilt up some fatigue.
+
+@1789
+I don't feel right...\nMust be fatigue...?
+
+@1790
+Ugh...\nI'm dizzy...
+
+@1791
+I feel really, really\nsluggish...
+
+@1792
+I-I'm fine...\nDon't worry...
+
+@1793
+...\nI...
+
+@1794
+A wound like this...\nI'm still fine!
+
+@1795
+Tch.\nOver a little injury...
+
+@1796
+I'm fine.\nIt's not much of a wound...
+
+@1797
+A wound...? I'm fine.\nI still...
+
+@1798
+A scratch like this...\nSpit on it and it'll heal!
+
+@1799
+Oh dear...\nThis wound has sapped my strength...
+
+@1800
+I got hurt,\nAdmiral...
+
+@1801
+With this wound, I can't\nshow my true ability...
+
+@1802
+The bleeding won't stop,\nbut I'll...
+
+@1803
+Would a scratch like this\nbring me down...
+
+@1804
+It hurts, but...\nI'm the admiral. I'm fine.
+
+@1805
+A wound like this...\nNo need to worry.
+
+@1806
+No worries.\nIt's not a bad injury...
+
+@1807
+It seems I've come\ndown with some illness.
+
+@1808
+I'm burning up...
+
+@1809
+Maybe I caught a cold.
+
+@1810
+I feel feverish...
+
+@1811
+Some bug going around?\nA nap will fix it!
+
+@1812
+Cough, cough.\nI feel unwell...
+
+@1813
+Maybe I'm sick...\nI have no appetite.
+
+@1814
+I don't feel well...\nCould it be illness?
+
+@1815
+Maybe I'm sick...\nBut I'm fine...
+
+@1816
+I'm the admiral, I can't\nrest over a little illness...
+
+@1817
+My body feels heavy...\nAm I sick?
+
+@1818
+Don't worry. A little\nillness will pass soon.
+
+@1819
+No worries, I'm fine.\nJust feeling a bit off...
+
+@1820
+I can't move...\nIs this the end?
+
+@1821
+Not in a place\nlike this...
+
+@1822
+I can't die yet...
+
+@1823
+Am I going\nto die...?
+
+@1824
+I'm not dying yet...
+
+@1825
+Has death finally\ncome for me...?
+
+@1826
+Before I die, I wanted\nto eat more...
+
+@1827
+So I'm to die\nin a place like this...
+
+@1828
+My dream... I have\nto make it come true...
+
+@1829
+Until I see the\nstrongest fleet... I can't die.
+
+@1830
+Am I going to die...?\nKamil...
+
+@1831
+It can't end here...
+
+@1832
+...I...\ndon't want to die...
+
+@1833
+I'm in a great mood\nright now!
+
+@1834
+I feel refreshed.\nGive me any order.
+
+@1835
+I'm in top form!\nI feel like I can do anything!
+
+@1836
+I'm feeling\nhappy!
+
+@1837
+Bring it on!\nThat's how I feel!
+
+@1838
+Gahaha!\nI feel great!
+
+@1839
+I'm all fired up,\nAdmiral!
+
+@1840
+What a great mood!\nWork is going smoothly.
+
+@1841
+Feeling good!\nI'm motivated!
+
+@1842
+I feel power welling up\nfrom deep inside.
+
+@1843
+Mmm, the best!
+
+@1844
+How refreshing.
+
+@1845
+I'm at my peak right now!
+
+@1846
+I just can't\nget motivated...
+
+@1847
+I'm just not\nin the mood...
+
+@1848
+I need a change\nof pace.
+
+@1849
+Sigh...\nI feel kind of gloomy.
+
+@1850
+I'm so sluggish...
+
+@1851
+I just can't\nget motivated...
+
+@1852
+I'm starving,\nAdmiral!
+
+@1853
+"Mutter, mutter..."\nOh, just talking to myself...
+
+@1854
+Sigh...
+
+@1855
+......
+
+@1856
+Ugh!\nI've had it!
+
+@1857
+...I can't focus.\nI need a change of pace...
+
+@1858
+...I don't want to talk now.
+
+@1859
+W-what happened?\nWhat's going on???
+
+@1860
+What? What is it?\nWhat happened???
+
+@1861
+What happened?\nI can't tell at all!
+
+@1862
+Eek! Eek!
+
+@1863
+Waaaah!
+
+@1864
+What, what?!\nWhat happened?!
+
+@1865
+Wh-what?\nWhat's going on!?
+
+@1866
+???\nWhat is it!?
+
+@1867
+What, what???\nWhat on earth is it!?
+
+@1868
+!!! No, stay calm.\nStay calm at times like this.
+
+@1869
+Eek! Eek!\nWhat on earth is going on!?
+
+@1870
+!!! No good.\nI have to calm down...
+
+@1871
+?!*#&$!!
+
+@1872
+Come on, don't be mad.\nOkay? Okay?
+
+@1873
+I was hungry...\nI won't do it again.
+
+@1874
+Easy, easy...\nIt's just a change of pace.
+
+@1875
+Sorry!\nBeing angry is bad for you.
+
+@1876
+Come on, no need to rush.\nTake it slow...
+
+@1877
+Just had a drink\nto cheer myself up.
+
+@1878
+It's a matter of Arab pride.\nPlease, spare me.
+
+@1879
+Not me. I'm training\nin Taoist arts.
+
+@1880
+I am no Christian.\nPlease forgive me...
+
+@1881
+Training in my spare time!\nHyah! Yah!
+
+@1882
+Oh, I thought of a\ngreat pickup line.
+
+@1883
+I won't lose\nto any man!
+
+@1884
+No mischief now.\nCome over here.
+
+@1885
+Now is the time to test\nthe fruits of my training!
+
+@1886
+So realistic!\nWait, a real war!?
+
+@1887
+Where's the enemy?\nLet me fight!
+
+@1888
+The enemy!?\nYou hide!
+
+@1889
+Entering battle stations!
+
+@1890
+All hands to battle stations...\nLet's go!
+
+@1891
+Going to battle stations!
+
+@1892
+Going to battle stations!\nLet's take them out!
+
+@1893
+Going to battle stations!\nLet's take 'em out!
+
+@1894
+Going to battle stations!\nLet's give 'em what for!
+
+@1895
+Battle's about to start!\nDo our best!
+
+@1896
+Entering battle stations!\nLet's scatter them!
+
+@1897
+We'll declare war on the\n%s faction.\nIs that all right?
+
+@1898
+We're declaring war on the\n%s faction!\nAdmiral, okay?
+
+@1899
+We'll declare war on the\n%s faction.\nAdmiral, that's okay, right?
+
+@1900
+Declaring war on the\n%s faction!\nYou're fine with that?
+
+@1901
+We'll declare war on the\n%s faction.\nIs that all right?
+
+@1902
+I'll tell the %s faction\nwe're gonna beat them up.\nIs that okay?
+
+@1903
+We'll declare war on the\n%s faction.\nIs that all right?
+
+@1904
+We don't know which faction,\nbut we'll declare war.\nIs that all right?
+
+@1905
+We haven't identified the faction,\nbut we'll declare war.\nIs that all right?
+
+@1906
+Don't know which faction,\nbut we'll declare war. Okay?
+
+@1907
+Don't know which faction,\nbut we'll declare war. Right?
+
+@1908
+Whatever faction it is,\nwe declare war. Is that fine?
+
+@1909
+Don't know who they are,\nbut I just say we'll attack. Right?
+
+@1910
+Which faction is unclear,\nbut we'll declare war.\nIs that all right?
+
+@1911
+Admiral!\nThe %s fleet\nseems to be joining us!
+
+@1912
+Admiral!\nThe %s fleet\nis lending a hand!
+
+@1913
+Admiral!\nThe %s fleet\nseems to be backing us up!
+
+@1914
+Admiral!\nThe %s fleet\nseems to be helping us!
+
+@1915
+The %s fleet\nwill fight with us too!
+
+@1916
+Admiral!\nThe %s fleet\nseems to be joining us!
+
+@1917
+The %s fleet\nnearby is giving us\ncover fire!
+
+@1918
+Admiral! The %s fleet\nnearby is giving us\ncover fire, it seems!
+
+@1919
+The %s fleet\nnearby is\nlending a hand!
+
+@1920
+The %s fleet\nnearby is giving us\ncover fire! What a relief!
+
+@1921
+The %s fleet\nnearby is lending\na hand too!
+
+@1922
+The %s fleet\nnearby says\nthey'll help!
+
+@1923
+The %s fleet\nnearby is backing us\nup too!
+
+@1924
+Admiral, we sniped the\nenemy admiral!\nVictory is ours!
+
+@1925
+We did it! We sniped the\nenemy admiral!\nWe won!
+
+@1926
+We sniped the enemy admiral!\nVictory is ours!
+
+@1927
+Enemy admiral sniped!\nWe won!
+
+@1928
+Admiral, we sniped the enemy\nadmiral! Victory is ours!
+
+@1929
+We hit the enemy admiral!\nYay! We won, Admiral!
+
+@1930
+We sniped the enemy admiral!\nVictory is ours!
+
+@1931
+So it's %s!\nLet's settle this in a duel!
+
+@1932
+So it's %s!\nFight me fair and square\nin a duel!
+
+@1933
+Oh,\nit's %s!\nLet's duel!
+
+@1934
+So it's %s!\nLet's settle this\nin a duel!
+
+@1935
+Well, if it isn't %s!\nFight me one on one!
+
+@1936
+So it's %s!\nLet's settle this\nin a duel!
+
+@1937
+So it's %s!\nDuel me, then!
+
+@1938
+...So it's %s!\nLet's settle this\nin a duel!
+
+@1939
+Interesting.\nI accept your challenge!
+
+@1940
+Interesting. I accept!
+
+@1941
+All right! I accept!
+
+@1942
+Bring it on!\nI accept!
+
+@1943
+Interesting! I accept!
+
+@1944
+All right! Let's do this!
+
+@1945
+Next time\nit'll be different!
+
+@1946
+I won't let you\nget away next time!
+
+@1947
+I won't let you\nget away next time!
+
+@1948
+Grr...!\nNext time, prepare to die!
+
+@1949
+Next time,\nI'll beat you!
+
+@1950
+Curse you!\nNext time will be different!
+
+@1951
+%s,\nplease escape!\nEveryone, cover them!
+
+@1952
+%s,\nescape quickly!\nWe'll all cover you!
+
+@1953
+%s,\nescape quickly!\nEveryone, cover them!
+
+@1954
+%s,\nget out of here!\nBoys, cover them!
+
+@1955
+%s,\nescape!\nEveryone, cover them!
+
+@1956
+%s,\nescape!\nWe'll protect you!
+
+@1957
+Perfect!
+
+@1958
+...Saw through it!
+
+@1959
+That attack\ndoesn't work on me!
+
+@1960
+Too slow!\nWhere are you looking?
+
+@1961
+Come on!\nAre you even trying?
+
+@1962
+Here, a sure hit!
+
+@1963
+Yay, I hit it!
+
+@1964
+Right, this is it!
+
+@1965
+Whoa,\nI failed...
+
+@1966
+Tch...\nI let my guard down!
+
+@1967
+Missed!\nI got carried away...
+
+@1968
+Argh!\nThis is so annoying!
+
+@1969
+Tch, I was a bit hasty!
+
+@1970
+Ugh... no,\nit's not over yet.
+
+@1971
+Whoa!\nIt dodged me!
+
+@1972
+Ugh...\nI'm not good at fighting...
+
+@1973
+Admiral, please escape!\nEveryone, cover them!
+
+@1974
+Admiral, we'll cover you,\nso escape!
+
+@1975
+Admiral, please escape!\nEveryone, cover them!
+
+@1976
+Admiral, please escape!\nBoys, cover them!
+
+@1977
+Admiral, escape!\nEveryone, cover them!
+
+@1978
+Admiral, escape!\nEveryone, cover them!
+
+@1979
+Leave the cover to us!\nPlease escape quickly!
+
+@1980
+Let me show you\nmy two-sword technique!
+
+@1981
+Playtime is over!
+
+@1982
+An afterimage!
+
+@1983
+Hakuju Style,\nTwin Shadow Formation!
+
+@1984
+Did you think such a dull\nattack would work on me!
+
+@1985
+Compared to Gerhard's\ntraining, that swordplay\nis child's play!
+
+@1986
+Would such brute-force\nswordplay work on me!\nTake this!
+
+@1987
+Hahaha!\nShowtime\nbegins now!
+
+@1988
+HEY, HEY!\nWhat's wrong with you!\nI'm not even serious yet!
+
+@1989
+Behold the sword I\nforged on the battlefield!
+
+@1990
+Finishing blow!
+
+@1991
+Waaaaah!\nI'll throw you\nright out of here!
+
+@1992
+Look at that,\nwide open!
+
+@1993
+Taoist art!\nHyaaah!!
+
+@1994
+The %s\nhas surrendered!
+
+@1995
+Admiral!\nThe %s\nhas surrendered!
+
+@1996
+The %s\nhas surrendered, boss!
+
+@1997
+The %s\nhas surrendered!
+
+@1998
+The %s\nsays they want to\nsurrender!
+
+@1999
+The %s\nhas surrendered!

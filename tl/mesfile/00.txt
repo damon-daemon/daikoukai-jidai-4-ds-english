@@ -1,0 +1,749 @@
+@0
+Admiral,\nit looks like a crowd has gathered in the plaza.
+
+@1
+Admiral,\nit looks like a crowd has gathered in the plaza, but...
+
+@2
+Hey, Admiral!\nLooks like a crowd's gathered in the plaza!
+
+@3
+Hey, Admiral,\nlooks like a crowd's gathered in the plaza.
+
+@4
+Admiral,\nlooks like a crowd's gathered in the plaza.
+
+@5
+Admiral,\nseems a crowd has gathered in the plaza.
+
+@6
+Hey, Admiral!\nLooks like a crowd's gathered in the plaza!
+
+@7
+Admiral,\nit seems a crowd has gathered in the plaza.
+
+@8
+What can I do for you?
+
+@9
+Thank you very much.\nPlease come again.
+
+@10
+Oh, all right. I'll give you a little discount.
+
+@11
+Will this do?
+
+@12
+Is this okay?
+
+@13
+Is this all right?
+
+@14
+This is what you want, right?
+
+@15
+Is this acceptable?
+
+@16
+Is this okay~?
+
+@17
+Will this do, hm?
+
+@18
+You pay the fee every time you look at prices.\nWhich town's prices do you want to see?
+
+@19
+About the price...\nCould you do a little better?
+
+@20
+About the price, can't you do something?
+
+@21
+About the price...\nCould you think it over a bit?
+
+@22
+About the price...\nCan't you think it over a bit?
+
+@23
+About the price,\ncan't you do a little better?
+
+@24
+Sorry, but about the price,\ncan't you do a little better?
+
+@25
+Hey, give me a little discount!
+
+@26
+About the price,\ncould you think it over a bit?
+
+@27
+There's a ship with no sailors at all.\nHire some, or change the fleet and come back.
+
+@28
+There's a ship without enough sailors.\nBetter check your fleet before setting sail.
+
+@29
+Admiral,\nsome ships need repairs before we sail.
+
+@30
+Admiral,\nit seems some of the ships need repairs...
+
+@31
+Wait!\nThere are ships we have to repair\nbefore we set sail!
+
+@32
+Admiral,\nlet's fix the ships before we sail.\nIt's too dangerous like this!
+
+@33
+Admiral,\nrepairs come before sailing.
+
+@34
+Admiraaal!\nI don't wanna drown!\nLet's go fix the ships first!
+
+@35
+Admiral,\nrepairs come before sailing.
+
+@36
+Admiral,\nour supplies will run out soon at this rate...
+
+@37
+Admiral,\nour supplies will run out soon at this rate...
+
+@38
+Admiral,\nour supplies will be gone soon at this rate...
+
+@39
+Admiral,\nour supplies will run out soon\nlike this.
+
+@40
+Hey, at this rate we'll soon\nhave nothing to eat!
+
+@41
+Oh dear...\nSupplies like these will run out\nin no time.
+
+@42
+Admiral,\nthese supplies seem a little thin...
+
+@43
+Admiral,\nisn't this a bit too few supplies?
+
+@44
+Admiral,\nI'm a little worried about having\nonly this many supplies...
+
+@45
+Admiral,\nisn't this a bit too few supplies?
+
+@46
+Admiral,\nare there too few supplies?
+
+@47
+Admiraaal!\nWill I have enough to eat? Aren't there\na few too few supplies?
+
+@48
+Hmm.\nThe supplies look too few.
+
+@49
+Resupply for %s gold coins?
+
+@50
+Welcome. Please, come in.
+
+@51
+Welcome. What'll it be?
+
+@52
+That will be 10 gold coins.
+
+@53
+5 gold coins.
+
+@54
+%s,\nplease pour for the customer.
+
+@55
+%s, we've got a customer.
+
+@56
+Coming!
+
+@57
+Oh, welcome!
+
+@58
+Oh my! %s,\nwelcome!
+
+@59
+Come on, have another one.
+
+@60
+That will be 20 gold coins.
+
+@61
+That's 10 gold coins.
+
+@62
+Hey, what can I do for you?
+
+@63
+Yes, welcome.
+
+@64
+Those with no business here, leave at once.
+
+@65
+Call at the port of %s?
+
+@66
+Call at the port of %s?
+
+@67
+Call at the port of %s?
+
+@68
+Call at the port of %s?
+
+@69
+Stop by the port of %s?
+
+@70
+Call at the port of %s?
+
+@71
+%s sailors are\nunassigned. Is that all right?
+
+@72
+%s sailors are\nunassigned. Is that okay?
+
+@73
+%s sailors are\nunassigned. Is that all right?
+
+@74
+We have %s sailors\nleft over. Is that okay?
+
+@75
+%s sailors are\nunassigned. Is that all right?
+
+@76
+This month's tribute is\n%s gold coins.\nPlease accept it.
+
+@77
+This month's tribute is\n%s gold coins.\nPlease accept it...
+
+@78
+This month's tribute is\n%s gold coins.
+
+@79
+This month's tribute is\n%s gold coins.
+
+@80
+This month's tribute is\n%s gold coins.
+
+@81
+This month's tribute is\n%s gold coins.\nHere, please accept it.
+
+@82
+This month's tribute is\n%s gold coins.\nPlease accept it.
+
+@83
+%s received\n%s gold coins in tribute\nfrom the towns under\nexclusive contract.
+
+@84
+You earned %s gold coins\nin item rental fees.
+
+@85
+You can sail for about %s days.
+
+@86
+%s/%s\n%s\nDeparted %s.
+
+@87
+Not enough %s.
+
+@88
+The enemy fleet has been wiped out!
+
+@89
+The enemy has fled!
+
+@90
+The town of %s\nhas been destroyed...
+
+@91
+The town of %s\nhas surrendered...
+
+@92
+A financial report has come in\nfrom your affiliated fleets.\nDo you want to hear it?
+
+@93
+The town of %s\nis bombarding\n%s's fleet.
+
+@94
+The town of %s\nis under attack\nby the pirate %s!
+
+@95
+In %s, %s\nsold off a huge amount of %s\nand expanded their market share!
+
+@96
+%s's market share\nhas dropped!
+
+@97
+%s, Lv UP!
+
+@98
+You have no items yet.
+
+@99
+You have not discovered any ruins yet.
+
+@100
+Choose three skills you are good at.
+
+@101
+%s, %s and %s.\nIs that all right?
+
+@102
+You can adjust the volume of\nthe music and sound effects.
+
+@103
+Please enter your birthday.
+
+@104
+A Portuguese boy who\nvaguely longs to be a sailor.\nTalked into going to sea\nby a friend.\nRecommended for\nfirst-time players.
+
+@105
+A Swedish admiral whose\ncountry regained its\nindependence. He leads a\nprivateer fleet, a navy in\nname only, to make Sweden's\nfleet the world's best.
+
+@106
+A Dutch girl with a\nstrong head for business.\nWith her childhood friend\nand partner Kamil, she sets\nout onto the world's seas\nto make a name for herself.
+
+@107
+A female admiral of Ming\nChina. To protect people\ntormented by wako pirates,\nshe defies her country's\nisolation policy and\nfights with a private fleet.
+
+@108
+You need 4 free blocks to save game data.\nYou will not be able to save as it is.\nStart the game anyway?
+
+@109
+You need 1 free block to save system data.\nYou will not be able to save as it is.\nStart the game anyway?
+
+@110
+You need 5 free blocks to save data.\nYou will not be able to save as it is.\nStart the game anyway?
+
+@111
+There is no game data.\nIt cannot be loaded.
+
+@112
+There is no system data.\n
+
+@113
+Not enough free blocks.\n4 free blocks are\nneeded to save\ngame data.
+
+@114
+Not enough free blocks.\n1 free block is\nneeded to save\nsystem data.
+
+@115
+Not enough free blocks.\n5 free blocks are\nneeded to save.
+
+@116
+Checking the memory card.\nDo not insert or remove\nthe memory card or\ncontroller.
+
+@117
+The game data is corrupted.
+
+@118
+The system data is corrupted.
+
+@119
+Save the ending data to the memory card?
+
+@120
+Is everything all right?
+
+@121
+Start the game?
+
+@122
+Failed to load the system data.\nThe game will start with the system data reset.
+
+@123
+Failed to load the system data.\n
+
+@124
+The memory card can be formatted\nwhen you save.\nStart the game?
+
+@125
+Thanks to a huge commercial investment,\nthe economy of %s\nhas recovered.
+
+@126
+Thanks to a huge commercial investment,\n%s is enjoying\na booming economy.
+
+@127
+Choose a town to use as your base.
+
+@128
+You have no contract with that town.
+
+@129
+Starting a patrol.\nChoose a town you have a contract with.
+
+@130
+Sending the fleet into port.\nChoose a town you have a contract with.
+
+@131
+Choose a town to attack.
+
+@132
+You already have a contract with that town.
+
+@133
+That town has a contract with a faction\nother than those at war.
+
+@134
+That town has no contract with the\nfactions at war.
+
+@135
+The townspeople are furious.\nYou cannot enter or leave the town now.
+
+@136
+Select a retail shop sign to hear\nabout trends and other news.
+
+@137
+One of the world's three great grains, along with rice and corn. Native to the Mediterranean. The grain is milled into flour for bread, noodles and more.
+
+@138
+One of the world's three great grains, along with wheat and corn. The hulled seed of the rice plant, Japan's staple food. Also used to make miso and sake.
+
+@139
+One of the world's three great grains, along with wheat and rice. Grown in the New World since ancient times. Also the base of bourbon whiskey.
+
+@140
+A vegetable whose underground tuber is eaten. Native to the New World, with a mild taste and many ways to cook it. In some regions it is a staple food.
+
+@141
+The seeds of the soybean, used to make tofu, miso and more. Said to be native to northern China.
+
+@142
+Fish, eaten raw or grilled. Caught all over the world.
+
+@143
+The meat of cattle, boiled or grilled. In some cultures people do not eat it at all.
+
+@144
+A vegetable native to the New World. Rich in starch, it has more calories than any food except tubers and beans.
+
+@145
+Milk from cows, goats and other animals, fermented with lactic acid bacteria. The flavor varies with the milk, the bacteria and the aging time.
+
+@146
+A vegetable of the nightshade family, also called red eggplant. Native to the New World. Eaten raw or cooked.
+
+@147
+A large perennial herb of the banana family, grown for its fruit. Native to Asia, and a staple food in the tropics. Raw eating bananas are sweeter than cooking varieties.
+
+@148
+A sweetener whose main component is sucrose. Made from sugar cane grown in the tropics, sugar beets and more.
+
+@149
+Nectar gathered from flowers by honeybees and stored in the hive. High in sugar and very nutritious.
+
+@150
+A seasoning that the human body also needs to live. It draws out water and prevents spoilage.
+
+@151
+Oil pressed from olives, common around the Mediterranean. Often used for anchovies preserved in oil. It oxidizes easily and is not good for frying.
+
+@152
+Oil pressed from the kernel of the coconut, also called coconut oil. Used as cooking oil and industrial oil.
+
+@153
+A white, jelly-like fruit native to southern China. Used in desserts of Chinese cuisine.
+
+@154
+The fruit of a birch-family tree found in temperate regions. Also called hazelnut.
+
+@155
+Dried grapes. Harvested in large quantities around the Mediterranean.
+
+@156
+Salted sturgeon roe. A prized delicacy.
+
+@157
+Dried fins of large sharks. The tail fin is the highest grade, ahead of the dorsal and pectoral fins. Soaked until soft, then stewed or used in soup.
+
+@158
+The berry of the pepper plant. Fragrant and fiercely hot, it is used as a spice.
+
+@159
+The dried buds of the clove tree, of the myrtle family. One of the three great spices along with pepper and cinnamon. Fragrant, and often used in meat dishes.
+
+@160
+The seed kernel of the nutmeg, an evergreen tree of the nutmeg family. It removes the gamy smell from meat.
+
+@161
+The dried bark and other parts of the cinnamon tree. Used for its sweet aroma.
+
+@162
+Powdered pimento seeds. Combining the flavors of clove, cinnamon and nutmeg, it is also called allspice.
+
+@163
+Taken from the fruit of an evergreen tree of the legume family. Used as a spice and more.
+
+@164
+The dried stigmas of the saffron flower. A spice used to flavor and color seafood dishes such as bouillabaisse.
+
+@165
+The fermented fruit of the vanilla plant. Native to the New World. It has a distinctive sweet fragrance, and an alcohol extract is used for flavoring.
+
+@166
+The dried fruit of the chili pepper. Native to the New World. Also called red pepper, it has a sharp, fiery heat.
+
+@167
+A drink made by roasting and grinding coffee seeds (coffee beans), then boiling or filtering them. Strongly fragrant and bitter.
+
+@168
+A drink made from the young buds and leaves of the tea plant. By process it is divided into unfermented teas such as green tea, semi-fermented teas such as oolong, and fermented teas such as black tea.
+
+@169
+Cacao beans, the fermented seeds of the cacao tree. They have a distinctive aroma and are the raw material of cocoa and chocolate.
+
+@170
+Tobacco leaves dried, shredded and smoked. Drying methods differ by variety and purpose. Native to the New World, with a distinctive aroma.
+
+@171
+Made by fermenting grapes and grape juice. Because Christianity needed red wine for its rites, it spread around the world along with missionary work.
+
+@172
+A general term for spirits distilled from fruit. Cognac, a grape brandy distilled from wine, is famous. About 40 percent alcohol.
+
+@173
+A distilled spirit with a sweet aroma, made from sugar cane juice or molasses. 40 to 80 percent alcohol.
+
+@174
+A brewed liquor native to Japan, made from rice. 15 to 20 percent alcohol. Also called Nihonshu.
+
+@175
+A metal with a beautiful yellow luster. Used for ornaments and more.
+
+@176
+A metal with a beautiful bluish-white luster. Used for ornaments and more.
+
+@177
+A metal with a beautiful luster like silver. Used for ornaments. Also called platinum.
+
+@178
+Glasswork: vessels and ornaments made of glass. Often made by free blowing, shaping molten glass on the end of a pipe while blowing air into it.
+
+@179
+A general term for pottery and porcelain. Used as everyday tableware and works of art. Shaped by hand, on a wheel, in molds and more.
+
+@180
+Vessels coated with lacquer tree sap, also called lacquerware. They have a base coat and a top coat, and colored lacquers and techniques give variety.
+
+@181
+Work in which the surface is carved and another material set into it to form a pattern. Gold, silver, shell and more are used for the decoration.
+
+@182
+Fleece sheared from sheep and goats, the material for yarn and woolens. Excellent at absorbing moisture, keeping warm and springing back, it has long been used for warm clothing in Europe.
+
+@183
+Fiber produced from the cotton plant. The material for cotton thread and more.
+
+@184
+Thread made by twisting several fibers unwound from silkworm cocoons. It feels stiff and has no luster. The raw thread of silk fabrics.
+
+@185
+Fiber taken from the stalks of hemp, flax, Manila hemp and other plants. Used for clothing, rope and mats. Strong against pulling, it absorbs and releases moisture quickly.
+
+@186
+Cloth woven from animal hair fibers such as sheep, angora and cashmere. It absorbs moisture and is light and warm. Used for clothing such as coats, and for blankets.
+
+@187
+Cloth made from cotton thread. Absorbent, soft on the skin and durable, it is the most practical of fabrics. Used in India since before the common era.
+
+@188
+Cloth woven from silk thread. Soft on the skin.
+
+@189
+Cloth woven from hemp fiber. Worn in summer. Resistant to wear, it absorbs and releases moisture quickly. Used in Egypt since before the common era.
+
+@190
+Woolen cloth used as floor covering. Warm, moisture-proof and decorative. Persian carpets are superb in both art and technique, and are considered the finest hand-woven carpets.
+
+@191
+Cotton cloth dyed in many colors with patterns of people, birds, animals and flowers.
+
+@192
+Antiques of rarity and artistic value. Collectors pay high prices for them.
+
+@193
+The skin of a mammal, tanned with the fur left on. Used in expensive ornaments such as coats, stoles, hats and rugs.
+
+@194
+A visual expression drawn on a flat surface. Classified by technique, such as oil, ink wash and watercolor. Collectors pay high prices for works by famous painters.
+
+@195
+The art of expressing form in three dimensions. Made from soft materials such as clay or hard ones such as wood and stone. Works by famous artists sell for high prices.
+
+@196
+A kind of perfume, also called musk. Taken from the secretion of the musk deer, which contains a fragrant substance. A strong, sweet scent.
+
+@197
+Also called olibanum or frankincense. When burned as incense it gives off white smoke and a wonderful fragrance.
+
+@198
+An animal-based perfume, also called ambergris. Taken from the intestines of the sperm whale. Dried, mixed with lactose and soaked in alcohol, it gives off a sweet fragrance.
+
+@199
+An opaque or translucent stone, also called jadeite, dark green in color. The more valuable, the deeper green and more translucent. In China it is an ornament that doubles as a protective charm.
+
+@200
+The tusks of elephants, prized since ancient times. Milky white and fine-grained, ideal for delicate carving.
+
+@201
+Coral from the sea, worked into decoration. Said to ward off discord between people and the influence of evil spirits. Used since ancient times to decorate weapons.
+
+@202
+The processed shell of the hawksbill, a kind of sea turtle. Translucent yellow with brown mottling. Used for combs, eyeglass frames and ornaments.
+
+@203
+Fossilized resin from ancient trees. Yellowish, transparent or translucent. Used in ornaments such as brooches.
+
+@204
+The clear form of quartz, an oxide mineral. By color it is called amethyst, smoky quartz, rose quartz and so on. Used in ornaments.
+
+@205
+A translucent stone, also called nephrite. It comes in many colors, such as milky white, gray and deep green. Used as a raw stone for ornaments since the Stone Age.
+
+@206
+A gem formed inside pearl oysters and similar shellfish. Colors include white, pink, silver and black. Pinkish, perfectly round pearls are the best.
+
+@207
+A colorless, transparent gem. It has a high refractive index and sparkles brightly. Graded by carat, cut and color clarity, with bluish-white stones the finest.
+
+@208
+A clear blue gem. Held sacred since ancient times, it was used in the rings of Christian clergy. Second only to diamond in hardness and rarity.
+
+@209
+A vivid green gem. In the Middle Ages it was believed to be a protective charm. Famous as a gem loved by Queen Cleopatra.
+
+@210
+A crimson gem. Its deep red color was believed to be an undying flame. Stones the color of pigeon's blood are the finest.
+
+@211
+A deep blue, translucent gem with a glassy luster. Also called lapis lazuli. Treasured in Egypt before the common era.
+
+@212
+Powder from the tip of the rhinoceros horn. Used to reduce fever and as a disinfectant.
+
+@213
+The dried root of the ginseng plant. Native to East Asia. Contains steroids, vitamin B and more, and is used as a nutritive, tonic and heart stimulant.
+
+@214
+Refined from cinchona bark. Used as a fever reducer, tonic and stomach medicine.
+
+@215
+The kernel taken from the fruit of the almond tree. Native to West Asia. Used as a cough remedy.
+
+@216
+A mushroom that grows on insects and other hosts. Prized as a tonic.
+
+@217
+The rhizome of turmeric, from which a hot water extract is used as a yellow dye.
+
+@218
+A dye made by fermenting indigo leaves. Gives a vivid indigo blue.
+
+@219
+A crimson dye. Made by drying and powdering the cochineal insects that live on Mexican cactus.
+
+@220
+A blackish-brown dye. Made by boiling down the fruit of the betel palm.
+
+@221
+A yellow dye made from the rhizome of rhubarb. Native to China.
+
+@222
+A dye made from the rind of the mangosteen. Said to originate near the Malay Peninsula.
+
+@223
+Weapons that fire bullets using the force of gunpowder. They sell well in wartime.
+
+@224
+Weapons that fire large shells. They sell well in wartime.
+
+@225
+Swords and blades. They sell well in wartime.
+
+@226
+Armor and helmets. They sell well in wartime.
+
+@227
+Stone containing the raw material for iron. Processed into stainless steel, steel and more.
+
+@228
+Stone containing the raw material for copper. Copper conducts heat and electricity very well. Processed into coins, pipes, rods and more.
+
+@229
+Stone containing the raw material for tin. Tin is a white metal with a low melting point that stretches well. Processed into tinplate, solder and more.
+
+@230
+Colorless or gray, transparent, with a glassy luster. A raw material of gunpowder, matches and fireworks. Explosive.
+
+@231
+A yellow, nonmetallic solid. Odorless. A raw material for matches, gunpowder and more. Burns with a blue flame when lit.
+
+@232
+Trees felled and cut to suitable sizes and shapes. Used in buildings and ships, and also in furniture.
+
+@233
+Goods made of leather. Hides stripped of hair and tanned are strong, absorbent and breathable. Used for handbags, belts, shoes and more.
+
+@234
+The wax that makes up the honeybee's nest, also called beeswax. Pale yellow, used for candles and more.
+
+@235
+The raw material of rubber. Made by boiling down the sap of the sapodilla tree.
+
+@236
+A fertilizer made of accumulated seabird droppings from tropical coasts and islands. Contains nitrogen, phosphoric acid and more. Also called guano.
+
+@237
+The hide of the caribou, which endures harsh Arctic winters, makes the best cold-weather clothing in the world. The caribou is a deer with magnificent antlers.
+
+@238
+Highly nutritious, and treasured as food since ancient times. Harvested while still green, then left to ripen for about a week before eating.
+
+@239
+Canary-colored crystal. Mined in Rio de Janeiro, known as a paradise of gems, where many crystal mines are found.
+
+@240
+A secretion from the intestines of the male sperm whale. A rare find, in only one or two of a hundred whales. Mixed with perfume, it brings out the scent and makes it last.
+
+@241
+A fine woolen cloth with a warm, smooth feel. The alpaca is a relative of the camel, a rare animal found only in South America.
+
+@242
+King salmon. The largest and longest-lived of the salmon family. It spawns all year round, so its journey up the rivers lasts a long time.
+
+@243
+Looks similar to horse meat. In Japan it has long been treated as a precious food.
+
+@244
+Wool sheared from black sheep.
+
+@245
+Rubies produced in Iceland. Of corundum, the red-tinted stones are called rubies.
+
+@246
+Gems mined at the world's largest diamond mine, in the northern Kalahari Desert.
+
+@247
+Liquor made by fermenting honey. Loved by the Celts and the Vikings. It is also a nourishing food that warms a chilled body.
+
+@248
+Black and green pearls from the black-lipped pearl oyster. Prized for their mysterious color and deep luster.
+
+@249
+Caviar from sturgeon living in Lake Baikal, near the upper reaches of the Yenisei River.

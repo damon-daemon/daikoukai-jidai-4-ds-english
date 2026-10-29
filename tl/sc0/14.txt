@@ -1,0 +1,911 @@
+@202.0040
+Hey, did you hear?
+
+@202.0058
+Hear what?
+
+@202.0066
+About the master of this mansion.
+
+@202.0086
+The mystery illness?
+
+@202.00A4
+That's the one.
+
+@202.00B4
+Everybody's heard about that.
+
+@202.00D8
+But what about afterward?
+
+@202.00F0
+Afterward?
+
+@202.0100
+Apparently he was cured in one go\nby some store-bought medicine.
+
+@202.0136
+Store-bought medicine cured a mystery\nillness?
+
+@202.0160
+Yeah. Amazing, right?
+
+@202.017E
+Yeah... But is it true?
+
+@202.019A
+Seems so. And they say that medicine\ncures every disease there is.
+
+@202.01DC
+Wow!\nI'd like some of that myself.
+
+@202.0206
+Shall we go buy some?
+
+@202.0220
+Yeah, let's go.
+
+@202.0236
+Medicine looks set to become popular in Havana.
+
+@203.0080
+Only that dye can make this color.\nNo doubt about it.
+
+@203.00B6
+Right? If we don't buy it now, the\nother shops will snap it all up.
+
+@203.0114
+But...
+
+@203.0124
+What's the matter? Don't dawdle.\nIt'll be too late once it's sold out.
+
+@203.0162
+There's no need to rush and buy now.\nIt won't sell out that fast, will it?
+
+@203.01AC
+Of course it will!\nIt's incredibly popular.\nIt'll be gone in no time.
+
+@203.01F2
+You think so?
+
+@203.0204
+I do!
+
+@203.0216
+All right, all right. I'll leave it to you.
+
+@203.0236
+Boss, don't sulk.\nAs long as we lock up this color,\nwe're sure to make a profit.
+
+@203.0288
+You think so?
+
+@203.029A
+I know so!
+
+@203.02B0
+Dyes look set to become\npopular in Calicut.
+
+@204.0010
+Hey, have you ever smoked tobacco?
+
+@204.003A
+Wait, don't tell me you\nhaven't tried it yet?
+
+@204.0068
+Nope. Never had the chance.\nI haven't, actually.
+
+@204.0090
+Really?! It's so popular these days!\nYou're probably the only guy in this\ntown who hasn't tried it.
+
+@204.00F4
+I-I am? Now I kind of\nwant to try it too.
+
+@204.011E
+Sure you do.\nAll right, I'll let you try some.\nFollow me.
+
+@204.014E
+O-okay.
+
+@204.015E
+Tobacco looks set to become\npopular in Istanbul.
+
+@205.0010
+Ah, how delicious that was...\nI've never had such a wonderful\nmeal before.
+
+@205.0060
+Truly. The taste was so stimulating.
+
+@205.0088
+Tell me, how do you make such\ndelicious food?
+
+@205.00C2
+Hehehe. This is the secret.
+
+@205.00DE
+?
+
+@205.00E8
+It's called chili pepper. A kind of\nspice, apparently. It goes wonderfully\nwith the ingredients around here.
+
+@205.0148
+Isn't it terribly expensive?
+
+@205.0172
+Not at all.
+
+@205.018E
+Oh, then I needn't worry.\nI might use it in tonight's dinner.
+
+@205.01C8
+I'd like to cook with it too.
+
+@205.01E2
+Then shall I teach you how to cook\nit, starting right now?
+
+@205.021C
+Oh, really?!
+
+@205.0234
+How kind of you.
+
+@205.024A
+We're friends, of course I will.
+
+@205.026C
+Chili peppers look set to become\npopular in Hanseong.
+
+@206.0010
+I had a drink called sake the other day.
+
+@206.0034
+I've had it too.
+
+@206.0048
+It's pretty good, isn't it?
+
+@206.0064
+Apparently it's made from rice.
+
+@206.008C
+Huh, they make it from that stuff?
+
+@206.00B4
+Hmm. Talking about it makes me\nwant a drink. How about a cup\nright now?
+
+@206.00FE
+Oh, sounds good!
+
+@206.0114
+Then it's settled. Let's hurry.
+
+@206.014C
+What did you say?!\n{FI}, did you hear that?!
+
+@206.0176
+Hmmm! I can't just sit here!!\nLet's go buy this sake stuff\nright now!!
+
+@206.01CC
+W-wait, Julio!!\n...\nOh, boy.
+
+@206.0206
+Sake looks set to become popular in Hangzhou.
+
+@207.0010
+Huh?\nDo you smell something good?
+
+@207.0038
+Sniff sniff... Now that you mention it.
+
+@207.0052
+Hey, old man, what's that smell?
+
+@207.0074
+This? It's our specialty.\nLoaded with cheese and delicious!
+
+@207.00B6
+Is it really that good?
+
+@207.00D0
+Don't ask such obvious questions.
+
+@207.00F8
+Then give us one each.
+
+@207.011A
+Right away. Just wait a moment.\nI'll bring it out shortly.
+
+@207.0154
+Here you go.
+
+@207.016C
+Oh, that really was quick.
+
+@207.0186
+Go on, don't think too hard.\nJust try it.
+
+@207.01B6
+All right.
+
+@207.01C6
+Munch munch.
+
+@207.01D6
+Munch munch.
+
+@207.01E6
+Delicioooous!
+
+@207.01FE
+Wow, this is great!\nIncredible!
+
+@207.0220
+Told you!
+
+@207.0232
+We've got to tell everybody about this!
+
+@207.025C
+Yeah!\nOld man, this dish is going to be\na huge hit!!
+
+@207.0294
+Cheese looks set to become\npopular in Veracruz.
+
+@208.0008
+You look like you've got money, friend.\nEeheehee!
+
+@208.003E
+...
+
+@208.0048
+I'll sell you something good.\nHow about 200,000 gold?\nEeheeheehee!
+
+@208.00A8
+Hey now.\nYou're not overcharging us, are you?
+
+@208.00DA.0
+Buy
+
+@208.00DA.1
+Don't buy
+
+@208.00F8
+Generous, aren't you?\nBut this will surely come in handy.
+
+@208.012E
+{FI}'s Charm went up by 1!
+
+@208.0178
+All right, all right.\nHow about 100,000 gold?\nEeheeheehee!
+
+@208.01CC
+(...Admiral, if he dropped to half the\nprice in one go, he must have been\ngouging us badly. I think we can\nhaggle two more times.)
+
+@208.0246.0
+Buy
+
+@208.0246.1
+Don't buy
+
+@208.0264
+Eeheeheehee. Impressive, friend.\nThis will surely come in handy.
+
+@208.02C2
+Then how about 70,000 gold?\nEeheeheehee!
+
+@208.030C
+(If it were me, I'd try haggling\nonce more.)
+
+@208.0340.0
+Buy
+
+@208.0340.1
+Don't buy
+
+@208.035E
+Here it is.\nIt'll surely come in handy.\nEeheeheehee!
+
+@208.03B6
+You're surprisingly stingy, friend.\nHow about 50,000 gold?\nEeheehee!
+
+@208.0420
+(In your place, I'd push\nonce more, I would.)
+
+@208.045A
+(Let's make him drop it even more!)
+
+@208.0484.0
+Buy
+
+@208.0484.1
+Don't buy
+
+@208.04A2
+You're quite the operator, friend.\nHere's the goods. Take it.
+
+@208.04FE
+40,000 gold...\nEehee.
+
+@208.0532
+(This may be a good time to buy.)
+
+@208.055A.0
+Buy
+
+@208.055A.1
+Don't buy
+
+@208.0578
+Thought you weren't going to buy.\nHere, this is it.
+
+@208.05C4
+Please, buy it already.\n30000 gold will do.
+
+@208.0608
+(It won't go any lower than this.)
+
+@208.0634.0
+Buy
+
+@208.0634.1
+Don't buy
+
+@208.0652
+Tch, sold it way too cheap.\nWell, take good care of it.
+
+@208.06B8
+Hmph, you have no eye for quality!
+
+@208.06E4
+I'll sell it to someone else, then!
+
+@209.0008
+Hey there, handsome.
+
+@209.0026
+Are you talking to me?
+
+@209.0042
+Would you buy this book\nfor 8500 gold?
+
+@209.0072
+What kind of book is it?
+
+@209.0084
+An Indian classic, a love story about\na celestial maiden and a sage.\nWell?
+
+@209.00C6
+Admiral, what shall we do?
+
+@209.00E6.0
+Buy it
+
+@209.00E6.1
+Don't buy
+
+@209.00E6.2
+Leave it to you
+
+@209.0114
+I think I'll take it.
+
+@209.0130
+I hope you find love with a celestial\nmaiden too.
+
+@209.015A
+Unfortunately, I'm not interested.
+
+@209.017A
+Oh my.\nSuch a handsome man, what a waste.
+
+@209.01BC
+No, I'll pass.
+
+@209.01D8
+I see, too bad.\nI'll find someone else to buy it.
+
+@209.0214
+I'd like to buy it, but I don't\nhave that kind of money.
+
+@209.0246
+I see.
+
+@209.0256
+I'm sorry to disappoint you.
+
+@209.027A
+Then you can have it.
+
+@209.0290
+What?!
+
+@209.02A0
+Hehehe...\nNext time, I'd like to fall in love\nwith a man like you.
+
+@209.02DE
+S-she vanished...
+
+@209.02F2
+Could she have been a celestial\nmaiden...? Heh, what a foolish thought.
+
+@209.0344
+Ian's Charm went up by 1!
+
+@210.0012
+Any bad children here? Any bad children?
+
+@210.0038
+Any bad children here? Any bad children?
+
+@210.005E
+Are you a bad child?
+
+@210.0078
+Who goes there!
+
+@210.0086
+Are you a bad child?
+
+@210.00A0
+...You're a Namahage!
+
+@210.00BE
+Are you a bad child?
+
+@210.00D8
+I have no recollection of misdeeds.
+
+@210.00F8
+I see...
+
+@210.0118
+...
+
+@210.0124
+A dream, then.
+
+@210.0146
+Whoa, what the heck is this?!
+
+@210.0170
+Hm?!
+
+@210.017E
+...
+
+@210.018A
+Strange things do happen.
+
+@210.01AC
+I shall hand this to the Admiral\nin the morning.
+
+@210.01F4
+...What is going on here?!
+
+@211.000A
+Hey, look at this!
+
+@211.0022
+At what?
+
+@211.0030
+This! This!
+
+@211.0050
+Who is this?
+
+@211.0064
+You really don't know?
+
+@211.0080
+Nope.
+
+@211.008C
+Listen, this is\nRocco Alemquer!\nA legendary mate!
+
+@211.00D4
+Hmm.
+
+@211.00E2
+"Hmm," he says... Come on!\nHe's a hugely important man who\nsupported mighty Portugal!
+
+@211.0136
+Then he's a senior of ours, right?
+
+@211.015E
+Right! And listen to this...
+
+@211.017A
+Thud!
+
+@211.018C
+...What was that?
+
+@211.019C
+?\nIt sounded like it came from the\npainting. Let's check the portrait.
+
+@211.01D6
+Y-yeah.
+
+@211.01EC
+Oh! Behind the painting...\nA book fell out.
+
+@211.021A
+Could this be a book that\nRocco wrote?!
+
+@211.0250
+Yeah, maybe.\nHeave-ho.
+
+@211.0278
+Where are you going?
+
+@211.028E
+To give this book to the innkeeper.
+
+@211.02BC
+What?!\nYou're going to give this away?!\nIt's probably the only copy in the\nworld!
+
+@211.030E
+What are you saying? Of course.\nThis painting belongs to the inn.
+
+@211.0356
+B-but the innkeeper said he's not\ninterested in a book like this!
+
+@211.038C
+That's not the point.
+
+@211.03AA
+...
+
+@211.03B4
+Whoa! What's that?!
+
+@211.03CE
+What is it?
+
+@211.03E2
+Give me that!
+
+@211.03F4
+Hey!
+
+@211.0406
+Clau!
+
+@211.041E
+Is something the matter?
+
+@211.043C
+Oh, no, um, well,\nit's nothing!
+
+@211.046C
+I see.
+
+@211.047C
+Make yourselves at home.
+
+@211.049C
+Oh, yes, thank you very much.
+
+@211.04C6
+Phew.\n(Honestly, that Clau!)
+
+@212.000A
+Thud!
+
+@212.001A
+Oh!
+
+@212.0028
+...Ugh...
+
+@212.003E
+What happened?!\nAre you all right?!
+
+@212.0066
+Ugh, urgh...
+
+@212.007E
+You've come to.
+
+@212.0096
+...Where am I?
+
+@212.00B2
+At an inn. You collapsed at the\nharbor, so I had you brought here.
+
+@212.00F8
+I see.\nI'm sorry for the trouble.
+
+@212.0126
+Not at all, it was nothing.\nYou look very pale, though.\nRest quietly for a while.
+
+@212.0190
+Well then, I'll be on my way.\nTake care of yourself.
+
+@212.01C2
+Oh, wait.\nAre you a doctor?
+
+@212.01FA
+No, I'm not.
+
+@212.0210
+I see. It's hardly a thank-you, but\nplease take this with you.
+
+@212.026E
+No, really, don't trouble yourself.
+
+@212.0290
+I wouldn't feel right otherwise.\nPlease, accept it.
+
+@212.02D0
+I see.\nIn that case, I'll gladly accept.\nNow, please look after your health.
+
+@212.0328
+I will.\nThank you so much, truly.
+
+@212.0364
+Carlo's Charm went up by 1!
+
+@213.0008
+Your mast ropes are\nquite worn out.
+
+@213.0030
+Are they?\nI don't think so.
+
+@213.0058
+Oh, they are. You should really switch\nto this rope. They say it has\nmysterious power.
+
+@213.00CC
+Oh.\nYou'll swap it for free?
+
+@213.00F6
+O-of course not!\nI'll give you a discount, naturally.\nSay, 300,000 gold coins?
+
+@213.0156
+Hey, hey, hey!\nYou're not planning to buy it at\nthat price, are you, Admiral?
+
+@213.01A0
+However special it is, that's a joke\nfor a mast rope. 30,000 gold at\nthe very most.
+
+@213.0210
+W-wait a moment! There's nothing\nelse like it in the world!\nThen how about 200,000 gold coins?
+
+@213.0280
+50,000.
+
+@213.0292
+Hmm. 150,000 gold coins.\nPlease, let me have that much.
+
+@213.02CC
+75,000 gold.
+
+@213.02E0
+Oh, dear. Then 100,000 gold coins.\nI can't go lower than that.
+
+@213.0322
+Hmm, well, that's about right.\nWhat will you do, Admiral?
+
+@213.035C.0
+Buy
+
+@213.035C.1
+Don't buy
+
+@213.037A
+Yes, leave the rest to me.
+
+@213.03A4
+Okay, I'm counting on you.
+
+@213.03D4
+Right, old man, bring the rope\nto the deck.
+
+@213.03FE
+Yes. Thank you for your business.
+
+@213.042A
+{FI}'s Charm\nwent up by 1!
+
+@213.044E
+Carlo's Wits\nwent up by 1!
+
+@213.0484
+There's no need to replace a rope\nthat's still good.
+
+@213.04B8
+I see. Then I'll decline.
+
+@213.04E2
+You're not buying?!\nDon't just window-shop.
+
+@213.0518
+No, no, I'm truly sorry about that.\nForgive me.
+
+@213.054E
+{FI}'s Spirit\nwent up by 1!
+
+@214.0008
+Hey, you.
+
+@214.0020
+Hm?
+
+@214.002E
+I'm giving you this.\nDo whatever you like with it!
+
+@214.005E
+Huh?
+
+@214.006A
+There he is! Stop right there!
+
+@214.0092
+!?
+
+@214.00A0
+See you!
+
+@214.00B4
+Stop right there!
+
+@214.00C8
+W-wait a second...!
+
+@214.00E8
+What are you doing, Admiral?
+
+@214.010A
+Somebody forced this on me.
+
+@214.0130
+What is it?
+
+@214.0148
+It looks like a book.
+
+@214.015E
+Let's see.\n"Glassmaking Book"...
+
+@214.0184
+Hmm.\nWhy not just keep it?
+
+@214.01B2
+But...
+
+@214.01C0
+If someone gives you something,\nyou should just take it.
+
+@214.01F2
+Oh, and let me see it later.
+
+@214.0216
+...So that was what you were after.
+
+@215.0008
+Hmm, what's this?
+
+@215.0020
+Did you find something?
+
+@215.003A
+This, this.
+
+@215.0052
+Hmm. Is it some kind of bug?
+
+@215.0070
+But there's a strange plant\nsprouting from it.
+
+@215.009A
+You're right.
+
+@215.00A8
+That is called cordyceps.
+
+@215.00D2
+!?
+
+@215.00DE
+In China, it is prized as medicine.
+
+@215.010E
+This is medicine?
+
+@215.0128
+Hmmm, medicine, eh...
+
+@215.0140
+That's right. Here, take this.
+
+@215.0162
+What is this?
+
+@215.017C
+It has a lot written in it about\nmedicinal ingredients.
+
+@215.01B4
+I couldn't accept something\nso valuable.
+
+@215.01E8
+I have no more use for it.\nYou may have it.
+
+@215.0224
+But...
+
+@215.0232
+Hohoho.\nYour friend seems to want it.
+
+@215.0264
+Eh? Well,\n...I just wanted to read\nthat book a little.
+
+@215.02A6
+All right.\nCould I buy it from you for 1000 gold?
+
+@215.02DC
+Hohoho.\nThen 100 gold will do.
+
+@215.0316
+{FI}'s Charm\nwent up by 1!
+
+@216.0008
+I'm bored. Think I'll go out somewhere.
+
+@216.002E
+Ma'am, is there anywhere fun\naround here? I want to take a walk\nto kill time.
+
+@216.0080
+Well, if you go east, there's the\nlord's castle.
+
+@216.00B8
+A castle...? Oh, a castle!\nNice. Let's go see a castle of this\ncountry.
+
+@216.0104
+Jam, where have you been?!\nI looked all over for you!
+
+@216.013C
+Sorry, sorry.\nThis thing is heavy.
+
+@216.0166
+W-what is that? What happened?
+
+@216.0188
+Isn't it obvious? A figurehead!\nGenuine, authentic\nMade in Japaaan!
+
+@216.01D6
+Folks here don't seem to know what\nto do with a figurehead, so I went\nand showed them. They gave me this\nas thanks.
+
+@216.0246
+Huh... Oh well.\nWe're leaving, so get ready quick.
+
+@216.027A
+Yeah, okay.\nGive me a minute.
+
+@216.02AE
+M-my lord! My lo-ord!\nSomething terrible has happened!
+
+@216.02E0
+What is it?! Making such a racket\nthis early in the morning!
+
+@216.0304
+The shachihoko has vanished, and\nthere's a letter in foreign writing!
+
+@216.0348
+What?! The shachihoko has vanished?!\nThis is terrible! Find that thief\nat all costs!
+
+@216.03B6
+As you command!
+
+@216.03D0
+To the Lord of Japan, with respect
+
+@216.03EE
+That statue is called a "figurehead."\nIt goes on ships, not castles.\nIt must have gotten garbled\nhalfway across the sea.
+
+@216.045E
+Oh, no need to thank me. I'll take\none leftover piece as payment.\nOne figurehead per ship, remember\nthat.
+
+@216.04CE
+Well, take care.\n          Jam Jacques Ludoyen

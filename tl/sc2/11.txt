@@ -1,0 +1,917 @@
+@277.0008
+Oh, Gabriel!
+
+@277.0020
+All right, I'm sorry. I won't do it again.
+
+@277.0040
+Can I really trust him that easily...?
+
+@277.0060
+Anyway, thanks a lot.\nHere's the rest of your reward.\nTake it.
+
+@277.012A
+Havana's share went up a little!
+
+@277.0170
+Hey, have you ever been to the village\nfar to the north of the New World?
+
+@277.01B6
+A while back, a high-ranking monk from\nthis town crossed to the northern\ncontinent to spread the faith...
+
+@277.0200
+Apparently he vanished after finding\nthat village. I hope he's safe.
+
+@278.0018
+We're supposed to find Gabriel's fleet\nin the New World, right?
+
+@278.0054
+Hurry up and tie that rascal\nGabriel up for me.
+
+@283.0280
+All right, let's go!
+
+@283.03B0
+Shoot it!
+
+@283.0648
+Shh, hold still and bear it!
+
+@283.06FC
+Huh? Where's Emilio?
+
+@283.0728
+I told him to play dead, and he's\nreally asleep... I can't believe it.
+
+@283.0C04
+Run for it!!
+
+@285.0008
+Oh, good, you came.\nI'd like to ask you for a favor.
+
+@285.004C
+Deliver about 200 barrels of wine\nto this town's Market.\nThat's two cargo holds' worth.
+
+@285.00AA
+Big orders keep coming in lately, and\nthey're running short. Collect your\nreward from the Market.
+
+@286.0018
+Right, right. I'm supposed to deliver\ntwo loads of wine to the Market\nin London.
+
+@286.005C
+Come on, hurry and get that wine\nto the Market.
+
+@287.0008
+Oh, did you bring in the stock?
+
+@287.0030
+Thanks. Here's your reward.
+
+@287.0052
+You received 8000 gold coins.
+
+@287.00FC
+Does wine sell well in this town?
+
+@287.0126
+Lately some odd folks have been holding\nfestival-like goings-on around the\nruins. They buy up loads of wine.
+
+@287.0190
+Where are those ruins?
+
+@287.01B2
+A bit outside of town. With a map\nyou should be able to get there easily.
+
+@287.0212
+Those people bought up all the maps\nsold in this town. But I heard there\nare still some left in Amsterdam...
+
+@287.028A
+A map, like this?
+
+@287.02A6
+Yeah, that's the one!\nDon't tell me, girl, you're one of them...
+
+@287.02E2
+Of course not!\nHahaha!
+
+@288.01F8
+Ugh, a jungle...\nThere'll be snakes and bugs...\n...Maybe I'll just rest in town.
+
+@288.025E.0
+If you don't come, it'll hurt\neveryone's morale!
+
+@288.025E.1
+Admiral, what are you saying?!
+
+@288.025E.2
+If you're not there,\nwho's going to lead us?!
+
+@288.025E.3
+Admiral, you can't!\nIf you don't come, there'll be\nno one to lead us!
+
+@288.025E.4
+What are you talking about, Admiral?!
+
+@288.025E.5
+If the Admiral doesn't come,\nthe men's morale will drop, hmm.
+
+@288.025E.6
+No wayyy, Admiral, come with us too!
+
+@288.025E.7
+A party without its Admiral?\nI've never heard of such a thing.
+
+@288.03CE
+What are you saying, {FI}?!\nYou're the Admiral, so you have to\ncome along!
+
+@288.0418
+Ugh, fine, I get it!\nI'll go! I said I'll go!
+
+@288.046E
+That's right, just follow along.\nDon't worry about it.
+
+@288.04AC
+Whoa... this cave is pitch black!\nOkay, let's turn back!
+
+@288.04F6.0
+No, Admiral.\nThere's nothing to do but go in!
+
+@288.04F6.1
+No, Admiral. Let us press on.
+
+@288.04F6.2
+Come on, quit joking.\nWe have to get inside!
+
+@288.04F6.3
+Oh, you're always joking.\nAdmiral, let's hurry inside!
+
+@288.04F6.4
+Now you say that?\nLet's get going, Admiral.
+
+@288.04F6.5
+What are you saying?\nCome on, Admiral, we're going in.
+
+@288.04F6.6
+I'm scared too, but...\nwe have to go.\nLet's go in, Admiral.
+
+@288.04F6.7
+Don't say such things.\nCome now, Admiral, shall we go in...
+
+@288.066C
+W-what are you saying?!\nYou're supposed to say, "All right,\nlet's go"!
+
+@288.06D4
+Huh, don't tell me...\n{FI}, are you scared of caves?
+
+@288.0700
+I-I am not!\nL-let's go, Kamil!
+
+@288.073E
+Ugh...\nIt's so dark, it creeps me out...
+
+@288.0790
+This darkness... hmm hmm hmm...\nWhat a chance!!!
+
+@288.07BA
+Hm, hm, hm, hmmm!\n{FI}, my dear!
+
+@288.07E2
+Mmm, this is the best!
+
+@288.07F8
+Um... Mr. Mikhail...\nThat's, um, my...
+
+@288.0828
+Huh...\nMy apologies...
+
+@288.09A8
+Eeek! Hurry up and shoot it!
+
+@288.09FC
+What?! It's quick!
+
+@288.0C4C
+Hmm... the injured just keep piling up.\nIf it comes to that, it's swords\nfor us!
+
+@288.0FFA
+I can see a streak of light over there...\nYay!\nWe can get out of the cave now!
+
+@289.0064
+Young lady, are you planning to look\nfor the temple of the ancient kingdom?
+
+@289.0094
+Huh? Who are you?
+
+@289.00B0
+{FI}, really!\nHe's the elder of a nearby village!
+
+@289.00EC
+S-sorry about that! Come on,\n{FI}, apologize too!
+
+@289.011A
+Hohoho, never mind, never mind.
+
+@289.0146
+You should be able to find it.\nHowever...
+
+@289.017E
+However?
+
+@289.018E
+No, no, it's nothing.\nHohoho.
+
+@289.01C0
+?\nHow odd.
+
+@290.0008
+...That's it, I give up.\nI don't get it at all!\nWhat is the mystery of Angkor?!
+
+@290.0056
+"Adorn me as purely as a new star"...\nThat's what it said, right?\nWhat could it mean?
+
+@290.00A4
+From the beginning...\nthe guy said he has gold like the sun\nand silver like the moon, right?
+
+@290.0100
+Right. And then he said,\n"Yet I have never known the shine of\nstars"...
+
+@290.014A
+If it's not gold or silver...\nthen is the "star" a precious metal\nmore valuable than gold or silver?
+
+@290.01AE
+Admiral, there's a book called the\n"Alchemy Book" that supposedly describes\nan element nobody has ever seen.
+
+@290.020A
+Really?!
+
+@290.021C
+I've heard the alchemist who wrote\nthat book went to the New World.
+
+@290.026A
+The fact that nobody knows is\nsuspicious. That must be it!
+
+@290.02A4
+The sun is gold and the moon is silver,\nis it... Then the "star" may be the\nmetal I've long searched for,\n"platinum"...
+
+@290.0312
+Platinum?!\nI don't really get it, but\nthat must be it!!
+
+@290.0350
+You know, the one written about in\nthat "Alchemy Book"...
+
+@290.0380
+Oh, that thing!\nThen let's load some platinum\nonto the ship!
+
+@290.03C4
+Yes.\nI believe it's mined south\nof Africa, if I recall.
+
+@291.0008
+Aaargh!\nI can't solve the mystery of Angkor at all!
+
+@291.003C
+"Adorn me as purely as a new star"...\nWhat does it mean?
+
+@291.0078
+The sun stands for gold\nand the moon for silver, right?
+
+@291.00A2
+Yes. That's what he said, all right.
+
+@291.00C4
+Then what about the star?
+
+@291.00DA
+That's the mystery. If we only knew\nthat, we could solve the whole thing.
+
+@291.011C
+He has gold and silver but still\nhasn't known the shine of stars...\nMust be an awfully rare precious metal?
+
+@291.017E
+Isn't that platinum?
+
+@291.01B4
+Platinum?\nWhat's that?
+
+@291.01D0
+A precious metal.\nYou can find it around here, but\nnot without a certain book.
+
+@291.021C
+What book?
+
+@291.0230
+Some book about alchemy or other.\nSupposedly it was written by someone\nwho went to the New World years ago.
+
+@291.0294
+The New World, huh...
+
+@291.02AA
+Platinum?!\nOh! From that alchemy book!!\nThat must be it!!
+
+@291.02EA
+So we should load platinum\nonto the ship, right?
+
+@291.031A
+You can get platinum here in Africa.\nBy all means, buy some.
+
+@292.0020
+Adorn me with the pure shine of a new star.
+
+@292.004C
+The shine of a new star...\nWhat should I bring?
+
+@292.0090
+Heave-ho, heave-ho.
+
+@292.00A6
+We've carried the platinum, but...\nIs this really enough?
+
+@292.00E6
+O sage who brings the pure shine\nof a new star!
+
+@292.0124
+With your wisdom, raise a storm upon\nthe great sea!\nThen grant me peaceful slumber!
+
+@292.0182
+...This is a really old coin.
+
+@292.01BA
+What did that voice mean?
+
+@292.01E4
+Who knows?\nBut whoever it was, they seemed\npretty satisfied.
+
+@292.021E
+Yeah.\nThis coin is sure to come in handy\nsomehow.
+
+@293.0204
+Phew...\nWe finally made it to the top!
+
+@293.0252
+There must be a clue to the Victor's Mark\nin these ruins...
+
+@293.02A2
+Huh? Why?
+
+@293.02BE
+Just a feeling.\nI can't explain it, but I think so.
+
+@293.0308
+Let's go carefully.\nIn a place like this, a little\ncowardice is just right.
+
+@293.0356
+Huh? I can't see ahead very well...?
+
+@293.038C.0
+Admiral, it's fog!\nBe careful!
+
+@293.038C.1
+It seems to be fog.\nLet us proceed with caution.
+
+@293.038C.2
+What thick fog.\nI can't see anything around us.
+
+@293.038C.3
+So much fog!\nWe can't tell who's where at all.
+
+@293.038C.4
+Damn...\nThe fog's so thick I can't see.
+
+@293.038C.5
+Admiral, it's fog.\nWatch your step.
+
+@293.038C.6
+It's super foggy!\nWaah, I can't see anything!
+
+@293.038C.7
+Fog, I see...
+
+@293.04D2
+That's some fog. In no time, we\ncouldn't see anything around us.\n{FI}, are you okay?
+
+@293.0528
+Who's that in front of me?!\n...Oh, I just walked into a tree.\nOwww.
+
+@293.058C.0
+Admiral, what shall we do?
+
+@293.058C.1
+Admiral, what shall we do?
+
+@293.058C.2
+Admiral, what do we do?
+
+@293.058C.3
+Admiral, what shall we do?
+
+@293.058C.4
+Admiral, what's the plan?
+
+@293.058C.5
+Admiral, what'll it be?
+
+@293.058C.6
+Admiraaal, what do we do?
+
+@293.058C.7
+Admiral, what shall it be?
+
+@293.0644
+Hmm...
+
+@293.0654.0
+Wait a while
+
+@293.0654.1
+Hurry out of here
+
+@293.0696.0
+We're waiting here?
+
+@293.0696.1
+So we're waiting here...?
+
+@293.0696.2
+We're waiting here, right?
+
+@293.0696.3
+You mean we wait here?
+
+@293.0696.4
+We're waiting, are we?
+
+@293.0696.5
+We wait, then?
+
+@293.0696.6
+Whaaat, we're waiting?\nI'm hungry!
+
+@293.0696.7
+I see, we wait.
+
+@293.0772
+Whaat? In this fog?
+
+@293.0796
+There's no way we can move in fog\nlike this. We'd definitely get separated.\nIt'll be fine, it'll clear up!
+
+@293.0804.0
+I see.\nAs expected of the Admiral.
+
+@293.0804.1
+Hm...\nAs expected of the Admiral.
+
+@293.0804.2
+I see.\nAs expected, Admiral!
+
+@293.0804.3
+Oh, I see!\nThat's our Admiral!
+
+@293.0804.4
+So that's it.\nAs expected of you, Admiral!
+
+@293.0804.5
+I see. As expected of the Admiral.
+
+@293.0804.6
+Oh, I see!\nAdmiral is so smart!
+
+@293.0804.7
+What a way of thinking.\nAs expected of the Admiral.
+
+@293.090C
+Of course.
+
+@293.091E
+That's true.\nFor you, {FI}, that's\na good call!
+
+@293.094C
+My calls are always "good calls"!
+
+@293.09A4
+Yay, the fog is clearing!\nAll right, everyone, let's move on!
+
+@293.09FE.0
+Admiral, are you serious?
+
+@293.09FE.1
+Admiral, are you serious?
+
+@293.09FE.2
+Is that really okay?
+
+@293.09FE.3
+We're going on in this?!\n...Is that okay?
+
+@293.09FE.4
+Hey, hey, you serious?
+
+@293.09FE.5
+Are we really going, hmm?
+
+@293.09FE.6
+R-really? Will we be okay...
+
+@293.09FE.7
+Will that be all right...
+
+@293.0AC2
+Huh, in this fog?\nWill we be okay...?
+
+@293.0AF0
+It'll be fine!\nCome on, let's go!
+
+@293.0B2A
+W-wait for me!
+
+@293.0B50
+Is everyone keeping up?
+
+@293.0B7E.0
+It seems\nsome of us got separated...
+
+@293.0B7E.1
+...It seems\nsome of us got separated.
+
+@293.0B7E.2
+We couldn't see well, so\nsome people got separated...
+
+@293.0B7E.3
+We're a few short...\nSome of us got separated, it seems...
+
+@293.0B7E.4
+Some of the guys got separated.\nWell, not much we could do in this fog...
+
+@293.0B7E.5
+...Some of the men seem\nto have gotten separated.
+
+@293.0B7E.6
+Um... some are missing.\nThey must have gotten separated\nin the fog...
+
+@293.0B7E.7
+Hmm... it seems a few of us got\nseparated because of the fog.
+
+@293.0D12
+We couldn't see ahead in the fog,\nso some of us got separated.
+
+@293.0D5A
+The number of sailors dropped a little!
+
+@293.0D9A
+Oh, is this the place?!
+
+@293.0DC6
+Looks like we've arrived!
+
+@294.000C
+Huh?\nThis sign says it's a dead end ahead.
+
+@294.0038
+Sorry about that. The road to those\nruins was closed recently because\nof a rockfall.
+
+@294.009A
+Then we can't go to the ruins?
+
+@294.00C2
+Then we can't go to the ruins?
+
+@294.00F0
+Hmm, not for a while, I'd say.
+
+@294.0130
+Who knows. Nobody goes out that far,\nso it could be ten years, or twenty...
+
+@294.019E
+What do we do, {FI}?\nWe can't wait that long, right?
+
+@294.022E
+Even the locals hardly ever try it.
+
+@294.025A
+Then I'll show you I can climb it!
+
+@294.027C
+You seem determined.\nAll right. For you, I'll do it.
+
+@294.0312
+Yes. That place is a hidden village of\nChristians. Even I don't know the exact\nroute after the cliff. I think you can\nget one in some Mediterranean town.
+
+@295.0008
+There's something I'd like\nyou to find.
+
+@295.0032
+The next time His Majesty the Emperor\ninvites the kings of his vassal states,\nhe'll show his collection to the guests.
+
+@295.009E
+What kind of collection?
+
+@295.00B8
+His Majesty collects rare curiosities\nfrom around the world. Before the\nshowing, he wants one particular item\nadded to the collection.
+
+@295.0134
+What is it?
+
+@295.014E
+It's called "Heaven's Wristband."\nThey say whoever wears it is granted\nsuperb powers of leadership.
+
+@295.01C6
+Well, I suppose it's meant to show off\nthe dignity of the Ottoman Empire.
+
+@295.0208
+Dignity, huh...\nKings in every country are just as\nvain, aren't they?
+
+@295.024A
+I hear he's even said he'll postpone\nthe ceremony until it's found.
+
+@295.0296
+Is he serious?!\nThat's so childish...
+
+@295.02C2
+Now, now, don't say that. Please find\nit somehow and bring it here. Just\nlend it to us for a day, that's all.
+
+@295.033A
+Rumor has it, it's somewhere in the\nNew World. Well then, I'm counting\non you.
+
+@296.0028
+Where could Heaven's Wristband be?\nThe New World is a big place,\nyou know...
+
+@296.0084
+I have to take this Heaven's Wristband\nto the Guild in Istanbul\nright away.
+
+@296.00EA
+Haven't you found Heaven's Wristband\nyet?
+
+@297.0008
+Oh, you found it?\nThank you.\nThen wait just one day.
+
+@297.0066
+His Majesty was delighted!\nYou saved my face!\nI'll make the reward generous!
+
+@297.0138
+Istanbul's share went up\na little!
+
+@297.0176
+If you ever need to know anything\nabout this town, just ask.
+
+@298.0008
+The Guild in Istanbul has been\nlooking for you.
+
+@299.0156
+Ugh. Why am I in a place like this?\nThere must be bugs and snakes\neverywhere...
+
+@299.01C6
+Come on, it'll be fine...\nprobably.
+
+@299.0216
+Eeeek!\nG-giant snake!!
+
+@299.024E.0
+W-what shall we do?
+
+@299.024E.1
+Hm... Admiral,\nwhat shall we do?
+
+@299.024E.2
+Whoa! A-Admiral,\nwhat do we do?
+
+@299.024E.3
+Eeek! A-Admiral,\nwhat do we do?
+
+@299.024E.4
+Admiral, what's the plan?
+
+@299.024E.5
+Admiral, what'll it be?
+
+@299.024E.6
+Waah! I'm scared!\nHey, what do we do?
+
+@299.024E.7
+Hmm. Admiral,\nwhat's to be done?
+
+@299.0358
+This is no time to be frozen stiff.\nWhat do we do?
+
+@299.03A8
+...But I can't fight, you know!\nAll of you, take care of it!\nI really can't do this!
+
+@299.042C
+Did they get rid of it...?
+
+@299.0456.0
+It's all right now.\nThe serpent fled deep into the forest.
+
+@299.0456.1
+It's all right.\nThe serpent fled into the forest.
+
+@299.0456.2
+Yeah, it ran off\ndeep into the forest.
+
+@299.0456.3
+It's okay now!\nThe snake ran deep into the forest!
+
+@299.0456.4
+Yeah, it ran off that way.
+
+@299.0456.5
+Looks like it fled deeper in.\nNo need to worry now.
+
+@299.0456.6
+Yeah!\nIt ran away somewhere.
+
+@299.0456.7
+It seems to have fled deeper in.\nNo need to worry now.
+
+@299.05AA
+Yeah. It ran off deeper\ninto the forest.
+
+@299.0612
+Of course not.\nWe run!
+
+@299.064A
+A-Admiral! Wait for us!
+
+@299.0674
+Wait, {FI}!\nEveryone, let's get out of here!\nStay close behind me!
+
+@299.06CC
+Phew, we're saved... Oh, come to think\nof it, is everyone all right?
+
+@299.0718.0
+That's cruel, Admiral.\nPlease say something before you run.
+
+@299.0718.1
+Admiral, that's cruel.\nTo run off all of a sudden...
+
+@299.0718.2
+Come on, that's not fair.\nRunning off all of a sudden!\nIt was rough on everyone!
+
+@299.0718.3
+Admiral, that's mean.\nIf you're going to run, say so first!
+
+@299.0718.4
+Hey, Admiral!\nIf you're gonna run, say so first!
+
+@299.0718.5
+You suddenly ran off, Admiral.\nIt was hard on the rest of us.\nWhat were you thinking?
+
+@299.0718.6
+Admiral, that's mean!!\nRunning away all of a sudden!\nIt was so hard on us!
+
+@299.0718.7
+That's unkind, Admiral.\nIf you are going to run, you\nmust tell us first.
+
+@299.090C
+T-that's mean, {FI}.\nYou just ran off.
+
+@299.093E
+Oh, sorry, sorry.\nI just can't stand snakes.
+
+@299.0974
+Anyway, I'm glad everyone's safe.\nNow, let's set out again!
+
+@299.09C6
+...H-huh? N-no way...\nI can't get out!\nHelp me!
+
+@299.0A1C.0
+Admiral, don't move!\nIt might be a bottomless swamp!\nWe'll help you now!
+
+@299.0A1C.1
+Admiral! We'll help you now!\nIt might be a bottomless swamp!
+
+@299.0A1C.2
+Admiral, are you okay?!\nWe'll all help, so hold still!
+
+@299.0A1C.3
+Admiral, it might be a bottomless\nswamp! Don't move!
+
+@299.0A1C.4
+Admiral, it might be a bottomless\nswamp! We'll give you a hand,\nso hang on!
+
+@299.0A1C.5
+This might be a bottomless swamp!\nHold on, Admiral!
+
+@299.0A1C.6
+Waaah, Admiraaal!
+
+@299.0A1C.7
+It might be a bottomless swamp!\nThis is serious.
+
+@299.0BB4
+{FI}!!\nDon't move!\nIt might be a bottomless swamp!\nWe'll help you now!
+
+@299.0C2C.0
+Hold on, Admiral!\nAre you all right?!
+
+@299.0C2C.1
+Admiral!\nStay with us!
+
+@299.0C2C.2
+Admiral! You're okay now!
+
+@299.0C2C.3
+Admiral! You're saved!\nYou're okay now!
+
+@299.0C2C.4
+Admiral, you okay?!
+
+@299.0C2C.5
+Admiral, are you all right?
+
+@299.0C2C.6
+Admiraaal! Hang in there!
+
+@299.0C2C.7
+Hold on, Admiral!\nYou're safe now!
+
+@299.0D2A
+{FI}, {FI}!\nSnap out of it!
+
+@299.0D4A
+Ugh, mmm...\nH-huh... Am I... saved...?
+
+@299.0D8A.0
+That was close...
+
+@299.0D8A.1
+Whew, that was close...
+
+@299.0D8A.2
+It was actually\npretty dangerous, you know!
+
+@299.0D8A.3
+You're fine now,\nbut it was dangerous.
+
+@299.0D8A.4
+That was a close call!
+
+@299.0D8A.5
+A close call, that was.
+
+@299.0D8A.6
+It was dangerous!
+
+@299.0D8A.7
+Well, thank goodness.\nThat was truly a close call.
+
+@299.0E70
+Yeah, somehow.
+
+@299.0EB8.0
+Are you all right, Admiral?
+
+@299.0EB8.1
+Are you all right, Admiral?
+
+@299.0EB8.3
+Hey, are you okay?
+
+@299.0EB8.4
+Admiral, you okay?
+
+@299.0EB8.5
+Are you all right?
+
+@299.0EB8.6
+Admiraaal, are you okay?\nDoes anything hurt?
+
+@299.0EB8.7
+How do you feel?
+
+@299.0F62
+{FI}... are you okay?\nI'm glad you're safe.
+
+@299.0F92
+Uuugh!\nI've had it! I'm covered in mud!
+
+@300.00C4
+Really? Thanks!\nYeah, I'll go check it out!
+
+@301.0228
+Everyone, we've got a long way to go,\nso don't drink all the water at once.
+
+@301.026A
+A sandstorm?!
+
+@301.0354
+An oasis!
+
+@301.0368
+Everyone looks tired.\nShall we rest a bit?
+
+@301.0396.0
+Rest briefly
+
+@301.0396.1
+Rest fully
+
+@301.03C8
+Aw, we're leaving already?
+
+@301.03E4
+No complaining.
+
+@301.0422
+Phew, I feel alive again!
+
+@301.0444
+One day has passed.\nThe sailors' fatigue has recovered.

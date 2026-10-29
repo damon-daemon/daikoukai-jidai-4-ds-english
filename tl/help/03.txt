@@ -1,0 +1,155 @@
+@150
+Share (Port Data)\nShows what percent of the specialty goods in stock you can buy. You can sell without limit at 1% share.\nShare can be raised with {Invest:<$17>}, {Fund Military:<$25>}, {letters of introduction:<$26>} and {letters of recommendation:<$27>}. The first 1% must be earned with a {Hire:<$24>} contract at the Palace or Governor's Office.\nAt a faction's base, {Base Points:<$B7>} worth of share is added.\n> {Exclusive Contract:<$97>}\n\n
+
+@151
+Exclusive Contract (Port Data > Share)\nWith 100% share in a port you gain an "Exclusive Contract", which puts the port under your faction. You receive tribute every month, and the port attacks factions you are at war with.\nYou cannot make a normal contract in a port under another faction's exclusive contract. You must use a {letter of introduction:<$26>} or {recommendation:<$27>}, or be at war with the faction holding it.\n\n
+
+@152
+Specialties (Port Data)\nGoods sold in the port.\nThey may increase as the port's growth rises or when local goods are brought in.\nSpecialties are restocked whenever a {stock month:<$18>} arrives.\n> {Local Goods:<$C2>}\n\n
+
+@153
+Sea Data\nData shown while at sea.\n> {Latitude / Longitude:<$9A>}  > {Food / Water:<$9B>}  > {Sailors:<$9C>}  > {Fatigue:<$9D>}\n\n
+
+@154
+Latitude / Longitude (Sea Data)\nYour current latitude and longitude.\nShown when you have a skilled {Surveyor:<$7B>}.\n\n
+
+@155
+Food / Water (Sea Data)\nThe barrels of food and water remaining. At 0, sailor fatigue rises sharply.\n\n
+
+@156
+Sailors (Sea Data)\nThe number of sailors in the whole fleet. At 0 the game is over.\n\n
+
+@157
+Fatigue (Sea Data)\nThe sailors' fatigue.\nAt 100 sailors start to leave.\nHigh fatigue may cause the sailors to mutiny.\n\n
+
+@158
+Character Data\nA character's data.\n> {Mood:<$9F>}  > {Health:<$A0>}  > {Attributes:<$A1>}\n> {HP / Vitality:<$A8>}  > {Level:<$A9>}\n> {Skills:<$AA>}\n> {Equipment / Weapons / Armor:<$B4>}\n\n
+
+@159
+Mood (Character Data)\nShows the mental state, in 6 stages: "Hyper", "Cheerful", "Relaxed", "Normal", "Grumpy" and "Dazed".\nWhen "Grumpy" or "Dazed", work efficiency drops.\nMood recovers when a mate is assigned to the {Cabin:<$6F>} or {Rec Room:<$70>}.\n\n
+
+@160
+Health (Character Data)\nPhysical condition, in 6 stages: "Healthy", "Tired", "Injured", "Wounded", "Dying" and "Plague".\nPoor health lowers efficiency at the mate's job, or makes work impossible.\nHealth recovers when a mate is assigned to the {Cabin:<$6F>}. For "Plague", the {Doctor:<$72>} must use medicine or other items.\n\n
+
+@161
+Attributes (Character Data)\nShow a mate's latent ability. Attributes affect skills.\n> {Stamina:<$A2>}  > {Agility:<$A3>}  > {Charm:<$A4>}\n> {Wits:<$A5>}  > {Spirit:<$A6>}  > {Luck:<$A7>}\n\n
+
+@162
+Stamina (Character > Attributes)\nHow sturdy the body is.\nThe higher it is, the harder it is to collapse.\n\n
+
+@163
+Agility (Character > Attributes)\nSpeed and dexterity.\nThe higher it is, the better in battle.\n\n
+
+@164
+Charm (Character > Attributes)\nCharisma and largeness of character.\nThe higher it is, the easier it is to win people's hearts.\n\n
+
+@165
+Wits (Character > Attributes)\nWisdom and knowledge.\nThe higher it is, the better one handles situations.\n\n
+
+@166
+Spirit (Character > Attributes)\nStrength of will.\nThe higher it is, the calmer one stays in a pinch.\n\n
+
+@167
+Luck (Character > Attributes)\nHow lucky one is.\nThe higher it is, the easier it is to escape a crisis.\n\n
+
+@168
+HP / Vitality (Character Data)\nHP drops when you are wounded in a {Duel:<$63>} and so on.\nAt 0, health becomes "Dying". It recovers gradually by staying at an inn or being assigned to the {Cabin:<$6F>} or {Rec Room:<$70>}.\nVitality shows max HP and bodily toughness. The higher it is, the harder it is to fall ill, and the better suited to {Keeper:<$74>} and {Deck Crew:<$7E>}. It depends on the attributes Stamina and Spirit.\n\n
+
+@169
+Level (Character Data)\nThe sailing level. It rises as you gain experience at sea.\n\n
+
+@170
+Skills (Character Data)\nShow which jobs a mate suits. Base skills differ by mate and rise on each level up. Some skills also rise when you equip items.\n> {Command:<$AB>}  > {Sailing:<$AC>}  > {Survey:<$AE>}\n> {Finance:<$B0>}  > {Insight:<$B3>}  > {HP / Vitality:<$A8>}\n> {Accuracy:<$AD>}  > {Fencing:<$B2>}  > {Diplomacy:<$AF>}\n> {Scheming:<$B1>}\n\n\n\n\n
+
+@171
+Command (Character > Skills)\nThe ability to lead sailors and comrades as a Captain or Admiral.\nThe higher it is, the better suited to leader roles.\nIt depends on the attributes Spirit and Charm.\n\n
+
+@172
+Sailing (Character > Skills)\nThe ability to handle a ship.\nThe higher it is, the faster the ship responds. Suits {Helmsman:<$7A>} and {Sailhand:<$7D>}.\nIt depends on the attributes Agility and Spirit.\n\n
+
+@173
+Accuracy (Character > Skills)\nThe focus to hit a target.\nThe higher it is, the more cannon shots hit in battle, and the better the cooking. Suits {Gunner:<$81>} and {Head Cook:<$73>}.\nIt depends on the attributes Agility and Luck.\n\n
+
+@174
+Survey (Character > Skills)\nThe ability to survey and draw charts.\nThe higher it is, the more accurately you can fix your position over a wide area. Suits {Surveyor:<$7B>} and {Shipwright:<$71>}.\nIt depends on the attributes Agility and Wits. [!]Equipping items such as a "Sextant" raises Survey. Have the Surveyor equip them.\n\n
+
+@175
+Diplomacy (Character > Skills)\nA talent for diplomacy.\nThe higher it is, the better suited to {First Mate:<$79>} and {Missionary:<$75>}.\nIt depends on the attributes Wits and Charm.\n\n
+
+@176
+Finance (Character > Skills)\nA talent for bookkeeping.\nThe higher it is, the better you can haggle or overcharge when trading. Suits {Purser:<$77>}.\nIt depends on the attributes Wits and Spirit.\n\n
+
+@177
+Scheming (Character > Skills)\nHow cunning one is.\nThe higher it is, the more easily schemes come to mind. Suits {Adviser:<$76>}.\nIt depends on the attributes Wits and Luck.\n\n
+
+@178
+Fencing (Character > Skills)\nA talent for the sword.\nThe higher it is, the better in {Boarding Battle:<$62>} and {Duels:<$63>}. Suits {Boarding Chief:<$80>}.\nIt depends on the attributes Stamina and Agility.\n\n
+
+@179
+Insight (Character > Skills)\nA talent for noticing things nearby and sensing danger.\nThe higher it is, the farther you can spot things and the better you can treat illness. Suits {Lookout:<$7C>} and {Doctor:<$72>}.\nIt depends on the attributes Spirit and Luck.\n\n
+
+@180
+Equipment / Weapons / Armor (Character Data)\nThe equipment, weapons and armor being worn.\nSelect an item while it is not equipped to equip it. Select it while equipped to remove it.\n\n
+
+@181
+Faction Data\nData on a faction.\nShown when you select a faction on the Route Map.\n> {Influence:<$B8>}  > {Base:<$B6>}  > {Goodwill:<$BE>}  > {Relations:<$B9>}\n\n
+
+@182
+Base (Faction Data)\nThe place where the faction has its base. If the {Share:<$96>} of the base port falls to 0, the base moves to another port.\n> {Base Points:<$B7>}\n\n
+
+@183
+Base Points (Faction Data > Base)\nIn a base port, the faction gets a bonus to its share. This is called "Base Points", shown as flags. One flag is 1 point.\nThe faction's fleet count becomes share equal to its Base Points. That share can only be taken by other factions through battle or schemes.\n\n
+
+@184
+Influence (Faction Data)\nThe faction's influence in the sea area shown.\nInfluence shows the size of a faction. It rises when a port's {Share:<$96>} increases or you win battles against other factions. Discovering ruins and the like also raises it.\n\n
+
+@185
+Relations (Faction Data)\nYour relation with the hero's faction, in 4 states. It changes with "{Plan a Scheme:<$10>}" at the Tavern and "{Send Negotiation Letter:<$1B>}" at the Guild.\n> {Neutral:<$BC>}  > {Allied:<$BA>}  > {At War:<$BB>}  > {Vassal:<$BD>}\n\n
+
+@186
+Allied (Faction Data > Relations)\nYou have formed an alliance.\nYou cannot attack the fleets of an allied faction.\nIn battle, allied fleets nearby may come to help.\n\n
+
+@187
+At War (Faction Data > Relations)\nA state of battle.\nAt sea, approaching a fleet of a faction at war starts a battle automatically. Ports under that faction's {Exclusive Contract:<$97>} will also attack you.\nYou can take share from a faction at war through investment ({Invest:<$17>}, {Fund Military:<$25>}) and battle.\n\n
+
+@188
+Neutral (Faction Data > Relations)\nThe normal state.\n\n
+
+@189
+Vassal (Faction Data > Relations)\nA faction brought under your rule. It will not turn against the hero's fleet.\n[!]In the Guild's "{Send Negotiation Letter:<$1B>}", if "{Threaten:<$21>}" succeeds, you can make other factions your vassals.\n"{Threaten:<$21>}" requires the "{Victor's Mark:<$04>}".\n\n
+
+@190
+Goodwill (Faction Data)\nHow good the relation with the hero is. The higher it is, the better the relation.\n\n
+
+@191
+Goods Data\nData on trade goods.\nTrade goods are items bought and sold at the Market. Goods sold in a port are called specialties and differ by port.\nPrices differ by port, and also rise and fall with market trends.\nBase prices differ by culture area.\n> {Type:<$C0>}  > {Grade:<$C1>}\n\n
+
+@192
+Type (Goods Data)\nThere are 18 types of trade goods.\nGoods of the same category are affected by market trends together. When one item is traded, the prices of all goods in the same category rise or fall.\n\n
+
+@193
+Grade (Goods Data)\nTrade goods have grades from 1 to 5. Grade 1 is the highest.\nAs a port's {Growth:<$94>} rises, the grade of its {Specialties:<$98>} also rises.\n[!]The higher the grade, the finer the goods. The finer the goods you trade, the greater your profit.\n\n
+
+@194
+Local Goods\nThe items that specialties come from.\nTake them to the Market and the port's specialties may increase.\nThey will not increase in ports that do not suit the local goods, or that already have 5 specialties.\n[!]Several ports may suit them. Hand them over in a convenient port, such as one where your faction's {Share:<$96>} is high.\n\n
+
+@195
+Ship Data\nData on each ship.\nShown when you select a ship under "Ship Info" in the Info command.\n> {Durability:<$C4>}  > {Crew Size:<$C5>}  > {Water / Food:<$C6>}\n> {Square Sail Rating:<$C7>}  > {Fore-and-Aft Sail Rating:<$C8>}\n\n
+
+@196
+Durability (Ship Data)\nShown as "current durability / max durability".\nWhen current durability equals the max, the ship is undamaged.\nWhen it is below the max, repairs at the Shipyard restore it.\n\n
+
+@197
+Crew Size (Ship Data)\nShown as "sailors required / current / max".\nYou can change the sailors assigned to each ship with "{Crew Setup:<$8B>}" in the Common Commands.\n\n
+
+@198
+Water / Food (Ship Data)\nThe barrels of water and food remaining. At 0, sailor fatigue rises sharply.\n[!]With a {Keeper:<$74>} and {Head Cook:<$73>}, food runs out more slowly.\n\n
+
+@199
+Square Sail Rating (Ship Data)\nShown as "main square sail + secondary square sail". The higher it is, the faster you sail with a tailwind.\nThe main rating depends on the main mast's {sail type:<$34>} and equipment. The secondary rating depends on the foremast (in front of the main mast) and mizzenmast (behind it). Some ship types have no foremast or mizzenmast.\n\n
+
+@200
+Fore-and-Aft Sail Rating (Ship Data)\nShown as "main fore-and-aft sail + secondary fore-and-aft sail". The higher it is, the faster you sail against the wind.\nThe main rating depends on the main mast's {sail type:<$34>} and equipment. The secondary rating depends on the foremast (in front of the main mast) and mizzenmast (behind it). Some ship types have no foremast or mizzenmast.\n\n
+
+@201
+Golden Route Found (Market > Trade)\nIf the profit rate on a trade exceeds 500%, you have found a Golden Route.\n[!]Report any Golden Route you find to the Guild.\n> {Report Golden Route:<$51>}  > {Golden Route Records:<$8D>}\n

@@ -1,0 +1,1079 @@
+@057.000E
+Waaaaah!
+
+@057.0026
+Oh no!! Emilio!!\nAre you all right!?
+
+@057.0052
+Huh?\nLooks like the pier was rotten.
+
+@057.0080
+Owieee!
+
+@057.009C
+Let me take a look.
+
+@057.00BA
+It hurts...
+
+@057.00CC
+Best not to move him too much.\nLet's have him rest at the inn.
+
+@057.0108
+Oh, all right. Here, Emilio,\nhold on.\n...Gah, you're heavy!
+
+@057.015C
+I'm glad Emilio's injury wasn't serious!\n...Oh, that's Arcadius.
+
+@057.01A8
+Huh?\nHe's buying flowers.
+
+@057.01C8
+And he's carrying fruit, too.
+
+@057.01E0
+What's up? Is it someone's birthday?
+
+@057.020C
+Hey, Arcadius.\nHaving a party today?
+
+@057.0244
+Pardon?
+
+@057.0250
+You were carrying flowers and\nsomething tasty-looking just now.\nHurry up and let me eat some.
+
+@057.0298
+Oh, that. No, no.\nIt's a get-well gift. For Emilio.
+
+@057.02CE
+Emilio? Why?
+
+@057.02EA
+What do you mean, why? Honestly.
+
+@057.030C
+He's finally in town, and he can't go\nout. I thought he must be bored.\nThat's why I'm visiting him.
+
+@057.0378
+Hmm.
+
+@057.0386
+Emilio likes sweets, doesn't he?\nI don't know about fresh flowers, but\nyou can't get them out at sea.
+
+@057.03E6
+I see...\nThen if something happened to me,\nwould you visit me too...?
+
+@057.042E
+Of course. We're comrades, aren't we?
+
+@057.0458
+R-right... Yeah, we are...
+
+@057.0478
+N-no, never mind.\nIt's nothing... Go on, hurry up.
+
+@057.04AE
+Right...\nWould you like to come in too, Claudio?\nThere might be delicious fruit.
+
+@057.0506
+Nah, I'll pass.\nGive it all to Emilio.\nHe'll be thrilled.
+
+@057.0544
+I see...\nThen, excuse me.
+
+@057.0566
+Emilio, does your leg still hurt?\nI brought you a little something.
+
+@057.05AA
+Wow, food! I'm so happy!\nThanks, Mr. Arcadius!\nDid you know I love flowers?
+
+@057.0616
+I didn't know that.\nBut I'm glad you like them.\nPlease eat plenty.
+
+@057.066E
+Yay!
+
+@057.068A
+Oh, Clau...\nWere you waiting for me?
+
+@057.06B6
+W-well, yeah...\nCome on, let's go meet up with\nthe others.
+
+@057.06E8
+...Yes, let's.
+
+@057.0700
+...
+
+@058.000A
+You must be Admiral {FA}.
+
+@058.002C
+!\nWho are you...?
+
+@058.0052
+I'm the man who once led\nthe Uddin Company.
+
+@058.0088
+I'm the man who leads\nthe Uddin Company.
+
+@058.00BA
+Oh...!\nAdmiral Uddin...
+
+@058.00DE
+To sweep the Indian Ocean so quickly...\nThat's Admiral {FA} for you.
+
+@058.0130
+N-no...\nIt was luck.
+
+@058.014C
+No need to be so modest.\nWell, I suppose it's fate.
+
+@058.018A
+Now then. I brought this for you.\nIt is my final duty as the keeper of\nthe Indian Ocean. Please take it.
+
+@058.01FA
+!
+
+@058.0204
+They call it the "Evergreen Lotus Leaf."\nApparently it reveals where the Victor's\nMark of the Indian Ocean lies.
+
+@058.0266
+This is... a huge leaf that works\nas a map...
+
+@058.0298
+The Victor's Mark of the Indian Ocean\nshould be a book called the "Rigveda."
+
+@058.02D8
+The "Rigveda"...
+
+@058.02F4
+I pray it proves worthy of you.\nNow, farewell.
+
+@058.0346
+What a decent old guy.
+
+@058.036C
+Admiral Uddin...
+
+@058.038A
+Admiral Uddin...\nThank you for everything.\n...Goodbye.
+
+@059.000A
+Hold it!\nWait right there, Admiral!
+
+@059.0030
+Are you talking to me?
+
+@059.0044
+Yeah. Don't you know this whole area\nis the turf of the Portuguese Governor\nof Indochina, Duarte Pereira?
+
+@059.00C2
+...So?
+
+@059.00D4
+Try not to catch his eye, that's all.
+
+@059.00FC
+...\nThanks for the warning.
+
+@060.000C
+{FA}!?
+
+@060.002C
+Did you bring the Mark?
+
+@060.004C
+I found the key to searching for\nthe Victor's Marks.
+
+@060.0080
+...Hmm.
+
+@060.0092
+I found the Victor's Mark we promised\nin East Asia.
+
+@060.00C8
+...\nGood. It's the real thing, no doubt.
+
+@060.00EC
+All right.\nCome with me.
+
+@060.0106
+I may have said this before, but in my\nposition I can't openly give you\nany support.
+
+@060.0162
+...
+
+@060.016C
+But we both want to crush Coen and\nSpain. You could say they're our\ncommon enemy.
+
+@060.01C2
+Isn't that reason enough? Can't we form\na pact and defeat Coen and Spain\ntogether?
+
+@060.0232
+If only it were that simple.
+
+@060.0252
+It isn't?
+
+@060.0268
+Then let me ask you straight.\nWho is your true enemy?\n...Think carefully before you answer.
+
+@060.02BC
+Huh?\nMy true enemy...
+
+@060.0300.0
+Spain, who took Portugal from us
+
+@060.0300.1
+...I'm not sure
+
+@060.034A
+Oh ho. You're serious about defying\nSpain's Invincible Armada?\nEven Albuquerque went over to them,\nyou know.
+
+@060.03AC
+Yes, I'm dead serious!
+
+@060.03C8
+...Interesting.\nBut what if I say I won't help you?\nWill you still go through with it?
+
+@060.0418
+...I'll have to.\nIt may take time, but we'll defeat Spain\nourselves and rebuild Portugal.
+
+@060.048A
+...
+
+@060.0494
+Then this is easy.
+
+@060.04B0
+?
+
+@060.04BA
+Too many hypocrites wave around a\nhalf-baked patriotism. Team up with\nthat sort and you'd lose your life\nmore times than you've got.
+
+@060.0530
+Looks like I worried for nothing.\nYou'll be fine.
+
+@060.0578
+Right! Let's finish off Coen and get\nback home!
+
+@060.05BC
+Mr. Pereira...!
+
+@060.05D4
+All right.\nTake this.
+
+@060.05FE
+What is this...?
+
+@060.0612
+It's supposedly the key you need to\ndecipher the Victor's Mark map.\nLive up to the title of Victor.
+
+@060.0670
+Are you sure we can have it?
+
+@060.068C
+Yeah, I'm not interested.\nI can't be bothered collecting seven\nof those. It's yours now.
+
+@060.06E2
+...Understood.\nThen I ask that you sign an alliance\nagainst Coen here.
+
+@060.072C
+And?
+
+@060.073C.0
+Let's defeat Coen first
+
+@060.073C.1
+I'll leave Coen to you
+
+@060.079A
+Let's work together and defeat Coen\nfirst.
+
+@060.07C6
+Remove the worry behind us, eh?\nEven I'd have a rough time taking him\non alone, no doubt about it.
+
+@060.0838
+If I were the King of Spain, I'd do\neverything to strip the Portuguese\nroyal house of its claim to the throne\nforever. We don't have time.
+
+@060.08B8
+By defeating Coen, I want us to gain\nenough strength to stand up to Valdes\nof Spain on our own.
+
+@060.091E
+What!? ...Just you lot!?\nHey, are you out of your mind!?
+
+@060.0952
+You're in charge of these waters, Mr.\nPereira, so you can't just leave\nyour post.
+
+@060.09AA
+What are you saying! We're about to\nraise the flag against the King of\nSpain. Who cares about posts!
+
+@060.0A06
+...If this plan fails, you'll lose your\nposition as Governor of Indochina\nforever.
+
+@060.0A5E
+Gahaha!\nI wondered what you'd say...\nI know that full well!
+
+@060.0AA4
+No! If our strength falls short, I need\nsomeone I can trust with Portugal's\nfate. Otherwise we're in trouble!
+
+@060.0B10
+!!
+
+@060.0B1C
+The Spice Islands. Every European\nnation wants them. Hold them, and one\nday we'll be able to fight mighty Spain\nas equals.
+
+@060.0B98
+If you become Portugal's last bastion,\nwe can fight with everything we've got.
+
+@060.0BFE
+......Heh.
+
+@060.0C0E
+Wahahaha!!\nYou really are one interesting kid!!\nI'm impressed!
+
+@060.0C56
+All right, I get it!\nI'll bet on you!\nLeave the rest to me!
+
+@060.0CAE
+Yes, please!
+
+@060.0CCE
+Hm? What do you mean?
+
+@060.0CEC
+We're leaving Southeast Asia\nright away.
+
+@060.0D1C
+And?
+
+@060.0D2C
+We're heading to Europe to defeat\nValdes of Spain.
+
+@060.0D64
+Hey, hey, what did you say?
+
+@060.0D80
+If I were the King of Spain, I'd do\neverything to strip the Portuguese\nroyal house of its claim to the throne\nforever. We don't have time.
+
+@060.0E00
+True enough, but...\nSo you're putting that Coen bastard\noff for later?
+
+@060.0E46
+No. I'm leaving it all to Mr. Pereira,\nthe Governor of Indochina and the man\nresponsible for Southeast Asian waters.
+
+@060.0EA2
+Oh...\nI see. You want me to guard the rear.
+
+@060.0ED4
+Yes. If someone reliable holds these\nwaters, we can fight Valdes with\neverything we have.
+
+@060.0F30
+Gahaha! You really are an interesting\nkid! So I'm just a piece in your\nstrategy now, is that it!
+
+@060.0FA2
+Got it. Leave it to me.\nBut what if I drive Coen out\nafter this? What then?
+
+@060.1000
+I already have the key to the Victor's\nMark. I can hand over trading rights\nin these waters with no problem.
+
+@060.106A
+Hahaha! Is that charity?\nNo need. Later you can even come after\nSoutheast Asia, me included, if you\nwant.
+
+@060.10E2
+W-we wouldn't...
+
+@060.10F6
+Business is "fair," right?\nFree competition, right?
+
+@060.112E
+Y-yes. But...
+
+@060.1148
+In return, you'd better finish off\nValdes properly. Understood?
+
+@060.1188
+Of course!
+
+@060.11A2
+Rebuild your homeland, Portugal, eh?\nYou lot might actually do it.\n...You lot, anyway.
+
+@060.1202
+...
+
+@060.120C
+All right, let me change the question.\nHey, {FA}.\nWho's the strongest power in the world?
+
+@060.124E
+That's easy, whoever has the biggest\ntrade sphere, right?\nOurs, or maybe...
+
+@060.12AC
+Wrong. That's not what I'm asking.\nI mean, if someone got serious about\nconquering the world, who would have\nthe best shot?
+
+@060.1320
+Spain with its Invincible Armada...?
+
+@060.1348
+Well, there's some truth to that...\n...Hmm. {FA}.\nYou know the Spice Islands, right?
+
+@060.138A
+Yes. They're around here.
+
+@060.13A8
+Right.\nTo Europe right now, the Spice Islands\nare an island of treasure.\nYou follow me?
+
+@060.13FC
+...Yes.
+
+@060.140A
+And not just spices. The goods from\nthis region bring in enormous profits.\nIf whoever holds it sets out to\nconquer with that wealth...
+
+@060.1486
+He could take the world...
+
+@060.149C
+That's right.
+
+@060.14B2
+...Anthony Coen...\nKing of the world...? No way!\nNot a chance!!
+
+@060.150C
+Even if God forgave him, I won't!
+
+@060.1532
+Holding the Spice Islands means\nholding the whole world...
+
+@060.1590
+This can't be written off as\njust good luck.
+
+@060.15C8
+Looks like you've got\nthe picture.
+
+@060.15F4
+The reason I'm not fighting Coen head\non is that if I fall, there's nobody\nleft who can stop him.
+
+@060.1664
+...
+
+@060.166E
+Rebuilding your homeland is fine. But\nif you only look at that, he'll take\nthe world. I can't allow that.
+
+@060.16D8
+Then what should we do...
+
+@060.16F4
+Go and beat Valdes of Spain!\nYou'll get stronger doing it, and then\nwe'll have a chance against Coen!
+
+@060.176A
+Valdes's forces...\nSpain's Invincible Armada...
+
+@060.1792
+If I were the King of Spain, I'd do\neverything to strip the Portuguese\nroyal house of its claim to the throne\nforever. No time to lose.
+
+@060.180A
+If Spain quiets down and Portugal is\nrestored, I can back you fully.
+
+@060.185E
+That's true...
+
+@060.187A
+Valdes should know where the\nMediterranean's Victor's Mark is.\nIf you can't beat that mustachioed\nfool, beating Coen is a hundred years off.
+
+@060.1900
+...Understood. I'll beat Valdes\nand come back, I promise!
+
+@060.193C
+I'm counting on you!\nAdmiral {FA}!
+
+@061.0018
+To think these fools would take\nthe jar from me...
+
+@061.0048
+Damn it!\nRemember this!
+
+@061.007C
+Losing to the likes of them...\nMe, Coen...\nAnd I was so close...!
+
+@061.00CC
+Whoa!\nWell done,\nAdmiral {FA}!
+
+@061.00F2
+Yes, somehow...\nThank you, Governor Pereira.
+
+@061.0132
+Don't mention it!
+
+@061.016A
+Don't mention it!
+
+@061.018A
+All right, no more nitpicking.\nDo it your way!\nGo beat Spain, whatever it takes!
+
+@061.01F0
+Governor...
+
+@061.01FE
+What a great old guy!
+
+@061.0238
+Gahaha. Governor Pereira of Indochina\nis always a good guy!
+
+@061.028E
+Gahaha. Governor Pereira of Indochina\nis always a good guy! Here you go!\nTake it, Admiral {FA}.
+
+@061.02FE
+You received 500,000 in funds\nfrom Governor Pereira!
+
+@061.034C
+Whaaaaat!!!
+
+@061.036A
+My, my!
+
+@061.0384
+Whoooa!\nSo generous! You're amazing, Governor!!
+
+@061.03CC
+Yeeeeaaah!!!
+
+@061.03EE
+This much...?\nAre you sure!?
+
+@061.0412
+Yeah! Don't mention it!\nNow get out there! I'm counting on you!
+
+@061.0454
+Yes, sir!
+
+@062.000A
+Lord {FA}.\nYou are worthy to be sea king over this\ncontinent. Please, accept this.
+
+@062.0066
+Could this be... the Mark!?
+
+@062.0086
+Th-thank you!\n...Huh?
+
+@062.00A8
+He's gone.
+
+@062.00BE
+It looks like a sword sheath,\nbut there's no blade...\nWhat could it mean?
+
+@062.0114
+Is this also a key to deciphering the\nVictor's Mark map?
+
+@062.014A
+This must also be a key to deciphering\nthe Victor's Mark map.
+
+@062.017C
+Yeah, that's got to be it!\nThe treasure of the New World is ours!
+
+@063.0008
+{FI}.\nGot a minute?\nCome to the inn.
+
+@063.0032
+?\nSure.
+
+@063.004C
+...Go easy on her, will you?
+
+@063.006E
+Huh?\nWhat do you mean?
+
+@063.0084
+I mean Eirene.\nYou made her do heavy labor the other day.
+
+@063.00BE
+Only a little, though?
+
+@063.00D8
+No! She isn't as sturdy as the others,\nso of course you should look out for her!
+
+@063.013C
+Hmm... But you know,\nthere was a reason back then.
+
+@063.016E
+So any reason is good enough?!
+
+@063.0198
+...You don't have to get so angry!
+
+@063.01C2
+Hmph! Fine, do what you want!
+
+@063.01F8
+...{FI}?\nWhat's wrong?
+
+@063.021A
+Oh, Arcadius... It's just...
+
+@063.0242
+I heard Claudio shouting\na moment ago...
+
+@063.0278
+(Uh-oh...)\nDid you hear what it was about?
+
+@063.02A2
+No, not that far.
+
+@063.02BA
+...Hey,\ncan we talk?
+
+@063.02D2
+Yes...
+
+@063.02E6
+Eirene, listen. That fight just now\nwas about you.
+
+@063.032A
+...About me?
+
+@063.033A
+Clau is angry. Remember when we asked\nyou to help with the heavy work?
+
+@063.037E
+Oh... There was no one else then, and\nit would have been strange for me not\nto help, when everyone thinks I'm a man.
+
+@063.03F0
+That's what I told him.\nIt couldn't be helped.\nBut he's really angry.
+
+@063.0438
+...
+
+@063.0442
+Clau just yelled at me and stormed\nout.
+
+@063.047A
+I do think about you, Eirene.\nIt's not fair...
+
+@063.04BE
+I'm sorry. Hiding that I'm a woman\nhas caused you trouble, {FI}.
+
+@063.050A
+No, that's not it.\nSorry, I was just venting.\nDon't worry about it.
+
+@063.0552
+...Hey, {FI}.\nI think you really do your best\nas an admiral.
+
+@063.0594
+We can sail with peace of mind\nbecause of you.
+
+@063.05DA
+Eirene, that's sudden.\nYou're making me blush. What's up?
+
+@063.060E
+Nothing. That's why I don't want you,\n{FI}, to push yourself too hard.
+
+@063.0648
+Eirene...
+
+@063.065A
+Don't worry alone. Complaints, anything,\nit helps to tell someone.
+
+@063.069E
+You're like an older sister,\nEirene.
+
+@063.06C6
+Am I?
+
+@063.06D4
+Yeah.\nI really do feel better than before.\nThanks for listening.
+
+@063.0720
+No, thank you.\nSorry for the trouble.
+
+@063.0752
+I've never fought with Clau this badly.\nI don't know what to do. What should\nI do, anyway?
+
+@063.07CA
+Oh, that. Claudio will be fine.\nOnce he eats something, he'll forget\nall about it.
+
+@063.0820
+Really?
+
+@063.082E
+Yes.\nHe's simple, after all.\nCome on, let's eat.
+
+@063.087C
+Hey, {FI}!\nGet enough to eat!?
+
+@063.08A2
+Oh, y-yeah.\nClau...
+
+@063.08BE
+What?\nWhy the funny face?
+
+@063.08DE
+N-nothing.\nI just thought you seemed cheerful...
+
+@063.0904
+? Whatever. I'm heading out first.
+
+@063.092A
+Eirene was right.\nHe's totally forgotten about\nthe fight...
+
+@063.0970
+Eirene really understands Clau.\n...Is that because she's a scholar?
+
+@064.000A
+Wow, there's a village even in a\nplace like this.
+
+@064.003A
+What a bleak village.\nI don't feel any life in it.
+
+@064.0072
+Hm.\nLooking closely, ships from other\ncountries are moored here too.
+
+@064.00AE
+...Huh?\nIt's noisy over there.
+
+@064.00D0
+Looks like something happened.
+
+@064.00EC
+Let's go see!
+
+@064.010C
+Wait a minute!\nYou said before you'd pay more for it!
+
+@064.015E
+That was then.\nAnyway, for today's goods I won't pay\na single penny more.
+
+@064.01B4
+What's wrong with them?\nI picked the best things in the\nvillage!
+
+@064.01FE
+Hmph, this is the village's best?
+
+@064.0222
+Look, it's so flimsy.\nI can't buy this at a decent price.\nCome on, come on!
+
+@064.0286
+Stop it!\nBreak any more and you'll regret it!\nEveryone worked hard to make these!
+
+@064.02D6
+Ow, ow!\nWhat the hell, you wench!
+
+@064.0304
+Aaah!
+
+@064.0318
+Stop it!\nHitting a woman is no way for a man\nto act!
+
+@064.035A
+I'll take you on myself if you like!
+
+@064.037E
+Tch!
+
+@064.038C
+Hmph, he ran off.
+
+@064.03AC
+Are you all right?
+
+@064.03BC
+...
+
+@064.03C6
+Honestly, picking on a girl like that.\nDid he pick a fight with you?
+
+@064.040E
+Um... is that for sale?\nIf you like, I could buy it.
+
+@064.0450
+!\n"If you like," he says!?
+
+@064.0472
+What does a rich kid like you know?!\nI don't want your pity!
+
+@064.04C8
+What's with that girl!!!\nWe helped her, and instead of thanks\nshe complains!
+
+@064.051C
+...\nDid we really offend her\nthat much...?
+
+@064.0554
+Even so, she shouldn't complain!\nWe're her benefactors, after all!
+
+@064.0598
+Now, now, Clau.\nYou get hungry when you're angry, so\nlet's go eat and cheer up.
+
+@064.05EC
+Hmm, so that happened...
+
+@064.0618
+Doesn't it make you mad!\nWhat an awful girl!
+
+@064.0652
+No, it was my fault. Thinking about it,\nsaying "I'll buy it" might have\nsounded like I was looking down on her.
+
+@064.06BE
+I really did feel sorry for her, so\nit's no wonder she got angry.\nI may have hurt her...\nOh, what do I do...
+
+@064.0722
+...{FI}.\nLet's not dwell on the past.
+
+@064.075A
+Once you see your mistake, you just\nhave to avoid repeating it.
+
+@064.079A
+Exactly!\nHelping people in trouble is what\nour {FI} does best!
+
+@064.07E2
+This time the approach was a bit off,\nbut I'm sure the girl understands\nyou meant no harm.
+
+@064.0852
+Everyone... Thank you.
+
+@064.086C
+Hold on! That girl cursed us without\neven saying thanks! The one at fault\nisn't {FI}, it's...
+
+@064.08CE
+...Never mind. Honestly,\nyou people on this ship are all nuts.\nA bunch of softies, every one.
+
+@064.0938
+Phew. I'm stuffed.
+
+@064.0954
+Um...!
+
+@064.096A
+Huh...?
+
+@064.0978
+Huh!?\nYou're that rude girl!
+
+@064.09A4
+...A-actually, I'd like you to\nbuy this after all...
+
+@064.09DE
+Wha-at?\nDon't mess with me!\nWho was it that turned us down so boldly?
+
+@064.0A2E
+O-of course,\nI won't insist...
+
+@064.0A58
+Damn right!\n{FI}, what'll you do?
+
+@064.0A80
+I'll decide after seeing the goods.\nCan you bring them to the harbor?
+
+@064.0ABC
+Thank you!\nIf you'll look at them, I'll definitely\ncome!
+
+@064.0AF4
+They might not live up to your\nexpectations, though...
+
+@064.0B2A
+Nothing to lose, so don't worry.
+
+@064.0B4E
+Um...\n...\nW-well, you see.
+
+@064.0B6C
+...S-sorry about before!
+
+@064.0B90
+Huh?
+
+@064.0B9C
+Well then, see you later!
+
+@064.0BB8
+...I see.\nShe's a good kid at heart.
+
+@064.0BDE
+Calling a girl like that "rude"...\nClau, that's awful.
+
+@064.0C22
+She's the awful one!\nWe helped her and she threw\nparting shots at us!
+
+@064.0C74
+Besides, first it was "I don't want\nyour pity," and now it's "please buy\nit." How shameless can you get!
+
+@064.0CD6
+That wasn't shamelessness.\nIt's called courage.
+
+@064.0D16
+Her face was bright red and she was\ntrembling... She came to ask for her\nfamily and village, throwing away her pride.
+
+@064.0D86
+...She's a good girl.
+
+@064.0D9C
+I see... I get it.
+
+@064.0DB4
+All right!\nLet's hurry up and get ready to\nunload the cargo!
+
+@064.0DFA
+You're getting ahead of yourself.\nWe haven't even negotiated yet...
+
+@064.0E38
+You don't care about checking the\ngoods either, do you, {FI}?\nJust buy it all! Come on!
+
+@064.0E92
+C-Clau.
+
+@064.0EA4
+Honestly... so pushy.\nBut that straightforwardness is\nexactly Clau's good side.
+
+@064.0EFE
+Truly, truly.
+
+@064.0F1C
+...Then it's a deal.
+
+@064.0F40
+Yeah. ...Thank you. Now I can report\nto everyone in the village properly.\nThey'll all be so happy!
+
+@064.0FA0
+Come to think of it, I never asked your\nname. Mine is\n{FI}.\nAnd yours?
+
+@064.0FE4
+{FI}...\nI'm Charlotte.
+
+@064.1004
+Hey, Charlotte.\n...Why did you build a village on\nsuch barren land?
+
+@064.105A
+We were Gypsies originally.\nWe wandered all over Europe...
+
+@064.10A6
+I remember walking as hard as I could,\nholding my mother's hand.
+
+@064.10E8
+...One day,\nsomeone asked if we wanted to move\nto the New World.
+
+@064.1124
+They said the New World has mountains\nof gold... and vast, fertile land\nstill untouched.
+
+@064.1182
+We talked it over, pooled what little\nmoney we had, and decided to cross\nthe sea.
+
+@064.11CA
+My father, my mother, everyone,\nwas full of hope at first...\nWe'd have our own land, our own\nvillage.
+
+@064.1228
+But that soon turned\nto despair.
+
+@064.1252
+Gold mines don't just turn up when you\ndig at random in the mountains...\nAll there was, was wasteland\nas far as the eye could see.
+
+@064.12CE
+Luring people with sweet talk and\ntaking their money... I can't forgive\nthat...
+
+@064.1302
+...Everyone despaired, but we\nencouraged each other and decided\nto build a village.
+
+@064.134E
+But we'd never owned land...\nWe struggle even to grow crops.\nIt's been like this ever since we\ncame here.
+
+@064.13BC
+Even though it's so hard,\ndid you never think of going home?
+
+@064.13F4
+...Home?\nGypsies have no country.\nWe have no place to return to.
+
+@064.1444
+If something goes missing, it's the\nGypsies' doing... If a bad sickness\nspreads, it's the Gypsies' fault...
+
+@064.148E
+Wherever we went in Europe, people\nlooked at us as if we were filth...
+
+@064.14D8
+...
+
+@064.14E2
+...Two or three years ago, our crops\nfinally came in and we could feed\nourselves. At last we had\n"our own" village!
+
+@064.1556
+And about a year ago, a ship happened\nto stop by, and we started getting new\nthings through barter.
+
+@064.15C4
+Though... like just now, they often\nbeat down the price to next to\nnothing. It can't be helped, I guess.
+
+@064.1626
+When you helped me, {FI}, I was\nactually... really happy!
+
+@064.166C
+I never imagined anyone would help\nme...
+
+@064.16AE
+Charlotte...\nWhen I first spoke to you,\nI hurt you...
+
+@064.16F2
+You meant it kindly, didn't you?\nI think I should have thanked you for\nhelping me.
+
+@064.175C
+...Will you come to this village\nagain?
+
+@064.1780
+Yes, of course!
+
+@064.1798
+Really?
+
+@064.17A8
+I promise!
+
+@064.17BC
+You'd better! I'll be waiting!
+
+@064.17DC
+Yeah, see you!
+
+@064.17F0
+It's a promise...!
+
+@064.180C
+...She's gone.\n...Huh, Clau, you were here?
+
+@064.183A
+...Sniff, what a heartbreaking story!
+
+@064.1860
+Poor girl.\nShe's had a hard time both in\nEurope and in the New World...
+
+@064.18B2
+You too, Arcadius?
+
+@064.18CA
+Sorry.\nI didn't mean to eavesdrop, but\nI got curious...
+
+@064.192E
+...When Portugal was about to be\nannexed by Spain, I felt like I was\nlosing my place.
+
+@064.198C
+But she's had no place to live since\nthe day she was born...
+
+@064.19D4
+{FI}!\nIsn't there something we can do?!
+
+@064.1A08
+Let's think of a way to help the\nvillage grow. Even if not right away,\nsomething that will help someday...
+
+@064.1A6A
+You're right.\nYes, let's do that!
+
+@064.1A8C
+...
+
+@064.1A96
+Charlotte... huh...
+
+@064.1AB0
+She was such an honest, lovely girl.
+
+@064.1ADA
+Yeah.
+
+@064.1AE6
+Yeah...
+
+@064.1AF4
+(What can we do with our own\n hands...?)

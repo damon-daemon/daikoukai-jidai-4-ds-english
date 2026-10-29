@@ -1,0 +1,149 @@
+@50
+Refit (Shipyard)\nUpgrade your ships by refitting them.\n> {Change Equipment:<$33>}  > {Rename Ship:<$3D>}\n\n
+
+@51
+Change Equipment (Shipyard > Refit)\nChange (or add) ship equipment.\nMove the cursor to the spot you want to change. Each time you press ○, that spot cycles to a different piece of equipment.\nWhen every spot shows the equipment you want, press △ to refit the ship with what is shown.\n> {Change Sails:<$34>}  > {Change Figurehead:<$35>}  > {Change Extra Gear:<$36>}\n> {Change Cannons:<$3A>}  > {Cargo Hold:<$3B>}  > {Rooms:<$3C>}\n\n
+
+@52
+Change Sails (Shipyard > Refit)\nYou can change the sails on the masts.\nSome ships limit which sails they can carry. Square sails raise speed in a tailwind; lateen (triangular) sails raise speed in a headwind.\nTopsails raise speed in a tailwind; staysails raise speed in a headwind.\n\n
+
+@53
+Change Figurehead (Shipyard > Refit)\nYou can fit a figurehead on the bow. A figurehead may protect the ship from disasters and the like.\nThis is available only when you have an item of the "Figurehead" type.\n\n
+
+@54
+Change Extra Gear (Shipyard > Refit)\nAdd or change armor, bow gear and stern gear.\n> {Extra Armor:<$37>}  > {Bow Gear:<$38>}  > {Stern Gear:<$39>}\n\n
+
+@55
+Extra Armor (Refit > Extra Gear)\nPlating that protects the ship from hits. It raises max durability but slightly lowers speed.\n\n
+
+@56
+Bow Gear (Refit > Extra Gear)\nYou can fit a bowsprit sail, a bow cannon or a ram.\n[Bowsprit Sail] Raises speed in a tailwind.\n[Bow Cannon] Fires forward.\n[Ram] Attacks enemy ships by ramming them.\n\n
+
+@57
+Stern Gear (Refit > Extra Gear)\nYou can fit a jigger spanker (stern sail) or a stern cannon.\n[Gaff Spanker] Raises speed in a headwind.\n[Aft Cannon] Fires backward.\n\n
+
+@58
+Change Cannons (Shipyard > Refit)\nChoose the cannon shown at the helm to change the cannon type.\nAs a port grows, up to 6 cannon types become available.\n\n
+
+@59
+Cargo Hold (Shipyard > Refit)\nYou can change what a {Cargo Hold:<$7F>} is used for: Marine Quarters, Armed Battery, Rowers' Room, Supply Hold or Cargo Store. Rowers' Rooms cannot be changed or added.\nSome holds cannot be set to certain uses. Adding a hold slightly lowers speed. One ship can have up to 4 Marine Quarters and Armed Batteries, up to 5 Cargo Stores, and any number of Supply Holds.\n\n
+
+@60
+Rooms (Shipyard > Refit)\nYou can change {Rooms:<$6E>}.\nThe Captain's Cabin, First Mate's Cabin, Helm, Survey Room, Crow's Nest, Masts and Deck cannot be changed to other rooms. Except for Cabins, Masts and Deck, a ship cannot have more than one room of the same type.\n\n
+
+@61
+Rename Ship (Shipyard > Refit)\nChange the name of a ship.\n\n
+
+@62
+Dock (Shipyard)\nPut ships in or take them out of the dock, and form or disband local fleets.\n> {Swap Ships:<$3F>}  > {Appoint Captain:<$40>}  > {Formation:<$41>}\n> {Form Local Fleet:<$42>}\n> {Edit Local Fleet:<$47>}\n> {Disband Local Fleet:<$48>}\n\n
+
+@63
+Swap Ships (Shipyard > Dock)\nLeave ships at the dock or take them out.\nSailors, cargo and supplies can stay aboard while the ship is docked.\nWhen you take a ship out, you can also change the {Formation:<$41>} and {Crew Setup:<$8B>}.\n\n
+
+@64
+Appoint Captain (Shipyard > Dock)\nAppoint a captain for each ship. Your mates can captain ships other than the flagship.\nThe mate you choose becomes captain. If you cancel, an ordinary sailor captains that ship. [!] Appointing the hero (the Admiral) as a ship's captain makes that ship the flagship.\n[!] A mate who becomes a captain levels up more easily.\n\n
+
+@65
+Formation (Shipyard > Dock)\nChange the order of the ships.\nThe flagship always leads. The ships you pick become the 2nd ship, 3rd ship, and so on, in the order chosen.\nPick the order for all ships, then confirm.\n\n
+
+@66
+Form Local Fleet (Shipyard > Dock)\nForm a local fleet.\nA local fleet is a fleet entrusted to a mate (Command 150 or more) with a chosen policy. You can change the policy from the Info command.\nEach fleet needs 100,000 gold coins in operating funds. You can form up to 6 fleets. If every ship in a fleet sinks, the mate returns to your fleet.\n> {Delegate Waters:<$43>}  > {Patrol:<$44>}  > {Call at Port:<$45>}  > {Attack Port:<$46>}\n\n
+
+@67
+Delegate Waters (Dock > Local Fleet)\nEntrust all activity in those waters to the fleet.\nThe mate who leads the local fleet decides on trade, investment and so on.\nOnce set, a monthly report of income and expenses arrives.\n\n
+
+@68
+Patrol (Dock > Local Fleet)\nStay at sea near ports with a {contract:<$24>} and guard against attacks by other factions.\n\n
+
+@69
+Call at Port (Dock > Local Fleet)\nCall at ports with a {contract:<$24>}.\n\n
+
+@70
+Attack Port (Dock > Local Fleet)\nAttack ports with no {contract:<$24>} to lower other factions' {Share:<$96>}.\n\n
+
+@71
+Edit Local Fleet (Shipyard > Dock)\nChange the makeup of a local fleet. Available only when the local fleet is docked at the same port.\n\n
+
+@72
+Disband Local Fleet (Shipyard > Dock)\nDisband a local fleet. Available only when the local fleet is docked at the same port.\nThe mate who led the fleet returns to the hero's fleet. Any remaining operating funds are returned too.\n\n
+
+@73
+Harbor\nResupply water and food, then set sail.\n[!] If water and food are not fully stocked, the harbor clerk asks whether to resupply. Choose "Yes" to top up water and food evenly to the maximum.\nChoose "No" to change the ratio of water and food supplied.\n> {Depart:<$4A>}  > {Dock:<$4E>}  > {Arrange Cargo:<$4F>}\n\n
+
+@74
+Depart (Harbor)\nSet sail.\n> {To Sea:<$4B>}  > {Auto Move:<$4C>}  > {Deck Screen:<$4D>}\n\n
+
+@75
+To Sea (Harbor > Depart)\nSail while steering the ship yourself.\n\n
+
+@76
+Auto Move (Harbor > Depart)\nTravel automatically to a chosen port.\nA {Captain:<$78>} and a {Surveyor:<$7B>} are required.\nAuto move works between ports linked by a route. "Linked by a route" means: 1. the {Route Map:<$68>} connects the start and destination with a line, and 2. your faction has {Share:<$96>} at both ends and every relay port. Such lines are shown in red on the chart.\n\n
+
+@77
+Deck Screen\nSame as the {Deck Screen:<$69>} in the Common Commands.\n\n
+
+@78
+Dock (Harbor)\nSame as the {Shipyard Dock:<$3E>}.\n\n
+
+@79
+Arrange Cargo (Harbor)\nRearrange the cargo.\nCargo left outside the ship is discarded.\n\n
+
+@80
+Ruins / Church (Cities Only)\nDepending on how the game goes, the way to ruins or a church near a port may open up.\nDiscovering ruins or a church raises your {Influence:<$B8>}.\nYou may also join rites and festivals, which gives you experience.\n[!] Ruins may hold rare items. Be sure to pay a visit.\n\n
+
+@81
+Report Golden Route (Guild)\nReport a "Golden Route" you have discovered.\nReporting it earns you a Golden Route discovery bounty for a set period.\nA Golden Route that has already been reported cannot be reported again.\n> {Golden Route Records:<$8D>}  > {Golden Route Found:<$C9>}\n\n\n\n
+
+@82
+At-Sea Commands\nCommands you can use at sea.\n> {Moving the Ship (Normal Sailing):<$53>}\n> {Moving the Ship (Auto Move):<$54>}\n> {Info Mode:<$55>}  > {Search:<$56>}  > {Declare War:<$57>}\n> {Villages:<$58>}  > {Battle:<$59>}\n> {Sea Data:<$99>}\n> {Commands Common to Port and Sea:<$67>}\n\n
+
+@83
+Moving the Ship (Normal Sailing)\nIn normal sailing, use the +Control Pad to steer and L/R to turn the sails. You can also sail with the {touch screen:<$65>}. ○ and × open and close the sails.\n○ = open sails (speed up)\n× = close sails (slow down)\nSails are half open when you leave port. Press ○ to open them fully. [!] When half open, if every mast has a {Sailhand:<$7D>}, the sail direction is set automatically.\n\n
+
+@84
+Moving the Ship (Auto Move)\nIn "Auto Move", the ship sails by itself.\nPress × to cancel Auto Move and return to {Normal Sailing:<$53>}. You cannot resume Auto Move at sea.\n[!] With the "Eagle Statue" equipped, time passes faster during Auto Move. Press ○ during Auto Move to return to normal speed.\n\n
+
+@85
+Info Mode (At-Sea Commands)\nPress □ while sailing to pause and enter Info Mode, where you can view info on the ports and ships on screen.\nSearch Mode and Declare War Mode are entered from Info Mode.\n> {Search:<$56>}  > {Declare War:<$57>}\n\n
+
+@86
+Search Mode (At-Sea Commands)\nSearch the area around your ship.\nIn {Info Mode:<$55>}, press □ or R to enter Search Mode. Press ○ to search.\nYou may find water, food, items and more. If you find nothing, sailor fatigue rises by 3. Sailors may desert or be attacked by beasts during a search.\n\n
+
+@87
+Declare War Mode (At-Sea Commands)\nStart a {battle:<$59>} with a fleet or port on screen.\nIn {Info Mode:<$55>}, press □ twice or L to enter Declare War Mode. Choose a target and the battle begins.\nDeclaring war automatically sets relations with that faction to "{At War:<$BB>}" and greatly lowers goodwill.\nIf you declare war on a port, the commands usable there are restricted.\nYou cannot declare war on the fleets of allied factions.\n\n
+
+@88
+Villages\nYou may find these while sailing.\nVillagers may give you food and water or repair your ship. When they help you, give them a few gold coins.\n[!] Finding a village reveals the nearby land and sea on the route map.\n[!] In villages you are asked about a password, the "{Promise Word:<$66>}". Enter it to trigger an event.\n\n
+
+@89
+Battle\nMeeting a fleet of a faction "{At War:<$BB>}" with you, or sharks and the like, at sea leads to battle.\nIn battle you only move your ship, the same way as in {normal sailing:<$53>}. Cannon fire and so on happen automatically.\n> {When Battles Happen:<$5A>}  > {Victory Conditions:<$5B>}  > {Defeat Conditions:<$5F>}\n> {What Happens in Battle:<$60>}\n\n
+
+@90
+When Battles Happen\nA battle starts in any of these cases.\n1. You meet a fleet of a faction {At War:<$BB>} with you.\n2. You {declare war:<$57>} on another faction's fleet.\n3. A port attacks you. (Approaching a port under an {exclusive contract:<$97>} with a faction at war with you provokes an attack.)\n4. A monster such as a shark attacks you.\n\n
+
+@91
+Victory Conditions\nMeeting any one of the conditions below wins the battle, and it ends.\nConditions differ by opponent.\n> {Fleets:<$5C>}  > {Ports:<$5D>}\n> {Monsters:<$5E>}\n\n
+
+@92
+Victory Conditions: Fleets\nYou defeat an enemy fleet when either of these is met.\n1. The enemy flagship's durability reaches 0.\n2. You capture the enemy flagship.\n[!] Beating an enemy fleet lowers the loser's {Share:<$96>} in ports near the battle. When you capture a ship, you may seize its gold coins and cargo.\n\n
+
+@93
+Victory Conditions: Ports\nYou defeat a port when either of these is met.\n1. The port's armament reaches 0.\n2. The port surrenders (it may surrender as its armament drops).\n[!] Winning a battle against a port gives you 10% of that port's {Share:<$96>}.\n\n
+
+@94
+Victory Conditions: Monsters\nYou win by defeating the monster. You may also get an item.\n\n
+
+@95
+Defeat Conditions\nYou lose when either of these is met.\n1. Your flagship's durability reaches 0. 2. Your flagship is captured.\n[!] If your flagship falls, the hero moves to another ship in the fleet and the battle ends.\n\n
+
+@96
+What Happens in Battle\nThe following happen automatically in battle.\n[!] Before a battle, assign your mates to battle posts. Change assignments on the {Deck Screen:<$69>}.\nYou can of course change assignments after the battle starts too.\n> {Cannon Fire:<$61>}  > {Boarding Battle:<$62>}  > {Duel:<$63>}  > {Ramming:<$64>}\n\n
+
+@97
+Cannon Fire\nAttack with the cannons you carry.\nThe number of {Armed Batteries:<$81>} and cannon attack power count most. Carrying many high-power cannons is an advantage. With {bow cannons:<$38>} and {stern cannons:<$39>} you can also fire a little ahead and astern.\n[!] To fire more, put mates with high Accuracy at every Armed Battery.\n\n
+
+@98
+Boarding Battle\nWhen ships touch, the sailors fight a boarding battle.\nWhen your flagship touches an enemy ship, mates fight too. Their wins and losses affect the sailors' result.\n[!] To raise boarding strength, put the hero in the flagship's {Captain's Cabin:<$78>} and mates with high Fencing in the {Marine Quarters:<$80>} and every {Deck:<$7E>} post.\n\n
+
+@99
+Duel\nWhen flagships come close, a duel starts.\nThe flagship's {Boarding Chief:<$80>} takes on the duel. With no Boarding Chief, the {Deck Crew:<$7E>} or the hero fights.\n\n

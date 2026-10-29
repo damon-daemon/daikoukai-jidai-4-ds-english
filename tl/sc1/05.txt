@@ -1,0 +1,908 @@
+@157.0012
+Go wherever you like!\nA worthless hand like you?\nI'm the one firing you!
+
+@157.0080
+Fine by me...\nDo whatever you want.
+
+@157.00AE
+What was that?\nDo you think there was a fight?
+
+@157.00DE
+He said "fired"...\nWas that man some kind of bodyguard?
+
+@157.011E
+Hey, who was that man just now?
+
+@157.013C
+Hm? Oh, him. All he knows is\nfighting.\nHe never listens, so I fired him.\nThat's all there is to it.
+
+@157.01A2
+...Is he skilled?
+
+@157.01BA
+Oh? You're interested in him?\nSure, his skill is first-rate.\nBut I just wish he'd carry the\nluggage like he was told.
+
+@157.022A
+Hmm... Perfect as a bodyguard, but\nhe seems to have a character problem.\nToo proud, perhaps?\nOr just no teamwork...
+
+@157.0292
+I hardly think you're one to talk\nabout teamwork, Charles.\n...Let's go.
+
+@157.02DC
+Huh? Admiral, are you serious?!
+
+@157.0302
+I won't be satisfied until I've\nspoken to him myself.
+
+@157.0332
+So that's our man.\nWow, what a build. He really stands out.
+
+@157.0384
+You seem to have trained your body\nquite hard.
+
+@157.03AC
+Anyone can see that.\nAnd it's none of your business.
+
+@157.03E0
+...You don't get it?\nI'm talking to you because I see\npotential in you.\nThat attitude will cost you.
+
+@157.0434
+What did you say?!
+
+@157.0446
+I hear you were fired as a bodyguard.\nYou must have strength to spare.
+
+@157.048C
+You want to hire me?\nWho the hell are you?
+
+@157.04B6
+Then let me introduce myself.\nI am {FI}, an admiral in the\nSwedish Navy, commanding\na patrol fleet.
+
+@157.0504
+Hah, an admiral...\nBut I have no intention of becoming\na sailor.
+
+@157.053A
+So that's all your judgment is worth?\nYou're saying I rank below your last\nemployer.
+
+@157.058A
+!\nWe only just met.\nYou're awfully impatient.
+
+@157.05C2
+A man who can't decide loses face.
+
+@157.05EA
+Ugh...
+
+@157.05F6
+I can put your strength to use.\nIf you're willing to follow me,\ndecide now.
+
+@157.063E
+All right.\nI'll board your ship.\nThe name's Al. I'm in your care.
+
+@158.000A
+Hey, old man!!\nYou! I mean you, old man!!
+
+@158.004C
+Yeah, you.\nI heard about you at the harbor.\nYou're the admiral of this ship, right?
+
+@158.009A
+I need work, see?\nHow about letting me work on\nyour ship, old man?
+
+@158.00D4
+...What an insolent attitude.\nShall we ignore him?
+
+@158.0106
+Wait. I am\n{FI} {FA}.\nI captain this ship.
+
+@158.013E
+You said you want to work on a ship?\nMy fleet has no room for the useless.\nWhat can you do?
+
+@158.019E
+Mamma mia?!\nIsn't it obvious just looking at me?\nMy selling points are strength\nand beauty!
+
+@158.01F2
+Absurd. Let's go.\nMen like this are usually all talk.
+
+@158.023C
+You've been yapping this whole time.\nI'm talking to this gloomy old man,\nnot you.
+
+@158.0298
+Let him talk and he...! You!\nThis strength of yours, I'll test it.\nDraw your sword!
+
+@158.02E4
+Perfect timing!\nCome on!
+
+@158.0312
+Stop it!
+
+@158.0326
+Leave this to me, sir!\nI can't back down after he insulted\nyou this far!!
+
+@158.0380
+How about that, huh?!\nThe great me is strong!
+
+@158.03B0
+Ngh...!
+
+@158.03C0
+Oh... I thought he was all talk...\nHe's cornering Gerhard himself...
+
+@158.0406
+Mine now! Finishing blow!
+
+@158.0428
+Too naive!
+
+@158.0446
+Gah!!
+
+@158.0456
+...As expected of Gerhard.\nBut that man is interesting.
+
+@158.04A2
+Come on... no way.\nI lost for the first time.
+
+@158.04D4
+The world is wide.\nThere are fifty thousand men like you\nout there.\n...Now, shall we go, Admiral?
+
+@158.0528
+Hey, you. Want to come aboard?
+
+@158.054A
+W-what did you say?
+
+@158.0560
+He is insolent, but his sword talent\nis considerable. Still unpolished,\nbut few men have pushed you\nthis hard.
+
+@158.05C8
+...Well, that is true.
+
+@158.05E8
+Travel makes a man grow.\nHe'll surely change.\nWhat do you say?
+
+@158.062C
+Well, if you say so,\n{FI}...
+
+@158.065E
+H-hey. Are you sure?\nI was pretty rude to you guys,\nwasn't I?
+
+@158.06BE
+Then you can work it off.
+
+@158.06EA
+...Heh. Then I'll do that.\nThanks. I'm Angelo.\nAngelo Puccini.
+
+@158.0772
+By the way, Admiral. If you want to\nprofit from trade, you can't keep\nscraping by in the Mediterranean.
+
+@158.07D2
+Why not?
+
+@158.0984
+You even know trade well?\n...You're not what you look like.
+
+@158.0AA4
+Thanks for the quick advice.\nI'll try going out to the open sea.
+
+@159.030E
+Barkeep, a drink.
+
+@159.0432
+Those moves...\nHe's studied swordsmanship, and he looks\nvery good at it.\n...I'll talk to him.
+
+@159.0756
+Grown men relying on numbers?\nI'm not impressed...
+
+@159.07DA
+No wonder the women in the tavern\nwere making a fuss.
+
+@159.082C
+Well, that's up to you if you think so.
+
+@159.08A8
+No need to thank me.\nI have a request, and it's because\nI saw your swordsmanship.
+
+@159.0914
+The way you fought just now was\nsuperb swordsmanship.\nWhy not test that skill on the world?
+
+@159.095C
+...?\nWhat do you mean?
+
+@159.097A
+I want to invite you aboard my ship.
+
+@159.0992
+Are you saying this in earnest?\nIf so, I would gladly accept...
+
+@159.09DC
+What does that mean?\nDo you think this is a joke?
+
+@159.0A14
+No, it's just that the timing is\nso good...
+
+@159.0A4A
+I am an unemployed navigator.\nPlease, let me join your ship.\nI am Ian Dukov.
+
+@160.002E
+(...Someone's already here.)
+
+@160.03E8
+How did you know the shopkeeper was ill?
+
+@160.0480
+......(He didn't look it to me.)
+
+@160.04FA
+(Oh...?)
+
+@160.0574
+Yes, I'll definitely go.
+
+@160.09CC
+...Wait a moment.
+
+@160.09F2
+I was impressed by your trading skill\nyesterday. I want you on my ship.
+
+@160.0A28
+Whoa, what's this all of a sudden?
+
+@160.0A52
+I'm serious.
+
+@160.0A66
+I'm not a sailor.\nI'm just a merchant.
+
+@160.0A92
+Sailing isn't the only job for a\nnavigator. There's also the important\npost of purser.
+
+@160.0AEC
+Do you hate leaving this place?\nDon't want to leave your children?
+
+@160.0C28
+Such a thing happened...
+
+@160.0CBE
+So that's how you noticed that\nman's condition...
+
+@160.0CEC
+...And your hometown?
+
+@160.0D6E
+Old man. Will you come with us?\nIf you don't want to go back to Venice\nalone, that is.
+
+@160.0DCA
+On a ship, everyone is of one body\nand mind.\nYou can treat us as your family.
+
+@160.0E0E
+You're saying...\nyou'll become my new family?
+
+@160.0E52
+That's right.\nAnd I can't let your skills go to waste.\n...Will you come?
+
+@160.0E8E
+......Thank you.\nI'll gladly board your ship.
+
+@161.000C
+I drank quite a bit, for once.
+
+@161.0056
+Hm, nice music.
+
+@161.0094
+Hm.
+
+@161.01A8
+I thought she was only good with a sword...
+
+@161.01CA
+Were you surprised...?
+
+@161.01E0
+Somewhat... but it was a fine dance.\nNo wonder Mivor fell for you.
+
+@162.000E
+It's awfully hot here......
+
+@162.0146
+You. What's your specialty?
+
+@162.015E
+Cooking! Ta-da!
+
+@162.0184
+And your experience on ships?
+
+@162.01A0
+None!
+
+@162.01B0
+...I can't trust a man like that.
+
+@162.01D0
+Everybody has a "first time," right?
+
+@162.01F8
+Talking back is also a no.
+
+@162.0216
+I don't think this counts as\ntalking back, though...
+
+@162.024E
+In any case, I don't want a kid\nwho needs looking after.
+
+@162.0276
+Pfft!\nYou were a kid yourself until\nnot long ago!
+
+@162.02B6
+...What did you say?
+
+@162.02C6
+Fine, whatever!\nI don't like you. Bye-bye.
+
+@162.02F4
+...Strange fellow.\nBack to the ship.
+
+@162.031E
+Huff, huff, w-wait a second!\nPlease? Please?\nI was lying just now. I like you.
+
+@162.0376
+...How about tasting my cooking\nbefore you decide?
+
+@162.03AE
+Tasting it is fine, I suppose...\n......
+
+@162.03D0
+Oh...!
+
+@162.03E0
+So, so, how is it? Still no good?
+
+@162.0410
+Ah, that face means it's good, right?\nYay!
+
+@162.043A
+......I haven't said anything yet.
+
+@162.045A
+I'm Samuel!\nI'm handy, so I can do anything!\nNice to meet you!
+
+@162.0498
+What an astonishing fellow.
+
+@162.04AC
+(But... this is delicious.)
+
+@163.0040
+The ship is gone...?
+
+@163.005A
+A ship simply vanishing...
+
+@163.008E
+That's scientifically impossible!\nPhysically impossible too!
+
+@163.0124
+Incredible! Gone without a trace!
+
+@163.0160
+Science can't explain it!\nHow mysterious!
+
+@163.022C
+You just stood there watching?\nWhy didn't you stop him?!
+
+@163.027C
+Oh my, oh my.\nThis is a real problem.
+
+@163.0308
+Sailing off completely alone...\nThe culprit is a very bold man.
+
+@163.0346
+{FI},\nlet's go back to town, gather\ninformation, and find that man.
+
+@166.0042
+What! It came back?
+
+@166.0128
+Heh heh heh.\nThe world is wide...\nTo think there are people like that...
+
+@166.0162
+Hey, you!\nWho gave you permission to board\nthat ship?!
+
+@166.01CC
+What is this man saying?!
+
+@166.01FC
+A ship lying in the sea?\nThat's scientifically impossible!
+
+@166.02F6
+So you just happened to take it out?\nBut how did you even manage to\nsail it?
+
+@166.0388
+...Not bad.
+
+@166.03B4
+Normally that's impossible.\nHe could have run aground or\nbeen lost at sea...
+
+@166.04B8
+Heh heh heh...
+
+@166.04CE
+What a fellow!\nStop fooling around!
+
+@166.0556
+(There's no such proverb...)
+
+@166.05CC
+How absurd... {FI},\nlet's hand a man like this over to\nthe guard!
+
+@166.061C
+I like him...
+
+@166.0630
+!!\nW-what are you saying?!\nAre you in your right mind?
+
+@166.0660
+Yes, I am...\nSailing out alone, that reckless creed...\nI haven't met such an interesting man\nin ages.
+
+@166.06B8
+Surely not...
+
+@166.06DC
+Surely you don't mean to make him\none of us...
+
+@166.0706
+Exactly...\nJam... was it?\nWill you come with us?
+
+@166.07BA
+Decided?
+
+@166.0818
+Hmm, your reaction is a bit small.\nDon't get mad, don't get mad.\nJust kidding!!
+
+@166.0866
+Kidding?
+
+@167.0008
+Phew, Alexandria...\nQuite a lot of ships are anchored\nand busy here... Hm, what's that?
+
+@167.005A
+...Ah, not this one either.\nMy beloved "Elysium"!\nWhere are you?! Where are you?!
+
+@167.00AC
+Is he looking for something?
+
+@167.00CE
+It seems so.\nHey, are you looking for something?
+
+@167.0106
+I am looking for a ship, sir!\nMy "Elysium"!
+
+@167.014C
+Once, the "Elysium" and I crossed\nthe seven seas.
+
+@167.018C
+But pirates attacked us.\nI escaped, but the "Elysium" was\ntaken...
+
+@167.01EA
+And you're searching for that ship?
+
+@167.0212
+Yes, I have searched many ports...\nBut so far...
+
+@167.0246
+You say you "crossed the seven seas."\nDo you mean you sailed all over the\nworld?
+
+@167.028E
+Yes, Asia, the New World...\nI have visited many countries.
+
+@167.02C0
+What was your post aboard?
+
+@167.02D6
+Captain, of course, sir!
+
+@167.02F8
+Knowledge of many lands and captain's\nexperience...
+
+@167.0318
+Then how about this?\nJoin my ship and help me\nwith my work.
+
+@167.0360
+As we travel the world, you may find\nyour ship too.
+
+@167.039E
+Haha, Admiral {FI}.\nI knew you would say that!
+
+@167.03D2
+R-really, sir?!\nI would be honored, sir!
+
+@167.0406
+Come, I'll show you the way. I am\n{FI} {FA}.\nI'm counting on you.
+
+@167.043E
+I am Cesare Toni, sir!
+
+@167.0466
+Good for you, Mr. Cesare.\nI'm Charles Rochefort.\nNice to meet you.
+
+@168.0008
+But where on earth did my "Elysium"\nvanish to?
+
+@168.006E
+It bothers me that pirates took it.\nGenerally such ships are stripped of\ngold and cargo, then scrapped.
+
+@168.00D8
+What...? No way...
+
+@168.00F2
+Mr. Gerhard, about that ship.\nWe've received word it was seen\nnear Lisbon recently.
+
+@168.0150
+What?!
+
+@168.0162
+What did you say?!\nThe "Elysium" is near here?!
+
+@168.0198
+Right, then let's search the harbor.
+
+@168.01C0
+Right, then let's search the\nharbor once more.
+
+@168.0218
+No good. It's not here either...
+
+@168.0240
+Don't be so downcast.\nWe'll surely find it someday...
+
+@168.0282
+That's right, I'll help too.
+
+@168.02AC
+It should be somewhere near here.\nThe rest depends on your "luck."\nKeep hoping.
+
+@168.031E
+It's not anywhere, Cesare.\nHow about your side?
+
+@168.0354
+○×△◎▲□×◇!?
+
+@168.0370
+What is it, Cesare?
+
+@168.0392
+E-E-E-Elysium! It's the Elysium!
+
+@168.03CE
+What is it?\nDon't tell me he found it?
+
+@168.040E
+It seems so. He let out a shriek\nand ran aboard that ship...
+
+@168.045A
+<Claudio>\nW-what the?! Who is this guy?\nA thief?!
+
+@168.048E
+<Rafael>\nA thief?!
+
+@168.04B2
+<Cesare>\nElysium!
+
+@168.04EC
+This has turned into quite\na mess...
+
+@168.051E
+This is bad, we must stop Cesare.\nCesare!
+
+@168.0552
+Cesare!\nCalm down, calm down!
+
+@168.057E
+...Ah, ahh... I'm sorry.\nThe moment I saw the Elysium, my\nmind went completely blank...
+
+@168.05DA
+What the heck is going on?
+
+@168.05FC
+I'm Rafael Castor, of the Castor\nCompany.\nWho are you?
+
+@168.0646
+Forgive our rudeness.\nGerhard Adelnkatz, of the {FO}.
+
+@168.0682
+Oh,\nthe {FO}...
+
+@168.0698
+And this is\nCesare Toni.
+
+@168.06C2
+I'm sorry for losing my composure...
+
+@168.06EC
+Why did you come aboard this ship?
+
+@168.0718
+This ship is the "Elysium."\nShe was my ship...
+
+@168.074E
+What are you talking about?!\nThis is our ship!
+
+@168.0780
+Wait, Clau.\nMaybe it's really true.
+
+@168.07B4
+Because this ship was a derelict\nwashed up on the shore, remember?
+
+@168.07FA
+But... do you have anything to prove it?
+
+@168.0830
+Proof, hm...\nCesare, how about it?\nAnything come to mind?
+
+@168.086C
+Proof...... Ah, that's it!
+
+@168.0890
+There should be a mark I carved on\nthe side of the ship! It says\n"Good Luck"...
+
+@168.08D8
+Hmm...\nClaudio, would you check the side\nof the ship?
+
+@168.0910
+Me? Why me...\nWhat a pain...
+
+@168.093A
+We need to confirm the truth!\nGrumbling over small things\nlowers a man's worth!
+
+@168.09A4
+Tch... fine.\nYou really work people hard...
+
+@168.09DE
+I checked.\nUnbelievable... it's really carved there.
+
+@168.0A12
+It's there?!
+
+@168.0A40
+You did it!
+
+@168.0A5A
+Good for you, Cesare.
+
+@168.0A78
+Y-yes...
+
+@168.0A8A
+Which means this ship...
+
+@168.0AA8
+Yeah, damn... Now this ship is\nsomething we can't do without...
+
+@168.0AFE
+Hm... I suppose so.\nWhat will you do, Cesare?
+
+@168.0B38
+............\nLet's go. Meeting the "Elysium" again\nis enough for me...
+
+@168.0B82
+Please... take good care of the\n"Elysium"...
+
+@168.0BD8
+Mr. Cesare...
+
+@168.0C18
+......Wait.\nThis ship is yours, isn't it?
+
+@168.0C52
+Yes, well, once...
+
+@168.0C70
+Then please take the "Elysium"\nback.
+
+@168.0CA4
+Hey, what are you saying?\nIt's our ship, our ship!\nWhat happens to us?!
+
+@168.0CE6
+I'll... figure something out.\nI understand Cesare's feelings.\nCome on, let's give it back.
+
+@168.0D42
+...Haah, you softie...\nAll right...
+
+@168.0D70
+......A-are you sure?
+
+@168.0D8E
+Yes.\nI'll moor her at the dock here, then.
+
+@168.0DC4
+Th-thank you very much!\nI can travel with the "Elysium"\nagain!
+
+@168.0E2A
+Good for you!
+
+@168.0E46
+I thank you as well. And what\ngenerosity at your age.
+
+@168.0E7E
+Oh, no, it's nothing...
+
+@168.0E98
+No need to be modest. You have the\nsame "scent" as my admiral. I can tell.
+
+@168.0EDA
+Rafael, I am proud to have met you.\nFarewell.
+
+@168.0F18
+Thank you so much!!
+
+@169.0196
+Then I'll take that drink.
+
+@169.01B4
+...Phew. Delicious.\nThanks. See you.
+
+@169.0246
+No, not now. By the way, were you\nthat confident about gambling?
+
+@169.031A
+You, insightful...?
+
+@169.03B2
+He's chatting her up, obviously.
+
+@169.058A
+I'm amazed... How did you know?
+
+@169.065E
+I see...\nThat is certainly sharp insight.
+
+@169.06E8
+It's a waste to confine that talent\nto gambling.\nHow about joining my ship?
+
+@169.07D0
+Forget the drink. Come to my ship.
+
+@169.0932
+I'm counting on your skills.
+
+@170.0008
+Not good!
+
+@170.0024
+Not good, not good, not good!\nNot gooooood!
+
+@170.0050
+(A drunk...)
+
+@170.0078
+Hey, you there!!
+
+@170.009C
+Young people these days are hopeless!
+
+@170.00C2
+(...The usual old man routine.)
+
+@170.00E2
+You lot, guzzling this awful swill.\nOutrageous!
+
+@170.012C
+...(What a nuisance.)
+
+@170.0144
+What's that sour look for?
+
+@170.0168
+...If you hate bad liquor,\nyou shouldn't drink it.
+
+@170.019C
+When I want a drink, I have no choice.\nThey say necessity knows no law.
+
+@170.01DC
+Then drink quietly.\nConsider the people around you.
+
+@170.021E
+Listen, I may be drinking bad liquor\nand grumbling because I have to...
+
+@170.0264
+But I really want good liquor!\nThat's it! You... would you let me\ndrink some good liquor?
+
+@170.02C8
+If I had good liquor, I could\nbehave myself!
+
+@170.0300
+(Good grief...)
+
+@170.0316
+Come on, hurry and let me drink.\nMy gut tells me you carry\nsome fine liquor.\nAm I right?
+
+@170.037E.0
+I do, but...
+
+@170.037E.1
+I don't.
+
+@170.03A6
+Really?! Well done, young man!
+
+@170.03C8
+I can't claim deep knowledge of\nliquor. I only know its ordinary\nvalue as a trade good...
+
+@170.0424
+Oh! Trade, is it!\nI know a bit about trade myself.
+
+@170.0462
+Did you do business on ships?
+
+@170.048C
+Sort of. Call me "the Veteran."
+
+@170.04B0
+...I see.\nThen there's something I'd like to ask.\nMay I?
+
+@170.04FE
+Hm? What do you want to ask?
+
+@170.0522.0
+Ask what I don't know
+
+@170.0522.1
+Ask what I know to test his skill
+
+@170.0572
+A fairly honest attitude.\nYes. A good attitude.
+
+@170.05A6
+Well then, let's go.\nWhere's your ship?
+
+@170.05DE
+Oh. You want to test me?\nHeh, that won't work.
+
+@170.061A
+A contrary fellow like you needs\nproper schooling.\nNow, first, how to tell good\nliquor from bad.
+
+@170.0686
+Come on, why are you spacing out?\nHurry and show me to the ship.
+
+@170.06D2
+You'll take me aboard, right?\nI have mountains to teach you.\nOne or two days won't be nearly enough.
+
+@170.073E
+I'm Julio Elneco.\nPleased to meet you.
+
+@170.076C
+...Yes, pleased to meet you.
+
+@170.0784
+Hey, old man!\nThe admiral never said a word\nabout letting you aboard...
+
+@170.07BC
+Well, it's fine.
+
+@170.07D2
+Now then, the sea after so long!\nMy heart is dancing!
+
+@170.0812
+No, no, don't lie to me!!\nDon't think you can play dumb just\nbecause I'm old.\nNow, tell me.
+
+@170.0878
+No... Well,\nwe're about to go looking for it.\nAs part of our voyage.
+
+@170.08C8
+A voyage?! I see, I see.\nHow wonderful.\nThen I'll go along too.
+
+@170.0922
+Hohoho, what are you so surprised at?\nI may look it, but I'm a sea dog,\nstill going strong!
+
+@170.0974
+I may be old, but I think I'm\nquite useful, don't you?
+
+@170.09A6
+Hey, old man!\nThe admiral never said a word\nabout letting you aboard...
+
+@170.09DE
+Well, it's fine.
+
+@170.09F4
+I'm Julio Elneco.\nI'm counting on you from now on.

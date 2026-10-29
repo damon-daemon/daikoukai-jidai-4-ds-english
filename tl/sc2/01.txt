@@ -1,0 +1,920 @@
+@027.000E
+I've never seen that ship before.\nLet's hope they aren't pirates...
+
+@027.0050
+...Hey, you lot! Do you want something\nwith my ship? Staring at people's boats,\nand calling us pirates, no less!\nHow rude!
+
+@027.00B8
+...Your ship?
+
+@027.00CE
+That's right, mine! And I don't\nrecall letting you call me "you"!
+
+@027.0120
+...You're military. I can tell by the outfit.
+
+@027.0146
+I hate soldiers. They throw their weight\naround and bully everybody, all because\nof who's backing them!
+
+@027.01A8
+{FI}, come on.\nCalm down.
+
+@027.01C6
+{FI}!\nThat's rude to someone you just met!
+
+@027.01EE
+Stay out of it, Kamil!
+
+@027.020A
+If you think you can pick a fight\nwith me, think again!
+
+@027.0252
+...Tch...!
+
+@027.0264
+What, violence?! That's just what a man\nwith nothing but muscle would think of.\nGo on, try it!
+
+@027.02BA
+...Don't misunderstand.\nI don't raise a hand to women and children.
+
+@027.02EA
+Oh...\nSo you think you're a gentleman?
+
+@027.0308
+Well, I won't be fooled that easily!
+
+@027.0338
+Let's go, Kamil!
+
+@027.0354
+W-wait up, {FI}!\nU-um, I'm very sorry.\nWell, then...
+
+@027.03AA
+You are Hodrum Bergstrom, I take it...
+
+@027.03D6
+Yes, I am.
+
+@027.03EA
+I have heard of you.\nI am Gerhard Adelnkatz.
+
+@027.0426
+Oh, the Adelnkatz who hunted pirates?\nThe Admiral himself...
+
+@027.045A
+That was a long time ago...
+
+@027.0476
+If I may ask, Hodrum, why did you let\nthat insolence go just now?
+
+@027.04BC
+...\nThey were in no state to listen to reason.\nForgive me, but dealing with that sort\nis painful for me.
+
+@027.051A
+...I see. I think I understand.
+
+@027.055A
+Hm? What is it...?
+
+@027.0572
+Hm, Kamil...?
+
+@027.058C
+Huff, huff... U-um...\nI'm sorry about earlier.
+
+@027.05C4
+Is there something else?
+
+@027.05D8
+I really wanted to apologize...\nI'm truly sorry!
+
+@027.0626
+Please forgive {FI}.\nShe didn't mean to pick a fight with you.
+
+@027.0670
+Once, a man who strutted around just\nbecause he was a soldier treated her\nbadly.\nShe's been a little sensitive since.
+
+@027.06DC
+She's really kind and a wonderful\ngirl, I promise! A bit hasty and\nstubborn, maybe...\nBut that's {FI} for you!
+
+@027.0778
+Your courteous apology is appreciated.\nI take no offense.
+
+@027.07A8
+Y-you don't?!
+
+@027.07C4
+No. With someone like you at her side,\nI imagine her talents are put to good use.
+
+@027.0830
+Do not worry about me. Besides, there\nis not a single such soldier in\nour fleet.
+
+@027.089A
+My goal is to make us one of the\n"strongest navies in the world."\nWe will not harm you. I promise.
+
+@027.0910
+Thank you so much!\n...Oh, and one more thing,\nMr. Gerhard...
+
+@027.0964
+Please don't tell {FI}\nthat I came here...
+
+@027.0986
+Of course. I'll keep quiet.
+
+@027.09A4
+Thank you!\n...Well, excuse me!
+
+@027.09F2
+A young man with a bright future...
+
+@027.0A16
+A fine young man indeed...
+
+@027.0A2C
+Yes.\n...A bright future.
+
+@028.000C
+So you're the country merchant brat\nwho's been trampling Spanish territory?!
+
+@028.006A
+Hmm, this man... Could it be...
+
+@028.008C
+And who are you? Have you no manners\ntoward a lady?!
+
+@028.00DC
+{FI}, just leave it.\nI don't want any trouble.
+
+@028.0120
+Hmph, no courtesy for a country girl!\nI am Pedro de Valdes, Admiral of the\nSpanish Navy and master of these waters!
+
+@028.0194
+Valdes, as I feared...
+
+@028.01B2
+Do you understand what it means to\nmake an enemy of Spain's\nInvincible Armada?!
+
+@028.020E
+It's not too late. Back off from these\nwaters quietly and all is well. Refuse,\nand we will crush you!
+
+@028.028A
+Eek!!\nLet's back off, please...
+
+@028.02B6.0
+All right. We'll back off
+
+@028.02B6.1
+No way
+
+@028.02EC
+Oh? You're more sensible than I thought!\nNever meddle here again.\nNext time, no mercy!
+
+@028.033A
+Seville's share\nhas dropped.
+
+@028.0384
+Galling as it is, he seems to have\nthe upper hand. We should build up\nour strength for now.
+
+@028.03EE
+{FI}...\nY-you're really going to fight?!
+
+@028.041A
+So you want to be taught a lesson...\nVery well, you'll regret it for life!
+
+@029.000A
+It seems you need to learn the hard\nway.
+
+@029.0040
+I changed my mind!\nI have my pride too!\nI won't bow to brute force!
+
+@029.0098
+Hmph, suit yourself.\nI'll crush you with everything I have!
+
+@030.000C
+Spain's mightiest fleet...\nHow could this happen?\nI can't face His Majesty...
+
+@030.0056
+That Clifford, of all people...
+
+@030.008A
+Teaming up with a brat like that...
+
+@030.00B0
+Joining forces with an Amsterdam\nmerchant...
+
+@030.00E4
+Hey there!
+
+@030.00F4
+Mr. Clifford!
+
+@030.010E
+Our alliance threw them into chaos and\nscattered their forces. That's what\ndid Valdes in...
+
+@030.0156
+So that was your goal, right?\nWhat will you do now?
+
+@030.0194
+Well... I'll have to wait for\nHis Majesty's orders...
+
+@030.01CA
+Surely not against me...
+
+@030.01E4
+I hope it never comes to that.
+
+@030.0212
+Well, take care of yourself.
+
+@030.0230
+You too.
+
+@031.000C
+Hey, you're planning to do business in\nthe southern Mediterranean? Surely you've\nheard the rumors around here?
+
+@031.0070
+...Huh, rumors?
+
+@031.00A4
+Rumors? What about?
+
+@031.00C6
+You haven't heard?\nThe tale of the "Pirate King of the\nMediterranean"?
+
+@031.00F6
+What?\nWho's this "Pirate King"?
+
+@031.012E
+...(Could he mean that man?)
+
+@031.0154
+Take my advice.\nLeave this port and head elsewhere\nat once! Understood? Get out of the\nwaters around Egypt!
+
+@031.01C0
+Could this be what the "warning" meant?
+
+@031.01E6
+Looks like you know a little...\nThen leave the southern Mediterranean\nquickly!
+
+@031.0234
+Don't mess with the "Pirate King"!
+
+@031.0274
+The "Pirate King"...? H-how scary.\n{FI},\nlet's follow the "warning," please.
+
+@031.02DE
+...(Could he mean that man?)
+
+@032.0008
+Are you saying you'd make an enemy of\nthe Hayreddin family?
+
+@032.004A.1
+I'll take them on
+
+@032.00AC
+You're a reckless one.
+
+@032.00DA
+A-are we going to be all right?
+
+@032.010C
+Don't be a coward!\nThis time we'll be fine!
+
+@032.0154
+Reckless, and proud of it!
+
+@033.000A
+Those jokers deserved to go under!\nClaiming everything in the lands they\ntrade in as their own!\nThe arrogance!
+
+@033.009A
+Right! But still...\nThat's a surprisingly good thing\nto say, for you, {FI}.
+
+@033.00EA
+"Surprisingly"? How rude!\nI only ever say good things!
+
+@034.000A
+So this is Sofala...\nThe greatest trading city in East\nAfrica.
+
+@034.0052
+I hope there's good food here.
+
+@034.008E
+Just as you'd expect from East Africa's\nbest. It's a fine town.
+
+@034.00BC
+What a lovely town.\nI bet we can do good business here.\nHuh...?
+
+@034.00F4
+U-uugh...
+
+@034.0106
+Hey, what's wrong?
+
+@034.0122
+U-uuugh, m-medicine...
+
+@034.016A
+Medicine! I'll run and fetch some\nfrom the ship. Hang on!
+
+@034.01A0
+It's no use, little miss.
+
+@034.01BC
+But he's sick, isn't he? There's\nmedicine on my ship!
+
+@034.01FC
+That's not the kind of medicine\nhe's after...
+
+@034.022E
+What do you mean?
+
+@034.0244
+That stuff. "Goddess's Temptation"...
+
+@034.0268
+"Goddess's Temptation"...?\nWhat is it? Isn't he sick?
+
+@034.02AA
+Sick... Well, you could say that.\nThis man is hooked on a drug.
+
+@034.0316
+A drug?!
+
+@034.0330
+You may not know, little miss, but\nthat's a devil's medicine... Once you\ntake it, you can't stop.
+
+@034.039A
+What...?
+
+@034.03AA
+This man is the same...\nHe likely won't pull through.
+
+@034.03E0
+That's awful...\nWhy would anyone buy such a scary\ndrug?
+
+@034.0416
+It makes you happy. Alive, but...\nof course, it's only an illusion that\nlasts a moment.
+
+@034.0472
+An illusion... And people still\nreach for something like that?
+
+@034.04B2
+Plenty of them. Everybody wants\nto be happy.\nThat's what they prey on.
+
+@034.04FE
+Even you, little miss: if someone said\nyou could buy happiness for next to\nnothing, what would you do?
+
+@034.055C
+...Right. I'd think about it.
+
+@034.057A
+See? That's what many people said,\nand they bought up all they could.\nAnd then...
+
+@034.05DA
+From the second time on, the drug\ncarries an outrageous price.
+
+@034.0610
+...And they all still buy it?
+
+@034.0632
+Yes. To the hooked, the drug matters\nmore than gold. They keep buying\nbeyond their means...
+
+@034.0684
+In the end, they're stripped bare.\nThey take every last thing from you.
+
+@034.06BA
+They go bankrupt...
+
+@034.06D4
+Like this man.\nHe was a wealthy merchant, but once he\ntouched that stuff...\nNow he doesn't have a penny.
+
+@034.072E
+As a fellow merchant, I can't stand it!\nWho's selling that stuff?\nI'll give them a piece of my mind!
+
+@034.079C
+Yes, I'm furious too.
+
+@034.07D2
+Preying on weak hearts is vile.\nUnforgivable...
+
+@034.07FC
+Hey now, don't. Nobody can stand\nagainst the Espinosa Company...
+
+@034.083C
+You won't know until you try!\n...Espinosa, huh. Unworthy of the name\nmerchant.\nI will never forgive them!
+
+@035.0018
+Ah, what a lovely day!\nSimply wonderful!
+
+@035.0048
+? Um, excuse me...
+
+@035.005A
+Oh, a customer. Pardon me, pardon me.\nI got carried away.
+
+@035.0090
+Did something happen?
+
+@035.00A6
+Well, that Espinosa Company has finally\nbeen wiped out. Peace will return to\nSofala at last!
+
+@035.010E
+...Sir, you must really have hated\nthe Espinosa Company.
+
+@035.0152
+Of course! Espinosa made their money\non slaves and drugs. They were wicked,\nruthless merchants!
+
+@035.01B8
+Everyone who carelessly touched the drugs\nwas bankrupted...\nThey were like devils.
+
+@035.0218
+Wow. There really are terrible merchants.\nAs a merchant myself, I can't forgive\nthat.\nGood riddance to them!
+
+@035.027E
+Exactly! From now on they won't swagger\nthrough this town!\nSimply wonderful! La la la~
+
+@035.02E4
+Hm? Sir, you dropped something.
+
+@035.0308
+...Oh, this?\nMiss, would you like it?
+
+@035.033E
+What is it?
+
+@035.034E
+Found at the Espinosa house.\nI had no use for it and was thinking\nof throwing it away.
+
+@035.03AC
+Is it okay for me to take it?
+
+@035.03D0
+If you're a merchant, you travel across\nthe sea, don't you? It'll be more use\nto you than to me.\nTake it if you want.
+
+@035.0448
+Sir!
+
+@035.045A
+Oh, you're that girl from before!\nI heard, you really did defeat that\nEspinosa fellow!\nImpressive!
+
+@035.04C4
+Hehe, thank you!\nAs a merchant, I couldn't stand\nsuch dirty methods.
+
+@035.052C
+With us on the job, a guy like that\nis nothing!
+
+@035.055E
+Well, everyone is delighted. They say\neven those hooked on the drug can\nget their old lives back with time.
+
+@035.05C6
+I see... Good. After all, there's no way\na drug could make you truly happy.\nThat's just too convenient.
+
+@035.0620
+True. Happiness isn't given, it's\nsomething you win yourself.\nBecoming happy is really hard work.
+
+@035.068C
+That's why people live and work\nwith all they've got.
+
+@035.06C4
+Wow...\nSir, that's a good line.
+
+@035.0700
+Oh, wise words indeed!
+
+@035.071E
+Hahaha, I only realized it recently.\nMiss, you work hard, so someday you'll\nsurely be happy, you'll see.
+
+@035.0790
+You think? I wonder...
+
+@035.07AA
+Hahaha, I guarantee it.\n...Say, would you like to take this?\nIt was found in the Espinosa house.
+
+@035.0816
+Something's written on it, but it's\nbeyond us. We can't make heads or\ntails of it. Take it.
+
+@035.0876
+Thanks, sir.\nSee you!
+
+@036.0028
+Admiral!\nLook what Espinosa had!
+
+@036.006A
+{FI}!\nLook what was in Espinosa's warehouse!
+
+@036.0096
+What is this powder?
+
+@036.00C0
+That's "drugs," boss.\nTerrifying stuff that ruins people!
+
+@036.010E
+This is a "drug."\nTerrifying stuff that drives\npeople mad.
+
+@036.0148
+Espinosa!\nSo you were selling this stuff!
+
+@036.018A
+Espinosa, now that you're under the\n{FO}, you won't be selling\n"drugs"!
+
+@036.01D6
+Tch, fine!
+
+@036.01F6
+Are you the girl?\nThe one called {FI}?
+
+@036.0232
+Thank you. I hear you stopped\nEspinosa from selling "drugs."
+
+@036.028A
+I couldn't leave such a devil's drug\nrunning loose. It's an enemy of\nhumanity.
+
+@036.02D4
+Everyone in town was delighted. If only\nall merchants were like you, miss.\nI'd like to thank you somehow...
+
+@036.0356
+Espinosa, now that you're under the\n{FO}, you won't be selling\n"drugs"!
+
+@036.03A2
+Tch, fine!
+
+@036.03BE
+Oh, sir!
+
+@036.03D6
+Isn't that the girl from before?
+
+@036.0402
+You can relax now!
+
+@036.0416
+Huh? About what?
+
+@036.042E
+I made sure Espinosa will never sell\n"drugs" again!
+
+@036.046E
+No way?!
+
+@036.0480
+It's true. Espinosa surrendered to me.
+
+@036.04B0
+I'm amazed! You, miss...\nSay, I'd like to thank you somehow...
+
+@036.04FA
+Huh? No need for that.\nI just couldn't forgive the guy.
+
+@036.0542
+No need to be modest.\n...Here, take this.\nSomething's written on it, apparently.
+
+@036.05A0
+It's beyond us. We can't make heads or\ntails of it. Take it.
+
+@036.05E6
+Thanks, sir.\nSee you!
+
+@037.000A
+There's a grand mansion right nearby,\nyet over here people sleep outdoors...\nIs the gap between rich and poor\nthat wide around here?
+
+@037.0084
+There's something called the caste\nsystem here, you see.
+
+@037.00CC
+Your class is decided at birth.\nThe rich stay rich, you know.
+
+@037.010C
+Then if it were the other way around...
+
+@037.012E
+Right... Here there's a system where\nyour status is fixed from the day\nyou're born.
+
+@037.0184
+It's called the caste system. Some people\nlive in hardship only because they\nweren't born into a wealthy class.
+
+@037.01EA
+I see...\nIt's not only the people back home\nwho are suffering...
+
+@037.0234
+I want to be of some use...\nWhat can I do, I wonder...?
+
+@037.0290
+{FI}!\nNice thing to say! There's sure to be\nsomething only you can do!
+
+@037.02EC
+Indeed.\nThere must be something only Admiral\n{FI} can do.
+
+@037.0344
+Come to think of it...\nthat person I met in Amsterdam.\nI wonder what happened to him.
+
+@037.0390
+I hope the funds for the "polder"\nhave come together. Let's go to\nAmsterdam!
+
+@038.000A
+Kamil...
+
+@038.002E
+Is what I'm doing...\nwrong?
+
+@038.0070
+I thought it was natural for a merchant\nto grow her company and earn as much\nas she can.
+
+@038.00CC
+But because of it, conflicts break out\nall over the world. And I'm one of\nthe people responsible.
+
+@038.0148
+I don't know anymore if what I'm doing\nis really right...
+
+@038.0198
+{FI}, you're not wrong.\nBut...
+
+@038.01C2
+I don't know anymore if what I'm doing\nis really right... In the end, I'm\njust like Coen.
+
+@038.0244
+...Oh, sorry!\nI didn't mean to speak ill of\nyour father...
+
+@038.0292
+No, it's fine.\n{FI}, you're not wrong.\nBut...
+
+@038.02CA
+But?
+
+@038.02D8
+As long as nations and companies gather\non the Silk Road of the Sea chasing profit,\nthere'll be no peace. That's a fact.
+
+@038.0346
+Then what should we do?
+
+@038.0368
+...\nEveryone gives up all their desires and\nsettles things by talking, or...
+
+@038.03A6
+That's impossible.\nEveryone wants to earn money and\nbe happy.
+
+@038.03F0
+Holland grew because people like that\nworked hard, dreaming of striking it\nrich.
+
+@038.0446
+And nobody has the right to force down\nthe natural wish to live better than\nothers. That's something that must\nnever be done!
+
+@038.04C8
+That's so like you, {FI}.\nBut you're right, I think.
+
+@038.0506
+It's frustrating, but as Father said,\nsome things can't be solved just by\nlining up pretty words and ideals.
+
+@038.0588
+So in the end... it's impossible?\nEveryone living happily without fighting?
+
+@038.05C6
+...Someone has to become the Victor\nof the seas of the world.
+
+@038.05F6
+Victor...?\nYou mean take the seas of the world\nby force?
+
+@038.0642
+No, I'm not saying to conquer the\nentire world with arms.
+
+@038.067E
+...What do you mean?
+
+@038.0696
+That's exactly why we're collecting\nthose "Marks."
+
+@038.06BE
+The "Victor's Marks"...?
+
+@038.06DC
+If someone everyone accepts as the Victor\nholds the "Marks," I think fighting at\nsea might disappear.
+
+@038.0750
+With sea trade routes worth fortunes\nright in front of everyone, you can't\nexpect a fake peace of "let's all\nbe equal" to last, can you?
+
+@038.07CA
+...True.
+
+@038.07DA
+But if someone nobody can challenge\nreigns as the keeper of the seas, then\neveryone has no choice but to behave.
+
+@038.0844
+A keeper of the seas...
+
+@038.0858
+...Aha, I get it!\nIt's like how brothers can't fight\nin front of a scary dad, right?
+
+@038.08B0
+Um... (What an example.)\nW-well, something like that.
+
+@038.08EA
+So you mean...\nI should be that dad?
+
+@038.0916
+Exactly.
+
+@038.0924
+Do you think I'm qualified?
+
+@038.094E
+If you weren't, you couldn't get\nthe "Marks."
+
+@038.097E
+{FI}, you just need to work hard and build\nthe strength and spirit worthy of\na Victor.
+
+@038.09C6
+Me, a keeper of the seas...
+
+@039.000A
+Oh, {FI}!
+
+@039.001E
+Hey, how's the "polder" going?
+
+@039.0040
+Well... thanks to the funds, more people\nare helping, and there's even a small\ntown now...
+
+@039.009C
+Sounds like it's going great! ...But you\ndon't look happy. Did something\nhappen?
+
+@039.00EE
+Actually... a "polder" alone wouldn't\nbe enough, so I thought we should\nbuild up the town first.
+
+@039.0146
+So I wanted to build a Governor's\nOffice with government aid, but...
+
+@039.0186
+With a Governor's Office you could expect\ninvestment from all kinds of powers.\nSounds like a good idea!
+
+@039.01DA
+The government said, "We'll help, but\nin exchange provide us with gold."\nI'm at a loss.
+
+@039.0238
+Gold isn't easy to gather around the\nNorth Sea... In Africa, maybe, but...
+
+@039.0294
+If they're going to help, they could be\ngenerous about it. Honestly, how stingy.
+
+@039.02E0
+Fine.\nI'll get the gold.\nWait here.
+
+@039.0314
+R-really?!\nWe need three warehouses' worth!
+
+@039.034C
+Is that all? No big deal.\nLeave it to me!
+
+@039.0380
+Thank you so much!\nThe town is near Amsterdam.\nIt's called Lelystad.
+
+@039.03DE
+"Lelystad," got it...\nI just bring three warehouses of gold\nthere. Don't worry, wait for me!
+
+@040.000A
+We're here.
+
+@040.001C
+{FI}... Are you sure this is the place?\nThere's nothing here.
+
+@040.0054
+T-this should be it, but with nothing\naround, I'm not so sure. Um...
+
+@040.00AE
+{FI}!\nOver here!
+
+@040.00CA
+Oh, there you are! I'm glad we found you!\nI brought the gold I promised!
+
+@040.010C
+Thank you!\nI really don't know how to thank you...
+
+@040.014A
+Oh, stop it.\nDon't worry about it.
+
+@040.0170
+So, will you be all right from here?
+
+@040.0190
+Yes... I have a plan.
+
+@040.01AC
+Once the Governor's Office is built here,\ninvestors are sure to appear.\nAnd then...
+
+@040.01F8
+While continuing the "polder," I hope to\nturn this into a town where trade\ncan happen someday.
+
+@040.024E
+A town that can trade, huh...\nI hope it happens soon.
+
+@040.027C
+Yes, look forward to it!
+
+@040.02A0
+Let's both do our best!
+
+@041.000A
+Oh! Looks like the Governor's Office\nis finished!
+
+@041.0030
+This town will keep growing now.
+
+@041.007A
+Right.\nLet's go take a look.
+
+@041.00AC
+{FI}!\nLook!\nThe Governor's Office is finally done!
+
+@041.00E6
+Congratulations! You did it!\nHere, this is a gift from me.
+
+@041.0132
+Wh-what! 400000 gold!\nAre you sure about this?!
+
+@041.016C
+You'll still need more money, right?\nI hope that's enough...
+
+@041.01AC
+Actually...
+
+@041.01BC
+Huh? It's not enough?
+
+@041.01D6
+As you say, building more facilities\nwill take much more investment.
+
+@041.021A
+This money will probably be gone just\nfixing up the town a bit...
+
+@041.025C
+Building a town takes a lot more money\nthan I thought... Don't worry, I'll work\nhard and save up!
+
+@041.02C0
+I'm so sorry. I keep relying on you\nfor everything, {FI}...
+
+@041.0300
+Leave the money to me!\nIn return, the town is yours.\nI'm counting on you with the "polder"!
+
+@041.0368
+Yes!\nI'll make the "polder" a success,\nI promise!
+
+@043.000C
+Hmm. I got these "local goods," but\nI've no idea what to do with them...\nWhat should I do?
+
+@043.0090
+Hmm, what could they be?
+
+@043.00B6
+Oh, these are very rare. Used well,\nthey can bring enormous profits.
+
+@043.012A
+Oh?\nHow do you use them?
+
+@043.014E
+Take them to the Market in a town.\nIf it goes well, you can add to the\ntrade goods that town handles.
+
+@043.01BA
+Ahem. As the Wise Old Man, I can tell\nat a glance where some of them sell\nbest.
+
+@043.0220
+Even with "local goods," they have to\nsuit the land.
+
+@043.025C
+When you bring suitable "local goods"\nto the Market, the owner will come\nto talk to you.
+
+@043.02B8
+When he asks you to hand them over,\nit's up to {FI}\nwhether to give them.
+
+@043.0306
+You found a land where they'd be useful,\nand you don't have to hand them over?
+
+@043.0348
+Right. They may be useful in more than\none town. It's better to pick the land\nthat's easiest for you to trade in.
+
+@043.03B0
+I don't get it...
+
+@043.03C8
+Added trade goods can be bought and sold\nby any faction, so you should consider\nthe town's share when deciding.
+
+@043.0440
+Ahh, I get it!\nIt's a brand-new trade good. Better if\nonly we monopolize it!
+
+@043.04A6
+Hmm?? Ugh!!\nExplain it so even I can understand!
+
+@043.04F0
+Okay, listen. Even if we get more goods,\nin a place where an enemy faction rules,\nwe can't trade much, right?
+
+@043.0562
+Worse, the enemy might buy up lots and\nsell it themselves. Then adding goods\nwould be pointless.
+
+@043.05D8
+I see! If it's a great product,\nit's better if we can monopolize it!
+
+@043.0630
+It's not bad for any town to gain trade\ngoods. But for the {FO}, picking\nthe wrong town could cost us profit.
+
+@043.06A2
+Hmm. Sounds kind of fun.\nAll that matters is making money!
+
+@043.06DE
+Well, yes, but...\n(Ugh, I'm worried...)

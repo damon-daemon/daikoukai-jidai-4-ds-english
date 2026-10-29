@@ -1,0 +1,750 @@
+@2250
+The expedition party seems to have\nfound nothing!\n...Oh no!\nAdmiral, some of the sailors have deserted!
+
+@2251
+The expedition found nothing!\nNow, prepare to depart!\n...What?!\nAdmiral, some of the sailors have deserted!
+
+@2252
+The expedition party seems to have\nfound nothing!\n...Oh no!\nWe're short on sailors! They deserted!
+
+@2253
+The expedition party seems to have\nfound nothing. Shall we set sail then?\n...Oh!\nLooks like some sailors deserted!
+
+@2254
+Looks like the expedition found nothing.\nAll right, get ready to... What?!\n...Admiral, some of the sailors ran off!
+
+@2255
+It seems the expedition found\nnothing. Now, prepare to depart...\nWhat?! Admiral, some of the sailors\nseem to have deserted!!
+
+@2256
+The expedition found nothing, huh?\nWell, let's set sail... Oh!\nWe have fewer sailors! They deserted!
+
+@2257
+The expedition party seems to have\nfound nothing!\nNow, let's set sail... What?!\nSome of the sailors have deserted!
+
+@2258
+The expedition party was attacked by wild beasts!
+
+@2259
+The expedition party was attacked by wild beasts!
+
+@2260
+Admiral!\nThe expedition party was attacked by beasts!
+
+@2261
+Admiral!\nThe expedition party got attacked by beasts!
+
+@2262
+Admiral!\nThey say the expedition party was attacked by beasts!
+
+@2263
+The expedition party was attacked by beasts, Admiral!
+
+@2264
+Admiral, a plague has spread through the ship! The expedition party attacked by beasts must have caught the disease!
+
+@2265
+Admiral, the whole ship is full of plague! The expedition party that the beasts attacked must have caught it!
+
+@2266
+A plague has spread through the whole ship! The expedition party that the beasts attacked must have caught it!
+
+@2267
+This is terrible!\nThe whole ship is sick with plague!\nIt spread from the people\nthe beasts attacked!
+
+@2268
+This is serious! A plague on the ship!\nIt must have spread from the expedition party the beasts attacked!
+
+@2269
+The expedition party\nwas caught in quicksand!
+
+@2270
+It seems the expedition party\nwas caught in quicksand!
+
+@2271
+Admiral!\nThe expedition party got caught in quicksand!
+
+@2272
+The expedition party\ngot caught in quicksand!
+
+@2273
+The expedition party\ngot caught in quicksand!
+
+@2274
+This is terrible! The expedition party\ngot caught in quicksand!
+
+@2275
+The expedition party seems to have found a hot spring!
+
+@2276
+Admiral,\nthe expedition party seems to have found a hot spring!
+
+@2277
+Admiral!\nThey say the expedition party found a hot spring!
+
+@2278
+They say the expedition party\nfound a hot spring!
+
+@2279
+Wow!\nLooks like the expedition party found a hot spring!
+
+@2280
+The expedition party found a hot spring!
+
+@2281
+They say the expedition party found a hot spring!
+
+@2282
+Admiral, this feels wonderful.\nA hot spring is just the cure for a tired traveler.
+
+@2283
+Admiral,\na hot spring is just the cure for a tired traveler.
+
+@2284
+A hot spring feels so good!\nIt takes all the travel fatigue away.
+
+@2285
+Admiral, a hot spring feels so good!\nI feel like the fatigue of the trip is melting away.
+
+@2286
+Ahh... Admiral, this feels good.\nNothing beats a hot spring after a long trip.
+
+@2287
+A hot spring doesn't taste good,\nbut it sure feels good!
+
+@2288
+The expedition party seems to have\nfound an oasis!\nLet's go take a look!
+
+@2289
+The expedition party seems to have found an oasis!\nLet's hurry!
+
+@2290
+Admiral!\nThe expedition party found an oasis!\nLet's hurry!
+
+@2291
+Looks like the expedition party found an oasis!\nLet's get going!
+
+@2292
+It seems the expedition party\nfound an oasis!\nLet's go right away!
+
+@2293
+They say the expedition party\nfound an oasis!\nLet's go quickly!
+
+@2294
+An oasis in a place like this...\nTruly a gift from heaven.
+
+@2295
+An oasis in a place like this.\nI didn't expect that.\nThank goodness...
+
+@2296
+An oasis in a place like this!\nWe must be lucky.
+
+@2297
+An oasis in a place like this!\nWe're lucky, aren't we?
+
+@2298
+An oasis in a place like this!\nAdmiral, we're lucky!
+
+@2299
+I never expected an oasis\nin a place like this.\nWhat a relief!
+
+@2300
+An oasis in a place like this!\nI'm so moved!
+
+@2301
+Huh? The oasis disappeared...\nAdmiral, it was a mirage.
+
+@2302
+Oh, the oasis...\nAdmiral, it was a mirage.
+
+@2303
+Oh, the oasis...\nIt was a mirage after all...
+
+@2304
+Oh, the oasis is gone...\nAww, it was a mirage.
+
+@2305
+The oasis... vanished...\nDamn, it was a mirage!
+
+@2306
+The oasis... has vanished.\nAdmiral, it was a mirage.
+
+@2307
+Huh? The oasis...\nIt's gone.\nWhat a letdown.
+
+@2308
+The expedition party seems to have\nsunk into a bottomless swamp!
+
+@2309
+It seems the expedition party\nsank into a bottomless swamp!
+
+@2310
+It looks like the expedition party\nsank into a bottomless swamp!
+
+@2311
+Admiral, this is bad!\nThey say the expedition party\nsank into a bottomless swamp!
+
+@2312
+Admiral, this is bad!\nLooks like the expedition party\nsank into a bottomless swamp!
+
+@2313
+This is terrible!\nThe expedition party seems to have\nsunk into a bottomless swamp!
+
+@2314
+This is terrible! The expedition party\nis stuck in a bottomless swamp!
+
+@2315
+The expedition party seems to have\nfound something!
+
+@2316
+It seems the expedition party\nfound something!
+
+@2317
+The expedition party\nfound something!
+
+@2318
+It looks like the expedition party\nfound something!
+
+@2319
+The expedition party seems to have\nfound something!
+
+@2320
+The expedition party seems to have\nfound something!
+
+@2321
+The expedition party\nfound something!
+
+@2322
+The expedition party seems to have\nfound something!
+
+@2323
+Admiral!!\nThis is the %s Victor's Mark:\n%s!
+
+@2324
+Admiral, look what the expedition party found!!\nThis is the %s Victor's Mark:\n%s, isn't it?!
+
+@2325
+Admiral, what the expedition party found...\nIt's the Victor's Mark of %s:\n%s, right?!
+
+@2326
+Admiral, the expedition party found it!!\nThis is the %s Victor's Mark:\n%s!
+
+@2327
+Admiral, what the expedition party found\nis the Victor's Mark of %s:\n%s, right?!
+
+@2328
+Admiral, look what the expedition party found!!\nThis seems to be the Proof of\nConquest of %s: %s!
+
+@2329
+Admiral, what the expedition party found...\nIt's the Victor's Mark of %s:\n%s, right?
+
+@2330
+Admiral, the expedition party found this.\nIt seems to be the Proof of\nConquest of %s: %s.
+
+@2331
+A shark bit off our %s!
+
+@2332
+It seems a shark bit off our %s!
+
+@2333
+A shark bit off our %s!
+
+@2334
+Admiral, this is terrible!\nA shark bit off our %s!
+
+@2335
+A shark bit off our %s!
+
+@2336
+A shark bit off our %s!\nWhat a glutton!
+
+@2337
+That's the famous white whale!\nCountless ships have fallen prey to it!\nLet's take it down!
+
+@2338
+That's the famous white whale...\nCountless ships have fallen prey to it.\nA good chance, let's take it down!
+
+@2339
+That's the famous white whale!\nSo many ships have fallen prey to it!\nAdmiral, let's take it down!
+
+@2340
+That's the famous white whale...\nI hear many ships have been attacked.\n...Admiral, let's take it down!
+
+@2341
+Hey! That's the famous white whale!\nSo many ships have been attacked by it.\nWhy don't we take it down?!
+
+@2342
+There's the famous white whale!\nThey say countless ships have fallen prey\nto it. How about we take it down?!
+
+@2343
+Wow, a white whale! It's famous!\nSo many ships were attacked by it!\nHey, let's beat it!
+
+@2344
+That's the famous white whale!\nThey say countless ships have fallen\nprey to it.\nShall we take it down ourselves?
+
+@2345
+Admiral, what are you doing?!\nAttack, quickly!
+
+@2346
+Admiral, what's the matter?!\nWe have to attack!
+
+@2347
+Admiral, what's the matter?!\nPlease attack quickly!
+
+@2348
+Admiral! What are you dawdling for?!\nLet's attack already!
+
+@2349
+Admiral, what are you lazing about for?!\nAttack at once!
+
+@2350
+Admiral, we can't be idle!\nAttack quickly!
+
+@2351
+Admiral, what's wrong?!\nAttack, quickly!
+
+@2352
+Oh! The white whale is fleeing...\n...Hm? Something is shining\nwhere the whale dove!
+
+@2353
+Ah, the white whale is fleeing...\n...What is that?!\nSomething is shining where the whale dove!!
+
+@2354
+Aww, the white whale got away...\n...Oh?!\nHey, something's shining over there!
+
+@2355
+Aww, it got away...\n...Oh?\nSomething's shining where the white whale dove!
+
+@2356
+That white whale got away...\n...Hm?\nSomething's sparkling where\nit dove!
+
+@2357
+Hmm, the white whale has fled...\n...Oh!\nSomething is shining where it dove!
+
+@2358
+Aww, the white whale got away...\n...Huh?\nWhere it dove... something's shining!?
+
+@2359
+Maybe it really wanted to\nbe friends with us...?\nIt may be gentle after all.
+
+@2360
+Maybe the white whale is actually\na gentle animal.
+
+@2361
+...Maybe it's really gentle.\nMaybe people just decided it's a monster...
+
+@2362
+I'm starting to feel the white whale\nreally doesn't want to fight humans.
+
+@2363
+Maybe the white whale never\nwanted to fight humans\nin the first place...
+
+@2364
+The white whale may be\nquite gentle after all.
+
+@2365
+Did it want to play with us...?\nMaybe it's\ngentle after all.
+
+@2366
+A pod of dolphins!\nMay I record this in the ship's log?
+
+@2367
+Admiral, there's a pod of dolphins!\nMay I record this in the ship's log?
+
+@2368
+Wow, a pod of dolphins over there!\nMay I record this in the ship's log?
+
+@2369
+Admiral, there's a pod of dolphins!\nMay I write this in the ship's log?
+
+@2370
+Whoa, a pod of dolphins! Amazing!\nCan I put this in the ship's log?
+
+@2371
+Oh, a pod of dolphins!\nWhat a sight!\n...May I record this in the\nship's log?
+
+@2372
+Waaah! So many dolphins!\nI want to write this in the ship's log!\nCan I, Admiral?
+
+@2373
+Yes, write it down.
+
+@2374
+Yes, permission granted.
+
+@2375
+Yes. Record it.
+
+@2376
+Yes, go ahead and write it.
+
+@2377
+The dolphins have gone.\n...That was soothing.
+
+@2378
+The dolphins have gone.\nIt was a soothing sight.
+
+@2379
+The dolphins left...\nThat was so heartwarming.
+
+@2380
+The dolphins are gone...\nA heartwarming mood is nice once in a while.
+
+@2381
+The dolphins are gone too...\nSuch a peaceful feeling.
+
+@2382
+So the dolphins have gone...\nI feel at peace now.
+
+@2383
+Bye-bye, dolphins...\nMmm. That was heartwarming.
+
+@2384
+The dolphins have gone.\nHmm, a brief moment of rest...
+
+@2385
+M-my head! I'm going out of my mind!
+
+@2386
+Whoa! What is this voice?!\nI'm going out of my mind!
+
+@2387
+Aaah!\nM-my head! I'm going out of my mind!
+
+@2388
+H-help me!\nM-my head! I'm going out of my mind!
+
+@2389
+Aaah! That weird voice!
+
+@2390
+Whoa!\nMy head's going strange!
+
+@2391
+The bubbles are swallowing the ship!
+
+@2392
+These bubbles swallow ships!
+
+@2393
+The ship is being swallowed by the bubbles!
+
+@2394
+The ship's being swallowed by the bubbles!
+
+@2395
+The bubbles are swallowing the ship!
+
+@2396
+The bubbles are eating the ship!
+
+@2397
+Ugh, c-cold...
+
+@2398
+Brrr... I'm so cold!
+
+@2399
+Yikes, l-l-lightning!
+
+@2400
+Hm, lightning!
+
+@2401
+L-l-lightning!
+
+@2402
+L-l-lightning!
+
+@2403
+Whoa! Lightning!
+
+@2404
+Damn! We're caught in it!
+
+@2405
+This is bad! We're caught in a tornado!
+
+@2406
+Eek!\nThe ship is caught in a tornado!
+
+@2407
+This is bad! The ship is caught in it!
+
+@2408
+This is terrible!\nThe twister is swallowing us!
+
+@2409
+Whoa, we're caught in a whirlpool!
+
+@2410
+This is bad! We're caught in a whirlpool!
+
+@2411
+This is bad! We're caught in a whirlpool!
+
+@2412
+The whirlpool is eating the ship!
+
+@2413
+Damn, a reef!
+
+@2414
+We're hitting a reef!
+
+@2415
+This is bad, a reef!
+
+@2416
+This is bad! A reef!
+
+@2417
+This is bad, a reef!
+
+@2418
+Whoa-oa-oa! A reef!
+
+@2419
+No! The rudder... we can't make it in time!
+
+@2420
+It's no use! We can't turn in time!
+
+@2421
+No! The rudder... we can't make it in time!
+
+@2422
+No good! We can't turn in time!
+
+@2423
+No way! We can't steer!
+
+@2424
+Oh no! We can't turn in time!
+
+@2425
+That was a tough one...
+
+@2426
+Yes, you're right.
+
+@2427
+Yeah, you're right.
+
+@2428
+You're right.
+
+@2429
+You're right.
+
+@2430
+Admiral, what should we do with this one?
+
+@2431
+Even if sharks are monsters,\nkilling one this small\nseems wrong...
+
+@2432
+Even if it's a shark,\nit feels wrong to kill something this small.
+
+@2433
+This shark is so small!\nIt'd be sad to kill it...
+
+@2434
+Even if it's a shark,\nI can't bring myself to take the life\nof such a tiny creature...
+
+@2435
+So you're going to let it go?!\nNo way! Think about what happens\nwhen it grows up!
+
+@2436
+What?! Are you serious?
+
+@2437
+Yeah.\nI wonder what will happen.
+
+@2438
+Yes. I'm serious.
+
+@2439
+Yes.\nI don't know what will happen, though...
+
+@2440
+Yes.
+
+@2441
+Don't blame me when something\nhappens later... (Grumble.)
+
+@2442
+Thinking of what comes later,\nthis is the best way.\nNo mercy.
+
+@2443
+Hey, can I say something?
+
+@2444
+What is it?
+
+@2445
+What is it?
+
+@2446
+What?
+
+@2447
+What is it?
+
+@2448
+It's just a hunch, but I think\nsharks might be edible.\nThey could become a new trade good.
+
+@2449
+So how about we raise this one\nand try it out?
+
+@2450
+What are you saying?!\nYou don't know how scary sharks are!
+
+@2451
+The best thing to do with a captured\nshark is kill it!\nAdmiral! Forget this guy,\nlet's kill it right now!
+
+@2452
+That's what I like to hear!\nI can't wait! This is exciting.
+
+@2453
+Aww, a feast lost...\nWhat a waste!
+
+@2454
+The wind has started to blow.
+
+@2455
+Finally, wind...
+
+@2456
+Oh! The wind started blowing!
+
+@2457
+Oh, the wind is up.\nThank goodness.
+
+@2458
+Hey, the wind started blowing!
+
+@2459
+Oh! The wind seems to have started.
+
+@2460
+Oh, wind! Yay!\nThe wind is blowing!
+
+@2461
+The wind has started to blow.
+
+@2462
+Maybe foolish humans called it a monster\nand it had no choice but to fight...
+
+@2463
+Maybe it was called a monster by humans\nand had no choice but to fight...\nI feel sorry for it.
+
+@2464
+Maybe it's really a poor creature...
+
+@2465
+I feel like humans called it a monster\nand it fights because it has to.\nMaybe it's a poor animal...
+
+@2466
+Maybe it only fights because we called\nit a monster, you know?\nMaybe it's actually kind of pitiful...
+
+@2467
+Maybe humans called it a monster\nand it had to fight...\nI feel pity for it.
+
+@2468
+Maybe it was called a monster\nand fights because it has to?\nPoor thing...
+
+@2469
+Admiral, over there!\nSomething is shining!
+
+@2470
+Admiral, look over there!\nSomething is shining!
+
+@2471
+Admiral, look over there!\nSomething's shining!
+
+@2472
+Admiral, look over there!\nSomething's shining!
+
+@2473
+Admiral, look over there!\nSomething's sparkling!
+
+@2474
+Admiral!\nSomething is shining over there!
+
+@2475
+Hey, over there...\nSomething's sparkling!
+
+@2476
+Admiral, thanks to the extra armor,\nthe reef did no damage!!
+
+@2477
+Admiral, thanks to the extra armor,\nthere was no damage.
+
+@2478
+Admiral, we had extra armor on,\nso the ship is unharmed!
+
+@2479
+Admiral, thanks to the extra armor,\nthe reef did no damage!
+
+@2480
+With extra armor, we don't have to\nworry about reef damage!
+
+@2481
+With extra armor, the ship is unharmed!\nBe prepared, and nothing to fear!
+
+@2482
+With extra armor, reefs are nothing!
+
+@2483
+Admiral, thanks to the extra armor,\nthe reef did no damage!
+
+@2484
+Admiral, the ram smashed the drift ice!\nThere is no damage.
+
+@2485
+Admiral, the drift ice was smashed by the ram.\nThere is no damage!
+
+@2486
+Lucky!\nThe ram smashed the drift ice!
+
+@2487
+Admiral, the ram smashed the drift ice to bits!\nThat was a close one.
+
+@2488
+The ram smashed the drift ice!
+
+@2489
+The ram smashed the drift ice.\nNo need to worry about the ship!
+
+@2490
+The ram smashed the drift ice!
+
+@2491
+Admiral, the ram smashed the drift ice,\nso there was no damage!
+
+@2492
+Admiral, what was written on that map\nwas true!
+
+@2493
+Admiral, what was written on that map\nwas true!
+
+@2494
+We're so lucky to find\nsomething this amazing!
+
+@2495
+This looks very valuable.\nIs it worth what we paid for the map?
+
+@2496
+Wow, this is great.\nMake sure I get something tasty later!
+
+@2497
+S-so this is the treasure!\nI'm glad I lived this long!
+
+@2498
+Yay, we're feasting tonight!
+
+@2499
+I never thought the treasure would be this grand...\nIt's all thanks to you, Admiral.
+

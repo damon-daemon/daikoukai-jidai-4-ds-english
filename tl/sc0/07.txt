@@ -1,0 +1,908 @@
+@104.000A
+Admiral, did you know a Portuguese\nfleet went missing around here\nabout twenty years ago?
+
+@104.005E
+No, this is the first I've heard of it.
+
+@104.0074
+Well, the admiral supposedly had a\ntelescope that could see incredibly\nfar. They say it showed the bumps\nand craters on the moon in detail.
+
+@104.00F4
+Wow! That's amazing!
+
+@104.0114
+It's said to have been made by the\nHellenistic genius astronomer\nAristarchus, but...
+
+@104.0168
+...Really?
+
+@104.0178
+I find it hard to believe they could\ngrind lenses that precisely back then.
+
+@104.01CE
+Whether it's true, I can't say. Anyway,\nit was named after him: "Aristarchus'\nTelescope."
+
+@104.0238
+And?
+
+@104.0248
+Judging by the currents, I thought\nit might well have washed up on\nthe coast around here.
+
+@104.02B6
+I see! It sounds worth searching for.
+
+@105.000A
+We're in port, so let's go eat\nsomething already!
+
+@105.0038
+Whenever we reach port, Emilio says,\n"Let's go eat something already!"
+
+@105.0082
+Well, eating is really, really\nimportant! And I'm looking for\nsomething, too.
+
+@105.00DA
+What are you looking for?
+
+@105.00F6
+The most delicious food in the world!
+
+@105.0114
+...\nHow will you tell if it's the\nmost delicious in the world?
+
+@105.014C
+Don't worry, I'll know! The most\ndelicious food in the world is the\ndish made in "Hestia's Cauldron"!
+
+@105.01B0
+Hestia's... Cauldron?
+
+@105.01CA
+The goddess of the hearth had it\nmade. I heard it's far across the\nsea, somewhere south of Greece.
+
+@105.0236
+So I can't wait to visit the food\nstalls around Greece! Okay, enough\ntalk. Let's go eat something!
+
+@108.0008
+Admiral, I hear you finally found\nthe cursed sword Muramasa. I would\nlike to see it with my own eyes,\nif I may.
+
+@108.0070
+Of course. We only found it\nthanks to your report, Yukihisa.
+
+@108.00C4
+So this is... the cursed sword\nMuramasa...
+
+@108.00E8
+Hmm... It gives off an eerie glow,\nas if it would draw me in.
+
+@108.012C
+A feast for the eyes, truly.
+
+@109.000C
+Hey. I overheard something. You're\nsearching for strange treasures\nscattered around the world, right?
+
+@109.0084
+The priest at the church nearby\nknows a lot. He might tell you\nsomething useful.
+
+@110.000A
+Could it be that you seek the\n"Victor's Mark"?
+
+@110.003C
+You know of it?
+
+@110.0056
+I know only this: the Mark's map is\nof use only when two "Map Keys"\nare joined together.
+
+@110.00B4
+Each key alone means nothing.
+
+@110.00E8
+You may already have noticed, but\nthe Map Keys are hidden in ruins\nacross the world, and sometimes held\nby the most unexpected people...
+
+@110.0162
+...
+
+@110.016C
+I shall give you a sword.
+
+@110.019E
+Overcome the trials set before you,\nand help those in need.
+
+@110.01DE
+Do not be bound by your own desires.\nGive to those without wealth. Seal\naway the source of strife and bring\npeace far and wide.
+
+@110.023A
+Now then, may God's blessing\nbe with you.
+
+@111.000C
+Wait a moment. Have you ever been\nto the Cathedral of Santiago?
+
+@111.0056
+?
+
+@111.0060
+People from all over Europe have\nmade pilgrimages there since ancient\ntimes. It's quite a famous place.
+
+@111.00AE
+Since you're in Seville, why not go\nonce? I'll tell you the way.
+
+@112.000A
+Are you pilgrims? Then, everyone,\nplease accept this commemorative\ncross.
+
+@112.0056
+Thank you.\n...Oh? What's with this cross?
+
+@112.008A
+What is it?
+
+@112.00A4
+Just this one looks very old. Is\nthat right?
+
+@112.00D6
+Do not speak so irreverently. A holy\ncross is neither new nor old.
+
+@112.012A
+No, that's not what I meant...
+
+@112.0160
+Very well.\nIn the name of the Father, the Son,\nand the Holy Spirit... Amen.
+
+@113.000A.0
+Admiral, please take a look at this!
+
+@113.000A.1
+Admiral, please take a look at this!
+
+@113.000A.2
+Admiral, take a look at this!
+
+@113.000A.3
+Admiral, look at this!
+
+@113.000A.4
+Admiral, get a load of this!
+
+@113.000A.5
+Admiral, have a look at this!
+
+@113.000A.6
+Admiraaal, look at this!
+
+@113.000A.7
+Admiral, do take a look at this!
+
+@113.00BC
+You who visit this temple...
+
+@113.00D4
+!!
+
+@113.00E0
+I shall lend you my power.\nLet there be great debate.
+
+@114.000E
+Wow, amazing...!
+
+@114.002A
+Answer my question.
+
+@114.0044
+Whoa!!\nIt-it talked!?
+
+@114.0078
+I ask you this.\nWhat walks on four legs in the morning,\ntwo at noon, and three in the evening?
+
+@114.00BE
+Huh?
+
+@114.00CC
+W-what animal is that?\nNever heard of one!
+
+@114.00F6
+Answer my question!
+
+@114.0110
+...W-what do we do?
+
+@114.0128.0
+I know
+
+@114.0128.1
+I don't know
+
+@114.0128.2
+There's no such animal
+
+@114.016A
+Fool! Begone!
+
+@114.0190
+Waaah!
+
+@114.01B2
+Fool! Begone!
+
+@114.01D8
+Waaah!
+
+@114.01FA
+Then what is this animal?
+
+@114.0216.0
+Ourselves (humans)
+
+@114.0216.1
+You (the Sphinx)
+
+@114.0216.2
+Something else
+
+@114.0260
+Fool! Begone!
+
+@114.0286
+Waaah!
+
+@114.02A8
+Fool! Begone!
+
+@114.02CE
+Waaah!
+
+@114.02F0
+I've got it!\nIt compares a whole life to one day!
+
+@114.0328
+Huh?
+
+@114.0336
+Morning is when you're newly born.\nBabies all crawl on four limbs.
+
+@114.036E
+Oh, I see!\nWhen they grow up, they walk on two legs!
+
+@114.03A2
+Evening is old age. Old people use\na cane, right? That's the third leg.
+
+@114.03E2
+I get it! So the answer is...
+
+@114.0406
+It's us! Humans!
+
+@114.0432
+Wise one!\nTake this!
+
+@115.0018
+That was one seriously old ruin.
+
+@115.003A
+Still, who were those guys? Human\nsacrifices are pretty savage...
+
+@115.0080
+They're definitely not normal!\nBut...\nThey said they'd gather here again.
+
+@115.00D0
+What are they planning to do?
+
+@115.0100
+Who knows.\nCome to think of it, they mentioned\nthe "eve of the revelation."\nWhen's that?
+
+@115.0150
+...Remember that chant? "When light\nand darkness are in balance." Maybe\nthat's the day they mean.
+
+@115.01B4
+Huh?\nThat tells me nothing.
+
+@115.01E2
+Anyway, let's think of something.\nWe have to stop those sacrifices!
+
+@115.0226
+Aaaah...
+
+@115.023C
+Ooooh!
+
+@115.0252
+This is a revelation!\nWe, the "Ancient Megalithic Culture\nSociety," will soon conquer the world!
+
+@115.02AC
+We are the chosen ones! We shall dig\nup the treasure written of here and\nrule the foolish masses who do not\neven fear the gods!!
+
+@115.030C
+Ooooh!
+
+@115.031E
+First, we attack this village!\nWe'll make those who mocked us\nregret it!
+
+@115.0370
+Ooooh!!
+
+@116.000E
+Hm!? Someone's there!
+
+@116.002A
+!?
+
+@116.0036
+I never thought I would meet\nanother person...
+
+@116.0064
+Um... Who are you?
+
+@116.007E
+As you can see, I guard these ruins.
+
+@116.00A4
+What are these ruins, exactly...?
+
+@116.00C2
+Suryavarman II built this temple to\nmerge with Vishnu and become a god.
+
+@116.0120
+Surya...? Vish...?\nAgh, I don't get any of this!
+
+@116.016E
+I cannot let anyone near who does\nnot know the Vedas.\n...Leave.
+
+@116.01BE
+How do we win him over?\nThe Vedas... What are they...?
+
+@116.0226
+I believe it's the mythology that\nHinduism, worshiped around India,\nwas based on...
+
+@116.029C
+Vishnu is the name of a Hindu god,\nisn't it?
+
+@116.02CC
+Oh, you know your stuff.
+
+@116.02EE
+......Hm?\n!! That is...!?
+
+@116.0312
+Is that not the first text of the\nVedas?! Who are you people?!
+
+@116.0354
+I see...! So that is how it is.\nAt last you have appeared.\nAnd such a young boy, too...
+
+@116.03AA
+?
+
+@116.03B4
+Yes.\nThen I shall entrust this to you.
+
+@116.03F2
+An old coin...?\nWhat is this?
+
+@116.041C
+My task is done. The rest you must\nunravel by your own strength.\nNow, be on your way.
+
+@116.0476
+What does it mean...?
+
+@117.0010
+Who are you?\n!! Could it be...
+
+@117.0032
+Oh!\nIt has been a long time since I met\na fellow believer!
+
+@117.005C
+We escaped the rule of the Islamic\npowers and have lived quietly,\nholding fast to our faith.
+
+@117.00B0
+Excuse me, but have you heard of the\ntreasure said to go to whoever\nconquers the seven seas?
+
+@117.011A
+What!!\nYou seek the "Victor's Mark"?\n...This is God's guidance!
+
+@117.015A
+Huh?\nDo you know something?
+
+@117.017A
+Know something? Why...
+
+@117.0198
+This is a lamp handed down in our\nvillage since ancient times. They say\nanyone seeking the Mark needs it.\nWe entrust it to you.
+
+@117.021A
+...Please.\nDo not let the Mark fall into the\nOttoman Empire's hands. Somehow, with\nyour strength...
+
+@117.026E
+Understood.\nWe will surely find it.
+
+@118.0014
+Visitor to the "Colosseum"!\nAnswer my question!
+
+@118.0048
+A question...?
+
+@118.0058
+\n\nNow I ask.
+
+@118.006A
+I have a magical bean. After one\nsecond it splits in two. After two\nseconds, four. After three, eight.
+
+@118.00D4
+Put one bean in a sack and after 60\nseconds the sack is full. So if you\nstart with two beans, after how\nmany seconds is the sack full?
+
+@118.014C
+\n\nNow choose your answer from these!
+
+@118.0172.0
+1 second
+
+@118.0172.1
+30 seconds
+
+@118.0172.2
+59 seconds
+
+@118.019C
+...I know!
+
+@118.01B0
+Really?\nAs expected of Clau, you come through\nwhen it counts!
+
+@118.01EC
+You bet! The answer is "1 second"!\nHow's that!
+
+@118.0218
+Right! I was thinking that too!
+
+@118.0246
+Fools!
+
+@118.0258
+Huh...?
+
+@118.0282
+...I know!
+
+@118.0296
+Really?\nAs expected of Clau, you come through\nwhen it counts!
+
+@118.02D2
+You bet! Half of it: "30 seconds"!\nHow's that!
+
+@118.0306
+Right! I was thinking that too!
+
+@118.0334
+Fools!
+
+@118.0346
+Huh...?
+
+@118.0370
+...I know!
+
+@118.0384
+Oh? So what's the answer?
+
+@118.03A0
+Yes, the answer is "59 seconds"!
+
+@118.03C4
+Splendid!\nYou who have wisdom and courage!\nI grant you this!
+
+@119.0010.0
+Admiral, it's a dead end!
+
+@119.0010.1
+Admiral, it's a dead end.
+
+@119.0010.2
+Huh? It's a dead end.
+
+@119.0010.3
+Admiral, it's a dead end.
+
+@119.0010.4
+Whoa, dead end!
+
+@119.0010.5
+Admiral, a dead end, hmm.
+
+@119.0010.6
+Admiraaal, it's a dead end!
+
+@119.0010.7
+Well, well. A dead end.
+
+@119.00EA
+A stone tablet shaped like a jar\nis set into the wall.
+
+@119.0114
+Traveler,\npour the sacred jar with your left hand.
+
+@119.013A
+Pour the jar... with the left hand?
+
+@119.0150.0
+Push
+
+@119.0150.1
+Turn right
+
+@119.0150.2
+Turn left
+
+@119.017E
+!!
+
+@119.0192
+If you pour a jar with your left hand,\nit should tilt to the right...
+
+@119.01BA
+!!
+
+@119.01DA
+!!
+
+@119.01EE
+Run!
+
+@119.0200
+Gwaaah!!
+
+@119.021E
+A sailor was injured!
+
+@120.0010
+Pardon me.
+
+@120.001C
+Huh?\n...Yes?
+
+@120.0030
+You are searching for a treasure\ncalled the "Victor's Mark," are you not?
+
+@120.0068
+!!\nHow do you know that?
+
+@120.0084
+You seem to know something about\nthe Mark's map.
+
+@120.00C2
+Indeed... However, it is not something\nI may tell just anyone.
+
+@120.0108
+You fear what might happen if someone\nwith an evil heart got hold of it,\ndon't you?
+
+@120.0158
+...Precisely.
+
+@120.0166
+Have no fear.\nI have studied the Mark\nfor many years.
+
+@120.01AA
+I am certain this boy is\nsurely one who has what it takes\nto be a Victor.
+
+@120.01F2
+Hmm...
+
+@120.0202
+Please. If you know anything,\nI beg you, tell us.
+
+@120.023A
+...Very well.
+
+@120.024C
+Long ago, in the lands of China, the\nclan that guarded the map fled the\npursuit of those in power and headed\nfar, far to the northeast.
+
+@120.02C4
+Far to the northeast...
+
+@120.02DE
+Their descendants reached a small\nvillage at the northern edge, near the\nicy sea, and should still be living\nthere quietly.
+
+@120.0348
+...A village far northeast of China.
+
+@120.036A
+Look at the foot of a high peak on\nthe east coast, at the base of a\nhuge peninsula.
+
+@120.03A4
+It is so distant that an ordinary\nship may not reach it. With half-hearted\nresolve, you will lose your lives.
+
+@120.0418
+(...Gulp.)
+
+@120.042E
+Listen well. Never hand the Mark to\nanyone with an evil heart. And do not\nyou yourself fall prey to wicked\ndesires.
+
+@120.048E
+Yes!\nThank you very much.
+
+@121.0010
+That was a huge palace.\nAll right, let's head back to town.
+
+@121.0044
+?
+
+@121.0050.0
+Hm? Someone's on the sandbar!
+
+@121.0050.1
+Hm? Someone's on the sandbar!
+
+@121.0050.2
+Hm? Someone's on the sandbar!
+
+@121.0050.3
+? Someone's on the sandbar!
+
+@121.0050.4
+Hm? Someone's on the sandbar!
+
+@121.0050.5
+Hm? Someone's on the sandbar!
+
+@121.0050.6
+Huh? There's someone there!
+
+@121.0050.7
+Hm? Someone's on the sandbar!
+
+@121.00BE
+What's the matter?
+
+@121.00D8
+Traveler! Just in time!\nPlease save my grandson!
+
+@121.010E
+Grandson?
+
+@121.011A
+Waaah, Grandpaaa!
+
+@121.013A
+A boy is drowning!
+
+@121.0156.0
+Leave it to me!
+
+@121.0156.1
+Leave it to me!
+
+@121.0156.2
+Leave it to me!
+
+@121.0156.3
+I'll go!
+
+@121.0156.4
+Leave it to me!
+
+@121.0156.5
+Leave it to me!
+
+@121.0156.6
+I'll go!
+
+@121.0156.7
+Leave it to me!
+
+@121.01D2
+Waaah, that was scary!
+
+@121.01F0
+He's safe now!\nThank goodness, thank goodness!
+
+@121.021C
+Traveler! I am truly grateful!\nThank you!
+
+@121.0252
+I'm glad your grandson\nis safe.
+
+@121.0278
+I can't repay you properly...\nOh, I know!\nPlease wait a moment!
+
+@121.02B8
+Please, take this.
+
+@121.02E0
+What is this?
+
+@121.02F0
+When I was young, I wiped out the\nbandits that lived around here, and\nthe governor gave this to me as a\nreward.
+
+@121.0350
+I don't know where it came from, but\nI hear it is worth quite a lot.
+
+@121.0394
+I couldn't... Please keep it, sir, as\nthe proof of your valor.
+
+@121.03DC
+No, no, I can't send the man who saved\nmy grandson away empty-handed. Don't\nworry about me. It's worthless in\nmy hands anyway.
+
+@121.044C
+Then... I'll gladly accept it.
+
+@121.047A
+Well then, traveler. Take care.
+
+@121.04A2
+Bye-bye, big brother!
+
+@122.0010.0
+Admiral, look at this!
+
+@122.0010.1
+Admiral, look at this!
+
+@122.0010.2
+Admiral, look!
+
+@122.0010.3
+Admiral, look!
+
+@122.0010.4
+Admiral, look at this!
+
+@122.0010.5
+Admiral, look at this!
+
+@122.0010.6
+Admiral, look at this!
+
+@122.0010.7
+Admiral, look at this!
+
+@122.0058
+Wow! What magnificent jade!
+
+@122.008E
+In the New World, as in the East, jade\nis the most prized of all gems.
+
+@122.00D4
+Offerings of this much jade suggest\nthis building held great\nimportance, I would say.
+
+@123.0010.0
+Admiral, please take a look at this!
+
+@123.0010.1
+Admiral, please take a look at this!
+
+@123.0010.2
+Admiral, take a look at this!
+
+@123.0010.3
+Admiral, take a look at this!
+
+@123.0010.4
+Admiral, get a load of this!
+
+@123.0010.5
+Admiral, take a look at this!
+
+@123.0010.6
+Admiral, take a look at this!
+
+@123.0010.7
+Admiral, please take a look at this!
+
+@123.00A4
+Hmm. Just a stone tablet.
+
+@123.00E6
+...This is no mere tablet. There's no\nstone around here, which is why they\ndry mud to build the mosques.
+
+@123.0160
+So you mean this tablet wasn't\nmade here?
+
+@123.019E
+Yes, most likely.
+
+@123.01BC
+Admiral... this is no\nordinary stone tablet.
+
+@123.01E8
+What do you mean?
+
+@123.01FE
+Because this land has no stone at all,\neven the mosques are built from\ndried mud.
+
+@123.0256
+Huh? Then that means...
+
+@123.0274
+This tablet must have been brought\nin from another land.
+
+@123.02B4
+I see...!
+
+@123.02DA
+(whisper whisper)
+
+@123.02EC
+?
+
+@123.02F6
+This is trouble.\nWe can't do a thing against them...
+
+@123.032E
+...Were you the bandits who were\nattacking Sao Jorge?
+
+@123.036C
+Wh-what!?\nWho the hell are you?
+
+@123.0394
+I'm with the {FO}.
+
+@123.03A4
+What!?\nHelping guard that town!\nYou're a huge pain!
+
+@123.03F4
+Because of you, we can't raid it!\nWe'll go hungry!
+
+@123.042C
+Big talk for a bandit!\nWe can't just ignore the townspeople\nin trouble!
+
+@123.0480
+Shut up!\nThanks to those Europeans, our\nvillage was wrecked!
+
+@123.04DC
+No matter what anyone says,\nwe'll get our revenge!!
+
+@123.0508
+Wait. Those you should resent are\nonly the vile merchants who trade\nslaves in Africa and the brutal\nsoldiers who plunder.
+
+@123.057E
+If you hate all Europeans and attack\nwithout discrimination, you're no\ndifferent from those villains.\nYou're just as guilty.
+
+@123.05E4
+You talk like you know everything!
+
+@123.05FE
+Give up revenge. It's pointless.\nIt won't bring back your happiness,\nwill it?
+
+@123.0656
+All it does is repeat the fighting,\nand even more of your comrades\nwill suffer.
+
+@123.06B6
+...Th-then what\nam I supposed to do!
+
+@123.06E2
+Put an end to the power struggles of\nthe European nations, which cause so\nmany conflicts on the world's seas.
+
+@123.074A
+!?
+
+@123.0756
+The world is about to be carved up by\nthe great powers. To stop that, we're\ncollecting the "Victor's Mark" they\nare searching for as their pretext.
+
+@123.07E4
+Stop the great powers!?\nAre... are you serious?
+
+@123.0818
+This is no bluff. Now that they've\nextended their reach even to Africa,\nwe're confident we can match them,\nand then some.
+
+@123.0898
+...
+
+@123.08A2
+So, how about it? Why not entrust\nthat revenge of yours to us?
+
+@123.08D6
+What did you say!?
+
+@123.08EC
+Come out to sea with us.\nIf you have that kind of spirit,\nyou'll surely succeed.
+
+@123.0932
+...
+
+@123.093C
+Staying here any longer won't get us\nanywhere...
+
+@123.096A
+All right, I'll bet on you!
+
+@123.098E
+Welcome aboard.
+
+@123.09A8
+I don't know if it has anything to do\nwith that "Mark" you're after, but\nwe found this hidden inside the\nruins.
+
+@123.0A16
+A stone tablet...?

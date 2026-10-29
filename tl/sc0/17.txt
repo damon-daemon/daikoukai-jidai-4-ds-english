@@ -1,0 +1,1085 @@
+@255.000C
+Oh, you came back to see me?
+
+@255.0032
+Have you ever seen golden sand?
+
+@255.005A
+Sand?
+
+@255.0066
+A sailor who'd been to the New World\ntold me about it. He said there's a river\nwhere gold sand flows along the bed.
+
+@255.00C6
+Just picturing it is kind of\nromantic, don't you think?
+
+@256.000C
+{FI}, right?\nHey, hey. Have you ever heard of\nthe "Jar of Sorrow"?
+
+@256.005A
+Huh? The Jar of... what?
+
+@256.0074
+It's only a rumor, but they say there's\na clay jar made before pottery\nwas even invented.
+
+@256.00D0
+What?!\nThen who in the world made it?
+
+@256.00FE
+That's the mystery! That's what\nmakes it so exciting!
+
+@256.0126
+Maybe some advanced civilization\nexisted in a time we can't imagine\nand was destroyed for some reason...
+
+@256.018E
+Or maybe people who came from\nthe sky left it behind!
+
+@256.01C8
+Hahaha...\n(I can't keep up with this wild story...)\nBut nobody has found the jar yet,\nright?
+
+@256.0226
+No, I don't think it's just a rumor.\nIt's out there, I'm sure of it!
+
+@256.0266
+Oh, really?\nI wonder...
+
+@257.000C
+Oh, {FI}.
+
+@257.0020
+Are you interested in ancient\ncivilizations too? There are ruins\nright here in this town.
+
+@257.0060
+You didn't know, did you?\nThey're very close. Look,\nthey're on that hill you can see from here.
+
+@258.000C
+Hey, have you been to the pyramids yet?
+
+@258.0034
+No, not yet.
+
+@258.004E
+If you've come to this town, you have\nto see them at least once.\nI'll tell you the way, okay?\nGo on, take a look!
+
+@258.00A6
+O-okay.
+
+@259.000C
+Welcome, {FI}.\nIt's lovely weather again today.
+
+@259.0042
+Oh, that's right. Have you been to\nthe ruins near this town? Some say\nthey were King Solomon's treasure\nhouse.
+
+@259.00AA
+Oh?
+
+@259.00B6
+Today is perfect picnic weather.\nWhy not go and have a look?
+
+@260.000E
+What is it, Admiral?
+
+@260.002A
+Well... it's this statue.\nIt feels strange somehow.\nI can sense something like mercy in it...
+
+@260.0096
+A statue?\nWhere is it?
+
+@260.00B6
+Right there.
+
+@260.00CA
+Let me see...
+
+@260.00E0
+Oh, it's a figurehead!\nAnd very finely made!\nHmm, I can feel something too!
+
+@260.0156
+Is it a famous statue?
+
+@260.0170
+No, I've never heard of it.\nAh, don't tell me\nyou plan to take it with us?
+
+@260.01C2.0
+Exactly
+
+@260.01C2.1
+Of course not
+
+@260.01E2
+Hmm. It certainly is a splendid\nfigurehead. Fitting it to a ship\nwould surely bring good fortune. But is it\nall right to just take it?
+
+@260.026A
+It hurts to leave such a wonderful\nfigurehead sitting on land.\nDon't you think so?
+
+@260.02C2
+Oh! Admiral, what a kind person you are!\nWell then, if it's decided,\nlet's carry it off right away!
+
+@260.0318
+Mr. Figurehead, I'm sorry to trouble\nyou, but please come along with us.
+
+@260.0362
+Very well, then.\nI shall watch over you all.
+
+@260.0396
+W-what was that?\nWhose voice was that just now?!
+
+@260.03C4
+H-hey! Don't let go all of a sudden,\nit's dangerous!\nWhat's wrong?
+
+@260.0402
+But I heard a voice just now...
+
+@260.041C
+...Are you all right?
+
+@260.043A
+{FI}'s Luck\nwent up by 1!
+
+@260.0466
+Cesare's Luck\nwent up by 1!
+
+@260.0490
+??\n(Whose voice was that? It was so warm\n and full of kindness...)
+
+@260.04F4
+Yes, of course.\n(Hmm, though I'm a little\n disappointed...)
+
+@260.0536
+Well, let's head back to town.
+
+@260.0568
+Let's do that.\n(That was a wonderful statue, though.\n Just looking at it cleansed my heart...)
+
+@260.05D0
+{FI}'s Charm\nwent up by 1!
+
+@260.05FC
+Cesare's Charm\nwent up by 1!
+
+@261.0010
+Admiral, over here!\nThere's something written on the wall!
+
+@261.0046
+A vessel is filled to the brim with water.\nOne piece of ice floats on the surface.\nWhen the ice melts,\nwhat happens to the water level?
+
+@261.00B4
+If it "rises," push the front stone.\nIf it "falls," push the left stone.\nIf it "stays the same," push the right stone.
+
+@261.010E.0
+Front stone
+
+@261.010E.1
+Left stone
+
+@261.010E.2
+Right stone
+
+@261.013C
+This is the answer!
+
+@261.0156.0
+Admiral, the ceiling is collapsing!\nIt's dangerous here!
+
+@261.0156.1
+Admiral, it's dangerous!\nThe ceiling is collapsing!
+
+@261.0156.2
+Admiral, this is terrible!\nThe ceiling is coming down!
+
+@261.0156.3
+Admiral, this is awful!\nThe ceiling is coming down!\nLet's get out of here!
+
+@261.0156.4
+Watch out!\nThe ceiling's coming down, sir!
+
+@261.0156.5
+Admiral, the ceiling is collapsing!\nWe'd best run for it.
+
+@261.0156.6
+Waaah!\nT-the ceiling's falling down!
+
+@261.0156.7
+The ceiling is collapsing.\nIt is dangerous to remain here!
+
+@261.02C2
+Oh no! So I got it wrong...\nAnyway, let's go back\nto town for today!
+
+@261.033A
+This is the answer!
+
+@261.0354.0
+Admiral, the ceiling is collapsing!\nIt's dangerous here!
+
+@261.0354.1
+Admiral, it's dangerous!\nThe ceiling is collapsing!
+
+@261.0354.2
+Admiral, this is terrible!\nThe ceiling is coming down!
+
+@261.0354.3
+Admiral, this is awful! The ceiling is\ncoming down! Let's get out of here!
+
+@261.0354.4
+Watch out! The ceiling's coming down, sir!
+
+@261.0354.5
+Admiral, the ceiling is collapsing!\nWe'd best run for it.
+
+@261.0354.6
+Waaah!\nT-the ceiling's falling down!
+
+@261.0354.7
+The ceiling is collapsing.\nIt is dangerous to remain here!
+
+@261.04C2
+Oh no! So I got it wrong...\nAnyway, let's go back\nto town for today!
+
+@261.053A
+...When ice melts, it turns to water,\nright? The level stays the same!
+
+@261.0572
+Oh, the wall is opening...!
+
+@261.058C
+!?
+
+@261.0598
+Admiral!\nThere's a strange statue here!
+
+@261.05BA
+Where?
+
+@261.05CA
+Right here.\nIt looks like a figurehead...
+
+@261.05FA
+(crack, crack)
+
+@261.0610
+W-what the--?!
+
+@261.0626
+Was it you who awakened me?
+
+@261.064A
+Whoaaa!!\nA-Admiral!!
+
+@261.0670
+Answer me!
+
+@261.0680.0
+That's right
+
+@261.0680.1
+No
+
+@261.069C
+Then I shall lend you my power!
+
+@261.06C4
+Huh?
+
+@261.06D0
+I permit you to take the statue\nwhere my power dwells. Once you\nhave it, leave this place at once!
+
+@261.0732
+...But what was that?\nYou don't think we'll be cursed\nfor using a thing like this, do you?
+
+@261.0780
+Hmm, that's a bit\nscary.
+
+@261.07AA
+You say I woke up on my own?!\nDo not think you can insult me\nand simply walk away!
+
+@261.080C
+Uooooooooooo!!
+
+@261.0844
+A-Admiral! Let's run!
+
+@261.086C
+Everyone, run!!
+
+@261.08BA
+Huff, huff, huff...\nPhew, that was close!
+
+@261.08E8
+?\nUgh, my body feels so heavy...
+
+@262.000C
+Oh, {FI}!\nWelcome!
+
+@262.002C
+Are you looking for ruins?\nThere are some near here too.
+
+@262.005A
+I'm really not supposed to tell\nforeigners, but I'll make an\nexception for you.
+
+@263.0008
+{FI}!\nWelcome.
+
+@263.0022
+Huh? You're searching for ruins\nall over the world? Hmm, let me think.\nThis town has no especially famous ruins.
+
+@264.0008
+Oh, {FI}.
+
+@264.001C
+What? You're searching for ruins all\nover the world? I'm sorry, but this town\nhas no especially famous ruins.
+
+@265.0008
+Say,\nI've got a little job for you.\nInterested?
+
+@265.0048
+I want you to catch a French smuggler\nnamed Jean Ramusio.
+
+@265.008C
+Apparently he's planning a big deal\naround India. Catch him before\nit turns into a real problem.
+
+@266.000E
+I told you, that's not it!\nWhy don't you get it?
+
+@266.0052
+(Here we go again, acting all high\nand mighty...)
+
+@266.007A
+Just shut up and do what I tell you,\nokay?
+
+@266.00B6
+(What an arrogant guy.)
+
+@266.00DC
+Excuse me, have you heard the name\nJean Ramusio around here?
+
+@266.0132
+...I'm Jean Ramusio, as it happens.
+
+@266.015A
+Sure, I'm the one who developed the\nIndian ports through trade, and chasing\noff the pirates around here is my job too.
+
+@266.01BE
+Respect is only natural, but still,\nyou can't just speak to me so casually.\nIt's troublesome, you know?
+
+@266.020E
+...I came to arrest you. It seems you've\nbeen making illegal money from smuggling.\nYou're coming with me.
+
+@266.0280
+!? U-ugh...
+
+@266.0290
+I don't know what's going on,\nbut thank goodness.
+
+@266.02B0
+He's always like this. Nothing but\nlies. And he gets so full of himself\nand lords it over everyone.
+
+@266.030A
+W-well, you see, I don't do any smuggling.\nHahaha, really, really. It's not\nsmuggling. I'm the one saying so,\nso it must be true. Yeah, yeah.
+
+@266.0392
+He's way more pathetic than before...\nAnyway, let's go together to\nthe Guild in Sofala.
+
+@267.0008
+Oh, they've dragged that Jean\nin.
+
+@267.0034
+Everybody says I'm smuggling, but what's\nso wrong with smuggling, anyway?
+
+@267.008A
+Cornered, and now he turns defiant.\nWhat a thoroughly pathetic man.
+
+@267.00C0
+It must have been a pain traveling with\na guy like this. Please accept this and\nforgive us.
+
+@267.010A
+You received 20000 gold coins.
+
+@267.017A
+Your share in Sofala\nwent up a little!
+
+@267.01C2
+Say, have you ever been to the ruins\nnear this town?
+
+@267.01FC
+There's a legend that they were once\nKing Solomon's treasure house.\nYou should pay them a visit.
+
+@268.0018
+That smuggler, Jean something-or-other,\nis somewhere in India, right...
+
+@268.0064
+Looks like that rat Jean is in Ceylon.\nCatch him soon, will you?
+
+@269.0008
+I've got a favor to ask,\nand you're the one for it.
+
+@269.002A
+...What is it?
+
+@269.0040
+I want you to catch a smuggler named\nJacob Portunt. He's a sly one,\nand a real nuisance.
+
+@269.00A2
+Lately he seems to be up to no good\naround East Africa. Catch him and\nbring him back here.
+
+@270.0010
+All right, boys!\nLet's have a blowout tonight.
+
+@270.0042
+Thanks for the meal, boss!
+
+@270.0062
+Really, I'm so happy to work under\nJacob.
+
+@270.0094
+(Glare)
+
+@270.00A6
+...I believe I said anyone who uses\nmy name gets the death penalty.
+
+@270.00E0
+W-well, no, I mean...
+
+@270.00F8
+It's too late, Jacob.
+
+@270.0116
+W-we've been found out...
+
+@270.012A
+Run!
+
+@270.013C
+Running off and leaving your boss...\nWhat wonderful henchmen.
+
+@270.016E
+Grr...
+
+@270.017E
+You already know why I came, right?\nNow come with me all the way\nto Lisbon!
+
+@270.01DA
+Damn it, this is the end!
+
+@271.000A
+Hey!\nWhat are you going to do with me?!
+
+@271.0038
+Well, what happens to you\nis up to you.
+
+@271.0064
+Well now, you did a fine job.\nOh, and I haven't paid you yet.\nPlease take this.
+
+@271.00C2
+You received 18000 gold coins.
+
+@271.0132
+Your share in Lisbon\nwent up a little!
+
+@272.0018
+That smuggler Jacob is in\nEast Africa, right...
+
+@272.0058
+Looking for Jacob?\nI hear he's using Mozambique\nas his hideout.
+
+@273.0008
+I've got a job I want you to take.
+
+@273.0036
+Catch an Englishman named\nJacques Blum.
+
+@273.006E
+He stole our Guild's customer list\nand fled to the Netherlands.
+
+@273.00B4
+He seems to have headed for Africa, but\nwe've lost his trail after that. That's all\nwe have to go on, so I'm counting on you.
+
+@274.0008
+The Guild in Hamburg\nwas looking for you.
+
+@275.0018
+Jacques's fleet is somewhere in Africa.\nI'd better catch him quickly.
+
+@275.0066
+Haven't you found that Jacques yet?\nHe should be wandering around\nsomewhere in Africa.
+
+@276.0008
+Oh, it's Jacques!\nYou cost us a fortune!
+
+@276.004C
+Ugh...
+
+@276.005A
+Thank you.\nIt's not much, but here's your reward.\nPlease take it.
+
+@276.0096
+You received 34000 gold coins.
+
+@276.010E
+Your share in Hamburg\nwent up a little!
+
+@276.0158
+By the way, I hear you're looking for\nruins and churches in various towns?
+
+@276.019C
+There's a church near here.\nThe priest there is famous for his learning.
+
+@277.0008
+I want you to take down\na certain man.
+
+@277.0038
+Julien Vermeer, a Portuguese.\nA traitor who betrayed his homeland\nand sided with Spain. He's said to be\nrunning cargo in the Mediterranean.
+
+@278.0008
+Oh, they caught Julien!\nWhat a sorry sight.
+
+@278.0048
+D-damn it, let go of me!
+
+@278.006C
+You've really been a big help.\nWe'll take care of the rest.\nPlease take this.
+
+@278.00C4
+You received 32000 gold coins.
+
+@278.013C
+Your share in Sao Jorge\nwent up a little!
+
+@278.018C
+Hey there. If you want to see the\nmosque deep in the Sahara, take a map\nand set out from the town's edge gate.
+
+@279.0018
+That smuggler Julien's fleet is in the\nMediterranean, right...
+
+@279.005A
+Catch that traitor Julien quickly.\nHe's said to be running cargo in\nthe Mediterranean.
+
+@280.0008
+Hey, you.\nYou must have some compassion, right?
+
+@280.0042
+A girl whose father was killed by an\nEnglish outlaw wants revenge.\nPlease lend her a hand.
+
+@280.00A0
+The outlaw's name is\nPlett Perrault.\nYou'll do it, won't you?
+
+@281.0008
+Oh, it's Plett!\nYou scoundrel, how dare you show your face...
+
+@281.0044
+I-I'm sorry, I mean it...
+
+@281.0060
+Murder isn't something you can\nsettle by being sorry, I'd say.
+
+@281.0090
+Thank you so much.\nWe'll let the girl who made the\nrequest decide what to do with him.
+
+@281.00E8
+I never thought you'd take him alive.\nThe reward is generous. Please take it.
+
+@281.0142
+You received 35000 gold coins.
+
+@281.01BA
+Your share in Hangzhou\nwent up a little!
+
+@281.01FE
+Oh, right. Have you been to the\nForbidden City? It's worth seeing once.\nIt's a bit far from here, though.
+
+@281.026C
+And don't tell the officials\nI was the one who told you.
+
+@282.0018
+I'd better defeat that outlaw Plett\nquickly.
+
+@282.004C
+Hurry up and catch that outlaw Plett.
+
+@283.0008
+I'd like you to take a job.\nThere's a bounty I want you to chase.
+
+@283.0046
+A former Spanish spy named\nPeralonso Aguirre.
+
+@283.0080
+He's apparently commanding a raider fleet\naround here now. This is an advance\npayment. You'll get the rest when it's done.
+
+@283.00FC
+You received 15000 gold coins.
+
+@284.0008
+I brought in Peralonso.
+
+@284.002C
+Oh, it's you. I've been waiting.
+
+@284.004E
+To think this happened to me...
+
+@284.006A
+Thank you.\nThis will finally quiet things down around\nhere. It may not be much, but please\ntake this.
+
+@284.00D2
+You received 76000 gold coins.
+
+@284.0152
+Your share in Malacca\nwent up a little!
+
+@284.019A
+Oh, that's right.\nI heard an interesting rumor.
+
+@284.01CC
+Far inland from this town, there's said\nto be an ancient kingdom's ruins, left\nexactly as they were in the jungle.
+
+@284.023C
+Really?
+
+@284.024C
+Nobody has actually found them yet.\nIt's only a rumor, mind you.\nBut you might be the one to find them.
+
+@285.0018
+I'd better defeat the former spy\nPeralonso quickly.
+
+@285.0048
+That Peralonso has to be somewhere\nnear here.
+
+@286.0008
+I've got a tough opponent\nworthy of someone like you.
+
+@286.003C
+I want you to defeat an English pirate\nnamed William Clive.
+
+@286.0080
+We've learned he's heading for Havana.\nI'm counting on you.\nThis is an advance payment.
+
+@286.00EA
+You received 27000 gold coins.
+
+@286.0112
+Oh, and one more thing I forgot to say.\n...This man is supposedly really dangerous.\nHe's strong, but... you'll see. Good luck.
+
+@287.0008
+Eeeek, grrraaah!
+
+@287.0026
+That voice is William's!\nSo he's finally been caught.
+
+@287.0052
+Well, I'll be going now.
+
+@287.006A
+W-well, there's no need to rush off.\nAt least take a reward.
+
+@287.00AC
+You received 100000 gold coins.
+
+@287.0126
+Your share in Veracruz\nwent up a little!
+
+@287.0172
+By the way, did you hear? There are said\nto be ruins of an old kingdom near this\ntown. A picture map pointing to them\nwas found, they say.
+
+@287.01EA
+Hmm. Where is that picture map?
+
+@287.021C
+No, I don't know that much.\nIf you're curious, why not look for it?
+
+@288.0018
+I'm supposed to defeat the pirate\nWilliam, right...
+
+@288.004A
+William's fleet should be somewhere\nin the New World.
+
+@289.0008
+There's a job only you can do.
+
+@289.0032
+I want you to defeat a Turkish pirate\nnamed Zaganos Bey. I think he's\nprowling around Cyprus.
+
+@289.0096
+Here's an advance payment, so I'm\ncounting on you. He's vicious, and\nstrong too, this guy.
+
+@289.00FE
+You received 28000 gold coins.
+
+@290.0008
+Oh, Zaganos!\nYou actually caught him!
+
+@290.003E
+Damn it...\nDo what you like with me!
+
+@290.0070
+Wow, you're amazing. Great work!\nThis might not seem like enough, but it's\nfrom all of us. Please take it.
+
+@290.00E0
+You received 98000 gold coins.
+
+@290.0158
+Your share in Genoa\nwent up a little!
+
+@290.01A2
+I hear you're looking for ruins. Italy\nhas Roman ruins too. Why not\ngo and see them?
+
+@290.020E
+Oh, and before that, don't forget\nto get a map.
+
+@291.0018
+I'd better defeat the Mediterranean\npirate Zaganos quickly.
+
+@291.0050
+Zaganos's fleet should be somewhere\nin the Mediterranean.
+
+@292.0008
+You're with the {FO},\nright? The Guild in Genoa\nis looking for you.
+
+@293.0018.0
+Admiral, without a map\nwe'll lose our way.
+
+@293.0018.1
+Admiral, without a map\nwe will lose our way.
+
+@293.0018.2
+Admiral, without a map\nwe'll get lost, you know.
+
+@293.0018.3
+Admiral, without a map\nwe'll get lost!
+
+@293.0018.4
+Admiral, without a map\nwe'll end up lost, sir.
+
+@293.0018.5
+Admiral, without a map\nwe'll lose our way, you know.
+
+@293.0018.6
+Admiraaal, without a map\nwe'll get lost!
+
+@293.0018.7
+Admiral, without a map\nwe shall lose our way.
+
+@293.0148.0
+This forest is dense.\nLet's proceed carefully.
+
+@293.0148.1
+This forest is dense.\nLet us proceed carefully.
+
+@293.0148.2
+It's dark in here.\nI don't like this.
+
+@293.0148.3
+It's so gloomy in here.\nI hope we don't get lost.
+
+@293.0148.4
+...This forest gives me a bad feeling.
+
+@293.0148.5
+Careful now. We go carefully.
+
+@293.0148.6
+I hope we find something good!
+
+@293.0148.7
+A dense forest, indeed.\nI hope nothing comes out of it...
+
+@293.0280
+Let's move carefully.
+
+@293.02A6.0
+A-Admiral, behind you...
+
+@293.02A6.1
+Admiral, don't move!\nBehind you...
+
+@293.02A6.2
+A-Admiral, behind you...
+
+@293.02A6.3
+Eek... B-behind you...
+
+@293.02A6.4
+A-Admiral, behind you...
+
+@293.02A6.5
+Hm! Admiral, behind you...
+
+@293.02A6.6
+Waah... B-behind you...
+
+@293.02A6.7
+A-Admiral, behind you...
+
+@293.0352
+!!
+
+@293.0360
+Look out!
+
+@293.0374.0
+Fight bravely
+
+@293.0374.1
+Play dead
+
+@293.0374.2
+Other
+
+@293.03B0
+Fire!
+
+@293.03D4.0
+Ah! It ran away!
+
+@293.03D4.1
+Ah! It ran away!
+
+@293.03D4.2
+That bear ran off!
+
+@293.03D4.3
+Ah! It ran away!
+
+@293.03D4.4
+Ah! It ran away!
+
+@293.03D4.5
+Oh! It ran away!
+
+@293.03D4.6
+Yay! It went away!
+
+@293.03D4.7
+Ah! It ran away!
+
+@293.0468
+Some of the sailors seem to be\nslightly injured.
+
+@293.0498.0
+A-Admiral... that bear shows no sign\nof leaving.
+
+@293.0498.1
+Admiral... that bear shows no sign\nof leaving.
+
+@293.0498.2
+...It's no good.\nThat bear isn't moving at all!
+
+@293.0498.3
+A-Admiral... it's no good.\nThis bear won't move at all.
+
+@293.0498.4
+A-Admiral... it's no good.\nThat bear isn't running off at all.
+
+@293.0498.5
+...This is bad.\nThat bear shows no sign of leaving.
+
+@293.0498.6
+A-Admiraaal...\nMr. Bear doesn't look like he wants to go home.
+
+@293.0498.7
+Hmm...\nI sense no sign that bear will move.
+
+@293.0644
+Shh, hold it together.
+
+@293.065E
+...
+
+@293.066A.0
+Phew... it finally gave up.
+
+@293.066A.1
+Phew... it finally gave up.
+
+@293.066A.2
+Phew... it finally gave up.
+
+@293.066A.3
+Phew... it finally gave up.
+
+@293.066A.4
+Phew... the thing finally gave up.
+
+@293.066A.5
+Gah...
+
+@293.066A.6
+Phew... it finally gave up.
+
+@293.066A.7
+Phew... it finally gave up.
+
+@293.06F4
+Emilio?
+
+@293.0706
+Zzz...
+
+@293.0714
+He's not pretending.\nHe's really asleep...
+
+@293.0756
+One day has passed.
+
+@293.0772.0
+Scare it away
+
+@293.0772.1
+Just run
+
+@293.07A2.0
+We tried scaring it, but it won't run!
+
+@293.07A2.1
+It doesn't run even when scared...
+
+@293.07A2.2
+What's with this guy!\nWe scared it and it won't run!
+
+@293.07A2.3
+What a nervy thing!\nWe threatened it and it won't run!
+
+@293.07A2.4
+Huh? This bear's got guts.\nIt won't run!
+
+@293.07A2.5
+Hey, hey!\nIt won't run away no matter how we scare it!\nWhat's going on?!
+
+@293.07A2.6
+Huh?\nWe scared it and it won't go away!
+
+@293.07A2.7
+It doesn't run even when threatened...\nWhat a nervy creature.
+
+@293.0914
+This is bad, Admiral!\nThat thing might be a man-eater!\nIf we mess with it carelessly,\nwe'll be in danger!!
+
+@293.097C.0
+Admiral, look out!\nDamn. One of the crew was attacked!\nWe have to run now,\nor we're in danger!
+
+@293.097C.1
+Look out!\nDamn... one of the crew was attacked!\nLet's run!\nWe're in danger here!
+
+@293.097C.2
+Admiral, look out!\nThis is bad, a crewman was attacked!\nLet's give up and run!
+
+@293.097C.3
+Admiral, look out!\nHey, a crewman is being attacked!\nWe'd better run now!
+
+@293.097C.4
+Look out!!\nDamn, are some of them hurt?!\nWe'd better run, sir!
+
+@293.097C.5
+Look out!\nAdmiral, we'd best run!!
+
+@293.097C.6
+That's scary! Let's run away!!
+
+@293.097C.7
+This is bad.\nAdmiral, we should flee!
+
+@293.0BA6
+The sailors' fatigue rose greatly.\nSome were injured.
+
+@293.0BE4
+Run!!
+
+@293.0C02.0
+We somehow managed to escape...
+
+@293.0C02.1
+Phew...\nWe managed to escape...
+
+@293.0C02.2
+Huff, huff...\nLooks like we're safe...
+
+@293.0C02.3
+...Looks like we're safe...
+
+@293.0C02.4
+Phew...\nWe got away...
+
+@293.0C02.5
+Phew...\nWe got away...
+
+@293.0C02.6
+Huff, huff...\nWaaah, that was scary...
+
+@293.0C02.7
+Oh, I'm out of breath...\nLooks like everyone is safe.\nThank goodness.
+
+@293.0D06.0
+Admiral, we're out of the forest!\nWe've reached the ruins.
+
+@293.0D06.1
+Admiral, we're out of the forest.\nSo this is the ruins...
+
+@293.0D06.2
+We finally got out of the forest...\nAh...!\nAdmiral, so these are the ruins!
+
+@293.0D06.3
+We're finally out of the forest.\nSo this is... the ruins.
+
+@293.0D06.4
+Whoa! Admiral! We're out of the forest!!\nYep. That must be the ruins!
+
+@293.0D06.5
+Oh. We made it out of the forest.\n...\nHmm. So that's the ruins.
+
+@293.0D06.6
+Yaaay. We got out of the forest!\nUm. There are lots of weird stones...\n...Is that what ruins are?
+
+@293.0D06.7
+Admiral, we've made it out of the forest.\nOh... so this is the ruins...
+
+@293.0EE0
+Is that it?\nThe gathering of strange people?
+
+@293.0F12
+Aaah~~~...
+
+@293.0F28
+Ooooh~~~!
+
+@293.0F3E
+S-singing?\nThis feels dangerous.
+
+@293.0F64
+The sun turns, the moon turns, the stars turn.\nWhen light and darkness stand in balance,\nthat too shall dwell between them.
+
+@293.0FBA
+The sun turns, the moon turns, the stars turn.\nWhen light and darkness stand in balance,\nthat too shall dwell between them.
+
+@293.1010
+?
+
+@293.101A
+What are they saying?\nSome kind of spell?
+
+@293.1048
+The time nears when we, the "Ancient\nMegalithic Culture Society," receive\nthe oracle! And we will finally fulfill\nour ambition to rule the world!
+
+@293.10BE
+From the eve of the day of the oracle,\nwe shall pray once more! The fools who\ninsulted us shall be offered as sacrifices!
+
+@293.1120
+Ooooh!
+
+@293.1130
+Conquer the world!?
+
+@293.1144
+Sacrifices?\nAre these guys serious?!
+
+@293.116E
+Until then, stay away from the megaliths!\nThat is all for today. Dismissed!
+
+@293.11B0
+...
+
+@293.11BA
+...
+
+@293.11C4
+They left.
+
+@293.11D8
+Let's go check it out.

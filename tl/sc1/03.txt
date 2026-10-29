@@ -1,0 +1,917 @@
+@091.0020
+Me?
+
+@091.0300
+You would hand me something so\nvaluable?
+
+@091.03A4
+I see. Then I'll gladly accept it.
+
+@092.0070
+...Yes, you're right.
+
+@092.00B4
+......(How much does he plan to eat?)
+
+@092.01DA
+We'll gladly take it.
+
+@092.021A
+......(He's still eating?)
+
+@093.00A8
+What are you doing?
+
+@093.0106
+"Something"...?\nWhich one?
+
+@093.016C
+Did you catch the culprit?
+
+@093.01DA
+Let's see... Hm.\nSome of these seeds I've never seen.\nMaybe he picked them up somewhere.
+
+@093.0274
+...\nShall we go try the local specialty?
+
+@093.02AC
+Yes, my treat.
+
+@095.001C
+What is it, Gerhard?
+
+@095.00B0
+Oh? A sword?
+
+@095.013A
+...That's a shame.\nDid you never find it?
+
+@095.01D4
+Maybe so. But someone with a good eye\nmay have picked it up and be taking\ngood care of it.
+
+@097.032E
+So it's something even Yukihisa,\na Japanese, doesn't know...
+
+@097.0466
+Stop it, both of you.\nThis is nothing to fight over.
+
+@097.0524
+Probably.
+
+@101.0018
+What's wrong, old man?
+
+@101.005A
+You mean Christina...
+
+@101.00C4
+There's no need to worry about\nChristina. She's far steadier than most\nmen. She's like Athena reborn...
+
+@101.0154
+In Roman myth, that would be\nMinerva.
+
+@101.0212
+Anyway, you needn't worry\nabout Christina.
+
+@101.0446
+Old man...
+
+@101.04DA
+Yes... you're right.
+
+@102.0026
+What is it?
+
+@102.0076
+What are you talking about?\nThis kid... he's heard another rumor,\nhasn't he?
+
+@102.00F0
+It isn't some mail made of peacock\nfeathers, is it?
+
+@102.0188
+...Doesn't sound very strong.
+
+@102.01FE
+I-I see.\nSo where is it?
+
+@102.0290
+That's really not enough\nto go on.
+
+@102.030A
+Fine, I'll keep it in mind.\nDon't get your hopes up.
+
+@103.0024
+What is it?
+
+@103.005A
+What?
+
+@103.00BC
+Another new rumor?
+
+@103.00FE
+What do you mean?
+
+@103.01D0
+That may be so. About that vest,\ncan't you tell where in the New\nWorld it is?
+
+@103.024A
+That's still a big area.\nCan't you narrow it down a bit?
+
+@103.02D6
+Hahaha. All right, let's leave it\nat that.
+
+@104.005E
+First I've heard of it.
+
+@104.00EE
+Oh... That's impressive.
+
+@104.0160
+...Is that true?
+
+@104.02B0
+Hm... If so, it may be worth\nsearching for.
+
+@105.0038
+You say the same thing every time\nwe reach port, Emilio.
+
+@105.00BE
+Looking for something?
+
+@105.00F2
+Who decides what's the most delicious\nin the world?\nThere's no way to judge that.
+
+@105.01A0
+Hestia's Cauldron?
+
+@108.0070
+Of course.\nWe wouldn't have found it without\nYukihisa's report.
+
+@110.0056
+Perhaps I was mistaken...
+
+@110.006E
+The "Victor's Mark"...? What is it?
+
+@110.0092
+...\nSomething said to belong to the one\nwho conquers the seas...
+
+@110.00C2
+One who conquers the seas...\nAn interesting tale.
+
+@110.00E8
+It may bear on our purpose. ...Could\nyou tell us a little more?
+
+@110.0148
+Do you know something?
+
+@110.0162
+...The road to finding the "Mark" is\nharsh. I would not speak of it to the\nhalf-hearted. Are you prepared?
+
+@110.01CE
+If it belongs to the one who conquers\nthe seas, I will face any trial\nto obtain it.
+
+@112.005A
+...Hm?
+
+@112.007E
+No... it's nothing.\n(Only this cross looks very old...)
+
+@112.00CC
+Then let us pray.\nIn the name of the Father, the Son,\nand the Holy Spirit... Amen.
+
+@114.000E
+A magnificent sight.
+
+@114.0262
+Such a worn-out riddle is dull...\nVery well, I shall ask another.
+
+@114.02A4
+There are twelve people here in all.\nThe hands and feet touching the floor\ntotal 32, and there are 2 canes.\nHow many are babies?
+
+@114.030E.0
+3 people
+
+@114.030E.1
+4 people
+
+@114.030E.2
+5 people
+
+@114.03C8
+Two canes means there are\ntwo old men...
+
+@114.040C
+We're told how many hands and feet\ntouch the floor. The canes don't matter.\nAn old man still has two legs.
+
+@114.0482
+Ah, I see.\nThe talk of three legs earlier fooled\nme.
+
+@114.04C6
+Twelve people have 24 legs.\nSo the hands on the floor number the\nremaining 8. There are 4 babies.
+
+@115.0010
+Hm!
+
+@115.004A
+Is it a song?\nStrange, whatever it is...
+
+@115.0140
+......\nThis sounds dangerous.
+
+@115.01DA
+......This smells too foul to leave\nalone.
+
+@115.0210
+Let's evacuate the villagers at once!
+
+@115.023A
+Good, see to it immediately.\nAll expedition members, prepare\nfor battle.
+
+@115.0286
+Set fire to it! No mercy for anyone\nwho resists!
+
+@115.02D4
+Hold on a moment!
+
+@115.02F0
+That's far enough!!
+
+@115.0312
+Surrender. If you do, we can settle\nthis quietly. You wouldn't want the army\nor the state church to judge you,\nwould you?
+
+@115.037A
+Y-you wretches! You dare to judge me?\nFools who know no fear!\nCapture every last one for sacrifice!
+
+@115.03F6
+I admire your courage, but you\nshould look at your opponent first.
+
+@115.043C
+Well then.\nFirst, watch your step.
+
+@115.0468
+Waaah!!
+
+@115.0490
+There, there.\nGroup tour, this way to the bottom\nof the pit.
+
+@115.04BA
+A t-trap!? Damn it, what are you\ndoing! This way!
+
+@115.04F8
+Oops, that way is closed too.
+
+@115.051E
+Ow, ow, ow!!
+
+@115.0550
+Heh, you fell for it.
+
+@115.0570
+Bind them!
+
+@115.0584
+Waaah!
+
+@115.0596
+......!!\nNearly a hundred of my followers,\ngone in an instant...
+
+@115.05D2
+Y-you! Who are you!?
+
+@115.05F0
+No need to answer. You begged for the\nnavy's merciless punishment.\nKnowing who we are changes nothing.
+
+@115.0650
+Hm? What's this?
+
+@115.066E
+D-don't touch that! Aaah!\n...I-it's over!\nMy sublime mission! Aaaah!!
+
+@115.06C8
+Take him away. Once the villagers are\nback home, we withdraw too.
+
+@115.0708
+Yes, sir.
+
+@116.0010
+Was it you who slew my servant sent\nto the great sea?
+
+@116.0044
+Servant?\nOh, that monster fish.\nYes, I killed it.
+
+@116.0082
+...Then are you the one who\nrules this sea?
+
+@116.00B2
+Rule the sea, you say...
+
+@116.00C8
+No, I'm nothing so grand.\nBut in a sense, that is exactly the\nplace we aim to reach...
+
+@116.0136
+Brave one!\nSeize the seal you seek,\nwithout fail!
+
+@116.0178
+...What is this?
+
+@116.018A
+It's a coin from a very ancient era.
+
+@116.01AE
+...\nWhat does it mean?
+
+@117.00B0
+Forgive my abruptness, but I need\ninformation on a treasure called the\n"Victor's Mark." Is anyone here versed\nin the old traditions?
+
+@117.0160
+Do you know something?
+
+@117.0266
+I promise to do all I can.
+
+@118.0048
+A question...
+
+@118.019E
+Gerhard, any idea?
+
+@118.01BA
+Not at all...\nWe can only trust our instincts here...
+
+@118.01F4
+Instinct, then...\nNo use overthinking it.\nAll right, the answer is "1 second."
+
+@118.026E
+Gerhard, any idea?
+
+@118.028A
+Not at all...\nWe can only trust our instincts here...
+
+@118.02C4
+Instinct, then...\nAll right, the answer is "30 seconds."
+
+@118.031A
+...Gerhard, I've solved it.
+
+@118.0338
+Excellent!\nAnd the answer?
+
+@118.035E
+Yes... it's "59 seconds."
+
+@120.001C
+...Yes?
+
+@120.0064
+...\nHow do you know that?
+
+@120.007A
+I see.\nYou look like a man who commands\nsoldiers.
+
+@120.00BA
+True.\nI lead the national fleet...\nWhat of it?
+
+@120.00F4
+I see.\nThen I must tell you...
+
+@120.0120
+Long ago, this land was attacked by\nthe Yuan, then the greatest empire\nin history.
+
+@120.0170
+The Yuan army was invincible on the\ncontinent, but by the Divine Wind's\nblessing, Japan barely escaped\ncalamity.
+
+@120.01D4
+Had the Yuan emperor been as\ninvincible at sea as on land, he might\nhave conquered the world.
+
+@120.022C
+They say the boundless ambition of\nkings who achieved great deeds, like\nthe Yuan emperor, is contained in\nthis "Mark."
+
+@120.0290
+If you are one who inherits the Yuan\nemperor's will, you should hold his\nkeepsake.
+
+@120.02D6
+The Yuan emperor's keepsake...
+
+@120.02EA
+Bring it, and come here once more.
+
+@121.0010
+No sense lingering.\nLet's go.
+
+@121.00AE
+Is something wrong?
+
+@121.012A
+A child is drowning!
+
+@121.0240
+I'm glad your grandson is\nsafe.
+
+@121.0380
+Old man, that is your proof of valor.\nI can't accept such a treasured item.
+
+@121.0438
+I see...\nThen I'll gladly accept it.
+
+@122.0058
+A splendid piece of jade.
+
+@123.00A4
+Oh, a stone tablet.
+
+@123.00B8
+What about the tablet, sir?
+
+@123.00DE
+There's no stone around here, which\nis why even the mosque is built of mud.\nA stone tablet being here is clearly\nunnatural.
+
+@123.0142
+I see! Then...\nthis tablet was brought in from\nelsewhere!
+
+@124.0122
+Good to know.\nI'll visit when I find the chance.
+
+@125.01AA
+Now that you mention it...
+
+@126.006A
+Then this belongs to {FI}.\nI never could have found it myself.
+
+@126.00BA
+We got here by working together.\nYou'd be left with nothing.
+
+@126.0114
+Then how about this? You take that\ndagger. In exchange, we keep the\nentire reward for this job.
+
+@126.0186
+C-Clau!
+
+@126.019A
+Is that all right with you?
+
+@126.01B2
+What!?\nOf course I'm grateful, but...\nare you really sure?
+
+@126.0202
+We can always earn more gold.\nI don't mind.
+
+@126.022A
+Hmm, that's the spirit!\nWhat a decent man!
+
+@126.0256
+Thank you so much!
+
+@127.000A
+Weigh anchor!\nHoist the sails!
+
+@127.0050
+Admiral!\nPlease give the order for our heading!
+
+@127.010E
+And don't forget the sail orders!
+
+@127.029E
+This time let's send the Hanse ships\nto the bottom and wipe the smirk off\nMartin Speyer, who takes us so\nlightly.
+
+@129.000C
+Well, well.\nIf it isn't Admiral {FA}.
+
+@129.0046
+...Do you want something from me?
+
+@129.005A
+I regret to say that no one is\npermitted to trade in these waters.\nLeave at once.
+
+@129.00AC
+I shouldn't need your permission to\ntrade in the New World.
+
+@129.00E4
+You don't understand? Then I'll\nexplain.
+
+@129.011A
+What do you want?
+
+@129.012C
+I think it's time you returned the\nCaribbean Sea I lent you.
+
+@129.0168
+Lent?\nWhat do you mean?
+
+@129.0192
+You want to know? Heh...\nThen I'll tell you.
+
+@129.01C4
+Diogo de Escante...\nSo you finally show your true colors.
+
+@129.01FC
+You used my fleet to eliminate your\nold enemy Maldonado. You must have\na grand scheme in the works.
+
+@129.0268
+Heh, you're quite perceptive.\n...I'll tell you.
+
+@129.02A0
+A new empire, independent of Spain,\nwill be founded.\nAnd I will be its first emperor.
+
+@129.0300
+The entire New World belongs to the new\nempire, and all trading rights belong\nto it. No one may trade as they please.
+
+@129.0380
+You...!
+
+@129.0390
+How dare you!
+
+@129.03B2
+You're in my way. Be gone at once!
+
+@129.03F0
+Oh, I'm grateful that you drove off\nMaldonado, that tick. It let me focus\non preparing for independence.
+
+@129.046A
+But you are no longer needed.\nBe gone at once!
+
+@129.04B0
+Hmph... Emperor of an independent\nempire, quite the boast. But shout it\nbefore it's done, and you may weep\nlater.
+
+@129.0538
+You're in my way. Be gone at once!
+
+@130.0066
+Who do you mean?
+
+@130.00BC
+And where is she now?
+
+@130.00EE
+Understood. Let's head there.
+
+@131.006E
+What's this about, suddenly...?\nWe don't travel to make friends\nwith tavern girls.
+
+@131.01EA
+An adventurer... True, you could put it\nthat way. But would they really give\nout important information so easily?
+
+@131.0438
+...So you chatting up every tavern\ngirl you met was just proper\nadventurer's practice, is that it?
+
+@131.04C0
+...Fine, we'll leave it at that.
+
+@131.04E8
+Admiral, you have what it takes to be\npopular with girls, too. You should\ntry harder.
+
+@132.0018
+Admiral.
+
+@132.0024
+...Gerhard.
+
+@132.003A
+I called you several times, but\nyou didn't notice...
+
+@132.0076
+Did I? Sorry.
+
+@132.0094
+Not at all.
+
+@132.00A0
+Did something happen?
+
+@132.00B8
+I received a report that concerns\nme, so I thought I'd tell you.
+
+@132.00F6
+Something concerns Gerhard?\nThat's rare.
+
+@132.011E
+It's information about a treasure\ncalled the "Guiding Cane."
+
+@132.0150
+The "Guiding Cane"?
+
+@132.016C
+Legend says the cane leads people\ntoward goodness.
+
+@132.01B6
+Hm... But can a cane really guide\nanyone?
+
+@132.01FA
+Even if the legend isn't true, owning\nsomething people widely believe in\nwould show the world our cause is\njust.
+
+@132.027E
+That's one way to see it. At the very\nleast it would raise the crew's morale.
+
+@132.02D4
+Wait just a moment.
+
+@132.02F4
+Charles?
+
+@132.0306
+Without such unscientific things, can't\nwe say what we're doing is right?
+
+@132.035E
+You were listening?
+
+@132.0376
+It just reached my ears.\nMore to the point, I'd like my\nquestion answered.
+
+@132.03BC
+Just because we're the military,\nneedless misunderstanding and friction\narise everywhere. With this cane we\nmight avoid such pointless trouble.
+
+@132.0446
+It doesn't matter what others think.\nIf we walk the path we believe is\nright, that should be enough.
+
+@132.04B4
+Or are you saying you can't rest until\neveryone around us understands that\nwe're right?
+
+@132.0522
+Hey, what's gotten into you, Charles?\nWhy are you so worked up?
+
+@132.055A
+I only proposed a way for this fleet to\nreach its goal more smoothly. What to\ndo is up to the Admiral.
+
+@132.05D0
+We don't need anything like that,\nright, Admiral?
+
+@132.05FC.0
+We don't need it
+
+@132.05FC.1
+No, we do
+
+@132.0622
+Right.\nAs long as we walk the path we\nbelieve is right, we don't need it.
+
+@132.0670
+Exactly.
+
+@132.0682
+Gerhard, I'm sorry. You went to the\ntrouble of reporting it.
+
+@132.06B8
+Not at all, don't mind it.\nAs I said, it was only one of my\nproposals.
+
+@132.070A
+Besides, it let me see again how\nsincerely Charles feels about this fleet.
+
+@132.075A
+No, it's nothing...\nI went too far myself.
+
+@132.0782
+No, it's fine.\nI hope you'll treasure that honest\nheart of yours.
+
+@132.07C0
+Well then, excuse us.\nCome, Charles.
+
+@132.0832
+No, Gerhard is right.
+
+@132.0866
+Charles has a point, but we are not a\nprivate fleet. We are the Royal Navy.\nWe carry the nation on our backs.
+
+@132.08CC
+How we are judged is how the nation is\njudged. If our homeland seeks a place\non the world's seas, it first needs\nbroad recognition.
+
+@132.095A
+You understand, don't you, Charles?
+
+@132.097C
+...True.\nThe Admiral is right.\nI'm sorry.
+
+@132.09B8
+Gerhard... I apologize.
+
+@132.09D6
+Think nothing of it. It's only natural\nthat any proposal draws many opinions\nand views.
+
+@132.0A36
+It helps to hear you say that.
+
+@132.0A5E
+Admiral,\nshall we set out to search at once?
+
+@132.0A88
+Do you have an idea where it is?
+
+@132.0AAC
+It seems to be somewhere around India.
+
+@132.0AD0
+You did your research well.
+
+@132.0AEA
+In fact, an Italian explorer found it.
+
+@132.0B18
+Then there's no way for us to get it.
+
+@132.0B46
+Apparently enemy soldiers attacked\nduring transport, and the cane was\nlost.
+
+@132.0B96
+And that place is around India.
+
+@132.0BCE
+You can't tell anything more\nprecise?
+
+@132.0C0E
+The search area is too wide.\nIf we happen to be nearby,\nwe'll look for it.
+
+@132.0C62
+Understood.
+
+@133.000A.0
+Admiral! Over there!!\nIt's that monster fish!!
+
+@133.000A.1
+Admiral! That's the\nmonster fish over there!!
+
+@133.000A.2
+Look over there!!\nIsn't that that monster fish!?
+
+@133.000A.3
+Eek!!\nTh-there's that monster\nfish!!
+
+@133.000A.4
+Hey, isn't that\nthat monster fish!!
+
+@133.000A.5
+A-Admiral! Look!\nIt's that monster fish!!
+
+@133.000A.6
+Waaah!!\nThere's the monster fiiish!!
+
+@133.000A.7
+Admiral! Over there!!\nIt is that monster fish!!
+
+@134.000A
+Ah, Gerhard.
+
+@134.0022
+Ah, Admiral, just in time. We have\ninjured men, so I'm recruiting sailors.\nI'd like your instructions.
+
+@134.0086.0
+Very well
+
+@134.0086.1
+I leave it to you
+
+@134.00B0
+Buy the customers a round, and men\nlooking for work will gather. Recruiting\nsailors afterward is the quickest way.
+
+@134.012E
+If you plan to fight mainly in melee,\nhire plenty of sailors. But note\nthat your fleet's cruising range\nwill be shorter.
+
+@134.01A2
+Understood. Leave it to me.
+
+@135.0008
+Manuel, are preparations to leave port\ndone?
+
+@135.002E
+Ah, Admiral, I'm just about to\nresupply. Please give the order.
+
+@135.007C.0
+Very well
+
+@135.007C.1
+I leave it to you
+
+@135.00A6
+It hardly needs an order.
+
+@135.00D0
+True enough.\nOnce I tell them to resupply, they\nhandle the rest.
+
+@135.011A
+Be sure to resupply before leaving\nport. If food and water run out at sea,\nthe whole fleet can be lost.
+
+@135.0186
+Normally supplies are filled to the\nmaximum, but if funds are short, only\nwhat you can afford is bought.
+
+@135.01DE
+To change the water and food ratio,\ndecline the resupply once and you can\nset it again.
+
+@135.0234
+Aye, aye. I'll get right to it.
+
+@136.0008
+Charles, how were the spoils?
+
+@136.002E
+Quite good.\nI'm selling them off now.\nWill you give the order?
+
+@136.0082.0
+Very well
+
+@136.0082.1
+No need to sell
+
+@136.00AC
+To trade, select "Trade," then choose\nthe goods to buy or sell.
+
+@136.00F0
+You can only buy with an empty hold.\nIf there is cargo, first decide which\ngoods to sell and clear the hold.
+
+@136.0158
+To sell, select the goods with the\n+Control Pad and press the A Button.
+
+@136.01A4
+To buy, choose goods from the local\nspecialties and press the A Button.\nThe chosen specialties go into the hold.
+
+@136.020E
+Once you've decided the goods for every\nship, press "X Done." That completes\nthe trade negotiation.
+
+@136.0276
+I see.\nThen I'll keep it loaded as is.
+
+@137.001A
+Um... I'm sorry about earlier.
+
+@137.003E
+Oh! That brat's friend!\nWhat do you want here!?
+
+@137.006C
+I really wanted to apologize to\neveryone... I'm truly sorry!\nShe said such terrible things...
+
+@137.00D0
+She wasn't trying to make you angry.
+
+@137.0110
+Once she decides someone is her\nbusiness rival, she can't talk any\nother way...
+
+@137.0164
+She's really a kind girl. She just\njumps to conclusions and gets stuck\non ideas. Please forgive Ril!
+
+@137.01EA
+...Kamil, was it?
+
+@137.0208
+Huh? Oh, yes.
+
+@137.021E
+We appreciate your polite apology.\nHer talent shines because someone\nlike you is at her side.
+
+@137.0286
+N-no, not at all.
+
+@137.029E
+Don't worry. We choose our enemies.\nWe won't harm you. Tell your partner\nso when you get back.
+
+@137.0308
+Oh! Thank you so much!\n...Well, excuse me!
+
+@137.0378
+A promising young man.
+
+@137.039A
+Hm...\nCome to think of it, our fleet is\nshort-handed too.
+
+@137.03D6
+To expand the fleet, we need more\npeople.
+
+@137.040E
+The Mediterranean has many maritime\ntrading nations. Searching big cities\nlike Lisbon and Seville, we may find\ncapable people.
+
+@137.048A
+True. While we're at it, we might\nextend our routes to the Mediterranean\nports too.
+
+@138.0008
+Whoever finds the treasure first is\nthe North Sea's Victor... That's what\nthat girl said.
+
+@138.004E
+To obtain that "Victor's Mark," does\nthis "Red Pigment" have something to\ndo with it?
+
+@138.00A2
+...Admiral, the "Old Parchment" we got\nat the ruins. It bothers me that\nnothing is written on it.
+
+@138.00FC
+What do you mean?
+
+@138.0112
+This paper that man was so fixated\non can't be without a secret.
+
+@138.0154
+I suspect applying this "Red Pigment"\nmakes something appear...
+
+@138.019C
+Hm...!
+
+@138.01AA
+Th-this is!
+
+@138.01CC
+It looks like a map.\nThen...
+
+@138.01F0
+No doubt about it.
+
+@138.0208
+Oh, so now we can obtain the North Sea\n"Victor's Mark"!
+
+@138.0242
+Yes. Prepare to set sail at once.

@@ -1,0 +1,941 @@
+@294.0008
+Oh, there you are.\nYou're {FA}, right?\nThe London Guild's been looking\nfor you.
+
+@295.0008
+Hey, I've got a job for you.
+
+@295.0030
+There are some ruins a little way\nfrom here, and lately suspicious men\nhave been coming and going.
+
+@295.0096
+They drove out the priest who looked\nafter the place, and now they're\nholding some festival-like "ritual"...
+
+@295.00EE
+Nobody knows what they're up to,\nso everyone's scared.\nCould be a breeding ground for crime...
+
+@295.0140
+So here's the job.\nI want you to find out who they are.
+
+@295.017A
+With a map, you'll have no trouble\nfinding the ruins.
+
+@295.01BE
+They bought up every map this town\nhad, so we're sold out.
+
+@295.0210
+I think Amsterdam still has some.\nSorry, but could you get one there?
+
+@295.0266
+A map?\nDo you mean this Stone Circle Map?
+
+@295.029E
+Yeah, that's the one! You came\nprepared. Looks like I can trust you\nwith this. Count on you!
+
+@296.001C
+"The sun turns, the moon turns, the stars\nturn. When light and darkness are in\nbalance, that too lies between them."
+
+@296.0080
+...You sure remember it well.
+
+@296.00A4
+"When light and darkness are equal,\nit lies between light and darkness"...\nWhat is "it," anyway?
+
+@296.0114
+So what you're saying is, they're\ngathering for the next ritual to find\nthat thing, right?
+
+@296.0168
+Hmm... Anyway, the next ritual must be\nto find "it," right? That's why they're\ngathering?
+
+@296.01C4
+Which means something is hidden\nsomewhere in those ruins...
+
+@296.020C
+Then why don't they just find it\nright now?
+
+@296.0252.0
+So the hiding place won't be known\nuntil that day arrives, then.
+
+@296.0252.1
+So the hiding place won't be known\nuntil that day arrives, then.
+
+@296.0252.2
+So we can't know the hiding place\nuntil that day, huh?
+
+@296.0252.3
+Which means we can't know the hiding\nplace until that day, right...?
+
+@296.0252.4
+Hold on...\nSo we can't know the hiding place\nuntil that day comes?!
+
+@296.0252.5
+So the hiding place won't be known\nuntil that day arrives, hmm.
+
+@296.0252.6
+So until that day, we can't tell\nwhere they hid it, right?
+
+@296.0252.7
+So the hiding place will not be known\nuntil that day arrives, I see.
+
+@296.041E
+Surely they cannot find it yet. It must\nbe that it will become clear on\nthe day.
+
+@296.047A
+I see.
+
+@296.048A
+Even if you say that, we've got no\nidea when "that day" is...
+
+@296.04F2
+"When light and darkness are in\nbalance"...
+
+@296.051A
+"When light and darkness are in\nbalance"...\nLight and darkness...\nDay and night...
+
+@296.0550
+!!\nI've got it! If light and darkness mean\nday and night, then day and night\nbalance at sunrise or sunset!
+
+@296.05A6
+Since they gather at night, it must be\nsunrise!
+
+@296.05E0
+Please wait.\n"When light and darkness are in balance."\nIf we read light and darkness\nas day and night...
+
+@296.0636
+Day and night in balance?\n...Like sunrise, maybe?
+
+@296.0668
+Sunrise or sunset, I would think.\nBut since they gather at night, it\nlikely points to sunrise.
+
+@296.06D6
+Not bad!\n...Huh? But the sun rises every day,\nso we still can't tell which day.
+
+@296.0742
+That's the problem...
+
+@296.0760
+No, there are only two days a year when\nday and night are exactly equal!
+
+@296.07B2
+Two days a year?\n...Oh, I get it!!
+
+@296.07DA
+Ah, of course...!
+
+@296.07F8
+Right, the spring and autumn equinoxes!!
+
+@296.0814
+That's it!!\nAll right. Let's get there first and\nfind the thing ourselves!
+
+@296.086A
+Clau, that's impossible.\nThey gather the night before, too.
+
+@296.08AC
+But they'll already be gathered the\nnight before, won't they?\nGetting there first looks hard.
+
+@296.0908
+Ugh, right...\nIf we can't tell where it's hidden\nuntil that day, going the day\nbefore is pointless.
+
+@296.096C
+What do we do...
+
+@297.000C
+Oh, welcome.
+
+@297.0026
+Do you want to know about those\nruins?
+
+@297.0050
+A customer told me there's a theory\nthey were used to measure the\ncalendar and time.
+
+@297.00A4
+The calendar and time...
+
+@298.0008
+"That too lies between light\nand darkness"...
+
+@298.0032
+Those huge stones were used to measure\nthe calendar and time...
+
+@298.0068
+......I see! I've got it!!
+
+@298.008C
+What?! Really?!
+
+@298.00A6
+It must mean the tip of the ruins'\nshadow. Look, if they used those stone\npillars as a sundial, then their\nshadows must mean something!
+
+@298.014C
+If we know the latitude, we can work\nout where the shadow falls on the\nequinox from today's shadow!
+
+@298.01A0
+Wonderful, {FI}!\nIf we know the latitude, we can work\nout where the shadow falls on the\nequinox from today's shadow!
+
+@298.0210
+Wonderful, {FI}!\nIf we know the latitude, we can work\nout where the shadow falls on the\nequinox from today's shadow!
+
+@298.027C
+Wow, you can really do that?!
+
+@298.02A2
+All right, let's go to the ruins!
+
+@299.0030
+Let's see...\nThis is where this morning's shadow\nfell, so the tip of the longest shadow\nshould come around here!
+
+@299.008E
+...\nThis is where this morning's shadow\nfell, so the tip of the longest shadow\nshould come around here.
+
+@299.00EC
+Let's see...\nThis is where this morning's shadow\nfell, so the tip of the longest shadow\nshould come around here.
+
+@299.014A
+All right, I'm digging!
+
+@299.0166
+(dig dig)
+
+@299.0178
+Hey!
+
+@299.018A
+A stone box!!
+
+@299.01A2
+All right, opening it!!\nNnngh!!
+
+@299.01CE
+? Huh?\nThere's nothing in it!
+
+@299.01F6
+No, look at this!
+
+@299.0214
+I-it's just a scrap of paper!
+
+@299.0234
+!! There's nothing written on it...
+
+@299.0252
+Hey, hey!\nWhat's going on?\nThey were looking for this?!
+
+@299.02A2
+Anyway, this should put a stop to their\nplan. Let's get out before they find\nus. They might sacrifice us too!
+
+@299.0308
+Gives me the creeps.\nAll right, back to town to report to\nthe Guild!
+
+@300.0008
+Thanks.\nLooks like it's all settled safely.\nHere's your reward.
+
+@300.0040
+You received 10000 gold coins.
+
+@300.00A8
+London's share went up a little!
+
+@300.00E0
+But what is this parchment, anyway?
+
+@300.0124
+I thought it might be a map to the\nVictor's Mark, but...
+
+@300.0160
+If nothing's written on it, there's\nnothing we can do.
+
+@300.018C
+It clearly isn't paper made recently.\nThere must be some secret to it.\nThere must be...
+
+@301.0018.0
+Admiral, it is dangerous to walk\naimlessly through a jungle.
+
+@301.0018.1
+Admiral, it is dangerous to walk\naimlessly through a jungle like this.
+
+@301.0018.2
+Admiral, walking around a jungle like\nthis with no plan is way too risky.
+
+@301.0018.3
+Admiral, a jungle this thick, we'd get\nlost without a map.
+
+@301.0018.4
+Admiral, wandering through a jungle\nlike this is suicide, I tell you.
+
+@301.0018.5
+Admiral, it's dangerous to walk\naimlessly through a jungle like this.
+
+@301.0018.6
+Admiraaal, I don't wanna go in a jungle\nlike this without a map.
+
+@301.0018.7
+Admiral, it is dangerous to walk\naimlessly through a jungle like this.
+
+@301.01F8
+This jungle is creepy...
+
+@301.021A
+Yeah, totally...\nNo reason to stay in a place like this.
+
+@301.0256
+A cave...
+
+@301.0266
+Go in?
+
+@301.0276
+Yeah, I don't want to turn back\nanyway...
+
+@301.029E
+Then it's settled. Let's go!
+
+@301.02C6
+Creepy...
+
+@301.02DA
+Yeah, I want to get out fast.
+
+@301.030C
+...Please do not walk so fast.\nIt is dark and I worry about my\nfooting...
+
+@301.0354
+Grrrrowl...
+
+@301.0366.0
+...Something is here.\nI have a bad feeling...
+
+@301.0366.1
+...Something is here.\nI have an ominous feeling...
+
+@301.0366.2
+Something's... here.\nI've got a bad feeling...
+
+@301.0366.3
+There's something here, isn't there...\nI've got a bad feeling...
+
+@301.0366.4
+No doubt about it, something's here.\nI've got a bad feeling...
+
+@301.0366.5
+...Something's here, hmm.\nI've got a bad feeling...
+
+@301.0366.6
+...Something's... here, right?\nI've got a bad feeling...
+
+@301.0366.7
+...Something is here.\nI have a bad feeling...
+
+@301.0472
+I-it's here!!
+
+@301.0488.0
+Attack!
+
+@301.0488.1
+Run!
+
+@301.04AC
+Somebody shoot it!
+
+@301.04CC
+Gaaar!!
+
+@301.04DC
+Gwaah!
+
+@301.04EE
+Damn! Slippery beast!
+
+@301.0514.0
+No!\nShooting in such a narrow space is far\ntoo likely to hit our own side!
+
+@301.0514.1
+No!\nIn such a narrow space, we might\nshoot our own side...!
+
+@301.0514.2
+No good!\nIn a narrow place like this, we might\nshoot our own guys!
+
+@301.0514.3
+No!\nIf we shoot in a place this narrow, we\nmight hit our own side!
+
+@301.0514.4
+No good!\nShoot in a place this narrow and we'll\nhit our own men!
+
+@301.0514.5
+No, no! In a place this narrow, we\ncan't shoot without hitting our own!
+
+@301.0514.6
+Admiraaal!\nIn a place this narrow, we might\nshoot our friends!
+
+@301.0514.7
+No!\nShooting in such a narrow space is far\ntoo likely to hit our own side!
+
+@301.0740
+This will only get more of us hurt...\nEveryone, use your swords!
+
+@301.07A6.0
+Huff, huff... We managed to beat it...
+
+@301.07A6.1
+We managed to beat it.
+
+@301.07A6.2
+Huff, huff... We beat it...\nI think...
+
+@301.07A6.3
+Huff, huff... I think we beat it...
+
+@301.07A6.4
+...Got it!
+
+@301.07A6.5
+Wheeze, wheeze... We beat it, somehow!
+
+@301.07A6.6
+We finally got it!\nMr. Tiger sure is strong!
+
+@301.07A6.7
+Huff, huff... We managed to beat it!
+
+@301.08AC
+Quite a few were injured.
+
+@301.08D6.0
+It seems it was not hungry.\nIt is not following us.
+
+@301.08D6.1
+It seems it was not hungry after all.\nIt is not following us.
+
+@301.08D6.2
+So it wasn't hungry after all.\nIt's not chasing us, see.
+
+@301.08D6.3
+It wasn't hungry after all...\nI'm glad it didn't chase us.
+
+@301.08D6.4
+It's not chasing us, so it can't have\nbeen hungry... Lucky for us.
+
+@301.08D6.5
+It's not following us, so the tiger\nwasn't hungry after all,\nI suppose.
+
+@301.08D6.6
+That tiger\ndoesn't seem hungry.\nIt's not chasing us.
+
+@301.08D6.7
+It seems it was not hungry after all.\nIt is not following us.
+
+@301.0ABE
+Whew, saved!
+
+@301.0AEA
+Look, I can see light!\nWe can get out of the cave now!
+
+@302.000C
+Oh, {FI}.\nWelcome.
+
+@302.002C
+Ruins, huh... I've never heard of any\nnear this town.
+
+@302.0064
+Then if we find some ruins...
+
+@302.008A
+We'd be the first to discover them!
+
+@302.00B6
+...It won't be that easy to find them!\nThe forest outside town is dense, and\nit's dangerous, full of wild beasts.
+
+@302.0118
+If you still mean to go exploring, I'll\ntell you the road inland. But without\na map you'll get lost in the forest.
+
+@303.0008
+What? You want to know about the Vedas?\nHmm. Legend, myth... I'm not sure\nwhich word fits.
+
+@303.006C
+They say whoever conquers the Indian\nOcean is the keeper of that legend.
+
+@303.00AC
+Conquers the Indian Ocean?\nCould it be... the Victor's Mark!?
+
+@303.00F0
+Yes. That seems certain.
+
+@303.0116
+So we should start by finding the\nIndian Ocean's Mark!
+
+@304.0010
+Hm? You again?
+
+@304.002C
+Is this what you meant by the Vedas?
+
+@304.0072
+......Hm?\n!! That is...!?
+
+@304.0092
+That is indeed\nthe first text of the Vedas!
+
+@304.00BC
+That a boy so young would appear\nwith this in hand...
+
+@304.00F4
+?
+
+@304.00FE
+Then I shall entrust this\nto you.
+
+@304.0138
+An old coin...?\nWhat is this?
+
+@304.0162
+My business is done. The rest you must\nunravel by your own strength.\nNow, be on your way.
+
+@304.01BA
+What does he mean...?
+
+@305.001C
+Did you bring the map?\nEven for you, I can't let you go on\nwithout one.
+
+@305.008A
+All right, you brought the map.
+
+@305.00C2.0
+Admiral, we cannot go on\nwithout a map.
+
+@305.00C2.1
+Admiral, we cannot go on\nwithout a map.
+
+@305.00C2.2
+Admiral, we can't go on without a map.
+
+@305.00C2.3
+We can't go on without a map.\nIt's impossible.
+
+@305.00C2.4
+Hey, hey.\nWe can't go on without a map.
+
+@305.00C2.5
+Admiral, we can't go on without a map.
+
+@305.00C2.6
+Admiraaal, we need a map.
+
+@305.00C2.7
+Admiral, we cannot go on from here\nwithout a map.
+
+@305.0204
+Phew...\nWe finally made it to the top!
+
+@305.0226
+Well, this is where we part.\nTake care.
+
+@305.024E
+Thanks, old man!\nWe're off!
+
+@305.0284
+It's dim and eerie in this forest...
+
+@305.02C2
+Ugh, I don't like places like this\nmuch.
+
+@305.0302
+It's called a hidden village, so there\nmust be ancient legends left there,\nright!?
+
+@305.0356
+We might find out something about the\nVictor's Mark.
+
+@305.039E
+A river... and a raging torrent!\nWhat do we do...
+
+@305.03C8.0
+Cross carefully
+
+@305.03C8.1
+Go upriver
+
+@305.03F4
+Waaah, I'm being swept away!
+
+@305.0412.0
+Admiral, no!\nThe current is too fast to\nwade across!
+
+@305.0412.1
+The current is too fast...\nAdmiral! We can't wade across!
+
+@305.0412.2
+Admiral, no good!\nThe current's too fast,\nwe can't wade across!
+
+@305.0412.3
+No good! The current is too fast!\nWe'll be swept away as we wade!
+
+@305.0412.4
+Admiral, no way!\nWe can't wade across a current this\nfast!
+
+@305.0412.5
+No, Admiral!\nWe'll never wade across a current\nthis swift!
+
+@305.0412.6
+Admiraaal, we can't cross!\nThe current's so fast, we'll get\nswept away!
+
+@305.0412.7
+Admiral, it's no use!\nThe current is too fast\nto wade across!
+
+@305.0618
+Everyone, join hands!\nWork together so we're not swept away!
+
+@305.0658
+Yeah!
+
+@305.0668
+All right!\nJust a little more, hang in there!
+
+@305.06AE
+The sailors are exhausted.\nSome of them have left the crew.
+
+@305.06EA
+Hey, look at this map.\nThere's a log bridge upriver.\nIt's a bit far, want to try it?
+
+@305.0742
+Yeah, it's the only way.
+
+@305.076A
+Oh, that must be the log bridge.
+
+@305.078C
+Looks like it. Still, this bridge\nis hanging in some crazy spot.
+
+@305.07E6
+We have to cross that...?
+
+@305.080C
+What are you scared of?\nHurry up and cross!
+
+@305.0834
+D-don't push me!
+
+@305.0884
+This is it...\nWe've arrived!
+
+@306.000A
+Cough, cough!
+
+@306.0022
+Coughing again...\nYou won't get better unless you\nrest properly.
+
+@306.0058
+Okay, cough cough!
+
+@306.0072
+What's wrong?
+
+@306.008C
+...No, there's no use telling you.
+
+@306.00C2
+?
+
+@306.00CE
+...That boy has come down with a\nterrible illness.
+
+@306.00FC
+An illness?\nHow terrible is it?
+
+@306.0122
+Even the doctors gave up on him.\nThey say he'll be lucky to last a few\nmore years... Damn it!!
+
+@306.0174
+!! No...
+
+@306.018A
+...They say there's a cure-all in the\nEast, across the sea, but it's only\na rumor and there's nothing I can do...
+
+@306.01F2
+I'll find it for you!
+
+@306.020C
+What!?
+
+@306.021C
+The East, right?\nIt must be somewhere near China or so!\nI'll definitely find it, so please\nwait for me!!
+
+@306.0296
+Medicine from the East?\nMaybe it's this medicine!?
+
+@306.02C8
+What!?\nR-really!?
+
+@306.02EA
+I don't know whether it will work...
+
+@306.0312
+I'd grasp at any straw right now!\nPlease, give it to the boy!\nI'm begging you!
+
+@306.036E
+Yes!
+
+@306.0382
+...
+
+@306.038C
+...How is he?
+
+@306.03A2
+Oh, the cough...
+
+@306.03B6
+Oh!\nHis color's coming back by the second!
+
+@306.03E2
+Yes, he should be fine now.\nHis fever seems to have gone down too.
+
+@306.0418
+No way!?\nW-wow, this medicine is amazing!
+
+@306.0456
+The mystery of Eastern medicine...
+
+@306.0478
+T-thank you!!\nYou saved my son's life!!
+
+@306.04AE
+Please don't mention it.\nI couldn't let such a sweet child die.
+
+@306.0502
+You're a good person. I'll never\nforget this. If you ever need to know\nsomething in this town, just ask.
+
+@306.055E
+Thank you.\nTake care of yourself.
+
+@307.0028
+Where could that medicine from the East\nbe, anyway?
+
+@307.005C
+The medicine from the East must be\nthese Hua Tuo's Herbs. I have to\ndeliver them to the Istanbul Guild\nquickly.
+
+@307.00D6
+Haven't found the medicine from the East\nyet?
+
+@308.0008
+Oh, you found it!?\nGive it to the boy right away!
+
+@308.004C
+Yes!
+
+@308.0060
+...
+
+@308.006A
+...How is he?
+
+@308.0080
+Oh, the cough...
+
+@308.0094
+Oh!\nHis color's coming back by the second!
+
+@308.00C0
+Yes, he should be fine now.\nHis fever seems to have gone down too.
+
+@308.00F6
+No way!?\nW-wow, this medicine is amazing!
+
+@308.0134
+The mystery of Eastern medicine...
+
+@308.0156
+T-thank you!!\nYou saved my son's life!!
+
+@308.018C
+Please don't mention it.\nI couldn't let such a sweet child die.
+
+@308.01E0
+You're a good person. I'll never\nforget this. If you ever need to know\nsomething in this town, just ask.
+
+@308.023C
+Ruins?\nSure, I know a real beauty.\nI'll show you the way.
+
+@309.000C
+Huh? Hey, {FI}.\nIt says "Dead End Ahead."
+
+@309.003E
+Hey, you two.\nThe road to those ruins has been\nblocked off lately because of a\nrockslide, I hear.
+
+@309.0092
+Then we can't get to the ruins?
+
+@309.00BC
+Hmm, not for a while, I'd say.
+
+@309.00E4
+For a while...?
+
+@309.00FC
+Who knows. Nobody goes out that far,\nso it could be ten years, or twenty...
+
+@309.0156
+What do we do, {FI}?\nWe can't wait that long.
+
+@309.0186
+If you really want to go, there's a\nrisky way: climbing the cliff.
+
+@309.01D6
+The cliff?
+
+@309.01E4
+Even locals rarely try it.
+
+@309.0210
+All right, let's climb!
+
+@309.0226
+Looks like your mind's made up.\nFor you, I'll do it.
+
+@309.025A
+All right, I'll guide you to the cliff.\nWe'll meet here, so bring a map.
+
+@309.02AC
+A map?
+
+@309.02BA
+Yeah. It's a Christian hidden village.\nI don't know the exact road after the\ncliff either. You can probably get one\nin some Mediterranean town.
+
+@310.0018.0
+Admiral, we will lose our way\nwithout a map.
+
+@310.0018.1
+Admiral, we will lose our way\nwithout a map.
+
+@310.0018.2
+Admiral\nwe can't go on without a map.
+
+@310.0018.3
+Admiral, we'll get lost\nwithout a map.
+
+@310.0018.4
+Admiral, we'll get lost\nwithout a map.
+
+@310.0018.5
+Admiral, we'll lose our way\nwithout a map.
+
+@310.0018.6
+Admiraaal\nwe can't go on without a map.
+
+@310.0018.7
+Admiral, we will lose our way\nwithout a map.
+
+@310.0156
+Who knew there was a forest like this\nnear Genoa...
+
+@310.0186
+Yeah. It looks downright suspicious.
+
+@310.01B6
+A-Admiral! Look!
+
+@310.01D0
+Wh-whoa!
+
+@310.01E2
+A giant snake!\nWhat do we do,\n{FI}?
+
+@310.0202.0
+Fight
+
+@310.0202.1
+Run
+
+@310.021E
+Let's fight!
+
+@310.022E
+...With this many men, we might manage.\nEveryone, stay sharp!
+
+@310.0278
+Aye!
+
+@310.02A2
+...We beat the snake!\nThat was tough...
+
+@310.02DA
+Some of the sailors were injured.
+
+@310.0304
+Let's run!\nWe'd better run from this one!
+
+@310.0330
+All right! Everyone, turn back!
+
+@310.0360
+Phew, is everyone safe...?
+
+@310.037E
+Yeah, we're fine...
+
+@310.0396
+Thank goodness...
+
+@310.03A8
+All right, shall we move on?
+
+@310.03E0
+Whoa!\nWh-what is this!?
+
+@310.0406
+What happened, {FI}!
+
+@310.041C
+M-my foot won't come out!
+
+@310.043A
+What!
+
+@310.0460
+I'll save you now!\nHold still!
+
+@310.048C
+Raaaaagh!\nDamn, it's no good...\nYou lot, lend me a hand!
+
+@310.04D2
+Aye!
+
+@310.04EA
+Finally got you out...
+
+@310.050A
+Thanks, Clau.\nYou saved me.
+
+@310.0542
+Hold on! I'll get you out!\nNnnnnnnnnn\nNgwaaaaaaaaah!
+
+@310.0598
+Huff, huff...\nYou all right, {FI}?
+
+@310.05B8
+Yeah... Thanks, Clau.\nThat scared me.\nI never expected a swamp like this.
+
+@310.0612
+The sailors seem to be exhausted.
+
+@310.0642.0
+Admiral, ahead...!
+
+@310.0642.1
+Admiral, look ahead!!
+
+@310.0642.2
+A-Admiral, over there...
+
+@310.0642.3
+A-Admiral, over there...
+
+@310.0642.4
+Admiral, that!
+
+@310.0642.5
+Admiral, look at that!
+
+@310.0642.6
+Admiraaal, it's that!
+
+@310.0642.7
+Oh my...!

@@ -1,0 +1,947 @@
+@065.000A
+...Here, this is your share this time.
+
+@065.002A
+Thanks.\nBy the way... Charlotte?
+
+@065.0058
+What is it?
+
+@065.0068
+I think if we're going to do business,\nwe should build a proper market here.
+
+@065.00B8
+A market?
+
+@065.00C8
+We'd handle many more kinds of goods\nand could buy and sell them properly.
+
+@065.0106
+Then ships would start coming here\nto trade, even if it's out of their way.
+
+@065.0150
+But a proper market needs people to\nwork in it. Everyone in the village\nalready has their hands full.
+
+@065.01B0
+We hire people. Once the market is up,\nships will come, and people will come\nto this town looking for work too.
+
+@065.0208
+And how do we pay their wages?
+
+@065.0236
+We ask merchants at the market to\ninvest in us. Once the money starts\ncoming in, trade profits will carry us.
+
+@065.0296
+Will it really work out so well?\nThis village has no specialty goods\nworth a merchant's trip to the market.
+
+@065.02FC
+If investment helps the village grow,\nwe can make many more specialties.\nWe might even create new ones!
+
+@065.0364
+...But would anyone actually invest?
+
+@065.0392
+Of course! I will!
+
+@065.03B2
+...\nNo, it's impossible after all.
+
+@065.03CA
+Why?
+
+@065.03DC
+There's almost no stone or timber for\nbuilding around here. We could never\nbuild a big market.
+
+@065.0436
+Then we'll bring it in!\nI'll get the timber, so don't worry\nand wait for me!
+
+@066.000A
+{FI}...!
+
+@066.0018
+Hi, Charlotte!\nI brought the timber!\nNow let's build that market!
+
+@066.0066
+Wow...!\nBut the village doesn't have the money\nto buy this much timber.
+
+@066.00B6
+I don't need any money.
+
+@066.00D2
+But that's...!
+
+@066.00E2
+It's part of my investment. When this\nvillage has plenty of specialty goods,\nI'll be the first one here to buy them!
+
+@066.014C
+Thank you, {FI}!\n...It will take time, but we'll do our\nbest. We'll make it a fine market!
+
+@066.01A8
+I'll be waiting!
+
+@066.01BC
+Now we'll be busy!\nWe'd better get to work!
+
+@067.000A
+...Here, this is your share this time.
+
+@067.002A
+Thanks.\nBy the way... Charlotte?\nThere's something I want to give you...
+
+@067.007A
+What is it?
+
+@067.008A
+These are corn seeds.\nI thought they might become a new\ntrade good for your village.
+
+@067.00E4
+Oh... but\n{FI}, you've always been so kind\nto us, and I...
+
+@067.0128
+N-no, don't worry about it!\nMore specialty goods would help us\ntoo...
+
+@067.0178
+...You're right. Thank you.\nEveryone will be happy.
+
+@067.01A2
+Great!\n...But that looks like a heavy load.
+
+@067.01D6
+I'm fine.\nI'm used to it from farm work.
+
+@067.0208
+But...
+
+@067.0216
+{FI}!\nWalk her home!
+
+@067.022E
+Huh?
+
+@067.023A
+Oh, I couldn't.\nI'm really fine, see?
+
+@067.0264
+Come on, it's no trouble.\nLet me take that.
+
+@067.0298
+Let's split it in half...\nand make {FI}'s\na little heavier...
+
+@067.02D2
+There, all done!\nHere, take this.
+
+@067.02FC
+Whoa!\nHey, Clau!
+
+@067.031C
+I'm sorry...\nIs it heavy?
+
+@067.033E
+Huh?\nNo, not at all!!
+
+@067.035A
+Well, I'll go with her, then.\nClau, take care of the rest...
+
+@067.0394
+Leave it to me!\nGo on, off you go!!!
+
+@067.03C6
+...\nPhew. What a relief.
+
+@067.03E2
+Honestly, he's so careless.\n...I really have to keep an eye on\n{FI}, huh.
+
+@067.0442
+Come in.\nI'll make some tea!
+
+@067.0466
+Okay.
+
+@067.0472
+Oh...\nSorry...\nYou're surprised, aren't you?
+
+@067.04A0
+Heh, there's nothing here, right?\nCalling it a house is generous. It barely\nhas a roof and walls.
+
+@067.04FA
+...How long have you been here,\nCharlotte?
+
+@067.0522
+I left Europe when I was eleven, so...\nsix years ago now.\nHere you go.
+
+@067.0570
+Thanks.\nHm? Six years ago, when you were\neleven, means...
+
+@067.05A4
+Seventeen?\nThen you're the same age as me?!
+
+@067.05E8
+I was sure you were older... Oh!
+
+@067.0606
+Surprised?\nI guess so. My skin is rough, and my\nhands are like this...
+
+@067.0648
+I don't look like a girl my age at all,\ndo I?
+
+@067.067C
+That's not true! You're so dependable\nthat I just assumed...\nthat's all!
+
+@067.06E6
+...You're very pretty, {FI}.\nYou're almost like a girl...
+
+@067.071A
+A g-girl?!\n...Do I look that unreliable?
+
+@067.0748
+Oh, that's not what I meant.\nWhat I meant was, I'm sure beside you...
+
+@067.0790
+Charlotte?
+
+@067.07A6
+No, never mind...\nOh no!\nIt's getting dark already.
+
+@067.07F0
+You're right!\nI'd better hurry back.
+
+@067.0814
+Well, then...
+
+@067.0828
+Oh, {FI}!\nWait a moment!
+
+@067.084C
+?
+
+@067.0856
+Sorry to keep you.\nHere...
+
+@067.0874
+Wow, what a pretty flower!\nIs this for me?
+
+@067.08A0
+(nod)\nA thank-you for today.\n...It's all I have, though.
+
+@067.08DC
+Thank you, Charlotte!\nI'm really happy.
+
+@067.0910
+I hope the seeds you gave us will have\ngrown big by the next time you come.
+
+@067.0956
+Yeah, I'm looking forward to it!\nSee you then.
+
+@067.0982
+Yes, goodbye.
+
+@067.099C
+Hey, Arcadius.\nHave you seen {FI}?
+
+@067.09CA
+Oh, Clau.\n{FI} just got back and was\nwatering a flower.
+
+@067.0A0C
+A fl-ow-er?
+
+@067.0A20
+Yes. He wanted a vase, so I took one\nover, and he was gazing at the flower\nwith a big smile...
+
+@067.0A70
+I wonder if something good happened.
+
+@067.0A98
+Hmm, so that's it...
+
+@067.0AB0
+...You know something, don't you, Clau?
+
+@067.0AD6
+Y-yeah. A little.
+
+@067.0AF2
+That's not fair!\nDon't keep it to yourself, tell me!\nIt must be about that girl from before.
+
+@067.0B46
+Heh heh.\nWell, you see...
+
+@067.0B5A
+...
+
+@067.0B64
+I see.\nHeh heh, besides the village's growth,\nwe have something more to look forward to.
+
+@067.0BB4
+You bet.
+
+@069.000A
+...Here, this is your share this time.
+
+@069.0026
+Thanks.
+
+@069.0038
+And also... here.
+
+@069.0050
+This is...!!!\nYou finally did it. Congratulations!
+
+@069.0088
+There isn't much yet, but everyone is\noverjoyed to have a new specialty.
+
+@069.00CE
+The village has finally come alive.\nAnd so... everyone wants to hold\na celebration in the village today.
+
+@069.0124
+...Will you come too, {FI}?
+
+@069.013E
+Yes, I'll be there!
+
+@069.0154
+Really?\nI'm so glad!
+
+@069.016E
+Then I'll go back to the village\nand wait for you.
+
+@069.01A6
+Wow, amazing!\nIt's like a festival!
+
+@069.01CC
+{FI}!
+
+@069.01D8
+Oh, Charlotte...?!
+
+@069.0200
+You came!\n...Oh, what's wrong?
+
+@069.022C
+N-no. I just thought you look\ndifferent from usual...
+
+@069.0264
+Doesn't it suit me?
+
+@069.0278
+Not at all, it suits you!
+
+@069.0292
+Really?\nIt's my first time wearing something\nlike this, so I'm a little embarrassed.
+
+@069.02D8
+It looks great on you!
+
+@069.02F6
+Heh, thank you.\nCome on, let's go over there.\nThere's lots of food too!
+
+@069.0344
+Okay!
+
+@069.035C
+Here you go.
+
+@069.0370
+Thanks!\nMm, delicious!
+
+@069.0394
+I'm glad!
+
+@069.03A6
+Oh, that's right!\nHey, look.
+
+@069.03C0
+Hm?
+
+@069.03CC
+There, over there!
+
+@069.03E2
+Wow.\nYou're growing it here.
+
+@069.0404
+That's right.\nNext year it'll bear even more fruit!
+
+@069.0434
+Yeah.\nThen this village will grow rich!
+
+@069.045E
+Yes!
+
+@069.046E
+...
+
+@069.047A
+...{FI}, thank you so much...\nThe villagers have their smiles back,\nand it's all thanks to you.
+
+@069.04CE
+I haven't done anything.\nIt's because you worked so hard,\nCharlotte!
+
+@069.0512
+That's not true...!
+
+@069.0528
+Besides, when I look at all of you,\nI feel like I have to do my best too.
+
+@069.0578
+?
+
+@069.0582
+My homeland, Portugal, was annexed\nby Spain...
+
+@069.05BE
+But just as you worked hard to develop\nyour village, I feel I can take Portugal\nback with our own hands...
+
+@069.0620
+That's the kind of courage it gives me!
+
+@069.0646
+...Truthfully, I was about to give up\ntoo. I always wanted to run away\nfrom this village.
+
+@069.0698
+But you didn't run away,\ndid you?
+
+@069.06C4
+Because you brought us hope.
+
+@069.06EE
+You grasped it yourself.
+
+@069.070E
+No, it was you...
+
+@069.0728
+Charlotte...
+
+@069.073E
+...
+
+@069.0756
+!
+
+@069.0760
+...?
+
+@069.076C
+S-sorry!
+
+@069.0782
+!?
+
+@069.0790
+Charlotte!!
+
+@069.07A8
+...Charlotte...
+
+@069.07CC
+Hey, welcome back!\nYou're back early.\n...{FI}...?
+
+@069.0802
+What's with him...?
+
+@069.0822
+He looked down, didn't he?
+
+@069.0842
+Did something happen...?\nWell, I'll go see how he's doing.
+
+@069.087C
+Wait, Clau!\nLet's leave him alone for now...
+
+@069.08B0
+More importantly, why don't we go\nto the village as well?
+
+@069.08E8
+To the village?
+
+@069.08F6
+We might be able to help {FI}.
+
+@069.0934
+I see!\nThen I'll find out what happened...
+
+@069.0964
+...You'd only make it worse, Clau.\nI'll talk to him.
+
+@069.0996
+Hey,\nthen what's left for me to do?
+
+@069.09BE
+You only need to be there, Clau.\nI think it will show how much you\nworry about {FI} more than anything.
+
+@069.0A18
+Tch... Boring, but fine.\nIt's for {FI}'s sake, after all.
+
+@070.000A
+So this is the far eastern edge of the\nworld...
+
+@070.0046
+Different from Arabia and India again...\nEven the buildings here are exotic.\nIt looks like an interesting place.
+
+@070.00A4
+Yeah, it's amazing.\nThis is real adventure and romance!\n...Huh, what's this?
+
+@070.00E8
+Pardon me.\nAre you Leader {FA} of the\n{FO}?
+
+@070.010E
+Whoa! He's got the look of an Eastern\nwarlord, that old man!
+
+@070.0160
+Shh! ...That's rude of you.
+
+@070.018A
+Yes, I am. I'm\n{FI} {FA}.\nBut...
+
+@070.01B4
+You are searching for the Victor's\nMark, are you not?
+
+@070.01D4
+What?!
+
+@070.01F6
+!
+
+@070.0204
+Oh... yes, we are. But if you know\nabout it...
+
+@070.0238
+I have something to tell you about that.
+
+@070.0262
+Understood. I'll hear it.
+
+@070.028A
+Then...\nAdmiral Maria, this is Mr. {FA}.
+
+@070.02BE
+...!?
+
+@070.02CC
+Whoa! An Oriental beauty!
+
+@070.0306
+Well, well, this is something...
+
+@070.032A
+...I am Maria Li. This is my right\nhand, Xian. I have little time, so I'll\nkeep to the point.
+
+@070.037C
+Oh...\nY-yes.
+
+@070.0390
+Hey, {FI}!\nSave the staring for later!
+
+@070.03BC
+I know that!
+
+@070.03D6
+Don't be shy.\nHee hee.
+
+@070.03F0
+...\nMay I speak?
+
+@070.040E
+Y-yes. Sorry.
+
+@070.0432
+I hold the key to solving that map...
+
+@070.045C
+!  You do...?
+
+@070.0474
+Yes. But it's of no use to me, not in\na country that officially enforces\nthe sea ban.
+
+@070.04C8
+...I see.\nBut we absolutely need it.
+
+@070.0502
+So it seems.\nIf you'll grant my request, I may\nconsider it.
+
+@070.053E
+Really? What should I do\nto get it from you?
+
+@070.0572
+One condition.\n"Destroy the Kurushima wokou pirates."\nThat's all.
+
+@070.05B0
+?\nWhat's a "wokou"?
+
+@070.05CC
+A band of sea hooligans who spend\ntheir days pirating, mostly in these\nEast Asian waters.
+
+@070.0614
+Are they that frightening?
+
+@070.0638
+"Frightening" isn't quite right.\n"Troublesome" is closer, I think.
+
+@070.067A
+They raid coastal villages in nimble\nships. Even when we try to put them\ndown, they flee fast, so we often\ncan't catch them.
+
+@070.070C
+We'd need fast ships, then...
+
+@070.0732
+The enemy isn't all small boats.\nThey've built up their gear lately and\nseem to have "all sorts of ships."
+
+@070.0792
+Once you confirm the Kurushima are\ngone, I will give you this "Bamboo Craft\nDiagram."
+
+@070.07E2
+A diagram...?
+
+@070.07F8
+You absolutely need it to find the East\nAsian Mark. So? It's not a bad deal,\nis it?
+
+@070.085A
+Understood.\n...I'll do it.
+
+@071.000A
+The Kurushima are finished...
+
+@071.0028
+Now we might just manage the East Asian\nVictor's Mark.
+
+@071.005E
+Oh, the Kurushima are gone!
+
+@071.0086
+Heh heh, yeah.
+
+@071.00A8
+Are you folks looking for the Victor's\nMark?
+
+@071.00D6
+Yes, we are.\nDo you know something?
+
+@071.0102
+They say Leader Li in a town called\nHangzhou knows something about it.
+
+@071.0142
+Yes. Do you know where Admiral Maria Li\nis?
+
+@071.0182
+Sure do.\nShe's usually in a town called Hangzhou.
+
+@071.01CC
+Is Leader Li famous?
+
+@071.01F2
+Famous? Around here, only the Kurushima\npirates were fool enough to defy\nAdmiral Li.
+
+@071.0250
+Hmm.\nSo it's better not to take her\non head-on...
+
+@071.0288
+Thank you for telling us.\nAll right, let's head to Hangzhou!
+
+@072.0018
+I suppose I must acknowledge you as\nthe Victor of these waters.\nTake this.
+
+@072.0078
+Admiral Li...\nThank you.
+
+@072.0094
+It can't be helped.\nI will watch here to see whether you\ndeserve to be the Victor.
+
+@072.00EE
+Who are you...?
+
+@072.0102
+It doesn't matter who.\nFeel free to forget me.
+
+@072.0130
+...
+
+@072.015A
+Well done.
+
+@072.0174
+Miss Maria! ...I mean, Admiral Li!
+
+@072.019C
+Yes. The Admiral was waiting here.\nNow then...
+
+@072.01D4
+Here, the diagram I promised.
+
+@072.01FA
+{FI}... it was, wasn't it?\nEven when you go to other waters,\ndon't let your guard down.
+
+@072.023C
+Th-th-thank you very much!!
+
+@072.0268
+Heh, he's totally flustered.
+
+@072.028C
+S-stop it!!\nClau! We're setting out!!
+
+@072.02B8
+Heh heh heh.\nYes, yes. Let's go, Admiral!
+
+@073.000C
+{FI}.\nYou've changed a bit lately, haven't\nyou? Like you've grown up.
+
+@073.0054
+Heh, really?
+
+@073.0068
+You don't agonize like you used to.\nYou seem more settled.
+
+@073.00A8
+Oh, even you can tell, Clau?\nThen maybe I'll tell you.\nIt's actually thanks to Eirene.
+
+@073.0106
+Eirene...?\nWhat's that supposed to mean?!
+
+@073.0130
+What do you mean, what...\n??\nWhy are you angry?
+
+@073.015E
+It was after our fight, Clau.\nEirene told me not to worry alone.
+
+@073.01BA
+Because I'm the Admiral and Leader of\nthe {FO}, I may have gotten\narrogant, trying to handle everything myself...
+
+@073.0226
+She told me talking to someone can\nmake things easier, and I really felt\nit was true. Eirene is like\nan older sister, isn't she!
+
+@073.02A6
+...
+
+@073.02B0
+She's kind, observant, and\nnever sarcastic.
+
+@073.02E2
+If everyone found out she's actually\na woman, they might start fighting\nover her.
+
+@073.032C
+...Who would be fighting over her?\nHuh?
+
+@073.0358
+Huh? Oh, I mean people in general.\nWhy are you getting worked up?\nOh! Don't tell me...
+
+@073.03A8
+D-don't be ridiculous!\nW-w-what the heck are you\nsaying!!
+
+@073.03EE
+Come on, I was joking...?\nYou don't have to yell.
+
+@073.0426
+It's because you keep saying weird\nthings! I-I'm going out!!
+
+@073.047A
+Yeah, yeah, see you!\n...\n...Clau's the weird one.
+
+@074.000A
+Oh! Admiral {FA}!\nYou'll finally settle things with\nValdes, right? Crush Spain for us!
+
+@074.0080
+The battleground is... "off Seville,"\nright? Be careful out there!
+
+@074.00CE
+Fleets seem to be gathering one after\nanother.
+
+@074.00FA
+I see, once we're ready for the Spain\nfight, we just head to Seville.\n{FI}, remember that.
+
+@074.0152
+Yeah.\nA decisive battle with Valdes's fleet at\nSeville... Let's prepare until then.
+
+@074.019C
+Until then, it might be best not to\ngo near there.
+
+@074.01DA
+Thanks.\nI'll make sure to remember.
+
+@074.020C
+Oh, that's right.\nThe King wanted to see you.
+
+@075.000C
+Out of my way.
+
+@075.0022
+!?
+
+@075.002E
+Hey! You there!!
+
+@075.004E
+...Who do you think you're speaking to?
+
+@075.007A
+Who cares! You bumped into us!\nWhy are you strutting around like\nyou own the place?!
+
+@075.00C8
+Is this rudeness knowing I am of the\nLinares family of Cordoba...?
+
+@075.0102
+The Linares family?
+
+@075.012A
+...Might he be a noble or something?
+
+@075.0172
+This looks like trouble...
+
+@075.019E
+Linares or whoever! You shove people\nand don't even apologize?\nWhat kind of nonsense is that!
+
+@075.020A
+...
+
+@075.0214
+Whoa!\n...? A glove!?
+
+@075.0232
+...Draw your sword. A duel.
+
+@075.024C
+Huh!?
+
+@075.025E
+A duel, just like that?!\nThat's a bit much, isn't it!
+
+@075.02A8
+In the Spanish Navy, no man stays silent\nwhen his pride is wounded.
+
+@075.02F4
+Pride? Come on.\nThese crazy spoiled nobles are going\nto rule over our Portugal?
+
+@075.0360
+...Oh, Portuguese. That explains the\nattitude problem toward us Spanish\nsoldiers.
+
+@075.03BC
+Listen well.\nFrom now on, it is the Invincible Armada\nthat protects you Portuguese.
+
+@075.040C
+You can do business in peace only\nbecause we fight the enemy day and\nnight. Remember that.
+
+@075.0464
+...!!
+
+@075.0472
+I will overlook today's barbarism.\nBegone, you offend my eyes.
+
+@075.04A4
+Wait!
+
+@075.04B2
+...Still do not understand?
+
+@075.04CE
+We're protected by you?\nStop fooling yourselves!
+
+@075.0522
+...What did you say?
+
+@075.0534
+We, the {FO}, act on our own\nstrength! We will never bow to Spain!!
+
+@075.058C
+...So you are the one. The ignorant brat\nwho still falsely claims Portuguese\nnationality.
+
+@075.05DE
+It's not false!\nMy homeland is forever Portugal!\nNot Spain!
+
+@075.062C
+You still cling to a country that no\nlonger exists. How pathetic.
+
+@075.0674
+It hasn't disappeared...\nWe will restore Portugal, I swear it!!
+
+@075.06C6
+Restore Portugal? That is a grand\nstatement, boy.
+
+@075.06FC
+That is nothing less than treason\nagainst the Kingdom of Spain.\nNaturally, we cannot let you live.
+
+@075.0768
+I need not trouble Lord Valdes.\nI'll cut you down right here!\nDraw!
+
+@075.07BA
+F-fine by me!
+
+@075.07D4
+Heh, don't expect mercy if you start\ncrying halfway!
+
+@075.0800
+Simon!\nWhat are you doing!
+
+@075.0822
+!?\nL-Lord Valdes!!
+
+@075.0840
+Ugh!\nWe're surrounded!!
+
+@075.085C
+W-we can't get away like this...!
+
+@075.0880
+Sir! These men were found plotting\ntreason against His Majesty the Emperor,\nso I was about to execute them now.
+
+@075.08FA
+Treason...?
+
+@075.090E
+Sir, they made seditious statements,\nsuch as aiming to restore Portugal.
+
+@075.0952
+Portugal?\nAre you...\nmen of the {FO}?
+
+@075.097C
+We are!
+
+@075.098C
+...\nBegone.
+
+@075.099C
+!!
+
+@075.09A8
+What?
+
+@075.09B6
+!?
+
+@075.09C2
+One day I will settle this with you at\nsea. Leave this town at once.
+
+@075.0A02
+...Tch!
+
+@075.0A12
+So you think you're showing mercy!
+
+@075.0A30
+Mercy...? Hahaha!\nDo you think you can beat us?
+
+@075.0A74
+My fleet is invincible by name.\nA solid formation of tradition and dignity.\nYou are not worth a glance.
+
+@075.0ADA
+Damn it, you'll regret this!
+
+@075.0AFE
+Lord Valdes!
+
+@075.0B12
+Fighting mere children is unseemly,\nSimon.
+
+@075.0B42
+Y-yes, sir!\nBut...!
+
+@075.0B60
+Do you not see?\nI cannot bear to stain the great royal\ncapital with the blood of the defeated.
+
+@075.0BA4
+!!\n...I see.\nThat was rash of me.
+
+@075.0BD2
+Besides, they will make ideal targets\nfor the newly formed combined fleet's\nbattle drills.
+
+@075.0C1A
+Yes, sir!\nThank you for your deep insight.

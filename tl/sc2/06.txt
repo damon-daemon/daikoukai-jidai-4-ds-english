@@ -1,0 +1,920 @@
+@122.0008
+Admiral, over there!\nThat ship is on fire!
+
+@122.003C
+That's Clifford's "Galahad"!
+
+@122.0084
+We have to help them!
+
+@122.009A
+It's... no use.\nWe can't get anywhere near it!
+
+@122.00C6
+But...!
+
+@122.00E6
+\nHeh, how pathetic of me...\nWhat an ugly way to go...
+
+@122.0116
+Clifford!
+
+@122.0140
+Mr. Clifford!
+
+@122.015E
+\n\nThat voice...\nIt's {FI} and the others, huh...
+
+@122.017E
+Clifford, can you hear me?\nI know you're in there!
+
+@122.01C8
+Mr. Clifford, please, get out of there!
+
+@122.01F6
+\n\nAre you trying to save me...?
+
+@122.021E
+\nYou haven't changed. Soft-hearted,\nstraight as an arrow...
+
+@122.0254
+\nBut Clifford the pirate can't\naccept pity from the likes of you.
+
+@122.02A6
+\nBurn it into your eyes, kid.\nThe death of Clifford the pirate...
+
+@122.02E4
+\nCome on, Galahad, let's go...\nWe'll raise hell in the next world.
+
+@122.032C
+Cliffoooord!
+
+@122.0346
+Clifford, why...?\nWhy would you choose to die...?!\nYou didn't have to die...!
+
+@122.039E
+I believed in you...\nI thought you were one of us...
+
+@122.03F0
+...\nI think I understand how\nMr. Clifford felt.
+
+@122.042E
+He must have regretted\ndeceiving you, {FI}.
+
+@122.0468
+You think so...?
+
+@122.0478
+If it weren't for the ties to the\nEnglish crown, none of this would\nhave happened... I think he wanted to\nget along with us.
+
+@122.04F2
+Admiral, there's a box in the wreckage...
+
+@122.0536
+It's the stolen Victor's Mark!
+
+@122.055E
+The Victor's Mark. Oh, there's a letter...
+
+@122.058A
+To my dear {FI}\nand Kamil
+
+@122.05A6
+I'm sorry.\nI pray for your success.\nJames Clifford
+
+@122.05F0
+Clifford...\nAt least... rest in peace...
+
+@123.0066
+Who's that?
+
+@123.00B8
+Where does she live?
+
+@123.00E8
+I see. Then let's go.
+
+@124.006E
+Hmm, let me think...\nNot in lots of towns, no.
+
+@124.01CA
+But it's not so easy to\nbecome friends with them.
+
+@124.03E2
+Hmm. So you chatting up the girls\nat the taverns one after another\nwas just normal for an adventurer?
+
+@124.0462
+It didn't look that way to me...
+
+@124.0488
+W-wasn't it? A convincing act that\nwins a girl's heart... If you can\npull that off, you're a real pro, right?\nAhaha!
+
+@125.0024
+Oh, Kamil!
+
+@125.003A
+Is something... wrong?
+
+@125.0052
+Huh? Why?
+
+@125.0068
+Well, you looked like you were\nworried about something.
+
+@125.009E
+I see, so my worried look made\nyour heart skip a beat.
+
+@125.00DA
+W-what are you saying?!\nI was just concerned!
+
+@125.0110
+I'm kidding! You don't have to get\nso worked up about it.
+
+@125.014E
+...Y-yeah. You're right.
+
+@125.016A
+But if you're like this, then you\nweren't worried after all. It's silly\nto think {FI} would worry about\nanything. Ahaha...
+
+@125.01D4.0
+A little bit
+
+@125.01D4.1
+I'm not worried at all
+
+@125.0218
+I knew it...\n...Go on, tell me.
+
+@125.024A
+...What I'm doing isn't wrong, is it?\nI'm only punishing companies that\ndo bad things, right?
+
+@125.02AC
+That's right. {FI},\nyou're not wrong.
+
+@125.02D0
+But everyone has a family, don't they?\n...And I'm making those people\nunhappy...
+
+@125.032A
+That's...
+
+@125.033A
+No, it's okay.\nI feel better for talking about it.\nSorry, Kamil.
+
+@125.0386
+Well, you've got your own work to do.
+
+@125.03AC
+Yeah, I do, but...
+
+@125.03D4
+Oh, right!
+
+@125.03EA
+W-what?!
+
+@125.03FC
+I've got something good for you!
+
+@125.041E
+The "Guiding Cane"!
+
+@125.0458
+Yeah, I only heard about it in a rumor\nrecently. They say there's a legendary\ncane that leads whoever holds it\ntoward goodness.
+
+@125.04CC
+Really?\n...Sounds kind of shady, though.\nWhere is it?
+
+@125.050C
+Somewhere around India, apparently.
+
+@125.0528
+Where in India?
+
+@125.0542
+Well, I don't know that much...
+
+@125.055C
+That's not enough to go on...\nOh well. Let's look for it if we\nget the chance.
+
+@125.05A6
+Right. Well, I'm heading back\nto my work.
+
+@125.05D4
+Oh, Kamil!
+
+@125.060A
+Huh? Y-yeah.
+
+@125.062E
+Of course not!\nIf I moped around all the time,\nI couldn't call myself a woman of the sea.
+
+@125.067E
+Heh, you're right.
+
+@125.0696
+Besides, worrying is your job, Kamil.\nIf I worried too, it'd get so gloomy\nthat every last sailor would quit.
+
+@125.0710
+That's harsh. I don't worry because\nI like it. It's because of {FI}...
+
+@125.074C
+Huh, did you say something?
+
+@125.0764
+Nothing. Well, I'm heading back\nto my work.
+
+@125.0794
+Okay. But thanks for worrying about me.\nSee you later!
+
+@125.07CE
+Huh? Y-yeah.
+
+@126.000E
+So this is the Market in Bruges.\nWow, I don't know most of this stuff!\nHey, what's that over there?
+
+@126.0062
+Leave that for now. Since we're\nat the Market, let's learn\nsomething about trading.
+
+@126.00B0.0
+How does trading work?
+
+@126.00B0.1
+I already know how to trade
+
+@126.00FC
+...Really?
+
+@126.0110
+What, you got a problem?
+
+@126.011E
+(I'm surprised. She might become\nan amazing admiral after all...)
+
+@126.0158
+Aw, again?
+
+@126.0172
+{FI}, you're\nthe admiral, remember...
+
+@126.018C
+Geez, Kamil,\nyou sound like my mom.\nYes, yes, I get it.
+
+@126.01CA
+"Buy trade goods cheap and sell them\nhigh." That's the basis of trading.\nAt first we can't handle many goods...
+
+@126.0228
+Just think of what fills one hold as\n"one unit of trade." The more holds\nyou have, the more you can buy.
+
+@126.02A0
+But even with empty holds, a port\nmight not sell you goods. That has to\ndo with the port's "share."
+
+@126.0310
+Share means how much business you can\ndo with that town. The higher your\nshare, the more they'll sell you\nat once.
+
+@126.0386
+Haaah... Making money is\nreally hard...
+
+@127.0012
+...10... 15... 30 chips!
+
+@127.0030
+...Well? Will you raise?\nOr fold?
+
+@127.006C
+Ugh... Damn it!\nI can't take this bet!\nI-I fold!
+
+@127.00AC
+I see...\n...\nToo bad.
+
+@127.00D0
+Wh-what?!\nJust a bust?!
+
+@127.00F6
+...It's luck. You make luck your ally.\nDo that and even a reckless bluff\ncan become the ultimate trump card.
+
+@127.0158
+You saw it coming that I'd bluff,\ndidn't you?\nBut...
+
+@127.0198
+My luck made you misread it as "a bluff\nto make you raise the stakes."
+
+@127.01EE
+Ugh...\nI lost...
+
+@127.020C
+Fernando,\nthat was some match!
+
+@127.0232
+Oh, Kamil. You were watching?\nHey, old man! Pour this kid a drink\ntoo. It's on me.
+
+@127.0286
+Coming right up.
+
+@127.0294
+Thanks!\n...By the way, was that match also\nabout the "watching closely" you\nalways talk about, Fernando?
+
+@127.02F4
+Heh. Pretty sharp. Exactly.
+
+@127.031A
+Luck, and the other half is "watching\nclosely." In other words, insight.\nLose either one and you can't win.
+
+@127.0384
+All right, Kamil, a quiz.\nHow do you think you make\nluck your ally?
+
+@127.03D2
+Huh?\nHow...?\nHmm... Can you even do that?
+
+@127.0414
+You build a "winning habit."
+
+@127.0432
+A "winning habit"?
+
+@127.0446
+Luck doesn't make a man a winner.\nIt's winners that luck takes\nthe side of.
+
+@127.0496
+And to build a "winning habit"...
+
+@127.04BC
+Insight, right?\nSo sharpening your insight means\nraising your odds of winning!
+
+@127.04FE
+You're smart, Kamil.\nThat's it. Because I won the early\nrounds with insight, he misread\nthe final hand and lost.
+
+@127.0574
+You're amazing, Fernando.
+
+@127.0596
+...Can I ask you something?\nWhy did you end up\nsailing with {FI}?
+
+@127.05D4
+Gulp...\n*cough*, *cough*
+
+@127.0602
+I-I told you before, didn't I?\n"Well, there's a lot behind it..."
+
+@127.0640
+That's what bothers me.\nDon't tell me... you lost\na bet to {FI}?
+
+@127.0686
+...(Gulp)...
+
+@127.069C
+I see... You lost...
+
+@127.06C0
+Ugh...\nYou really are a sharp one.
+
+@127.06E2
+That brat kept pestering me, so I said\n"Beat me and I'll join your crew."\nThat was my mistake...
+
+@127.0742
+I can't believe you lost,\nFernando. How did it happen?
+
+@127.0790
+...She said "Let's play cards!" and\nI took the challenge. That part\nwas fine, but...
+
+@127.07DE
+That brat didn't know poker, baccarat,\nor blackjack. The only game she could\nplay was Old Maid.
+
+@127.0846
+Can you believe it?! A grown man\nseriously playing "Which one's the\nOld Maid?"
+
+@127.08A0
+...\nSo it was "bad luck,"\nFernando...
+
+@128.000E
+Hurry up and load the cargo!\n"Time is money," you know!\nGet to work!
+
+@128.0052
+Yes, sir...
+
+@128.0062
+Young people these days... pathetic.\nNo wonder the Hanseatic League is\ndeclining. But not while I'm around!
+
+@128.00C8
+To restore the Hanseatic League,\nour Speyer Company must\nturn a profit!
+
+@128.011C
+Yes, sir, yes, sir...
+
+@128.0136
+Everybody, hurry up!\nI'll leave you behind!
+
+@128.017C
+Aaah, wait for me!\nI'm still eating!
+
+@128.01CA
+Geez, what an impatient admiral.
+
+@128.0208
+{FI}, wait up!\n...\nUgh, that man... Uh-oh!
+
+@128.023E
+{FI}... I've heard that name\nsomewhere. Ah, I remember!\nYou there, girl! You're from\nthe new {FO}, aren't you!
+
+@128.02A2
+Girl?!\nWho is this guy?\nWhat an annoying old man!
+
+@128.02E0
+Wh-what! Old man?! How rude!\nI'm still young! And is that any way\nto treat someone you've just met?!
+
+@128.035C
+Admiral, that's someone from\nthe Speyer Company...
+
+@128.038C
+{FI}, this is bad!\nThat's Martin Speyer, the Leader\nof the Speyer Company!
+
+@128.03E6
+So what if he is?!\nYou're the rude one, calling\na lady "girl"! You old man!
+
+@128.044A
+Damn you, girl! I'll have the Speyer\nCompany crush your puny company\nwith everything we've got!
+
+@128.04BA
+Hey, hey. You two,\nthis isn't a kids' fight...
+
+@128.04F8
+Shut up! I'll wrap those words up\nand hand them right back to you!
+
+@128.054C
+H-hey, {FI}!\nMr. Speyer, that was a joke.\nJust a joke. This girl's a little\nout of her head...
+
+@128.05C6
+Just watch!\nI won't let the {FO}\nbe crushed!
+
+@128.05F2
+Grr! This girl! Remember this!\nLet's go!\nJust looking at her makes me furious!
+
+@128.063C
+Yes, sir...
+
+@128.0660
+They say "one insult deserves another,"\nbut with you two it's like there are\ntwo {FI}s\nin the room.
+
+@128.06EA
+Honestly, why do you have to fight\nwith everyone? You're making\nenemies for no reason...
+
+@128.0730
+But that old man was so\nunpleasant!
+
+@128.076E
+Geez... you're such a child.
+
+@128.0792
+Hmph!\nYou're one to talk, Kamil! There's\nno point going on about what's done!
+
+@128.07E0
+Geez, you're so selfish.
+
+@128.07F8
+Well then. Now that it's come to this,\nwe'll crush the Speyer Company\nfair and square!
+
+@128.083E
+Hey Kamil, to crush the Speyer\nCompany, we have to drive them out\nof the ports they have contracts with,\nright?
+
+@128.08B0
+Oh, you know that? Surprising.\nI was sure you'd ask\n"How do we crush them?"
+
+@128.090A.0
+So how do we drive them out?
+
+@128.090A.1
+Don't talk down to me
+
+@128.094E
+Sorry, sorry.\nThen let's fight them with whatever\nyou're good at, {FI}, whether that's\nbattles or investing.
+
+@128.09A4
+I know that!\nJust watch, Speyer Company!!
+
+@128.0A08
+"How"... you don't know?
+
+@128.0A30
+Um...
+
+@128.0A42
+And you call yourself a merchant...\nThat's the most basic thing there is...
+
+@128.0A7A
+Is it? Well, never mind.\nTell me.
+
+@128.0AA8
+...Fine, {FI}.\nTo drive out an enemy faction, you\nhave to get their share in that port\ndown to 0%.
+
+@128.0B06
+Oh, that's easy! If we invest a lot\nand contribute, the port will\nbecome our ally!
+
+@128.0B66
+Hear me out.\nInvesting in the port alone won't\ndrive the enemy out.
+
+@128.0BB0
+What? Why?
+
+@128.0BC8
+If both of us invest in a port, we're\nboth useful to it, right? It can't\nside with just one of us.
+
+@128.0C32
+So we put ourselves in a state of\n"war" with them, and force the port\nto choose between us and them.
+
+@128.0C8E
+So which would the port choose...?\nOh, I get it! It sides with the\nfaction that gives it more money?
+
+@128.0CF6
+Right. So once we're at "war,"\ninvesting in the port lowers their\nshare and raises ours by that much.
+
+@128.0D64
+So the port turned on them.\nThen how do we go to "war"\nwith the enemy?
+
+@128.0DBA
+Have your First Mate write a\ndeclaration of war at the Guild, or\nstart a "Naval Battle" with an enemy ship.
+
+@128.0E1C
+Once you're at "war," invest in the\nports the enemy has contracts with,\nand you can push them out bit by bit.
+
+@128.0E78
+But what if the enemy's share is 100%?\nWe can't invest at all.
+
+@128.0EC4
+In that case, you start a "Naval Battle"\nwith the enemy near that port.
+
+@128.0F02
+If they lose a "Naval Battle," the faction's\nreputation drops. And the shares of\nports near where the battle happened\nstop being 100%.
+
+@128.0F74
+So we slip in there and make a\ncontract! As expected of Kamil! All right,\nwatch out, Speyer Company!!
+
+@129.0018
+I was told to go to Amsterdam, but...\nIs there really such a thing as\n"Red Pigment"...?
+
+@129.0088
+Maybe we can trust it?
+
+@129.00B2
+Ah, almost there...\nOh, you're Dutch, aren't you?
+
+@129.00EE
+Yes, why?
+
+@129.0108
+So am I.
+
+@129.0122
+Um... as a fellow Dutchwoman, I think\nyou'll understand what I mean...
+
+@129.0172
+If our country were bigger, with plenty\nof good land, don't you think the\npoor would be saved?
+
+@129.01D2
+You're right... My hometown was poor\nland too, so I know. Everyone\nsuffered.
+
+@129.0220
+Right? My family's farm was poor too...\nI've been thinking all this time. Isn't\nthere a way to create good land...?
+
+@129.0292
+Huh? Create land?
+
+@129.02AE
+Yes! If we turn the sea into land,\nwon't we have more land?
+
+@129.02F0
+...What do you mean?
+
+@129.0308
+We drain the sea. First build dikes\nalong the coast to enclose the water.\nPump out the seawater inside, and\nyou get a vast stretch of land.
+
+@129.037E
+I named it a "polder"!
+
+@129.03AC
+Amazing! What a great idea!\nTry it right away!
+
+@129.03DE
+I'd like to, but...\nI have no funds.
+
+@129.040A
+How much would it cost?
+
+@129.0426
+About 1,000,000 in gold.
+
+@129.0448
+That's... a huge sum.\nWhy not ask the government?
+
+@129.047C
+I did.\nBut even with government support,\nit's nowhere near enough.
+
+@129.04C6
+I see... That's tough.
+
+@129.04E4
+But I won't give up. I'm sure\nsomeone out there will provide\nthe funds...
+
+@129.0536
+How admirable... Good luck!
+
+@129.056A
+Don't give up. One day, your dream\nwill come true.
+
+@129.05C2
+A "polder," huh... If it gets built,\nmaybe everyone back home can live\nmore comfortably...
+
+@130.0008
+Mister, about the gift\nfrom Mr. Clifford...
+
+@130.0050
+A gift?\nWhat's that?
+
+@130.0070
+This letter...
+
+@130.0084
+Hm, let's see... I see. So it's you,\nlittle lady. Wait here a moment.
+
+@130.00D4
+Here you go.
+
+@130.00EA
+Yeah, Clifford told me about it.\nThis is it, right?
+
+@130.0120
+So this is the key to solving the map...
+
+@131.000C
+I think this "Old Parchment" is the\nmap to the Victor's Mark.
+
+@131.0078
+It looks like plain paper, but there\nmust be some trick to it...
+
+@131.00BE
+But there's nothing written on it.\nThere must be some trick.
+
+@131.00FA
+Can we use this "Red Pigment"?
+
+@131.0126
+...I can't think of anything else.\nWe must use this. Yep, definitely.
+
+@131.0188
+How are you going to use it?
+
+@131.01BC
+H-hey, wait!\n{FI}!\nWhat are you doing?!
+
+@131.01EA
+You pour it over the paper, like this!
+
+@131.0226
+H-hey...\nSomething's showing up!
+
+@131.025C
+Heh! I knew it!\nNow we have the map to the North Sea\nVictor's Mark!
+
+@131.02C8
+{FI}, you're amazing!\nLet's go find the Victor's Mark\nright away!
+
+@131.030C
+Good thinking.\nThen let's go find the\nVictor's Mark!
+
+@131.0352
+Now the North Sea is mine!
+
+@132.000C
+Girls, you aren't thinking of doing\nbusiness in the southern Mediterranean,\nare you?
+
+@132.0062
+Why?\nIs something in the southern\nMediterranean?
+
+@132.009E
+The southern Mediterranean pays well.\nWe can't pass that up!
+
+@132.00DA
+Don't do it...\nDon't do business in the southern\nMediterranean.
+
+@132.0110
+What do you mean by that?!
+
+@132.0134
+Listen, I warned you.\nDon't forget it.
+
+@132.017E
+What could that mean?\nWhat do we do, {FI}?
+
+@132.01B0
+Don't go to the southern Mediterranean...\nWhat could that mean...?
+
+@133.0008
+This port is an important hub linking\nthe North Sea and the Mediterranean,\nright?
+
+@133.0042
+But the Portuguese military and\ncompanies have a firm grip on it and\nwon't let us do any business.
+
+@133.00B8
+Are you {FI}\nof the {FO}?
+
+@133.00D4
+Heh, I'm getting famous.\nSo who are you?
+
+@133.010A
+I'm Rafael Castor\nof the Castor Company.
+
+@133.0146
+What?!\nYou're the Castor Company's Rafael?!
+
+@133.0180
+I can't believe it, he's still a kid!
+
+@133.01B8
+A kid...
+
+@133.01C6
+Y-you're one to talk!\nRight, Raffy?
+
+@133.01FA
+What did you say?!\nWho's this rude muscle guy?\nAre you picking a fight with me?
+
+@133.0252
+Hey now!\nYou said it first!
+
+@133.0284
+{FI}, he's right!
+
+@133.02A8
+Easy, easy. Calm down, Clau.
+
+@133.02CC
+You should get mad too!
+
+@133.02F0
+It's fine.\nI don't mind.
+
+@133.0312
+Geez, Raffy...
+
+@133.0326
+Hey. Is this guy really an admiral?
+
+@133.0352
+Yes, but...?
+
+@133.0368
+How disappointing...
+
+@133.0392
+*Ahem*\nSo, what do you want with me?
+
+@133.03B8
+You want to sign a contract in this port,\nright?
+
+@133.03DC
+W-wow, that's abrupt.\nWell, yes, I do...
+
+@133.0414
+Then, if you don't mind, would you swap\nyour share in Nantes for my\nshare in Lisbon?
+
+@133.0482
+Swap?!
+
+@133.0498
+Only if you're okay with it...
+
+@133.04BC
+Hmm, not a bad deal, but...\nIs a 1% for 1% swap okay?
+
+@133.04F8
+Hold on, it doesn't work like that.\nLisbon is a big city and a key\ntransit point. Two for one is fair, right?
+
+@133.055A
+So I give up 2% of Nantes and you\ngive me 1% of Lisbon?
+
+@133.05BA
+If you don't like it, fine.\nWe'll find someone else.
+
+@133.05E8
+What do you say?
+
+@133.05FA.0
+Hmm... Okay, fine
+
+@133.05FA.1
+Are you stupid?
+
+@133.0630
+Looking at your sheltered-rich-boy\nface, I don't care anymore...
+
+@133.0670
+Well, I can't get into the Mediterranean\nwithout going through Lisbon anyway.
+
+@133.06B2
+Deal!
+
+@133.06C8
+Great, now we have a foothold\nto expand into the North Sea!
+
+@133.06FA
+Thank you, {FI}!\nI look forward to working with you!
+
+@133.0752
+You swapped your Nantes and Lisbon\nshares
+
+@133.0784
+Hmph.\nI'm not falling for your smooth talk.
+
+@133.07B0
+Hm, no good, huh?\nI thought it was a good offer...
+
+@133.07E4
+Oh well. Let's find someone else.
+
+@133.0808
+Forget it, Clau. Relying on others was\njust too convenient. Working steadily\non our own is the best way.
+
+@133.087C
+Tch.\nEarning money quietly just doesn't\nsuit my nature.
+
+@133.08C2
+Strange people...
+
+@134.0008
+The first step into Africa! We have to\nmake the name of the {FO}\nfamous here!
+
+@134.005C
+Right, {FI}.\nLet's do our best!
+
+@134.0084
+Now, first we need to buy some goods!
+
+@134.00B0
+Hey, woman! Who gave you permission\nto trade here, eh?!
+
+@134.00F8
+This region of West Africa is the\nSilveira Company's territory, you\nsee! It would trouble me greatly if you\ntraded as you please!
+
+@134.0160
+What are you talking about?\nI have a proper contract with the port!
+
+@134.01B0
+That's right! As long as you have\na contract, you can trade freely!
+
+@134.01E4
+No! That won't do! My territory means\nthat, in other words...!
+
+@134.022C
+Every bit of gold and goods in the\nport belongs to me, as it should.\nDo you understand, young lady?!
+
+@134.0284
+That's ridiculous logic, no one\nwould understand it! It's got nothing\nto do with you where I trade!
+
+@134.02F0
+That's right!\nWhat you're saying is wrong!
+
+@134.0322
+I don't care who says what, everything\nin this region is mine! Stop your\nquibbling and leave at once!
+
+@134.0386
+Give me a break! We've finally come\nall this way, so turning back is\nout of the question!
+
+@134.0402
+That's right, that's right!\n{FI},\ngive him an earful!
+
+@134.0434
+So you won't back off, is that it?\nThen I have a plan of my own!
+
+@134.047E
+With the full strength of the Silveira\nCompany, I'll crush you so you can\nnever trade again!
+
+@134.04DE.0
+Fine...
+
+@134.04DE.1
+Bring it on!
+
+@134.0506
+Hm?\nWhat was that?\nSay it louder.
+
+@134.053C
+I said I'm backing off!
+
+@134.055E
+Oh ho. Quite obedient, very good.\nIf you'd been like this from the start,\nI would have had my own way of\ndealing with you.
+
+@134.05C8
+Now then, as a greeting fee, I'll take\nsome of your share. Hahaha!
+
+@134.0632
+The Silveira Company took some of your\nshare in Sao Jorge.
+
+@134.0686
+(That stingy old goat!\nJust you wait, one day I'll make you\nregret this!)
+
+@134.06F8
+Hey, Kamil?!
+
+@134.0710
+Y-yeah...\n(Why does it always turn into\na head-on fight?)
+
+@134.0758
+You little brat, how dare you talk\nback to me! I'll make you regret\nmaking an enemy of me!

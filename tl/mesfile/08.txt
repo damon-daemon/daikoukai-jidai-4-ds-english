@@ -1,0 +1,749 @@
+@2000
+We sank the enemy flagship!
+
+@2001
+Enemy flagship destroyed!
+
+@2002
+Enemy flagship destroyed!
+
+@2003
+Enemy flagship destroyed!
+
+@2004
+The enemy flagship went down!
+
+@2005
+We sank the enemy flagship, sir!
+
+@2006
+Admiral, our flagship is done for!\nThe flooding won't stop!
+
+@2007
+Admiral, the flagship's done for!\nThe flooding won't stop!
+
+@2008
+Admiral, this flagship is finished!\nWe can't stop the flooding!
+
+@2009
+Admiral, it's no good!\nThe water won't stop coming in!
+
+@2010
+Admiral, this flagship won't last, sir!\nThe flooding won't stop!
+
+@2011
+We defeated every sailor on the enemy\nflagship and captured it!
+
+@2012
+Admiral! We beat all the sailors on the\nenemy flagship and captured it!
+
+@2013
+We took down every sailor on the enemy\nflagship and captured it!
+
+@2014
+We beat all the sailors on the enemy\nflagship and grabbed the whole ship!
+
+@2015
+We defeated every sailor on the enemy\nflagship and captured the ship, sir!!
+
+@2016
+All our sailors have fallen!\nPlease abandon ship for another vessel!
+
+@2017
+All our sailors have fallen!\nAdmiral, abandon ship right away!
+
+@2018
+All the sailors are down!\nAdmiral, get to another ship, quick!
+
+@2019
+Sailors are going down one after another!\nAdmiral, get off to another ship!
+
+@2020
+The sailors are falling one by one!\nYou must abandon ship too, Admiral!
+
+@2021
+All the sailors are down!\nAdmiral, run to another ship!
+
+@2022
+Further fighting is pointless.\nPlease surrender quietly.
+
+@2023
+Further resistance is pointless.\nSurrender quietly.
+
+@2024
+There's no use fighting anymore!\nJust give up!
+
+@2025
+Resisting is pointless!\nSurrender quietly!
+
+@2026
+You've got no chance!\nSurrender, and quick!
+
+@2027
+Resistance is pointless.\nSurrender like a good sailor.
+
+@2028
+There's no use fighting anymore!\nPlease just give up!
+
+@2029
+You have no chance of winning!\nYou had best surrender at once!
+
+@2030
+We can't let any more of our\ncomrades die for nothing...\nThis ship surrenders.
+
+@2031
+We can't let more of our comrades\ndie in vain.\nThere's no help for it. Surrender...
+
+@2032
+It's no good...\nAdmiral, this ship surrenders...
+
+@2033
+...I can't fight any longer.\nAdmiral, this ship surrenders.
+
+@2034
+...Doesn't look like we can win.\nAdmiral, this ship surrenders.
+
+@2035
+We can't waste our comrades' lives.\n...We surrender.
+
+@2036
+It's no good... everybody's going down!\nSorry, but I'm surrendering...
+
+@2037
+...Knowing when to retreat matters, too.\nAdmiral, this ship surrenders.
+
+@2038
+If you plan to attack this town,\nwe'll drive you back!
+
+@2039
+You there, you mean to attack this town!?\nWe won't allow it!
+
+@2040
+Even if you attack this town,\nwe won't let you!
+
+@2041
+You lot!\nYou're going to attack this town!?\nWe won't let you!
+
+@2042
+You bastards!\nYou're going to attack this town!?\nThen we'll show no mercy!
+
+@2043
+So you're the ones who would\nattack this town!?\nWe'll teach you a lesson!
+
+@2044
+Attack this town?\nNot while we're here!!
+
+@2045
+You've got nerve to attack this town!\nWe'll drive you back!
+
+@2046
+The enemy flagship has fled.\nWe won!
+
+@2047
+The enemy flagship fled.\nWe won!
+
+@2048
+The enemy flagship fled!\nAdmiral, we won!
+
+@2049
+The enemy flagship fled!\nAdmiral, we've won!
+
+@2050
+The enemy admiral's ship ran away!\nWe won, didn't we!
+
+@2051
+The enemy flagship fled!\nAdmiral, we've won, sir!
+
+@2052
+The powder in the armed battery caught fire,\nand a fire has broken out!
+
+@2053
+The armed battery's powder caught fire.\nFire!
+
+@2054
+The armed battery's powder caught fire!\nThere's a blaze!
+
+@2055
+The armed battery's powder caught fire!\nFire!
+
+@2056
+The battery's powder caught fire!\nFiiire!
+
+@2057
+The armed battery's powder caught fire,\nand a fire has broken out, sir!
+
+@2058
+Admiral, the %s\nhas sunk!
+
+@2059
+Admiral, the %s\nis going down...
+
+@2060
+Admiral, the %s\nsank!
+
+@2061
+Admiral, the %s\nwas sunk!
+
+@2062
+Admiral, the %s\nwas sunk!
+
+@2063
+Admiral, the %s\nwas sunk!
+
+@2064
+Admiral, the %s\nsank!
+
+@2065
+Admiral, the %s\nhas sunk, sir!
+
+@2066
+Sank the enemy ship\n%s!
+
+@2067
+Enemy ship %s sunk!
+
+@2068
+Admiral!\nWe sank the enemy ship\n%s!
+
+@2069
+We sank the enemy ship\n%s!
+
+@2070
+Yeah!\nEnemy ship %s\nsunk!
+
+@2071
+Sank the enemy ship\n%s!
+
+@2072
+We sank the enemy ship\n%s!
+
+@2073
+We sank the enemy ship\n%s, sir!
+
+@2074
+Admiral, the %s\nwas captured!
+
+@2075
+Admiral, the %s\nfell into enemy hands.
+
+@2076
+Admiral, the %s\nwas captured!
+
+@2077
+Admiral, the %s\nwas captured!
+
+@2078
+Admiral, the %s\ngot taken over!
+
+@2079
+Admiral, the %s\nwas captured!
+
+@2080
+Admiral, the %s\ngot caught!
+
+@2081
+Admiral, the %s\nwas captured, sir!
+
+@2082
+Captured the enemy ship\n%s!
+
+@2083
+Enemy ship %s\ncaptured
+
+@2084
+We captured the enemy ship\n%s!
+
+@2085
+We captured the enemy ship\n%s!
+
+@2086
+Took the enemy ship\n%s!
+
+@2087
+We captured the enemy ship\n%s!
+
+@2088
+We took over the enemy ship\n%s!
+
+@2089
+We captured the enemy ship\n%s, sir!
+
+@2090
+Admiral, the %s\nhas surrendered!
+
+@2091
+Admiral, the %s\nseems to have surrendered!
+
+@2092
+Admiral, the %s\nsurrendered!
+
+@2093
+Admiral, the %s\nsurrendered!
+
+@2094
+Admiral, the %s\nwent and surrendered!
+
+@2095
+Admiral, the %s\nhas gone and surrendered!
+
+@2096
+Admiral, the %s\nsurrendered!
+
+@2097
+Admiral, the %s\nhas surrendered, sir!
+
+@2098
+Admiral, the enemy ship %s\nhas surrendered!
+
+@2099
+Admiral, the enemy ship %s\nis raising a white flag!\nThey're surrendering!
+
+@2100
+Admiral, the enemy ship %s\nsurrendered!
+
+@2101
+Admiral, the enemy ship %s\nsurrendered!
+
+@2102
+Admiral, the enemy ship %s\nsurrendered!
+
+@2103
+Admiral, the enemy ship %s\nseems to have surrendered!
+
+@2104
+Admiral, the enemy ship %s\nsays it surrenders!
+
+@2105
+Admiral, the enemy ship %s\nseems to have surrendered, sir!
+
+@2106
+Our ram hit the enemy ship!
+
+@2107
+Ram hit the enemy ship
+
+@2108
+Our ram hit the enemy ship!
+
+@2109
+Our ram hit the enemy ship!
+
+@2110
+Our ram hit the enemy ship\nright in the gut!
+
+@2111
+Our ram hit the enemy ship!
+
+@2112
+Our ram hit the enemy ship!
+
+@2113
+Our ram hit the enemy ship, sir!
+
+@2114
+Admiral, we're leaving the battle!
+
+@2115
+Admiral, leaving the battle!
+
+@2116
+Admiral, we're leaving the battle!
+
+@2117
+Admiral, we're leaving the battle!
+
+@2118
+Admiral, we're pulling out of the battle!
+
+@2119
+Admiral, we're leaving the battle!
+
+@2120
+Admiral, we're backing away from the battle!
+
+@2121
+Admiral, we're leaving the battle, sir!
+
+@2122
+Attack %s.\nIs that all right?
+
+@2123
+Attack target: %s\nIs that all right?
+
+@2124
+We'll attack %s.\nOkay?
+
+@2125
+We'll attack %s.\nIs that all right?
+
+@2126
+We're attacking %s.\nYou sure about this?
+
+@2127
+We'll attack %s.\nThat's what you want, eh?
+
+@2128
+We're attacking %s,\nbut is that okay?
+
+@2129
+We'll attack %s.\nIs that acceptable, sir?
+
+@2130
+Admiral, we won!
+
+@2131
+Admiral, our side won!
+
+@2132
+Admiral, we won!\nHooray!
+
+@2133
+Admiral, we won!
+
+@2134
+Admiral, we won!
+
+@2135
+Admiral, we've won!
+
+@2136
+We won! Yay!\nAdmiral, we did it!
+
+@2137
+Admiral, we've won, sir!
+
+@2138
+Our flagship is down.\nWe lost!
+
+@2139
+Our flagship was destroyed!\nWe lost!
+
+@2140
+The flagship went down.\nWe lost!
+
+@2141
+The flagship went down.\nWe lost, didn't we!
+
+@2142
+The flagship's done for.\nWe lost!
+
+@2143
+Looks like the flagship is gone.\nWe've lost!
+
+@2144
+The flagship's down...\nWe lost!
+
+@2145
+The flagship has fallen.\nWe have lost, sir!
+
+@2146
+I'll show you the power of sake!
+
+@2147
+A battle!
+
+@2148
+A battle, then.
+
+@2149
+A battle! I'll do my best!
+
+@2150
+A battle? My time to shine!
+
+@2151
+My turn!!
+
+@2152
+A battle, eh?
+
+@2153
+It's my turn!
+
+@2154
+A battle, I see.
+
+@2155
+Count on me!
+
+@2156
+Leave it to me.
+
+@2157
+I'll do my best!
+
+@2158
+How exciting!
+
+@2159
+My turn! I'll show them!
+
+@2160
+I'm all fired up!
+
+@2161
+A battle like this is easy!
+
+@2162
+Shall we get to it?
+
+@2163
+Wha! What's going on!?
+
+@2164
+What's happening!?
+
+@2165
+Whoa!!!
+
+@2166
+Eek!!!
+
+@2167
+Whoa! What the heck!!
+
+@2168
+What? What's going on!?
+
+@2169
+What, what, what!?
+
+@2170
+W-what is happening here...?
+
+@2171
+Ngh, I'm hurt!
+
+@2172
+Ugh... I'm wounded...
+
+@2173
+Ow, I'm bleeding...
+
+@2174
+Ow ow...
+
+@2175
+Damn, that hurt...
+
+@2176
+Ugh, I'm wounded...
+
+@2177
+Waah, I'm bleeding!
+
+@2178
+...I've been wounded.
+
+@2179
+%s's flagship\nwas lost.\nWe have lost!
+
+@2180
+%s's flagship\nwas sunk!\nWe have lost!
+
+@2181
+%s's flagship\nwent down.\nWe lost!
+
+@2182
+%s's flagship\nwent down.\nWe lost, didn't we!
+
+@2183
+%s's flagship\nis done for.\nWe lost!
+
+@2184
+%s's flagship\nseems to be gone.\nWe've lost!
+
+@2185
+%s's flagship\nwent down.\nWe lost!
+
+@2186
+%s's flagship\nhas fallen.\nWe have lost, sir!
+
+@2187
+Defeated\n%s!
+
+@2188
+%s defeated!
+
+@2189
+%s defeated!
+
+@2190
+%s defeated!
+
+@2191
+We defeated\n%s!
+
+@2192
+There's no help for it.\n...Raise the white flag.
+
+@2193
+...Hm??
+
+@2194
+Hm?
+
+@2195
+Aaah!
+
+@2196
+...?
+
+@2197
+Hey!\nNo slacking off!
+
+@2198
+What about your work?\nNo time to be playing around.
+
+@2199
+Hey!\nWhat are you doing!
+
+@2200
+Oh my. You seem awfully idle.\nMust be nice.
+
+@2201
+What, a declaration of war!?\nVery well, we'll take you on!
+
+@2202
+Hm... a declaration of war...\nAll fleets, prepare to repel them!
+
+@2203
+A declaration of war!?\nFine, we won't lose either!
+
+@2204
+A declaration of war!?\nThen we'll send you\nrunning!
+
+@2205
+What!\nThey declared war on us!?\nHa, think you can beat me?
+
+@2206
+What!\nDeclaring war on me takes guts.\nYou'll be fish food!
+
+@2207
+Wha, wha!?\nStop it!\nDid I do something wrong?
+
+@2208
+Hmm, a declaration of war!?\nYou'll regret that rash decision!
+
+@2209
+Oh, oh no...!\nWill we make it\nback alive...?
+
+@2210
+What is this...! It's beyond measure!
+
+@2211
+Whoa...!\nI've never seen anything like that!
+
+@2212
+W-wow...!\nSomething like that is out in the sea...?
+
+@2213
+Wow...!\nWhat a monster!
+
+@2214
+Ooh!!\nCan we beat something like that?
+
+@2215
+Waaah!\nI'm scared!!
+
+@2216
+Oh...!\nTruly the mystery of the sea...!
+
+@2217
+The expedition party is back.\nThere seems to be nothing around here!
+
+@2218
+The expedition party is back.\nLooks like nothing worth taking.
+
+@2219
+The expedition party is back,\nbut there seems to be nothing around.
+
+@2220
+The expedition party is back.\nThey say there's nothing around here.
+
+@2221
+The expedition party is back.\nThere seems to be nothing around here.
+
+@2222
+Admiral!\nThe expedition party found something!
+
+@2223
+A great discovery!\nThe expedition party found something.
+
+@2224
+Amazing!\nThe expedition party found this!
+
+@2225
+Admiral, a great discovery!\nThe expedition party found this!
+
+@2226
+Admiral, a great discovery!\nThe expedition party found this!
+
+@2227
+Wow, what a find!\nAdmiral, the expedition party found this!
+
+@2228
+Splendid!\nThe expedition party has\ndiscovered this!
+
+@2229
+The expedition party found\n%s barrels of water and\n%s barrels of food
+
+@2230
+The expedition party found\n%s barrels of water and\n%s barrels of food
+
+@2231
+The expedition party found\n%s barrels of water and\n%s barrels of food!
+
+@2232
+The expedition party found\n%s barrels of water and\n%s barrels of food
+
+@2233
+The expedition party found\n%s barrels of water and\n%s barrels of food
+
+@2234
+Friendly natives will welcome us.\nAdmiral, let's go see them!
+
+@2235
+Kind natives say they'll welcome us.\nCome on, let's go!
+
+@2236
+Friendly natives will welcome us.\nAdmiral, let's go!
+
+@2237
+Friendly natives will welcome us.\nAdmiral, shall we go right away?
+
+@2238
+Kind natives say to come visit.\nAdmiral, let's go now!
+
+@2239
+The natives shared their food and water.
+
+@2240
+The natives shared their food and water.
+
+@2241
+The natives shared their food and water.
+
+@2242
+The natives shared their food and water.
+
+@2243
+Terrible news!\nThe expedition party was attacked by natives!
+
+@2244
+The expedition party was attacked by natives!
+
+@2245
+Oh no!\nThe expedition party was attacked by natives!
+
+@2246
+Admiral, bad news!\nThe expedition party was attacked by natives!
+
+@2247
+The expedition party was attacked by natives!\nWhat awful people!
+
+@2248
+The expedition party was attacked by natives!\nAt least they weren't eaten!
+
+@2249
+The expedition party was attacked by natives, sir!

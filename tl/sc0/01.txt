@@ -1,0 +1,935 @@
+@037.001C
+Admiral {FI}...\nWhat do we do?
+
+@037.003A
+Julio, I heard the Algiers pirates\nare on bad terms with Spain...
+
+@037.0086
+They hunt Spanish ships above all.\nSooner or later they'll clash with Admiral\nValdes, commander of the Royal Navy.\nThat much is certain, I'd say.
+
+@037.0106
+And I heard Spain's pressure has made it\nhard for Portuguese fleets to do\nbusiness lately...
+
+@037.015E
+Since we share an enemy, couldn't we\nwork something out with them?\nYou know, the enemy of my enemy...
+
+@037.01C4
+Gaah! Honestly, you and your\nwishful thinking!\nThey're pirates, you know!
+
+@037.021C
+Oh dear. This is bad...
+
+@037.024E
+You lot!\nWhat do you think you're doing\nin the southern Mediterranean?!
+
+@037.0288
+Gah! They spotted us!
+
+@037.02B8
+Now, how do we get out of this?
+
+@037.02E2
+They say he's a man who values pride.\nAct timid and you may only become prey.\nBest we stand tall and look\nconfident.
+
+@037.0364
+Look confident...?\n...All right.\nAhem.
+
+@037.038E
+We are...! A Portuguese fleet sailing the\nworld under the banner of "Down with\nSpain, Portugal reborn"...
+
+@037.03E8
+The {FO}!
+
+@037.03F6
+And I am Admiral\n{FU}!
+
+@037.0414
+Oh! Very impressive.
+
+@037.0434
+Hurrah, hurrah! (clap clap clap)
+
+@037.0460
+Are you stupid?! You fools!\nKill them all!!
+
+@037.0492
+Ah, that didn't work...\nWe're done for...
+
+@037.04B6
+Wait, Salido.
+
+@037.04D0
+You said "down with Spain,"\ndid you not?
+
+@037.04FE
+Y-yes, we did.
+
+@037.0510
+Hahaha, how amusing!\nYou would make an enemy of the\nInvincible Armada? Hahahaha!
+
+@037.0556
+W-what's so funny?!
+
+@037.0574
+...You'd do well to watch your mouth.
+
+@037.05B2
+Clau! Leave this to {FI}.\nThis is where our Leader shows what\nhe can do. Do your best!
+
+@037.0606
+Grr... Tch. Fine.\n{FI}, do your best.
+
+@037.062E
+All right, it's all or nothing.\n...Here goes.
+
+@037.0658
+Hey, where did all that spirit go?\nIf you plan to beat the Armada,\nyou ought to have the nerve to stand\nup to us!
+
+@037.06D2
+T-that's right!
+
+@037.06EA
+Oh? Bold words.\nBut right now they could cost you your life.
+
+@037.0724
+Yes! But now is not the time!!
+
+@037.074C
+What?
+
+@037.075C
+Hahaha.\nThen when is the time?
+
+@037.0786
+So... we'll gain experience and train!\nAnd become strong enough to stand\nequal to you!
+
+@037.07E4
+Hahaha!\nWhat kind of fool would watch quietly\nwhile someone else rises to power?
+
+@037.0840
+The Algiers pirates are more timid than\nthe rumors say, aren't they? Afraid you\nwon't win once we grow strong?
+
+@037.0896
+What did you say?!
+
+@037.08AA
+Then allow us to pass through here\nfreely! One day we'll defeat Spain's\nInvincible Armada!
+
+@037.090C
+You little...!\nYou're getting way too full of yourself!!
+
+@037.093A
+You...\nDid you say your name was\n{FI}?
+
+@037.0960
+Hahahaha, how amusing!\nHow very amusing, boy!
+
+@037.0990
+Admiral!!
+
+@037.09A0
+Very well. Go explore, go trade, and\ngain the strength to live up to those\nwords. When you do, I'll give you a\nbout.
+
+@037.0A10
+Admiral Hayreddin!
+
+@037.0A2A
+Are you telling me to take a little\nchick like this seriously?
+
+@037.0A64
+Huh?\nUm, no...
+
+@037.0A7A
+Never mind.\nA game like this is fun once in a while.
+
+@037.0AA8
+...Yes, sir.\nUnderstood.
+
+@037.0AC2
+All right. You may sail the Mediterranean.\nBut do your trading in other seas.
+
+@037.0B1A
+W-what?
+
+@037.0B2E
+Do you think you can handle angering\nboth Spain's Valdes and the Ottomans?\nThey aren't as soft as I am.
+
+@037.0BB6
+If you want to rule the Mediterranean,\nmake a name for yourself outside first.\nI don't want pointless trouble.
+
+@037.0C0E
+Let me see... And one more thing...
+
+@037.0C2A
+W-what is it?
+
+@037.0C3C
+If Spanish ships attack you, I'll lend\nyou my fleet's help, but only in\nthese waters of ours.
+
+@037.0C86
+Really?!
+
+@037.0CA2
+I can't promise it every time.\nI'm a busy man, after all.
+
+@037.0CE2
+Th-thank you so much!!
+
+@037.0CFE
+Of course, if you touch the Hayreddin\nClan's territory, I'll take it as a\nchallenge to me. I'll show no mercy.
+
+@037.0D6A
+O-of course!
+
+@037.0D82
+Hmph. Perhaps you...
+
+@037.0DA0
+No, never mind... Listen.\nGrow strong enough to entertain me.\nAnd keep your promise.
+
+@037.0DFE
+...Understood. I promise.
+
+@037.0E1C
+Good.\nMen, we're pulling out!
+
+@037.0E48
+Aye!
+
+@037.0E68
+That bluff worked pretty well!\nNot bad, {FI}!
+
+@037.0EB4
+You got quite a promise out of them.
+
+@037.0EDC
+Phew...\nI surprised myself.\nNow I'm starting to get scared.
+
+@037.0F14
+Heh, guys like you are probably the\n"clutch performer" type.
+
+@037.0F5C
+Splendid.
+
+@037.0F72
+Thanks, everyone.\nBut after saying all that, I'd better\nwork hard and get stronger.
+
+@038.000C
+Admiral! It's a Spanish fleet!
+
+@038.0036
+You Portuguese brats!\nIs it true you've allied with pirates to\ndefy the Kingdom of Spain?!
+
+@038.0092
+?!\nWhere did you hear that?
+
+@038.00AE
+Well? Depending on your answer, hundreds\nof cannons will open fire on your\npathetic fleet all at once!
+
+@038.011C
+Ugh...\nThis isn't a mood where we can\nbluff our way out.
+
+@038.015E
+This is bad.\nWith our strength right now,\nwe may not be able to win...
+
+@038.0198
+Bah!\nCome at us from anywhere you like!
+
+@038.01D4
+Hmm.\nOur strength isn't up to it...
+
+@038.0204
+Admiral!\nWe've spotted a new fleet!
+
+@038.022E
+Is this the end?!
+
+@038.0254
+Whoa?!
+
+@038.026A
+Whoa?!
+
+@038.0282
+Pedro. Did you think I, the great\nBarbarossa, would need a child's help to\ndeal with the likes of you?
+
+@038.02E8
+Hayreddin!!
+
+@038.0300
+Gah!\nYou... Barbarossa!!
+
+@038.0326
+If you have that much time on your hands,\nI'll be your playmate.
+
+@038.0364
+...Are the Algiers pirates saying they'll\nmake an enemy of the Spanish Navy?
+
+@038.03A0
+What does it matter who it is?\nAny fool of a ship passing through these\nwaters is just prey for our hunt.
+
+@038.0418
+...Tch!
+
+@038.0428
+Out of my way. Go.
+
+@038.043E
+Thank you very much!!\nAll right, everyone! Full speed!\nWe're leaving these waters!
+
+@038.0490
+Now then... shall we?
+
+@038.04A4
+Grr... Barbarossa!\nI'll back off this time, but you'll regret\nmaking an enemy of us, I promise you!
+
+@039.001A
+Admiral, that ship over there,\na Dutch merchantman maybe...\nIt seems to be signaling something.
+
+@039.0064
+Hmm, what could it be?\nCan you read it?
+
+@039.0088
+Yes, sir!\nDecoding the signal!
+
+@039.00AC
+Admiral {FI}.\nThat ship over there, a Dutch merchantman?\nIt seems to be signaling something.
+
+@039.00FC
+Hmm.\nJenas, can you tell what it says?
+
+@039.011C
+Well, let me see...\nLet's try decoding the signal.
+
+@039.0162
+A fight?!\nWoo, I'm itching for it!
+
+@039.01A2
+Barbarian...
+
+@039.01B2
+Hm? Did you say something?
+
+@039.01CE
+Oh, you heard that?
+
+@039.01EE
+Clau!\nWe're not on a trip to pick fights\nwith the whole world!
+
+@039.022E
+Yeah, yeah, Admiral {FI}.\nI get it.
+
+@039.0256
+So, what does it say?
+
+@039.0278
+"Make port at Amsterdam."\nThat's what it says, sir!
+
+@039.02AC
+A signal, I see. Yes, yes...\nIt seems to say "Make port at\nAmsterdam." What shall we do?
+
+@039.0312
+Hmm.\nWhat do you think?
+
+@039.033C
+Shall we put in at Amsterdam for now?
+
+@039.0374
+It's suspicious, but an ambush at sea\nwould be no fun either.\nI think we should simply comply.
+
+@039.03D2
+(Wow, so Arcadius has that kind of\n strategic eye too.)
+
+@039.0418
+But they can't have a big fleet, right?\nWho cares. Let's just bust through!
+
+@039.046C
+I'll count on you when it comes to that,\nClau. But...
+
+@039.049C
+Let's be careful here.\nWe should make port once.
+
+@040.000A
+Oh? You've grown stronger.
+
+@040.002C
+!!\nH-Hayreddin...!
+
+@040.004E
+More than I expected.\nSo you're finally setting out to\nconquer the Mediterranean...
+
+@040.0094
+...Yes.\nI don't know how it will turn out yet,\nbut that's my intention.
+
+@040.00D2
+...\nThe Ottoman Pasha's army is mighty.\nYou know that, don't you?
+
+@040.0110
+...Of course.
+
+@040.0122
+I see...\nThen stop by the docks in Algiers.
+
+@040.0156
+Huh?
+
+@040.0162
+I'll show no mercy when we meet\nnext on the field of battle.
+
+@040.0186
+B-bring it on!
+
+@040.01A2
+Hahaha!\nThat's quite a face you have now!
+
+@041.0044
+Say, Hans, shouldn't we be turning up\na lead on that "Mark" in Africa\nby now?
+
+@041.00B0
+There's no use rushing.
+
+@041.00D4
+But... how should we search for\na lead on it?
+
+@041.0112
+Above all, you must gain the "power"\nworthy of a "Victor." Without it,\nthe "Mark" will never turn its face\nto you.
+
+@041.018E
+Power? You mean having a huge fleet?
+
+@041.01C0
+Or does it mean becoming a full-fledged\nseafarer?
+
+@041.020E
+Or perhaps "wealth" is what it means.
+
+@041.0256
+Hmm... Having a vast trade network,\nperhaps?
+
+@041.0290
+Everyone reads it differently.\nIt may well be all of those.
+
+@041.02EA
+Wow...!\nThat sounds like a dizzying task.
+
+@041.0316
+But power alone is not enough.
+
+@041.033E
+What?! There's more?
+
+@041.0366
+This is only my own theory, mind you...
+
+@041.0394
+The riddle of the "Mark" is very likely\nsealed away in ruins around the world.
+
+@041.03D4
+Ruins...?
+
+@041.03EA
+That's right.
+
+@041.03FA
+Where are these ruins?
+
+@041.0420
+In or near the great cities that\nrepresent each cultural sphere,\nI suspect.
+
+@041.0464
+That's still not enough to go on.\nWe can't search with just that.
+
+@041.0490
+The people who live there should\nknow about them. First, you must win\nthe trust of the townsfolk.
+
+@041.04F8
+Their trust...?
+
+@041.050A
+Ruins and old churches are symbols of\ntheir religion and culture. Outsiders like\nus won't be told so easily.
+
+@041.056C
+Listen to the townsfolk's requests, help\nthem if they're in trouble, and punish\nthe crooked merchants and soldiers\nwho torment them...
+
+@041.05E2
+Huh...\nSounds like charity work.
+
+@041.0602
+Either way, to be worthy of a Victor\nyou need the caliber to win the trust\nof many people.
+
+@041.0664
+Phew...\nBecoming a true Victor is a\ntall order.
+
+@041.069E
+Hohoho, of course it is.\nNo one has ever accomplished it.
+
+@042.0008
+Once you hire people, you need supplies.\nWater and food, that is.\nYou can get them at the Harbor. Let's go.
+
+@042.0068
+The lad at the Harbor handles resupply\nfor you, so it's nice and easy.
+
+@042.00AC
+If you're short on gold, he'll resupply\nas much as your gold allows.
+
+@042.00E8
+If you decline resupply, you can change\nthe water and food ratio, but you won't\nhave much occasion to use that.
+
+@042.0148
+Without enough supplies, the sailors\ncan't do their best. Even a fine ship\nis wasted. Keep an eye on how much\nis left.
+
+@042.01BE
+Ready?
+
+@042.01D4
+We're finally setting sail!\nBy the way, what do we do after we\nleave port?
+
+@042.020E
+What, you got all fired up and didn't\nthink about anything?
+
+@042.024A
+Ha, I never expected Clau to say that.
+
+@042.027E
+What?! Make it sound like I never\nthink about anything!
+
+@042.02CA
+Oh, my apologies. I'm surprised Clau\nhad any thoughts at all. Then by all\nmeans, let's hear this brilliant idea.
+
+@042.0336
+Huh? Uh, well...\nHmm...\nI've got it!!
+
+@042.0360
+How about taking down pirates?!\nI'll leap onto their ships and knock those\nruffians flat, one after another!
+
+@042.03C8
+...Oh dear.
+
+@042.03E0
+...Let's think this through properly.\nWith our strength right now, we'd need\nnine lives.
+
+@042.0436
+Indeed.\nFirst, it'd be wise to tour the ports\nof the Mediterranean, the North Sea,\nand so on.
+
+@042.0486
+Visit enough ports and knowledge of\nboth sailing and trade will come to you\nnaturally.
+
+@042.04D8
+Right!\nAnd we should recruit more companions!
+
+@042.050A
+Yes. If we're to keep sailing, the\ncurrent crew alone is a bit worrying.
+
+@042.0552
+Old man!\nWhy are you looking at me when you say that?!
+
+@042.057C
+Now, now.\nIt really is better to have more people.
+
+@042.05AC
+{FI}, a lad like you is sure to\nbe blessed with good companions.
+
+@042.05F2
+Julio...
+
+@042.0606
+We'll also need more funds.\nTo add ships and keep them running...
+
+@042.0650
+Oh, if you keep trading in different\nports, it'll pile up on its own.
+
+@042.069C
+But if you slack off on trading, your funds\nwill only dwindle. It's my money to begin\nwith, remember. Be careful.
+
+@042.06F2
+Thank you, Julio.\nI'll earn it properly and pay you back...
+
+@042.0736
+Hohoho, I'm joking.\nDon't worry about it.\nNow, shall we get going?
+
+@043.000E
+Following so far?\nNext I'll teach you about the mates,\nthat is, about us.
+
+@043.0070
+One of the Admiral's important jobs\nis "Personnel."
+
+@043.00AA
+To make the voyage comfortable, you\nassign each mate to a post. You do it\nwhile looking at the actual deck.
+
+@043.010E
+First, the Captain is {FI}.\nWithout a captain the ship won't move.\nIt can't just wander off on its own, after\nall.
+
+@043.016C
+Next, the Sailhands.\nThey adjust the sails' angle to the wind.\nYou need as many sailhands as\nthere are masts.
+
+@043.01D0
+Then there's the Helmsman.\nThey matter when you want the ship\nto turn quickly.
+
+@043.021A
+Even in naval battles, a good helmsman\ncan bring the ship swiftly into a\nfavorable position.
+
+@043.0284
+Next, the First Mate. The ship runs without\none, but with one you can negotiate with\nother powers and the crew tires less on\nvoyages. The unsung hero, you might say.
+
+@043.030E
+With a Surveyor you can use "Auto Move"\nand see the fleet's latitude and longitude.\nQuite an important job.
+
+@043.0376
+The Lookout's job is to report on other\nships' affiliations and the state of\nports while at sea.
+
+@043.03C0
+If you just want to sail normally, this\nshould do for the most part.\nExperiment with the rest as you like.
+
+@043.041E
+Press the X Button and choose\n"Deck Screen" from the menu.\nOn the Deck Screen you can change\nmates' assignments.
+
+@044.0028
+Never mind, never mind. You'll see when\nwe get there.
+
+@044.0054
+By the way, {FI}.\nWhat do you think of seafaring men?
+
+@044.0084
+Hmm. What do I think...?
+
+@044.00AC
+What do you mean? Prince Henry,\nDuke Leon... Man, so cool!
+
+@044.00FA
+The sea is a man's romance, after all!
+
+@044.0120
+Here we go again.
+
+@044.013A
+Anyway, how are you supposed to go to\nsea without even a ship?
+
+@044.0174
+You've got no romance in you.\nI'm telling you a man's dream here.
+
+@044.01AE
+Okay, we're here.
+
+@044.01CA
+Ah, you're here...
+
+@044.01E6
+!!
+
+@044.01F6
+\n\nA ship...
+
+@044.0208
+Well? Surprised, right?\nIt's even got a name. And that name is,\nthe Carteira!!
+
+@044.0268
+We took a worthless junker of a wreck and\nJenas and I repaired it.
+
+@044.02AC
+Well, we can't set out right away,\nthough... But once we save some money,\nsomeday.
+
+@044.02FA
+\n\nLet's go...
+
+@044.030E
+Huh?
+
+@044.031C
+Huh?
+
+@044.0328
+You said so yourself, Clau!\nThat we should go to sea!\nWe can work out the money by asking\nold Julio!
+
+@044.038E
+I'm going to see\nold Julio right now!!
+
+@044.03C6
+Hey! {FI}!
+
+@044.03DA
+Jenas, Clau, keep working on the repairs!\nI'm counting on you!!
+
+@044.0416
+Hey! Wait up!\n{FI}!!
+
+@044.043C
+Well, well.\nHe ended up the most eager of us all.
+
+@044.0474
+Ha. Clau's habit has rubbed off on him.\nThinking of something and not being able\nto sit still.
+
+@044.04C4
+He's always been like that.\nHe just doesn't look it normally.\nMore importantly, how are the repairs?
+
+@044.051E
+Mostly done.\nIn the end, I did most of it...
+
+@044.0556
+Don't sweat the small stuff!\nYou enjoyed every minute of it.
+
+@044.059E
+Ha, true enough.\nWell, shall we go too?\nTo see Julio.
+
+@044.05F0
+Yeah.\nHe needs me looking after him,\n{FI} does.
+
+@044.062A
+Yes, yes. I know.\nLet's go, let's go.
+
+@044.0674
+What?! You want an advance again?!\nClaudio, you rascal! Outrageous!\nWhat do you plan to spend it on?!
+
+@044.06DA
+...\nDon't just yell at me out of nowhere,\nyou old geezer!
+
+@044.0708
+I'm sorry. For asking the impossible.
+
+@044.0726
+Oh, are you the {FA}\nfamily's boy?
+
+@044.074A
+Sorry for being so rude.
+
+@044.076A
+I told you, this time is different!\nI said I'd be serious, didn't I?\nDon't be stingy, just lend us\nthe money.
+
+@044.07DA
+I've never once seen you work properly.\nExpecting me to trust you after that is\nfar too naive.
+
+@044.083A
+Hmm.\nIt all comes down to your everyday\nbehavior...
+
+@044.0864
+Grr...
+
+@044.0872
+Please, Julio! It was my idea!!\n...Is it really out of the question?
+
+@044.08D4
+Hmm. It's a lot of money.\nEven asked by young {FI}...\nWhat does your father say?
+
+@044.0930
+This time I really don't want to rely\non Father. I'll pay it back for sure!\nPlease, I'm begging you!!
+
+@044.0988
+Hm, hm, admirable.\nStanding on your own two feet, are you?\n...But still. Hmm.\nI understand your resolve, but...
+
+@044.09E0
+...Fine, fine, we won't ask again.\nCome on, let's go.\n{FI}, Jenas.
+
+@044.0A22
+Yes, yes.\nI get it, so stop pulling me.
+
+@044.0A52
+...Sorry for the trouble.\nExcuse us.
+
+@044.0A82
+...
+
+@044.0A92
+Sigh...\nI said it, but what do we do now?
+
+@044.0AC2
+{FI}, why don't you ask\nyour father?
+
+@044.0AF2
+...Father will treat me like a child\nforever. He's sure to be against me\ngoing to sea.
+
+@044.0B4E
+If I don't do something here and now,\nnothing will ever change!
+
+@044.0B86
+Hmm, {FI}!\nAwesome! That's the spirit!\nA man's got to be like that,\nright?!
+
+@044.0BDC
+That's all well and good, but without\nmoney to start with, spirit alone...
+
+@044.0C24
+...Don't say it.\nSigh...\nMaybe we just have to work our way up.
+
+@044.0C70
+Hey there!
+
+@044.0C84
+Oh, it's Julio.\nWhat's this about?
+
+@044.0CA6
+Still here, good, good.
+
+@044.0CCC
+What is it?
+
+@044.0CE0
+I've been thinking it over...
+
+@044.0D04
+Ugh, this is annoying.\nSpit it out already, old man.
+
+@044.0D36
+All right.\n...Hm.\n{FI}, take this.
+
+@044.0D5C
+!!\nThis is...!!
+
+@044.0D76
+Received 30,000 gold coins!
+
+@044.0DA0
+Now that I've handed it over, you\nmust pay it back with interest.
+
+@044.0DE8
+Y-yes, sir!\nI'll do my best!
+
+@044.0E0A
+But I worry where my savings will end up.\nSo I've decided I'll keep an\neye on it myself.
+
+@044.0E5C
+??
+
+@044.0E68
+Don't you get it?\nI'm saying I'm coming aboard too.
+
+@044.0E9C
+Really?!
+
+@044.0EB2
+Oh my, this is reassuring, to have a\nveteran mate come aboard.
+
+@044.0EFA
+"Veteran" embarrasses me.\n...I'm a bit rusty, too.
+
+@044.0F36
+Hmm.\nIs he really any use?\nThis old man.
+
+@044.0F6A
+Stop being so rude...\nJulio is famous as a mate, you know.
+
+@044.0FC2
+So there it is.\n{FI}, you\nare the captain.
+
+@044.0FF0
+Me?!\nBut the ship is Jenas's and Clau's...
+
+@044.1022
+I'm lending this money to the Leader of\nthe {FO}, {FI} {FA}, because I trust\nyou. You're the one responsible.
+
+@044.107C
+What, the {FO}?!\nL-Leader? Me?
+
+@044.10A6
+You're about to make your name in seas\nwhere the world's famous seafarers are\nactive, aren't you? You'll need at least\nthat much resolve.
+
+@044.1124
+In short,\n{FI} {FA} is\nthis ship's captain, the fleet's admiral,\n\nand the Leader of the {FO}.
+
+@044.117A
+Or what? If you'd rather make Claudio the\nLeader, then if anything goes wrong,\nhe'll be working for me for free for the\nrest of his life...
+
+@044.11F0
+Is that what you want?
+
+@044.120E
+T-that's no good!\nNo, no, the Leader has to be\n{FI}.\nRight, Jenas?
+
+@044.125A
+Yes.\nI'm not cut out to be a Leader either.
+
+@044.1286
+B-but...
+
+@044.1298
+Oh, don't worry.\nJust do your best, that's all.
+
+@044.12C8
+...Understood!\nI'll give it a try!
+
+@044.12EE
+Good, that settles it.\nUse that gold as your first working\ncapital.
+
+@044.1334
+Thank you very much!\nI'll use it carefully!
+
+@044.1362
+Thank you for everything.\nWe're very grateful.
+
+@044.138A
+Hey! Old man!\nYou're not so bad after all!
+
+@044.13BE
+What are you babbling about?\nA brat acting all high and mighty.
+
+@044.13E4
+What, you damn geezer!\nI was praising you!
+
+@044.141A
+...You need a good beating before\nyou'll understand how great I am.
+
+@044.1460
+Huh? Wanna go?
+
+@044.1478
+Heh heh heh.\nI won't lose to the likes of you yet!
+
+@044.14AE
+Stop it, both of you!
+
+@044.14D2
+Nope.\nThis one needs a good fist to the head\nat least once or I won't be satisfied.
+
+@044.1512
+Oho? Want your fingers broken that\nbadly?
+
+@044.1544
+Honestly...!\nCaptain's orders! Stop fighting!
+
+@044.1572
+Aye, if the captain says so!
+
+@044.159A
+If the captain says so!
+
+@044.15BA
+Hey, you copied me, old man!
+
+@044.15E2
+Hmph. As if I'd copy you.
+
+@044.1608
+...Oh dear.
+
+@044.162A
+Now, leave the fools be. Since it's settled,\n"preparation is eight-tenths of the job."\nLet's gather what a voyage needs.
+
+@044.1690
+It'll be a lot of work, but\nkeep up with me.
+
+@044.16C6
+Yes! Please teach me!
+
+@044.16E6
+Tch, that old man acts like {FI}'s\nteacher just because he knows\na little about ships.
+
+@044.1740
+Yes, yes.\nThat's enough lip from you.\nLet's go.
+
+@044.1792
+Now then, let's begin preparing\nfor the voyage.
+
+@044.17C0
+Would you like Julio to teach you how to\nprepare? Or will you prepare for\ndeparture on your own?
+
+@044.1816.0
+Teach me
+
+@044.1816.1
+I can do it
+
+@044.183E
+Good.\nThen let's get to work.\nFirst, shall we go to the Market?
+
+@044.1882
+Before sailing, in any port you ought to\nvisit the Market, the Tavern, and the\nPlaza at least.
+
+@044.18DA
+Oh! How reassuring.\nNow, do your best.

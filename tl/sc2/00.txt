@@ -1,0 +1,932 @@
+@002.0010
+I gave you fair warning...\nFools.
+
+@002.0056
+Now I send you to your graves!
+
+@002.0090
+Now I send you to your graves!\nBefore you provoke the wrath of a man\nfar more terrifying than me!
+
+@002.00F0
+Now I send you to your graves!
+
+@002.0132
+Hayreddin Barbarossa...\nAn opponent worthy of me!
+
+@002.0186
+Let's do this, then.\nMy arms are itching...
+
+@002.01C8
+We won't lose, Hayreddin!
+
+@003.01F2
+A woman pirate?!
+
+@003.020C
+Heh, interesting.\nLet's do it!
+
+@003.023A
+Everyone! Battle stations!
+
+@005.0008
+Ah!\nYou're the ship thief, Ulysse!
+
+@005.0030
+Such a cheap nickname. How insulting.\nI'll have you know I come from\na first-rate noble family.
+
+@005.0098
+Nickname? I'm about to arrest you,\nand you're worried about\nsmall details?!
+
+@006.0008
+So you're Plett Perrault.\nMurder... I can't forgive a villain\nlike you!
+
+@006.00BE
+What's with that attitude?!\nDon't mess with me!\nI'll make you pay for it!\nI won't hold back!
+
+@007.0008
+You're Jacob Portunt, right?\nMaking money with such petty tricks\nis a disgrace to merchants everywhere.
+
+@008.0008
+Hey, are you Gabriel?\nYour private trading is causing\ntrouble for people. Knock it off.
+
+@008.0062
+Private? Agreements exist to be broken.\nSave your breath.
+
+@008.00AE
+That's my line!\nYou're hopeless, I won't even try\nto talk you out of it.\nI'll stop you by force!
+
+@008.010E
+Bring it on!
+
+@009.0008
+You're Zaganos Bey, right?\nYou do look strong,\nbut I can beat you now!
+
+@010.0008
+Hahaha! Learned your lesson, girl?\nYou should listen when people\ngive you advice!
+
+@010.0056
+I'll let you off with this much today.\nBut take it to heart and never show\nyour face in the southern Mediterranean again.
+
+@010.00B0
+If you want to take me on in earnest,\nmake a name for yourself in Africa\nor Asia first!
+
+@010.0116
+So frustrating...
+
+@010.013C
+It can't be helped.\nThey're incredibly strong.
+
+@010.016E
+We should be glad that\neveryone is safe.
+
+@011.000C
+We won!
+
+@011.0034
+I'm amazed, {FI}.\nI never thought you'd learn to command\nin naval battle this well.
+
+@011.0074
+Heh, it's called skill!
+
+@011.0272
+Hey, wait a minute.\nWhy are you suddenly reciting poetry?\nWhat's gotten into you?
+
+@011.02C4
+Honestly, {FI}...\nYou have no romance in you at all.\nI was moved. It was wonderful.
+
+@011.0318
+Hmph. Fine, I'll never understand\nthe value of poetry. Sorry!
+
+@012.0148
+Hm? It's kind of noisy over there.
+
+@012.0168
+Sounds like trouble on that\nwoman pirate's ship.
+
+@012.019C
+What's going on? Let's go take a look.
+
+@012.0396
+At this rate\nthat woman pirate will be killed!\nWhat do we do...
+
+@012.03D2
+Leave it to me...
+
+@012.03EA
+Al...?
+
+@012.04E6
+You guys are out of luck.\nI'll be your opponent!
+
+@012.05D4
+What happened to all that energy\nyou had a minute ago?!
+
+@012.0636
+That's right. Haven't you had enough?
+
+@012.065C
+I'm sick of this woman.\nBut it's none of your business.\nStay out of it.
+
+@012.06B6
+Sure, it's none of our business. But\nwe can't just let someone\nbe killed.
+
+@012.070A
+...Don't lay a hand on that woman.
+
+@012.0726
+...If Aziza matters that much to you,\nwe can settle this with gold.
+
+@012.0768
+How much?
+
+@012.0778
+{FI}!\nYou're going to pay these guys?!
+
+@012.07A4
+We can always earn more gold. Right?
+
+@012.07CC
+For me... you'd do that...
+
+@012.07EC
+Then let's say 2,000,000 gold.
+
+@012.0816
+1,000,000 gold.
+
+@012.0830
+Ugh, w-well, fine.\nIt's a deal for 1,000,000 gold.
+
+@012.0874
+All right.\nAziza, come over here.
+
+@012.08B6
+I'm done with you. Later!
+
+@012.08E0
+Betrayed by my own crew...\nI've fallen pretty low.\nBut why did you help me?
+
+@012.0944
+...I couldn't help it.
+
+@012.0960
+Well, it just happened, and you\nlet us go back at the Basra tavern,\nremember? I figured you weren't\nan ordinary pirate.
+
+@012.09DA
+Hey, why are you a pirate anyway?\nWith your skill, you could earn\nplenty at an honest job.
+
+@012.0A32
+...Ever since I was a kid I picked up\nswordplay by watching, and\nlearned the pirate trade.
+
+@012.0A8E
+...My father was a pirate.\nI never thought about any other work.\nThose pirates just now were his men.
+
+@012.0AF4
+Where's your father now?
+
+@012.0B12
+He died in an accident.\n...That sword was his treasure.\nIt vanished along with him...
+
+@012.0B90
+So that's the sword you meant when\nyou said "nice sword"...
+
+@012.0E26
+Then come with us!\nIt'd be a waste of such skill,\ndon't you think?
+
+@012.0EA4
+Of course! We welcome strong people.
+
+@012.0F3E
+All right!\nEveryone, you heard that, right?\nAziza, we're putting you\nto work!
+
+@013.0062
+Come back anytime!
+
+@013.0084
+Yes! I win!
+
+@013.0118
+I'll remember that!\nIf you're so upset, come and get me!
+
+@014.001C
+Dammit!\nNext time we meet, I'll\ndefinitely win!
+
+@014.0058
+Ha! I'll cut you down!
+
+@014.0082
+Hm, running away?!
+
+@014.00B2
+Just our luck!\nWe'd better retreat.
+
+@014.00E6
+Gaaah! So frustrating!\nShe's really strong, though!
+
+@015.0012
+There, caught you.\nNow, off to Batavia with you.
+
+@015.0046
+Ow ow ow!\nThis wasn't supposed to happen...
+
+@016.0012
+Now, off to Hangzhou.\nWell? Still acting tough?
+
+@017.003A
+Hey, you've been caught, you know?\nYou'll get a proper punishment\nin Calicut. Shouldn't you worry about\nyourself before your cargo?
+
+@018.0012
+D-damn...
+
+@018.0024
+There, caught you.\nI'm taking you to Havana, so you\ncan't talk back anymore!
+
+@018.0070
+Why all this over a mere\nagreement violation... Ow ow ow!
+
+@018.00B2
+Hm?\nHuh?! Y-you!
+
+@018.00D8
+?\nAh, you!!\nYou were in the Havana tavern!
+
+@018.010A
+Damn it!\nThis is the second time you've\ninterfered!
+
+@018.0148
+Honestly, you never learn.
+
+@019.0036
+Heh. Not so fast.\nWe're going back to Genoa, and\nyou'll apologize to everyone properly!
+
+@020.0012
+You there, fleet!! Can you hear me?\nYou are trespassing on my territory!
+
+@020.0066
+If you don't want to get hurt,\nget out of the southern Mediterranean!
+
+@020.00A6
+Ally or not, I won't allow you to\ntrespass in my territory!\nLeave the southern Mediterranean!
+
+@020.010C
+It's you!\nHayreddin Barbarossa!
+
+@020.0138
+Oh? So Gerhard, the pirate hunter,\nis here...
+
+@020.017A
+So that's the "Pirate King"...\nThat's an enormous fleet...
+
+@020.01B2
+That's an enormous fleet...
+
+@020.01EC
+{FI}, let's turn back\nfor now!
+
+@020.0216.0
+Prepare for Battle
+
+@020.0236
+Oh, you've got guts at least!?\nPrepare for fleet battle, target the\nmerchant fleet!! Open fire! Kill them all!!
+
+@020.02A6
+That's reckless,\nMs. {FI}!\nBut now we have no choice...
+
+@020.02EC
+A wise choice!\nIf you want to take me on,\nmake a name for yourself in Asia\nor Africa first!
+
+@020.036A
+We can't win if we fight now.\nIt's galling to do as he says,\nbut heading to Africa to earn\nis the smart move.
+
+@021.0012
+Admiral, a fleet is coming at us!\nThat's... the Escante fleet!
+
+@021.0052
+What, Escante...!
+
+@021.0084
+What?! They came for us themselves!
+
+@021.00B0
+Well, well.\nMiss {FA}.\nHow are you today?
+
+@021.00E4
+What do you want?! Why are you here?!
+
+@021.0106
+I came to welcome Miss {FA}, who\nhas traveled all the way to the\nNew World.
+
+@021.014A
+And while I'm at it, I thought I'd\nteach the sea's terrors to a sheltered\nyoung lady.
+
+@021.019E
+What do you mean by that?
+
+@021.01B4
+This is what I mean.\nAll ships, fire! Target the enemy flagship!
+
+@021.020E
+Firing without warning, some welcome!
+
+@021.0242
+Firing without warning, some welcome!
+
+@021.0274
+How do you like it? Don't worry about\nthe tuition fee, it's a service for ladies.\nFire more cannons at her.
+
+@021.02D8
+So it's a declaration of war.\nFine! I'll take you on!
+
+@022.0038
+Heh. I finally got it.\nThe trade permit! Just you watch!\nI'm going to make a fortune!
+
+@022.0096
+{FI}!\nWait! Wait for me!
+
+@022.00B6
+Come on! Kamil, hurry up!\nGet the ship ready and let's go!
+
+@022.00FA
+Huff, huff...\nWe don't have to leave today of all days...
+
+@022.0126
+I never thought the permit would be\nissued so soon, so I'm not even ready...
+
+@022.0174
+Stop grumbling. Anyway...
+
+@022.019C
+The permit is in my name, so\nI'm captain of this ship.\nRight?
+
+@022.01EE
+Huh? Oh, is that so?
+
+@022.020C
+Okay, everyone to your posts!\nWe're leaving right now!
+
+@022.0240
+Sailhand, Full Sail!\nWeigh anchor!
+
+@022.026A
+...How did someone like {FI}\nget a permit so easily?
+
+@022.02B2
+Isn't it obvious? My passion reached\nthe official's heart. Or maybe he was\ndazzled by my radiant beauty!
+
+@022.032C
+...Yeah, yeah.\nBut what are you going to do\nwith a permit anyway?
+
+@022.036A
+What are you saying?\nWith this I can make a Contract with\nany port! The whole world is our customer now!
+
+@022.03CA
+...The world, huh.\nWhy not keep doing business near\nAmsterdam like before?\nWhat's wrong with that?
+
+@022.0426
+Like before, I won't earn anything!\nIf we go overseas, striking it\nrich is no dream!
+
+@022.0484
+I wonder... Getting rich quick\nisn't that easy, I think.
+
+@022.04C6
+Don't be a sore loser, Kamil.
+
+@022.04E4
+Oh, Fernando's coming too?\nYou said "I'm not going with you\nlot!" so firmly before.
+
+@022.0542
+Well... a lot has happened.\nMore to the point, let's get going.
+
+@022.0582
+Hey, when are you going to feed me\nsomething tasty?\nI'm tired of waiting...
+
+@022.05DE
+Huh, Emilio too?
+
+@022.05FA
+Yeah, the kid's strong, so I figured\nhe'd be useful. I lured him\nwith food.
+
+@022.0648
+What a crew...\nWill we be okay out at sea?
+
+@022.0680
+Enough talk, let's go, let's go!\nCome on, Kamil.\nGet to work!
+
+@022.06CC
+Full Sail. Anchor's up!\nHurry up and give the order!
+
+@022.0700
+Honestly... Fine...\nPrepare the Arnhem for departure!\nEveryone to your posts!
+
+@022.0744
+Look at you, so cool!\nI'm counting on you.
+
+@022.0770
+Sigh... I'm worried about what's ahead.
+
+@022.0792
+Heh. Who's the one following along\nso eagerly while saying that?
+
+@022.07D2
+Well, I did promise "if we got\nthe permit"...
+
+@022.0810
+The Netherlands is a newborn country.\nThe government favors merchants\nto build up national strength.
+
+@022.0866
+Anyone can get a trade permit easily.
+
+@022.089C
+S-so that's how it is...
+
+@022.08B8
+And with that permit, you pay no\ntax on Market profits, apparently.
+
+@022.0904
+What, really?!
+
+@022.091A
+That's thanks to the trade promotion\npolicy. So it's also a tax-exemption\npermit, you could say.
+
+@022.096C
+Hmm, I see...\nNo wonder {FI} wanted it.
+
+@022.099A
+Give up. You've always been like that,\nright?
+
+@022.09EE
+You're fated to never win against\nthat woman.
+
+@022.0A1C
+B-but...
+
+@022.0A32
+Huh, where's {FI}, by the way?
+
+@022.0A5C
+So this is the town I grew up in...\nA lot happened here. But...
+
+@022.0A98
+{FI}!\nWhat's wrong?
+
+@022.0AB4
+Oh... Kamil.\n...Sorry, sorry!\nIt's nothing.
+
+@022.0AE8
+Really?\n...Well, if you say so.\nWe're ready on our end.
+
+@022.0B20
+Hurry up and give the order!
+
+@022.0B4E
+All right then...\nSet sail, Arnhem!\nNext stop, the neighboring port of Bruges!
+
+@023.000A
+Next is...
+
+@023.001C
+Huh, aren't we done already?
+
+@023.0044
+That was how to handle the ship.\nNext is how to assign the crew.
+
+@023.007E.0
+That's news to me...
+
+@023.007E.1
+No need, I already know
+
+@023.00BC
+Really?\nThen I guess I can leave it to you.
+
+@023.00F0
+Ugh... what a hassle.
+
+@023.0108
+Being an Admiral is hard work.\nOr would you like me to be Admiral?
+
+@023.0144
+No way.
+
+@023.0156
+...Then\nyou'd better study properly.
+
+@023.017A
+Okaaay...
+
+@023.018A
+What I'm about to explain is the\nassignment and duties of each post. To\nsail comfortably, we assign a mate to each.
+
+@023.01F6
+First, the Captain is you, of course,\n{FI}. Without a Captain the ship\ndoesn't run smoothly. Don't leave the\ncaptain's cabin except in an emergency.
+
+@023.026E
+Next, the Sailhand. He adjusts the\nsails to the wind. It's an important job.\nYou need one for each mast.
+
+@023.02D0
+If you set the sails to "Half Sail,"\nthe Sailhand handles them for you.
+
+@023.0312
+Oh, I see. So with "Half Sail" I don't\nhave to give orders? You should have\nsaid so sooner.
+
+@023.0366
+Sometimes the ship has to run at "Full Sail."\nSo practice now, so you don't panic\nwhen the time comes.
+
+@023.04BA
+And the Helmsman's job is turning\nthe ship. That's important too. If you\nwant faster turns, pick someone\nwith good ability.
+
+@023.0526
+Even in naval battle, a good Helmsman\ncan move the ship into a favorable\nposition quickly.
+
+@023.056E
+Also, with a Surveyor you can use\n"Auto Move" and see the fleet's latitude\nand longitude. That's a pretty\nimportant job too.
+
+@023.05F6
+Oh! Right!\nLeave the Lookout to me!
+
+@023.062C
+That's right.\nWith Fernando's "Insight," he'd be\nperfect as the Lookout.
+
+@023.0678
+Lookout? What's that?
+
+@023.0692
+Come on, give me a break.\nYou're heading out to sea and don't\neven know what a Lookout does?!
+
+@023.06DE
+Ugh, you're so noisy!\nI just forgot for a moment!
+
+@023.0714
+Now, now, you two...
+
+@023.0730
+A Lookout checks other ships'\naffiliations and the state of ports\nat sea, and reports back.
+
+@023.078E
+The higher the "Insight," the more\nports and rarities in a wider area\nthey can find!
+
+@023.07DC
+But in the end, you're the one who\ndecides everyone's assignments, {FI}.
+
+@023.0820
+For ordinary sailing, this is enough.\nUm, did I explain too much\nat once?
+
+@023.0874
+...Anyway, I'll give it a try.
+
+@023.0894
+Press the X Button and select\n"Deck Screen" from the menu.\nOn the Deck Screen you can change\nthe mates' assignments.
+
+@024.0012
+Now, let's keep this up and make a\nContract with all sorts of ports. Even 1%\neach lets us have our own\nsea routes.
+
+@024.0084
+Sea routes?
+
+@024.0092
+Yes. With a Surveyor, those routes\nbecome very useful.
+
+@024.00E4
+If we need a Surveyor, we're short on\nhands. We really should gather more\nmates with sailing experience.
+
+@024.0150
+If we're short on sailors,\ncan't we just recruit them at the Tavern?
+
+@024.0188
+Not sailors, the mates who command\nthem. To grow this fleet from now on,\nwe'll need companions with all kinds\nof talents.
+
+@024.020A
+How do we find them?
+
+@024.0224
+That depends on luck, I'm afraid.\nIf we search big cities, we might find some.
+
+@024.0276
+Big cities...
+
+@024.028A
+Yes. For now, let's go to the ports of\nthe Mediterranean. Genoa, Istanbul...\nthey say there are lots of sailors there.
+
+@024.02F8
+And if we make Contracts with the ports\non the way, that's killing two birds\nwith one stone.
+
+@024.0338
+As expected of {FI}.\nExactly!
+
+@025.001E
+Poor Mr. Speyer...
+
+@025.005E
+Getting crushed in a pointless fight...\nHe must have a lot of regrets.
+
+@025.00A4
+Hmph. He got what he deserved.\nThat's the punishment for trying to\ncrush our {FO}.
+
+@026.002C
+{FI}!\nThat ship's flag!
+
+@026.0048
+That "skull on a glass" flag...\nThat's the English Crown's pirate...\nClifford's ship...
+
+@026.00AE
+No doubt about it, it's the "Galahad"!
+
+@026.00EC
+"Galahad"? Is it tasty?
+
+@026.0112
+Idiot! It's not food!
+
+@026.014C
+Admiral, let's leave this port quickly!\nGet involved and nothing good\ncomes of it!
+
+@026.019A
+This is bad, {FI}!\nWe have to leave this port fast.\nThey say he's a real villain...
+
+@026.01F8
+Is this Clifford really such a\nterrible guy?
+
+@026.0232
+You're new to this port, aren't you?\nJames Clifford is said to be a demon\npirate who can silence a crying child.
+
+@026.0294
+They say he's a giant who touches the\nclouds, has three eyes, a mouth split to\nhis ears, and drinks human blood\nfrom a glass.
+
+@026.0302
+Hey, hey, is that even human?
+
+@026.0324
+But, but, he wiped out a whole fleet\nall by himself! He's definitely\na monster!
+
+@026.0374
+Me, a monster...\nHahaha, you got me there.
+
+@026.03A0
+Right? It's really awful.\n...?
+
+@026.03C8
+"Me"... Wait, are you...?\nC-Clifford??
+
+@026.0414
+What?! This pretty boy is Clifford?!
+
+@026.0458
+What, this man is Clifford?!
+
+@026.0486
+Well, something like that...\n"Monster" is a bit harsh...
+
+@026.04CE
+T-this is bad,\n{FI}...\nApologize quickly.
+
+@026.04F8
+I-I'm sorry...\nI never thought the famous Clifford\nwould be such an ordinary person...Ah!
+
+@026.0572
+It's fine, it's fine. I don't mind.\nMore importantly, you're\n{FI} {FA}, right?
+
+@026.05B2
+You know about us?
+
+@026.05D8
+Sure. In this line of work\nall kinds of information comes in.
+
+@026.0612
+You're not going to go after\nthe {FO}, are you...?
+
+@026.0634
+Come on, the rumor that I crush\neverything is just a rumor.
+
+@026.0672
+Is it, really...?
+
+@026.068A
+Well, believe it or not, it's up to you.\nAnyway, I'd like to talk with you.
+
+@026.06CE
+Talk about what?
+
+@026.06F2
+...Not here.\nCome to my house tonight. Let's talk\nover dinner.
+
+@026.0758
+Hm? Did you just say dinner?!
+
+@026.0782
+Yes.\nI'll treat you as my guests.
+
+@026.07AC
+Okay. Understood.
+
+@026.07C2
+Then, tonight. I'll be waiting.
+
+@026.07E0
+...Kamil, did you hear? Dinner!\nA pirate under the Crown must have\na grand mansion, right?\nOoh, I'm so excited!
+
+@026.0860
+I'm excited too!\nI want to go already!
+
+@026.0894
+Hey... Are you planning to go\nlooking like that?
+
+@026.08CC
+Huh? Is this weird...?
+
+@026.08EA
+...Listen.\nHe may be a pirate, but he's directly\nunder the English Crown. He's a noble.
+
+@026.0934
+Yeah. Probably so?
+
+@026.0954
+You're visiting a noble's house, so I\ndon't think you should dress the same\nas you do at sea.
+
+@026.099E
+Oh... That's true.\nWhat should I do?
+
+@026.09CC
+Hmm... We need to get a dress.\nLet's ask a tailor to make one\nin a hurry.
+
+@026.0A46
+We made it by nightfall somehow.
+
+@026.0A7E
+I'm tired of waiting!
+
+@026.0AA4
+Still...\nI'm amazed...
+
+@026.0ACA
+Heh heh, how do I look?
+
+@026.0ADE
+Like they say, "fine feathers\nmake fine birds."
+
+@026.0B16
+...\n(Idiot. Kamil, watch your words!)
+
+@026.0B42
+...I was a fool to ask Kamil.
+
+@026.0B78
+Ah, you came.
+
+@026.0B8C
+I'm {FI} {FA}.\nThank you for inviting me\nto dinner.
+
+@026.0BC4
+Oh... I thought you were some lady.\nIt suits you.
+
+@026.0BFE
+Hee hee. Mr. Clifford,\nyou're such a smooth talker.
+
+@026.0C30
+I wish a certain someone would\nlearn from you.
+
+@026.0C6E
+Come on in.
+
+@026.0C8E
+What a feast!\nSo many dishes I can't count them...
+
+@026.0CEC
+I've never seen most of these! I can't\ndecide which to eat first...\nMunch munch... S-so delicious!
+
+@026.0D72
+Delicious!\nEverything is delicious!
+
+@026.0DB4
+Emilio, you're not a pig!\nUse a knife and fork!
+
+@026.0E12
+Hm, quite a fine taste.
+
+@026.0E36
+Hahaha, glad you're enjoying it.\nDon't hold back, eat up.
+
+@026.0E70
+Now, what I wanted to talk about is...
+
+@026.0E8C
+Wait a moment.\nThis dress is so tight...
+
+@026.0EB4
+Oh, honestly,\n{FI}...
+
+@026.0ED0
+Hahaha. Don't force yourself.\nGo change in the back room.
+
+@026.0F1A
+Phew. I do prefer this to a dress.\nIt suits me better.\n...Sorry for keeping you waiting.
+
+@026.0F86
+All right. Let's get down to business.
+
+@026.0FAE
+Do you know that a man named Pedro\nValdes has become the Spanish Navy's\nCommander-in-Chief? He's one of the\nstrongest in the post's history.
+
+@026.1046
+I've heard about that too.
+
+@026.1072
+Spain, huh... If the Invincible Armada\ngets any stronger than now,\nit'll be unbearable.
+
+@026.10BE
+Right? I feel the same.
+
+@026.10E6
+Huh? No way. They say Clifford's\nforces are invincible and the Spanish\nNavy is beneath your notice?
+
+@026.1142
+Even so,\nwhen it comes to that man...
+
+@026.116E
+He's that formidable, huh...
+
+@026.1190
+So here's my proposal.\nWhy not join hands with me?
+
+@026.11BE
+With us? What do you mean?
+
+@026.11E4
+If we cooperate, they won't find it easy\nto make a move on us.\nWouldn't you say?
+
+@026.1244
+Hm, not a bad idea, but...
+
+@026.1268
+...Maybe. But defeating the Spanish\nNavy, I can't...
+
+@026.12AA
+Hey, hey. I'm not asking you\nto do that.
+
+@026.12DE
+Then what?
+
+@026.12F4
+Listen. You team up with me and\nkeep their movements in check.
+
+@026.133E
+That's enough. The world is wide.\nWe hold down his power together,\nand each expand our influence\nin other regions.
+
+@026.13B2
+I see! Not the North Sea, we each\nhead for Africa and India!
+
+@026.140E
+I see...
+
+@026.1434
+I'll head to the New World as England's\npolicy says, and you follow the Dutch\nsouthward policy from Africa on to\nIndia and Asia.
+
+@026.14AE
+And if we build up our strength...
+
+@026.14CC
+...someday the day will come when we\ncan defeat the Invincible Armada!
+
+@026.1508
+Exactly. You catch on quickly.
+
+@026.1536
+Hm? Is there a problem?
+
+@026.1558
+I don't know if I can trust you...
+
+@026.157E
+Oh my.\nI'm an English gentleman, you know.
+
+@026.15A2
+That doesn't matter.
+
+@026.15D0
+Anyone can say anything with words...
+
+@026.15F8
+Then as a token of friendship, I'll\ngive you the "Red Pigment."
+
+@026.1632
+Pigment...? What's that?
+
+@026.164C
+Apparently it's the key to deciphering\na map to where treasure sleeps.\n...So, how about it? Will you join me?
+
+@026.16BA
+We have no choice but to trust him\nfor now...
+
+@026.16EA
+...Yes.
+
+@026.16F8
+That's the spirit!\nI'm counting on you!
+
+@026.1724
+Please don't meddle much in the New\nWorld. The guys who've settled there\nare my prey. Don't go fighting\nthem on your own.
+
+@026.1798
+The Tavern owner has the "Crimson\nPigment." Go to the Amsterdam Tavern.
+
+@026.17E8
+Got it. But I'm warning you,\nbetray me and I won't forgive you!

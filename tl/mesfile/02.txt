@@ -1,0 +1,749 @@
+@500
+The wind has died...\nWe'll just have to wait for the next one.
+
+@501
+Admiral, a shark!\nPlease be careful!
+
+@502
+Admiral, there's a shark!\nBe careful!
+
+@503
+Eek, a shark!\nAdmiral, be careful too!
+
+@504
+Admiral, there's a shark!\nWatch yourself, will ya!
+
+@505
+Admiral, a shark!\nMind yourself, now!
+
+@506
+Waaah, a shark!\nAdmiral, be careful too!
+
+@507
+Oho, a shark!\nPlease be careful, Admiral!
+
+@508
+Aaargh! Nothing but sea for ages,\nI'm going out of my mind!\nI wanna get back on land already!
+
+@509
+Admiral, the sailors are getting\nrestless. It would be best to\nput in at a port soon.
+
+@510
+Admiral, the sailors' discontent\nis growing.\nShouldn't we put in at a port\nfor a while...?
+
+@511
+Admiral, the sailors look tired,\nso maybe we should put in\nat a port soon...?
+
+@512
+Admiral, everyone's worn out...\nShouldn't we put in at a port?\n
+
+@513
+Admiral. If this goes on, the sailors\nwill go off their heads.\nI think we should put in at a port\nfor a bit.
+
+@514
+Admiral, the sailors are getting\nrestless, I see.\nBest to put in at a port for a while.
+
+@515
+Admiraaal. The sailors are all\nin a bad mood.\nLet's go to port. I'm scared!
+
+@516
+I can't take it anymore!\nI'll force them to head for port!
+
+@517
+The sailors' anger is about\nto explode.\nAdmiral, what will you do?
+
+@518
+The angry sailors look ready\nto take action...\nAdmiral, what will you do?
+
+@519
+Uh-oh... the sailors are about\nto blow up.\nAdmiral, what do we do?
+
+@520
+Admiral, this is bad!\nThe angry sailors are about to\ntake action!\nWhat will you do?
+
+@521
+The sailors are about to explode!\nAdmiral, what'll it be?
+
+@522
+The sailors are about to explode,\nI'd say. Admiral, what will you do?
+
+@523
+Admiraaal!!\nThe sailors are furious and\nsay we have to go to port!\nWhat do we do~?
+
+@524
+The sailors' patience is at its limit,\nAdmiral. What will you do?
+
+@525
+Quiet!\nIf you defy the Admiral, you'll deal with me!
+
+@526
+...Settle down!\nIf you defy the Admiral, you'll deal with me!
+
+@527
+Listen to the Admiral!\nIf you defy him, you'll deal with me!
+
+@528
+Be quiet!\nIf you defy the Admiral, you'll deal with me!
+
+@529
+Shut up already!\nIf you defy the Admiral, you'll deal with me!
+
+@530
+Listen to the Admiral, will you!\nIf you defy him, you'll deal with me!
+
+@531
+Calm down, everyone!\nIf you defy the Admiral, you'll deal with me!
+
+@532
+Eek!
+
+@533
+We got through today, but we'd best\nput in at a port right away.
+
+@534
+...Admiral, let's put in at some port\nsoon. There's no telling what\nwill happen next time.
+
+@535
+...Admiral, we have to put in at a port.\nI feel kind of sorry for the sailors.
+
+@536
+...Admiral, let's put in at some port.\nI feel sorry for the sailors like this.
+
+@537
+We got by today, huh...\nLet's hurry up and find a port.\nI don't want to do that to my mates again.
+
+@538
+That seems to have settled things.\nBut we must put in at a port soon.
+
+@539
+Thank goodness...\nBut everyone's on edge, aren't they?\nAdmiral, we'd better put in at port soon.
+
+@540
+They've calmed down this time,\nbut who knows about next time.\nBest to put in at a port soon.
+
+@541
+Admiral! Without a Boarding Chief,\nthere's no way to hold the sailors back!
+
+@542
+Admiral,\nwithout a Boarding Chief\nwe can't suppress them.
+
+@543
+Admiral! We have no Boarding Chief,\nso we can't put them down!
+
+@544
+Admiral!\nTrying to put them down without\na Boarding Chief is reckless!
+
+@545
+Admiral!\nYou can't beat the sailors down\nwithout a Boarding Chief!
+
+@546
+Admiral,\nwithout a Boarding Chief we can't\nkeep the sailors in line by force.
+
+@547
+Admiraaal!\nWithout a Boarding Chief, we can't\nmake the sailors listen!
+
+@548
+Sorry, everyone.\nTo make it up to you, let's drop the\nformalities and share a special meal today!
+
+@549
+...Bear with it a little longer.\nTo make up for it, no formalities today.\nLet's all have a special meal!
+
+@550
+Just hold on a little longer, okay?\nLet's all have a nice meal together\nand cheer up!
+
+@551
+Please be patient a little longer.\nTo make up for it, I'll treat\neveryone to a special meal today.
+
+@552
+You think that'll fool us!
+
+@553
+Drag the Admiral out here!\nLet's beat him up!
+
+@554
+Whoa, stop it! Ow!
+
+@555
+What are you doing! Ow!
+
+@556
+Eek, stop it! Ow!\n
+
+@557
+...Ow! Stop it!\n
+
+@558
+That's enough!\nYou've had your fun by now!
+
+@559
+Enough already!
+
+@560
+Stop it!\nYou've laid hands on the Admiral,\nthat should be enough!
+
+@561
+That's enough, you lot!\nLaying hands on the Admiral is going too far!
+
+@562
+That's enough, I say!\nYou lay hands on the Admiral and\nstill aren't satisfied?
+
+@563
+No, stop it already!\nThe poor Admiral!
+
+@564
+That's enough!\nYou've had your fill by now!
+
+@565
+Understood.\nLeave the cooking to me!
+
+@566
+Got it!\nLeave the rest to me!
+
+@567
+Understood, leave it to me!
+
+@568
+Roger! Leave the rest to me!
+
+@569
+Right. Leave it to me.
+
+@570
+Okay, if it's food,\nleave it to me!
+
+@571
+Understood. Leave the rest to me!
+
+@572
+Oh, as expected of the Admiral.\nYou understand us!
+
+@573
+Admiral! Water is leaking in!\nThe flagship's hull seems damaged.
+
+@574
+Admiral, a leak!\nThe flagship's hull is damaged!
+
+@575
+This ship is leaking!\nIs the hull damaged...?
+
+@576
+Trouble! This ship's leaking!\nLooks like the hull's damaged.
+
+@577
+Admiral, trouble!\nThe flagship's hull is damaged and\nwater is leaking in!
+
+@578
+Admiraaal, trouble!\nWater's leaking in from this ship's bottom!
+
+@579
+Admiral, a leak!\nThe flagship's hull seems damaged.
+
+@580
+Leak on %s!\nThe hull seems damaged!
+
+@581
+Admiral!\nThere's a leak on %s!\nIs the hull damaged...?
+
+@582
+Admiral!\n%s is leaking!\nLooks like the hull's damaged.
+
+@583
+Admiral!\nA leak on %s!\nThe hull seems damaged.
+
+@584
+Admiral!\nWater's leaking in on %s!\nThe hull looks damaged.
+
+@585
+The fire has been put out!
+
+@586
+The fire has been put out!
+
+@587
+It's okay, I put the fire out!
+
+@588
+The fire is out!
+
+@589
+The fire's out!
+
+@590
+Admiral, the fire is out!
+
+@591
+Admiraaal! I put out the fire!
+
+@592
+We have put out the fire!
+
+@593
+The fire on %s\nhas been put out!
+
+@594
+The fire on %s\nis out!
+
+@595
+The fire on %s\nis out!
+
+@596
+The fire on %s\nis out!
+
+@597
+The fire on %s\nis out!
+
+@598
+The fire on %s\nis out, I tell you!
+
+@599
+I put out the fire\non %s!
+
+@600
+The fire on %s\nhas been put out!
+
+@601
+We've run out of %s!
+
+@602
+There's no more\n%s left!
+
+@603
+There's no more\n%s left!
+
+@604
+There's no more\n%s left!
+
+@605
+We've run out of %s!
+
+@606
+We've run out of\n%s, I tell you!
+
+@607
+T-trouble!\nWe're out of\n%s!!
+
+@608
+We've run out of %s!
+
+@609
+Ugh... I'm dizzy...\nI'm starving...\nI can't... go on...
+
+@610
+We've run out of %s.\n%s is\ncancelled.
+
+@611
+So we're out of %s...\n%s is\ncancelled.
+
+@612
+We're out of %s, I see.\n%s is\ncancelled.
+
+@613
+We ran out of %s.\nI'll stop\n%s.
+
+@614
+At %s, sighted\na fleet of %s!\nBattle stations!
+
+@615
+At %s, spotted\na fleet of %s!\nBattle stations!
+
+@616
+At %s there's\na fleet of %s!\nBattle stations!
+
+@617
+At %s there's\na fleet of %s!\nBattle stations!
+
+@618
+At %s there's\na fleet of %s!\nBattle stations, mates!
+
+@619
+At %s, a fleet\nof %s!\nBattle stations!
+
+@620
+At %s I found\na fleet of %s!\nTime to fight!
+
+@621
+At %s, sighted\na fleet of %s!\nBattle stations!
+
+@622
+At %s, spotted\na fleet of %s!\nThey're attacking!
+
+@623
+At %s, spotted\na fleet of %s!\nThey're attacking!
+
+@624
+Oh! At %s there's\na fleet of %s!\nThey're attacking!
+
+@625
+At %s, spotted\na fleet of %s!\nThey're attacking us!
+
+@626
+At %s, a fleet\nof %s!\nThey're attacking!
+
+@627
+Waah!\nFrom %s,\na fleet of %s\nis attacking!
+
+@628
+At %s, a fleet\nof %s!\nThey're attacking, Admiral!
+
+@629
+We have no Surveyor.
+
+@630
+We have no Surveyor.
+
+@631
+We don't have a Surveyor.
+
+@632
+We don't have a Surveyor, I'm afraid.
+
+@633
+We ain't got a Surveyor.
+
+@634
+We have no Surveyor, you know.
+
+@635
+We don't have a Surveyor.
+
+@636
+We have no Surveyor, but...
+
+@637
+There's no sea route\nto that port.
+
+@638
+There's no sea route\nto that port.
+
+@639
+There's no sea route\nto that port.
+
+@640
+There's no sea route\nto that port, I'm afraid.
+
+@641
+There ain't a sea route\nto that port.
+
+@642
+There's no sea route\nto that port, I see.
+
+@643
+There's no sea route\nto that port.
+
+@644
+There's no sea route\nto that port, I see.
+
+@645
+Admiral,\nplease give orders from the\nCapt. Cabin.
+
+@646
+Admiral,\nplease give instructions from the\nCapt. Cabin.
+
+@647
+Admiral,\nyou have to give orders from the\nCapt. Cabin.
+
+@648
+Admiral,\nplease give instructions from the\nCapt. Cabin, okay?
+
+@649
+Admiral,\ngive the orders from the\nCapt. Cabin, will ya.
+
+@650
+Admiral,\ngive your instructions from the\nCapt. Cabin, if you would.
+
+@651
+Admiral,\ngive instructions from the\nCapt. Cabin, pleeease.
+
+@652
+Admiral,\nI'd like you to give instructions\nfrom the Capt. Cabin.
+
+@653
+%s is selling\nreally well right now.
+
+@654
+If you've brought in %s,\nplease sell it at the Market\nas soon as you can.
+
+@655
+Now then,\nI'll sell some %s\nand make a mint!
+
+@656
+We only do retail here.
+
+@657
+You're a sailor, right?\nFor big deals,\ntry the Market.
+
+@658
+Business? Oh, so-so.\nI wish some good deal would come along.
+
+@659
+You'll give out the trade goods\nfor free, then?
+
+@660
+You want to give out the trade goods\nfor free, is that right?
+
+@661
+You'll hand out the trade goods\nas samples, right?
+
+@662
+You're giving the trade goods\naway for nothing, huh?
+
+@663
+You'll give the trade goods\nto the townsfolk for free, eh?
+
+@664
+You'll give the trade goods\nto the townsfolk for free, right?
+
+@665
+You'll hand out the trade goods\nfree as samples, I take it?
+
+@666
+Come on, take a sample, help yourself!\nIt's free today!
+
+@667
+Come, everyone, help yourselves.\nIt's free, so don't hold back.
+
+@668
+Step right up, take a look, take one!\nFree samples as a special service!
+
+@669
+Go ahead and try it, okay!\nIt's just a sample!
+
+@670
+Come on, give this a try!\nIt's free now! Take some!
+
+@671
+Come on, give this a try!\nIt's a sample! Free now, you know!
+
+@672
+Come one, come all, it's a sample!\nNow's your chance to try it!
+
+@673
+Please, help yourselves.\nYou can try it for free now!
+
+@674
+Hey! If it's free, let's try it!
+
+@675
+Have a look at this %s.\nI guarantee it's the very best.
+
+@676
+Now, let me introduce the finest taste\nyou can make with this.\nCome, ma'am, take a look.
+
+@677
+Fashion and interior design that will\nturn heads in society from now on.\nIf you call yourself a lady or gentleman,\ncome closer!
+
+@678
+Mmm, this aroma, this flavor. Well?\nIt'll blow away the day's fatigue.\nGo on, try it, try it!
+
+@679
+In an age crammed with new inventions\nand industries, my lecture is worth\nhearing. Dawdle and you'll be left\nbehind in the race for money.
+
+@680
+With this, every illness is cured.\nTry it, and see if you\nweren't fooled.
+
+@681
+Hmm...\n%s, huh.\nThis is worth a look.\nI'll try selling it around %s.
+
+@682
+Business? No time for that.\nI just wish peace would come soon.
+
+@683
+Business? People are dropping from\nthe plague. Are you joking?
+
+@684
+Business? Food comes first.\nPeople can't live\nwithout eating.
+
+@685
+Business? Well, as you can see,\nI can't stop smiling.
+
+@686
+Business? Don't ask.\nThere's no making a living like this.
+
+@687
+Business? The regular ship sank,\nand everyone's in trouble.
+
+@688
+England is a united kingdom of England,\nScotland and Wales. It will keep\ngrowing, I'm sure. Long live the Queen!
+
+@689
+The Netherlands only recently became\nindependent from Spain after a\nlong war of independence.
+
+@690
+The Hanseatic League used to rule\nEuropean trade, but ever since the India\nroute and the New World were found,\nit has really faded away...
+
+@691
+Sweden only recently broke away from\nthe Kalmar Union with Denmark\nand Norway.
+
+@692
+Portugal? Until just recently,\nthey held nearly all the seas\nof the world in their hands, you know.
+
+@693
+Spain is flourishing, isn't it?\nForeigners call it\n"the empire on which the sun never sets."
+
+@694
+The Italian city-states like Genoa and\nVenice have lost their rights to Eastern\ntrade ever since the India route opened...
+
+@695
+Ever since the Ottoman Turks took Greece,\nthe churches have all\nbecome mosques.
+
+@696
+Istanbul was once called Constantinople,\nthe capital of the Eastern Roman\nand Byzantine empires.
+
+@697
+The cities of North Africa are all\nOttoman territories. Even the pirates\nwho ravage the Mediterranean seem to\nbow to the Sultan...
+
+@698
+Everybody's after the trade rights of\nWest Africa. It's a region that\nproduces ivory and gold, after all...
+
+@699
+Long ago, the Islamic powers held the\ntrade rights in these parts.
+
+@700
+You're an infidel, aren't you?\n...I don't wish to speak with infidels\nany further.
+
+@701
+Don't blame others for your misfortune.\nEverything is the result of\nkarma from a past life.
+
+@702
+The kingdoms around here once submitted\nto the Ming Empire. Not that today's\nMing has any trace of its former glory...
+
+@703
+The Majapahit Kingdom once held great\npower in these waters, but it was\ncrushed by the Islamic forces and fell.
+
+@704
+The Ming dynasty once flourished, but now\nthe eunuchs rule as they please and\ngovernment keeps falling apart.\nIt's terrible.
+
+@705
+Joseon became a unified state about\n200 years ago under its founder,\nYi Seong-gye.
+
+@706
+The long age of warring states\nis finally coming to an end.
+
+@707
+Did you know?\nThe Caribbean is a den of pirates\nfrom all over Europe.
+
+@708
+Ever since the Spanish Admiral Cortes\nconquered the Aztec Empire, many\nconquistadors have come to the New World.
+
+@709
+They say Mr. Clifford was a pirate,\nyet became a naval admiral and was\ngiven the title of "Sir" by the Queen.
+
+@710
+These days even young girls go out\nto trade by ship, don't they?
+
+@711
+Mr. Speyer is doing his best leading\nthe declining Hanseatic League.\nI wish he'd face reality a bit more...
+
+@712
+The Swedish navy's newly formed fleet\nsupposedly funds itself through trade\nand privateering. Self-sufficiency\nis their motto.
+
+@713
+They say Admiral Albuquerque's ancestor\nonce commanded the Portuguese fleet in\nthe Indian Ocean with great success.
+
+@714
+The Spanish navy under Admiral Valdes\nis called the "Invincible Armada"\nfor its sheer weight of force.
+
+@715
+The Centurione Company used to do\nbusiness on a big scale, too.\nThey ran all over the Mediterranean\nas if they owned it.
+
+@716
+As always,\nAthens is blessed with\nprofitable trade goods.
+
+@717
+The eastern Mediterranean is held by\nthe Ottoman Turkish Empire.
+
+@718
+The foster father whose name Admiral\nHayreddin took was so great that the\nOttomans made him Sultan (king) of Algiers.
+
+@719
+Honestly, Silveira is so stingy.\nThey're far richer than we are,\nand still so petty, so petty.
+
+@720
+There's no counting Espinosa's crimes.\nNobody knows what happens if you\ncross him, so everyone just looks away...
+
+@721
+Admiral Uddin is a reassuring man who\ncan fight Europe's great powers as an\nequal or better. Rumor says he's Arab royalty.
+
+@722
+Master Nagarpur lives in luxury,\nwith money rolling in on its own.\nI'm so envious.
+
+@723
+Admiral Pereira is a tough man\noverflowing with patriotism, but he is\nutterly ruthless to anyone outside his crew.
+
+@724
+Coen will do anything for the sake\nof profit. Oops, please keep it\na secret that I said that...
+
+@725
+In China they say an empress ruins a\ncountry, but I don't believe it. If that\nwoman admiral who scatters the wako were\nour emperor, how good that would be...
+
+@726
+Hideyoshi, Kurushima, whoever comes,\nI'll drive them off every time.
+
+@727
+They say the Kurushima boss was\nbeaten by Nobunaga, and has been\ncaptivated by the power of ironclads ever since.
+
+@728
+Boss Maldonado has a weakness for\ngold and shiny things.
+
+@729
+I hear Governor Escante is due to\nbecome Viceroy of Mexico and Peru\nsooner or later.
+
+@730
+From now on, one of these will surely\nbecome the fashion: %s.
+
+@731
+I think %s\nwill sell well.
+
+@732
+This trend looks like it will last a good while.
+
+@733
+Is the %s\ntrend about to end, I wonder?
+
+@734
+I have to make my money before\nthe trend fades.\nOh, I'm so busy.
+
+@735
+Thanks to you,\neveryone will recover from the illness!
+
+@736
+Now nobody\nwill starve!
+
+@737
+Now we won't have to worry about\nrunning out of stock!
+
+@738
+Thanks a lot!\nNow then, time to get\nstraight to work!
+
+@739
+Hey, you there, sailor. I have a favor to ask.\nCould you take me to the Plaza\nof some other port, any port...?
+
+@740
+Really? I owe you one!\nNow, let's bring the breath of a new\ntrend to the towns of the world!
+
+@741
+I see.\nSorry for asking the impossible.
+
+@742
+Hey, you! Will you let me have that!?\nWith that %s,\n%s could become this town's\nspecialty, I think...\nWell, what do you say?
+
+@743
+Really! You're a good person.\nYou're the best.
+
+@744
+I see.\nYou're stingy, aren't you?
+
+@745
+Do you need something else?
+
+@746
+...Just browsing, huh.
+
+@747
+Much appreciated.\nI'll put it to good use.
+
+@748
+Huh!?\nSorry, but that amount won't do.\nCome back when you've earned more.
+
+@749
+The cargo hold is full!\nBuy less, please.

@@ -1,0 +1,1067 @@
+@039.000A
+Th-this can't be happening to me...!\nOh, my gold, my company,\nmy fleet...!
+
+@039.004A
+Hm, that's Nagarpur...\nStill hanging around here, is he?
+
+@039.0086
+He is no longer an enemy of ours.\nThe man can do nothing\nwithout his money.
+
+@039.00D2
+Indeed...
+
+@039.00FA
+Heh, what a blowhard!
+
+@039.0122
+...Y-you!\nUgh, you'll pay for this!!
+
+@039.014C
+That money alone can solve everything\nis nothing but your own delusion.\nHasn't that sunk in by now?
+
+@039.01AC
+Nngh...!
+
+@039.01C0
+{FI} is right.\nCool your head a little.
+
+@039.01EC
+Waaah, I can't stand being poor!!\nSomebody, money! Money!\nGive me money!!
+
+@039.0234
+...Nothing we say will ever reach him.
+
+@040.000A
+Even a little island like this has\na decent port.
+
+@040.0034
+Indeed.\nAs a relay point for trade, it will\nprobably only grow from here.
+
+@040.0096
+The east coast of Africa has several\nports, Sofala among them, but the\ncoastline is so simple that the trade\nroutes end up as a single road.
+
+@040.0110
+But with Madagascar as a relay\npoint, goods could travel by several\nroutes between Cape Town and\nMogadishu.
+
+@040.0184
+If this island works as a trade port,\nthe East African routes won't be a\nsingle road, and this port will\ngrow too. Is that it?
+
+@040.01F0
+This layout, I've seen it somewhere...\nOf course... there is a big island\nnot far from Ming.
+
+@040.0246
+Ah...\nBut that island has no port fit\nfor trade, does it?
+
+@040.0284
+If there isn't one, we build one.\nWouldn't you say?
+
+@040.02B0
+That is a tall order...\nBuilding a port on our own?\nThe government won't stay quiet.
+
+@040.02F6
+What if I said it was sure to turn\na profit? Those men love bribes\nmore than anything. They won't\nobject.
+
+@040.0358
+Oh, now that sounds interesting!\nLet us return to Hangzhou and\nget started at once.
+
+@040.03A8
+If a second Madagascar rises on that\nland... it will need a huge investment,\nbut one day it will become a great\nport...!
+
+@041.000A
+By the way, {FI}.\nAbout this new port...
+
+@041.0032
+The draft is nearly done.\nNow it depends on the negotiations\nwith the government.
+
+@041.006A
+Admiral, if it is negotiations with\nthe government, please leave them\nto me.
+
+@041.00A2
+...All right.\nYou're better suited to this kind of\nwork anyway.
+
+@041.00D8
+Oh, you will entrust it to me!\nThen, there is one more favor I\nwould ask...
+
+@041.011E
+Hm? What else?
+
+@041.0134
+I wonder if you might leave the\nbuilding of the port to me as well...
+
+@041.0166
+Oh? You would take command?
+
+@041.019E
+Hey, hey, can you really handle that\nkind of job?
+
+@041.01D4
+Surely our Leader cannot stay in Ming\nto devote herself to building a port,\ncan she?
+
+@041.023C
+No... she can't.\nThere is still so much I have to do...
+
+@041.0284
+Besides... there are rumors that the\nMing government is making suspicious\nmoves against us.
+
+@041.02D8
+What?!
+
+@041.02EE
+I will find the truth of it, and I\nhave the government well in hand,\nso I ask that you, Admiral, continue\nyour voyages as before.
+
+@041.0366
+...I see. Very well.\nI'll leave it to you.
+
+@041.0394
+Once the negotiations are done, the\nport will need funds. Could you\nprepare around 500000 in gold?
+
+@041.0408
+500000, then.\nYes, I'll have it ready.
+
+@041.0432
+Then I shall start negotiating with\nthe government at once. Once you\nhave the funds, bring them to\nHangzhou.
+
+@042.000A
+Admiral {FI}!\nI have been waiting for you!
+
+@042.0032
+Have the negotiations gone smoothly?
+
+@042.005A
+Of course, I moved things along well.\nConstruction of the port at Tamsui\nhas already begun, just as\nAdmiral {FI} planned.
+
+@042.00BA
+Oh? It went well, did it?
+
+@042.00D6
+Excellent.\nI have the 500000 in gold\nready as well.
+
+@042.0124
+Now everything is ready for building.\nPlease do stop by Tamsui.
+
+@042.0168
+Yes, of course.
+
+@042.017E
+The work needs a great many hands.\nIt was good that we brought a crowd\nof workers from England, but...
+
+@042.01F0
+They seem unhappy with the food here.
+
+@042.022E
+To raise their spirits, I believe the\nbest thing is to treat them to a\nWestern drink such as wine.
+
+@042.028E
+...If that solves it, fine.\nHow much do you need?
+
+@042.02C6
+Five holds' worth should do...
+
+@042.02E2
+Sounds fishy. Isn't that just an\nexcuse, and you want to drink the\nwine yourself?
+
+@042.033A
+...Oh, never mind.\nSo I just carry five warehouses' worth\nof wine to Tamsui?
+
+@042.037E
+Yes, as soon as you can, please.\nMorale depends on it, after all.\nNow, I shall go ahead to the\nport...
+
+@043.000A
+I have been waiting for you,\nAdmiral {FI}.
+
+@043.002C
+The wine is in the warehouse.\nGive it out as freely as you like.
+
+@043.0068
+Thank you very much.\nI shall do just that.\n...Oh yes, the Market is complete.
+
+@043.00C2
+The {FO} holds the\nexclusive trading rights in this port,\nso you may use it without any\nconcern.
+
+@043.0110
+Trade is now possible here.\nThat is progress.\nThe first step is taken.
+
+@043.015A
+From here on, the goal is to grow\nthis port. Invest the profits from\ntrade into it.
+
+@043.01AC
+I want it to become a much, much\nbigger port...\nRichard, keep directing the work.
+
+@043.0200
+Yes, understood.\nLeave it to me.
+
+@044.000A
+Admiral {FA}!\nWelcome! But the facilities are still\nunfinished, so there is nothing\nhere yet...
+
+@044.0062
+The work doesn't seem to be going\nas well as I hoped.
+
+@044.0098
+Yes, without the wine, it seems...
+
+@044.00BC
+...This is getting us nowhere.\nWe have to give them drink to\nraise their efficiency.
+
+@044.0118
+Quite so.\nPlease bring five warehouses' worth\nof wine as soon as you can.
+
+@045.000A
+So this is it... I've finally come.\nAfrica, where even Zheng He once\nsailed...
+
+@045.004C
+Come on, move it!!
+
+@045.0078
+Don't stop! You want to get killed?!
+
+@045.00A4
+(Are those the people who live here\nbeing driven along?\n...Terrible treatment.)
+
+@045.00F8
+Hey, stop the violence!
+
+@045.011C
+Huh? Who are you? These people are\nmine.\nIt's no business of yours!
+
+@045.0172
+People are not livestock.\nThey can never belong to anyone.
+
+@045.01AC
+They work on my plantation!\nWhat's wrong with using them\nhowever I like?!
+
+@045.01EA
+You're an outsider!\nSo quit preaching at me!
+
+@045.021A
+What a selfish argument.\nYou Westerners are outsiders here in\nAfrica too, aren't you?
+
+@045.026E
+...You! Looks like you don't know\nwho we are!
+
+@045.02A2
+I don't care to.
+
+@045.02BE
+Say another word and... Listen, we\nare the Espinosa Company, the name\nthat makes babies stop crying!\nValue your life? Then scram!
+
+@045.0328
+Is that supposed to be a threat?\nIt's less than a stray dog's howl.
+
+@045.0352
+Y-you...!\nYou've got a mouth on you, woman!
+
+@045.037C
+My work is pest control...\nMy job is to exterminate parasites\nlike you that infest every nation.
+
+@045.03D4
+P-parasites? Pest control?\nYou, woman... if you want to die,\njust say so!
+
+@045.0420
+Go home and tell your boss to start\nthinking up a new line of work\nwhile he can. Your business will be\nfinished in a few months.
+
+@045.0496
+What did you say?!
+
+@045.04A8
+Don't you understand?\nI said I would shut down a vile\ncompany like yours.
+
+@045.04EA
+Gahahaha! What a rare woman!\nIs she brave, or just stupid?
+
+@045.0532
+All right! I'll grab you myself and\nmake you kneel before Lord\nEspinosa!!
+
+@045.0588
+Poor man.\nIf you were a little smarter, you'd\nlive longer...
+
+@045.05C2
+You'll be the one to regret talking\nlike that. Next time we meet, I'll\nshow no mercy. Be prepared.
+
+@045.0626
+...Y-you...!!
+
+@045.0654
+As human beings, we cannot overlook\nthe Espinosa Company's evil deeds.
+
+@045.069A
+Of course.\nI won't allow it.
+
+@046.0008
+<Dashing Young Man's Voice>\nHm? Are you the ones?\nThe ones who took down Espinosa?
+
+@046.0070
+That's welcome news.\nNow we English can expand into\nAfrica without a care.
+
+@046.00C8
+I hear Espinosa had quite a\nlucrative business here.\nHah, what luck.
+
+@046.0120
+...There seems to be a misunderstanding.\nI don't recall seeking a successor\nto Espinosa.
+
+@046.0172
+What now...?\nIt's only natural, isn't it?
+
+@046.0198
+The world outside Europe is divided\namong the Western powers. When one\nstumbles, the next simply takes his\nplace. That's all there is to it.
+
+@046.0208
+You mean the world belongs to you\npowers...? What a selfish thing\nto say.
+
+@046.0256
+So Europe still has shameless people\nwho can say such things without\nblinking.
+
+@046.02B0
+We will not forgive men like that...\nIf my subordinates find you, I can't\nguarantee your life.\nGet out of here, now.
+
+@046.031A
+My, my, a beauty, and scary too.\nFine, I'll back off for today.
+
+@046.0362
+But I won't give up.\nEven if I leave, someone else will\ncome.
+
+@046.03A8
+If it's going to be taken anyway,\nit makes no difference if I take it,\ndoes it?
+
+@046.03FE
+Admiral, who were you talking to?\nIs there some trouble?
+
+@046.0438
+...It's nothing. Someone asked me\nthe way, and I said I didn't know.
+
+@046.0476
+Is that... so.
+
+@047.006A
+Espinosa?!
+
+@047.00AE
+Doing this to me, do you think\nyou'll get away with it?!
+
+@047.011E
+You've done whatever you pleased\nall this time.
+
+@047.0280
+I-I don't know!\nIt was all my idiot subordinates.\nThey did it on their own!
+
+@047.02EC
+This is appalling...\nAll I can call it is cowardly.
+
+@047.032E
+A fiend... that is what he is.
+
+@047.034A
+You inhuman wretch!\nLady {FA}, would you let us\nhandle what's left of this man?
+
+@047.0392
+Yes. I leave him to you.
+
+@047.0426
+Please, take this.
+
+@047.0468
+It belonged to Espinosa. He was\nalso searching for Africa's Victor's\nMark, and we prayed it would never\nfall into his hands...
+
+@047.04EC
+You are the one who should become\nVictor of these waters. We hope you\nfind the treasure soon and bring\npeace and prosperity to this land.
+
+@047.056A
+Thank you.\nI'll do my best to live up to your\nexpectations.
+
+@047.05BA
+Look.\nThe whole town has gathered and is\nwaving to you, Admiral.
+
+@047.05F8
+Look, my lady.\nThe whole town has gathered and is\nwaving to you, Admiral.
+
+@047.0640
+What a difference from when I was\nin Ming...
+
+@047.067A
+It has reached them.\nThe heart of an admiral who fights for\nthe people. Go on, answer them.
+
+@047.06D2
+It has reached them.\nThe heart of an admiral who fights for\nthe people. Please, answer them.
+
+@047.072A
+L-like this?\nI've never waved at anyone before...
+
+@047.0770
+(I have never seen {FI} look so\nhappy before...)
+
+@047.07B4
+(Never seen the Admiral this happy\nbefore...)\nGlad I followed you, Admiral...
+
+@047.0816
+What is it, all of a sudden? How odd.
+
+@048.0012
+Hey, Rafael.\nYou'd better be careful.
+
+@048.003E
+Right, Clau.\nBut is there really such a scary\nfemale pirate? The world is big...
+
+@048.008E
+Scary doesn't even cover it. That\nwoman, {FA}, is...
+
+@048.00E0
+She hollows out enemies with schemes and\ndiplomacy, then slaughters them when\nthey drop their guard... Touch her and\nyou'll never have lives enough.
+
+@048.0164
+Pfft, hehehehe.
+
+@048.0186
+Hey, you there, woman!\nWhat's so funny?!
+
+@048.01BA
+...Forgive me.\nTell me more about this story.\nWhat does this female pirate look like?
+
+@048.01FE
+I never saw her, so I don't know\nmuch... Probably a face like a\ndemon, I'd say.
+
+@048.0250
+What I heard is, black hair cut short,\nblack clothes with a scarlet coat\nover them...
+
+@048.02B0
+A crimson rose on her chest...\nY-you don't mean... you!!
+
+@048.02E2
+Me? I am\n{FI} {FA}.\nPleased to meet you.
+
+@048.0304
+You're...\nMs. {FA}?
+
+@048.0332
+Ahem!\nThat's right.
+
+@048.0354
+E-eek! I knew it!! No,\nsorry, I mean, I'm so sorry!\nS-spare my life!!
+
+@048.03AA
+She's this beautiful...\nClau, the rumors must be nonsense...
+
+@048.03F8
+Y-yeah, right! Someone this lovely\ncan't be that terrifying female\npirate! Ahaha, ahahaha!
+
+@048.046E
+Hmph, what a slippery fellow.
+
+@048.0494
+Save the flattery. I am {FA}, true.\nI seem to be feared in all sorts of\nplaces.
+
+@048.04E0
+But my targets are those who rule\npeople by force and skim off their\nwealth... Are you two helping men\nlike that?
+
+@048.0552
+N-no way!! We just make an honest\nliving doing proper business.\nRight?
+
+@048.05B0
+...Our homeland Portugal, which once\nswept the world.
+
+@048.0608
+It has lost its sovereignty to Spain\nnow, but our dream is to make it a\nnation bustling with sailors\nagain.
+
+@048.0678
+I see... So you think Portugal should\nrule the world in Spain's place?
+
+@048.06D2
+Conquests like the ones Spain carries\nout in the New World are not what\nwe are aiming for.
+
+@048.0726
+Then Spain is the villain and\nPortugal is in the right?
+
+@048.0764
+...Of course, I'm not saying that\nPortugal's old ways were right.
+
+@048.07AC
+I just want to see goods from every\nland circulate fairly. That way the\nsellers and the buyers both\nprofit greatly.
+
+@048.081A
+Through shipping, I hope people can\nlive a little richer lives... I think\nthat is our role.
+
+@048.0886
+Rafi... you were thinking about\nsomething that big?
+
+@048.08B8
+Hmm. That's quite a fine idea.
+
+@048.08DC
+...Was that cheeky of me?\nI'm sorry for talking big.
+
+@048.0914
+No, that's not what I mean.\nI just wish all sailors thought the\nway you do.
+
+@048.0996
+There's no use saying that, is there?\n...Oh, right. Do you two know the\nMediterranean well?\nI'd like to know the latest situation.
+
+@048.0A08
+The latest? Let me see...
+
+@048.0A3C
+The strongest by far is Spain's\nValdes fleet. The Ottoman Empire's\nnavy was nearly wiped out after it lost\nto the Italian lords at Lepanto.
+
+@048.0ACA
+Spain and the Ottomans hold most of\nthe interests in the Mediterranean,\nand Admiral Valdes and Admiral Pasha\nkeep skirmishing with each other.
+
+@048.0B60
+The pirate Hayreddin family held the\nStrait of Gibraltar, the entrance to\nthe Mediterranean, but...
+
+@048.0BCE
+Since the alliance with the Ottomans\nvanished, their main force seems to\nhave pulled back east. You hardly\nsee them anymore.
+
+@048.0C4A
+Since the alliance with the Ottomans\nvanished, their main force seems to\nhave pulled back east.
+
+@048.0CAE
+I see. I've got the general picture.\nThank you. May I ask for your help\nagain? Of course, I'll help you if\nanything comes up.
+
+@048.0D2E
+Of course!\nIf it's against those Spanish bastards,\nwe'll back you without a second\nthought. Right?!
+
+@048.0D8C
+Yes. If we can be of use,\nthe pleasure is ours.
+
+@049.000C
+Heh.\nAnother troublemaker shows up.
+
+@049.0050
+This is Maldonado!
+
+@049.0074
+This is Maldonado!
+
+@049.009A
+Maldonado...
+
+@049.00C0
+He is the boss of the pirates who\nravage the Caribbean.
+
+@049.00F0
+The boss of the pirates who ravage\nthe Caribbean.
+
+@049.013C
+Pirates...
+
+@049.014E
+What would a pirate want with me?
+
+@049.016E
+Hey, hey, no need to get so\nbloodthirsty. I don't plan to fight\nyou. I'm up to my neck in trouble\nas it is.
+
+@049.01E2
+That bastard Escante said let's take\ndown England's Clifford together,\nthen the moment the enemy vanished,\nhe betrayed me clean.
+
+@049.0270
+That bastard Escante said let's take\ndown England's Clifford together,\nthen the moment he saw the enemy\nwas tough, he betrayed me clean.
+
+@049.02EE
+I'm caught between Escante of Mexico\nand England's Clifford, and now some\nSwedish bastard has butted in too.
+
+@049.036A
+Why would I make more enemies?\nThat would be choking myself.
+
+@049.03B0
+You may not want to fight, but what\nif I do?
+
+@049.03FC
+Do you think we will leave pirates\nalone to disrupt shipping and make\npeople suffer?
+
+@049.0448
+Hey now, I don't recall making you\nangry.
+
+@049.047C
+Is that so?
+
+@049.0490
+The gold Escante ships home was all\ntaken by force from the people of\nthe New World, wasn't it? So he\ncould buy weapons.
+
+@049.0510
+Just because I snatched it from him,\nyou've no right to complain to me.
+
+@049.0556
+Many of us Caribbean pirates are\nNew World natives or of mixed blood.\nIt was the treasure of our own\nvillages. What's wrong with taking it back?
+
+@049.05C4
+...That's called hair-splitting.\nYou're just using the feelings of those\nlocal people.
+
+@049.0628
+Using them? Sure I am. They use the\npower of my organization too, to take\nrevenge and earn their keep.\nWe're even.
+
+@049.06A8
+If you don't get it, fine.\nMore to the point, how about joining\nhands with me? You can't stand\nEscante's tyranny either, can you?
+
+@049.071E
+He rules the people by force and takes\nall the wealth they've saved up over\nthe years for himself, you know?
+
+@049.0776
+And when there's nothing left to take,\nhe puts them to work on his\nplantation. Can you leave that\nalone?
+
+@049.07D8
+Being lectured about right and wrong\nby a Caribbean pirate...\nI can't believe you mean it.
+
+@049.0826
+Kekeke. I only want to make money.\nThat's the truth. But, you know...
+
+@049.086A
+If I'm taking it anyway, it feels\nbetter to rob a scoundrel. I want to\nsee my men grinning and Escante\ngnashing his teeth, both.
+
+@049.08FA
+Besides, the enemy of my enemy is my\nfriend, they say. So how about it?\nJoin me and let's take down that\nbastard Escante.
+
+@049.0970.0
+...Let's wait and see
+
+@049.0970.1
+That's enough!
+
+@049.09A6
+Hmph... Fine. It isn't too late to\ndecide whether to fight you after\nwe see how things go.
+
+@049.09F8
+All right, it's a deal.\nLeave these waters to me.\nI'll keep that Escante bastard in\ncheck for you.
+
+@049.0A5A
+What a convenient pact. I'll leave\nthe Caribbean to you for now, but if\nyou betray these people, I will crush\nyou at once. Be warned.
+
+@049.0ADC
+Heh heh, if you can.\nWell, no need to worry about me\nbetraying anyone.
+
+@049.0B1C
+...We'll see.
+
+@049.0B4A
+That's enough.\nI didn't come to hear your excuses.
+
+@049.0B8A
+...So an outsider like you will never\nunderstand how things are here, is\nthat it?
+
+@049.0BEE
+If you want me as an enemy, fine.\nBut you won't have it your way that\neasily. I'll show you what Caribbean\npirates are made of.
+
+@050.0018
+Xian?
+
+@050.002A
+T-terrible news!!\nRichard has defected to Clifford's\nforces!!
+
+@050.0072
+Richard has?!
+
+@050.0092
+Hangzhou--
+
+@050.00B4
+Heh heh...\nHahahaha!!
+
+@050.00D6
+At last the time has come...\nThe time for our English Kingdom to\ntake the seas of the world!
+
+@050.0132
+{FI}...\nYou went too far...
+
+@050.0158
+If you had been content to police the\nwako at the edge of the East, the\nEnglish Kingdom might one day have\ntaken you in as a capable servant...
+
+@050.01D6
+You made us English truly angry...
+
+@050.020A
+Now, with {FI} away from the East,\nis the chance to finish the plan we\nhave prepared for years...
+
+@050.024E
+You have nowhere left to return to.\nI am to be appointed Governor of\nEast Asia, after all. Heh heh heh.
+
+@050.02AC
+I enjoyed the time we spent.\nBeautiful Admiral.
+
+@050.02E0
+Lord Clifford...\nPlease await good news.
+
+@050.0358
+Most of Ming's home share has fallen\nto Clifford's forces!!
+
+@051.0010
+N-no... that my plan was discovered\nso soon!
+
+@051.0048
+That is your folly.\nI never trusted you from the start.
+
+@051.009E
+When I heard you were staying in\nHangzhou, I felt a bad premonition.\nSending word home beforehand was\nthe right call.
+
+@051.010E
+Grrr...
+
+@051.011E
+Playing a useless man of empty words\nto lull me into carelessness, that was\nclever.
+
+@051.0166
+...A little longer, and everything west\nof India would have become Lord\nClifford's sea!
+
+@051.01C0
+What folly...\nYou know what becomes of traitors,\ndon't you?
+
+@051.0210
+...Until a hundred years ago, the\nseas of the world were completely\ndivided. We Westerners joined them\nthrough our great voyages.
+
+@051.0278
+Naturally, the interests should return\nto our hands! Y-you have no right to\ntake them from us!
+
+@051.02E2
+Gaah! Guhoh!!
+
+@051.031A
+L-Lord Clifford...!!
+
+@051.0362
+Did Richard truly believe that plan\nwould succeed?
+
+@051.03A6
+He didn't seem to give failure a\nthought.
+
+@051.03DE
+...I don't think so.\nClifford, of course, but Richard too\nmust have realized how reckless the\nplan was.
+
+@051.0456
+Richard too?
+
+@051.046C
+Yes. Knowing it, he simply believed in\nClifford blindly, and he seemed to\nrevel in that. Staking his own life.
+
+@051.04EC
+Then Clifford used Richard like that\nfrom the beginning...?
+
+@051.054E
+...Then that means!
+
+@051.0566
+Richard acted knowing he was a\ndisposable pawn... Now that I've turned\nback east, Clifford will make a new\nmove!
+
+@051.05CE
+Hm! Indeed!
+
+@052.0018
+Hey, Ms. {FA}.\nA Ming official is looking for you.\nYou should go back to Hangzhou.
+
+@052.0062
+Whoa!\nLady {FA} is back!
+
+@053.000C
+So now we have all the Victor's Marks...
+
+@053.003E
+...\nBut Admiral, nothing in particular is\nhappening, is it?
+
+@053.009E
+Maybe some other key is needed?
+
+@053.00D4
+Oh come on, spare me.\nWe have to search all over again?
+
+@053.0114
+Oh come on, spare me.\nWe have to search all over again?
+
+@053.0154
+No, nothing more is needed.
+
+@053.0188
+...The Marks themselves never held any\nparticular power.
+
+@053.01D8
+What do you mean?\nAre you saying everyone desperately\nsearched for something meaningless?
+
+@053.0226
+I had half a suspicion.
+
+@053.0246
+The Victor's Marks were relics tied to\nthe gods, heroes and legends revered\nin each region. Whether they're\ngenuine is doubtful, of course.
+
+@053.02BE
+But because people believed they were\ngenuine, they could become the\nMarks...
+
+@053.0302
+Because they believed?
+
+@053.031E
+So the Victor's Marks are also just\nillusions people created?
+
+@053.0362
+An illusion, yet not only an illusion.\nThat people believe in something\nmeans a great deal in itself.
+
+@053.03CA
+It's not only the Marks. Even in our\nhomeland, China, something similar\nhas been done for many years.
+
+@053.0444
+In China too?
+
+@053.045A
+In China too?
+
+@053.0470
+...The Imperial Seal!
+
+@053.0492
+Yes. The treasure held by every\nChinese emperor. When the dynasty\nchanges, the Seal passes to the new\nruler.
+
+@053.04F2
+By showing it, they proclaimed to all\nthe people that they were the sole\nruler of the Chinese Empire, ended\nwars, and kept the state together...
+
+@053.056C
+You mean the Victor's Marks could\nhave such power too?
+
+@053.05AA
+Everyone thinks that whoever holds a\nMark has the strength and character\nto match.
+
+@053.060A
+Perhaps it was believed that once\neveryone accepts that person as Victor,\nhis rivals give up pointless fights,\nand peace comes to the seas.
+
+@053.068E
+I see...\nThen will fighting at sea end forever\nfrom now on?
+
+@053.06D0
+I'd like to hope so. But a story that\nconvenient can't be true.
+
+@053.070E
+Every dynasty held the Seal, but in\nthe end every one of them fell.
+
+@053.0754
+In the end, it depends on the one who\nholds it. Would saying that sound\ncheap?
+
+@053.079C
+No. As you say, Admiral, it must\ndepend on our efforts now that we\nhold the Marks.
+
+@053.07FC
+Up to our efforts, eh...\nOh dear, my retirement looks to be\na while off yet.
+
+@053.084E
+Oh, only a while? How faint-hearted.\nYou'll work for a good while yet.\nThe rest of you, brace yourselves.
+
+@053.08BA
+Well, I've boarded one hell of a ship.
+
+@053.0906
+Hohoho.\nMaster Xian, let us old bones take\nit easy together.
+
+@053.0964
+Looks like we won't be out of work\nfor a while.
+
+@053.0996
+Hmph, leave it to me.\nI don't intend to lose to the young\nones yet.
+
+@053.09DA
+Now, we're going to Hangzhou in\ntriumph!
+
+@054.001C
+So now we have all the Victor's Marks...
+
+@054.004E
+...\nBut Admiral, nothing in particular is\nhappening, is it?
+
+@054.00AE
+Maybe some other key is needed?
+
+@054.00E4
+Oh come on, spare me.\nWe have to search all over again?
+
+@054.0124
+Oh come on, spare me.\nWe have to search all over again?
+
+@054.0164
+No, nothing more is needed.
+
+@054.0198
+...The Marks themselves never held any\nparticular power.
+
+@054.01E6
+What do you mean?\nAre you saying everyone desperately\nsearched for something meaningless?
+
+@054.0234
+I had half a suspicion.
+
+@054.0254
+The Victor's Marks were relics tied to\nthe gods, heroes and legends revered\nin each region. Whether they're\ngenuine is doubtful, of course.
+
+@054.02CC
+But because people believed they were\ngenuine, they could become the\nMarks...
+
+@054.0310
+Because they believed?
+
+@054.032C
+So the Victor's Marks are also just\nillusions people created?
+
+@054.0370
+An illusion, yet not only an illusion.\nThat people believe in something\nmeans a great deal in itself.
+
+@054.03D8
+It's not only the Marks. Even in our\nhomeland, China, something similar\nhas been done for many years.
+
+@054.0452
+In China too?
+
+@054.0468
+In China too?
+
+@054.047E
+...The Imperial Seal!
+
+@054.04A0
+Yes. The treasure held by every\nChinese emperor. When the dynasty\nchanges, the Seal passes to the new\nruler.
+
+@054.0500
+By showing it, they proclaimed to all\nthe people that they were the sole\nruler of the Chinese Empire, ended\nwars, and kept the state together...
+
+@054.057A
+You mean the Victor's Marks could\nhave such power too?
+
+@054.05B8
+Everyone thinks that whoever holds a\nMark has the strength and character\nto match.
+
+@054.0616
+Perhaps it was believed that once\neveryone accepts that person as Victor,\nhis rivals give up pointless fights,\nand peace comes to the seas.
+
+@054.069A
+I see...\nThen will fighting at sea end forever\nfrom now on?
+
+@054.06DC
+I'd like to hope so.\nBut a story that convenient can't be\ntrue.
+
+@054.071C
+Every dynasty held the Seal, but in\nthe end every one of them fell.
+
+@054.0762
+In the end, it depends on the one who\nholds it. Would saying that sound\ncheap?
+
+@054.07AA
+No. As you say, Admiral, it must\ndepend on our efforts now that we\nhold the Marks.
+
+@054.080A
+Up to our efforts, eh...\nOh dear, my retirement looks to be\na while off yet.
+
+@054.085C
+Oh, only a while? How faint-hearted.\nYou'll work for a good while yet.\nThe rest of you, brace yourselves.
+
+@054.08C8
+Well, I've boarded one hell of a ship.
+
+@054.0914
+Hohoho.\nMaster Xian, let us old bones take\nit easy together.
+
+@054.0972
+Looks like we won't be out of work\nfor a while.
+
+@054.09A4
+Hmph, leave it to me.\nI don't intend to lose to the young\nones yet. ...Hm?
+
+@054.09F0
+It seems the officials who've come to\ngreet us have arrived.
+
+@054.0A22
+Well, well, how grand.\nWhat a difference from a few years\nago.
+
+@054.0A5A
+Hard to believe they're the same men\nwho lumped us in with thieves.
+
+@054.0A98
+Heh.
+
+@054.0ABE
+Lady {FI}.\nThe preparations for the Imperial\nGuard review are complete.
+
+@054.0AE6
+C-come on, let's get going quick...
+
+@054.0B54
+(Glare.)
+
+@054.0B68
+Ah, no, please, make your appearance\nright away! Everyone is waiting with\ntheir necks stretched out, my lady.\nPhew...
+
+@054.0BDA
+Pfft!
+
+@054.0C18
+What's the matter?\nYou're awfully formal today.
+
+@054.0C58
+What do you mean, my lady?
+
+@054.0C76
+You are the commander of the Ming\nnavy. We are merely your retainers.
+
+@054.0CB6
+It feels stiff.\nPlease go on as you always have.
+
+@054.0CE6
+No, then we would set a poor example\nfor the other soldiers.
+
+@054.0D54
+Quite so, quite so.
+
+@054.0D7A
+It's going to be like this from now on?\n...Spare me.
+
+@054.0DC8
+Hehe.
+
+@054.0DDA
+Don't be unreasonable, boss. It's tough\non me too, I mean, on myself,\nyou know.
+
+@054.0E42
+Yeah, yeah, if I suddenly use stiff\nwords I almost bite my tongue.\n...Oh, right, I mean, yes, my lady.
+
+@054.0EA4
+Honestly, all of you.\n...But only for official duties.
+
+@054.0EE0
+There's no need to worry.\nThat will be the case.
+
+@054.0F22
+Admiral.\nThe troops are about to run out of\npatience.
+
+@054.0F58
+Come, let us go.
+
+@054.0F74
+Yes. Let's go.
+
+@054.0FA2
+Ah! We're finally appearing before a\ngreat crowd! I, I am feeling\ntremendously nervous, sir!
+
+@054.100A
+...All generals, fall in!\nFollow me!
+
+@054.1036
+Yes, my lady!
+
+@054.105A
+Okaaay!
+
+@054.106E
+As you command.
+
+@054.1082
+Behold, {FI} {FA},\nGrand General!
+
+@054.10BA
+\n\n--And so the tale comes to an end.
+
+@054.10E2
+\n\nHowever...
+
+@054.10FA
+The Ming dynasty, already losing the\npeople's support, would from here on\ntread a path to collapse, a reality\nno one could any longer resist.
+
+@054.117E
+\n\nAnd then...
+
+@054.1198
+Europe, whose monopoly on the world's\ninexhaustible wealth was blocked by a\nheroine who appeared suddenly at the\nends of the East,
+
+@054.11FE
+\n\nquietly awaits the Industrial Revolution.
+
+@054.1226
+\nAt this moment, there is no way to\nknow the achievements those women\nwould contribute to later history.
+
+@054.1264
+\n\nNo way to know--

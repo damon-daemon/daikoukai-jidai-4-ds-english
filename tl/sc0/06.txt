@@ -1,0 +1,938 @@
+@085.000A
+...Admiral {FI}.\nShall we try talking to Admiral\nAdelnkatz once more?
+
+@085.0050.0
+Yes, let's
+
+@085.0050.1
+No
+
+@085.006E
+Let's do it.\nWe need his strength.\nThis time I'll go alone.
+
+@085.00B8
+Admiral, are you in?\nIt's {FI} {FA}.
+
+@085.00DE
+...Ah, it's you.
+
+@085.00F2
+I've studied hard in my own way.\nPlease lend us your strength!
+
+@085.012A
+...Oh?\nSo you've trained a little.
+
+@085.0150
+Since you came here, I haven't had\na single night of peace. I simply\ncould not forget your words.
+
+@085.01BC
+Then...!?
+
+@085.01CE
+Very well.\nI shall sail aboard your ship.
+
+@085.020A
+...Let's try again another time.
+
+@086.000A
+A sailor who reaches the Caribbean\nmust start with a glass of rum.\nCome along, come along, to the tavern!
+
+@086.007C
+Wh-wh-wh-what in blazes?!
+
+@086.00B6
+Eeek! Earthquake! Fire!\nIt's the end of the world!
+
+@086.00F4
+Ugh, shut up already!
+
+@086.0118
+Whoa, that scared me.
+
+@086.0134
+Oh, brother. That bomb nut again...
+
+@086.016E
+B-bomb?!
+
+@086.018E
+He calls himself the\n"Wizard of the Blazing Blast."
+
+@086.01C4
+Blazing blast? Whatever.\nThat's an ugly name.
+
+@086.01F8
+What kind of person is he?
+
+@086.0214
+You mean Eccentric Charles?\nI'd rather not talk about him,\nto be honest.
+
+@086.0278
+??
+
+@086.0284
+There's a oddball living in a factory\non the edge of town, researching\nexplosives and cannons. Every now and\nthen he spreads that terrible racket.
+
+@086.02FE
+Julio, to make bombs you need to\nknow about cannons too, right?
+
+@086.0348
+Hmm. Bombs and cannons aren't\nquite the same thing, but...\nI suppose they're not far apart.
+
+@086.03B0
+Hmm. By my calculations, he'd be\nan exceedingly valuable boost\nto our ship's firepower.
+
+@086.040C
+...So he might be useful for\nsomething, is what you're saying.
+
+@086.043C
+Oh! Are you sailors?\nYou'd take him somewhere else?
+
+@086.04A8
+...Somewhere else, huh.\nThe open sea could be called\nsomewhere else, I suppose...
+
+@086.04EC
+Well, I guess so.
+
+@086.0502
+Oh! That's just what I... Ahem!\nI mean, he'll surely be a great\nhelp to you!
+
+@086.055C
+I don't get it, but this is\ngetting kind of weird, huh?
+
+@086.05AA
+Charles, I know you're in there!!
+
+@086.05D4
+Oh, hello, sir. Thanks for the\nother day.
+
+@086.05FA
+This isn't about thanks.\nYou did it again today.
+
+@086.062C
+I told you last time, didn't I?\nThis isn't a failure. I'm just a\nlittle short of success. Besides...
+
+@086.0694
+A-all right, I get it, I get it.\nI didn't come here to complain\ntoday.
+
+@086.06E2
+You have visitors.\nThey want to talk to you.
+
+@086.0714
+Oh, hello.
+
+@086.072A
+Um...? Have we met before?
+
+@086.075C
+Never mind that, just hear them out.\nI'm sure it'll be good news for you.
+
+@086.07BE
+I'll leave the rest to you.\nWell, that's that.\nSee you, Charles!
+
+@086.081A
+Hey, wait! Sir!
+
+@086.0844
+He probably finds science too hard.\nCan't blame him for not\nunderstanding.
+
+@086.088E
+...I'm the one who doesn't\nunderstand you.
+
+@086.08BE
+Did you say something?
+
+@086.08EC
+N-no, nothing at all.\n(Clau! One word too many!)
+
+@086.0924
+...Um, we heard a person who knows\nabout bomb... I mean, gunpowder and\ncannons lives here...
+
+@086.097C
+Yes! That's my research!\nOh! Are you from the Academy?
+
+@086.09BC
+...Hmm.\nYou don't look very intellectual.\nAnd not sponsors either, it seems.
+
+@086.0A06
+Hey! You've got no right to\njudge us! Say whatever you like,\nwill you!
+
+@086.0A52
+Um, please forget about him.\nWe came here to invite you to\njoin us.
+
+@086.0AA8
+We're mates sailing around the world\nby ship. We'd love to have your\nskills in our fleet...
+
+@086.0B02
+Oh, ho, mates, I see.\n...\n...By the way, are you interested in science?
+
+@086.0B4A
+Huh? Science?
+
+@086.0B68
+Science is simply wonderful!
+
+@086.0B92
+Um...
+
+@086.0BA0
+Science is curiosity, asking "What\nhappens if I do this?", plus\nhands-on experience.
+
+@086.0BF0
+In other words, it advances through\nrepeated experiments!
+
+@086.0C42
+Hmm... Is that so?
+
+@086.0C68
+Sailing is the same! The world opens\nup through curiosity, courage\nand action...
+
+@086.0CAE
+Just thinking about it is wonderful!!\nSailing is science, through and through!
+
+@086.0CEA
+I can't quite follow, but...\nin the end, does that mean you'll\ncome with us?
+
+@086.0D46
+Yes, of course!!\nA victory for science!!
+
+@086.0D7A
+...I don't get this guy at all.
+
+@087.000A
+So this is Zipangu. What a unique\nculture.
+
+@087.0034
+What a weird hairstyle.\nIs their sense of beauty broken?
+
+@087.007C
+Now, now, don't say that.\nEvery culture has its own\nidea of beauty.
+
+@087.00C4
+Is that so...
+
+@087.00E2
+Hey, hey, hey!\nYou lot, foreigners from the south?
+
+@087.0110
+I hear you've been throwing your\nweight around in this "Land of the\nRising Sun" lately! Well?!
+
+@087.015C
+This is bad, {FI}...\nSome weirdo's got his eye on us.
+
+@087.0192
+Let's ignore them...
+
+@087.01BA
+Best to avoid trouble.
+
+@087.01E8
+Ow! Ow, that hurts, boss!
+
+@087.020E
+Oh, no! You bumped into my poor\nlittle henchman on purpose! His bone's\nbroken! This is serious!
+
+@087.027C
+Th-that's not fair!\nYou're the ones who bumped\ninto us!
+
+@087.02B6
+{FI}!\nIt's no use talking.\nThese guys won't listen to reason.
+
+@087.0308
+Well, well. Trouble finds us\nright after we say that.
+
+@087.034E
+Oh? You want to fight?\nBoss, they bumped into us and now\nthey're picking a fight!
+
+@087.03B4
+The sun god might forgive that, but\nKurushima here will not!\nGet them!
+
+@087.040C
+Yes, boss!
+
+@087.041E
+What do we do...\nThere are quite a few of them...\nCan we handle this?
+
+@087.0460
+Even if there are too many, we have\nto fight! Old man, hide behind us!
+
+@087.04A6
+I shall assist you!
+
+@087.04BA
+???
+
+@087.04E2
+...Leave this to me.
+
+@087.04FE
+Huh?\nYou! You're a samurai, and you\ntake the foreigners' side?!
+
+@087.0540
+...I shall decide right from wrong.
+
+@087.0564
+Cocky bastard!\nBoys!\nGet him!
+
+@087.0596
+Yes, boss!
+
+@087.05B4
+Waaah!
+
+@087.05C4
+We're done for!
+
+@087.05DC
+Remember this!
+
+@087.05F4
+...Flat of the blade. I did not cut\nthem.
+
+@087.0620
+Wow... I couldn't even see\nhis sword move.
+
+@087.064A
+Y-yeah, that was amazing...
+
+@087.067A
+Truly the mystery of the East.
+
+@087.069C
+...You saw a shameful side of my\ncountry. I sincerely apologize.
+
+@087.06DA
+No, you helped us...
+
+@087.06F6
+Forgive me, but you appear to be\nsailors who travel the world.
+
+@087.0736
+If you do not mind, would you take\nme along on your voyage?
+
+@087.076C
+I wish to see the world.
+
+@087.079A
+...Sure, but we won't be able to\nreturn to Japan for a while.
+
+@087.07C8
+I have no intention of returning.\nBorn a man, I wish to test myself\nin a wider world...
+
+@087.0832
+Well then, nice to meet you. I'm\n{FI} {FA}.
+
+@087.0858
+I am\nYukihisa Genjo Shiraki.
+
+@088.001A
+...So this is...
+
+@088.002C
+Whoa, amazing...
+
+@088.0042
+It's so...gorgeous...
+
+@088.0064
+...Huh? Wait a second.\nIf we found it first, where did that\nJulian guy go?
+
+@088.00C8
+...Come to think of it, did we\nmaybe pass him somewhere?
+
+@088.0100
+Oh! Th-that thing in your hands...
+
+@088.012A
+Hey, it's you!
+
+@088.0140
+You're Julian, aren't you?\nNice to meet you. I'm\n{FI}.
+
+@088.0178
+Huh? Have we met somewhere?
+
+@088.019C
+Not directly. We were near you in\nthe Hangzhou tavern when you and\nMeihua were talking.
+
+@088.01FA
+We overheard the story of the Silla\nGold Crown, thought it sounded fun,\nand came here to look for it too.
+
+@088.0266
+What?!
+
+@088.0276
+That's awful...\nIt was supposed to be my present\nfor her...
+
+@088.02BE
+I've lost all face!\nI can't look Meihua in the eye now...
+
+@088.030C
+Th-this is bad.\n{FI}, what do we do?
+
+@088.032E.0
+I meant to give it to you
+
+@088.032E.1
+I meant to give it to her myself
+
+@088.037E
+Um, don't get the wrong idea.\nI was moved by how hard you were\ntrying and meant to help you quietly...
+
+@088.03E2
+Wh-what! Really?!
+
+@088.0402
+Yes, really.\nPlease hurry and give it to\nMeihua.
+
+@088.044C
+H-how wonderful... You're so kind\nto a total stranger! You're so good!\n...Well, excuse me!
+
+@088.04B8
+H-hey...\nHe's already gone. Fast guy.
+
+@088.04EC
+This is fine. We learned what the\nSilla Gold Crown is like, and he needs\nit more than we do.
+
+@088.0558
+You're such a softie... Well, that's\njust like you, {FI}.
+
+@088.05A0
+Sorry... But I wanted to give the\nSilla Gold Crown to Meihua too.
+
+@088.05FC
+What!\nThen you're my rival in love!\nI can't just stand here!\nI need another plan right away...
+
+@088.065A
+Oh, Julian...
+
+@088.0676
+So fast... He's gone.
+
+@088.069A
+Did I do something wrong...?
+
+@088.06B8
+It's fine, it's fine.\nHe's the one who got here late.\nCome on, let's go home.
+
+@090.000A
+Sigh...
+
+@090.0018
+Jenas, what's wrong?
+
+@090.0036
+Oh, Admiral.\n...\nShips are wonderful, aren't they?
+
+@090.005C
+?
+
+@090.0066
+If I had my own fleet and sailed,\nI would like to trade in the\nMediterranean.
+
+@090.00BA
+Why the Mediterranean?
+
+@090.00D6
+It's the most varied sea. Ships of\nall shapes come and go between ports\nof many countries. Just thinking about\nit excites me.
+
+@090.014E
+I see. Understood.\nWhen I put Jenas in charge of a\nregional fleet, it'll be the Mediterranean.
+
+@090.01A0
+Really? I'd be delighted.\nAny time is fine, by the way,\nbut please don't forget.
+
+@090.0200
+Yes, I'll remember.
+
+@091.000A
+You there, Captain.
+
+@091.0020
+Me?
+
+@091.0032
+Yes, you.\nDo you believe in miracles?
+
+@091.006E.0
+I do
+
+@091.006E.1
+I don't
+
+@091.008E
+Really? Believing in miracles\nthese days is rare. You seem a bit\nunreliable for a captain.
+
+@091.00E8
+Hey, how dare you say that to\nour Admiral!
+
+@091.011A
+Hmph. Am I wrong?
+
+@091.0138
+You!
+
+@091.0148
+But there are people who don't believe\nin miracles and end up shipwrecked!\nYou're far better off than they are!
+
+@091.01A8
+Huh?
+
+@091.01B6
+Sorry. I shouted without meaning to.\nI didn't mean to speak ill of\nyour captain.
+
+@091.0204
+I can't figure this guy out...
+
+@091.0226
+Truth is, I wanted a captain who\nbelieves in miracles to carry this.
+
+@091.026A
+I've been calling out to every ship\nthat docks here. You folks are\nexactly the hundredth.
+
+@091.02C4
+What's this?
+
+@091.02D4
+A bullet pendant said to call\nmiracles.
+
+@091.02FE
+Can I really take something so\nimportant?
+
+@091.0326
+Yes, I want someone like you to have\nit. It was my lucky charm, but...\nI can't go to sea anymore.
+
+@091.039C
+...Okay.\nThen I'll gladly take it.\nThank you.
+
+@091.03E8
+{FI}'s Luck\nwent up by 1!
+
+@091.040C
+Fernando's Luck\nwent up by 1!
+
+@091.0444
+Getting mixed up with weirdos ruins\nyour luck. Let's get out of here.
+
+@091.0480
+Y-yeah.
+
+@091.04A4
+{FI}'s Spirit\nwent up by 1!
+
+@091.04C8
+Fernando's Spirit\nwent up by 1!
+
+@092.000A
+Tomatoes are delicious!\nMunch, munch.
+
+@092.0030
+Yeah, they are.
+
+@092.0046
+At first I thought it was an apple.\nMunch, munch.
+
+@092.0070
+Really?
+
+@092.0082
+It's sweet and so yummy!\nMunch, munch.
+
+@092.00AE
+......(What an appetite.)
+
+@092.00C8
+Hahaha, you two must really\nlike the tomatoes.
+
+@092.0106
+Well, if you like them that much,\nhave this.
+
+@092.013A
+What's this?
+
+@092.0150
+A tomato sapling.
+
+@092.0168
+Is that okay?
+
+@092.017E
+Sure.\nYou praised the tomatoes we sell\nso much, after all.
+
+@092.01C8
+Thank you very much.
+
+@092.01E6
+We came out ahead, Admiral.\nMunch, munch.
+
+@092.0208
+......(He's still eating.)
+
+@093.000A
+Ookiki-kii!
+
+@093.0024
+Whoa, what is it?!
+
+@093.003C
+Ookiki-kii!
+
+@093.0056
+You! Go away!
+
+@093.0076
+Ookiki-kii!
+
+@093.0090
+Hey! Give it back!
+
+@093.00A8
+What's wrong?\nWhat on earth are you doing?
+
+@093.00D6
+My banana got taken!\nSomething snatched the banana\nI was eating!
+
+@093.011A
+"Something"?
+
+@093.0130
+Well, that guy... He's gone.\nHe ran away! Come back!
+
+@093.0170
+So? Did you catch it?
+
+@093.018E
+He's really quick. And he throws\nthings at me, like stones and\nseeds.
+
+@093.01DE
+Let me see.\nHmm, there are seeds I've never\nseen. Could be a big discovery.
+
+@093.0224
+Forget that, give back my banana!!
+
+@093.024C
+Give back my banana!! Give back my\nbanana!!
+
+@093.0278
+...\nEmilio, shall we go eat this\ntown's specialty?
+
+@093.02AC
+...Your treat?
+
+@093.02BE
+Of course, my treat.
+
+@093.02EA
+Yay!
+
+@095.000A
+!\nThis place...
+
+@095.001C
+What's wrong, Gerhard?
+
+@095.003A
+Nothing.\nIt just brought back old memories.
+
+@095.0062
+Memories?
+
+@095.006E
+Once, when I fought enemy pirates\naround here, I lost my sword.
+
+@095.00AE
+Your sword?
+
+@095.00BC
+Yes. It was just an old Katzbalger,\nbut it was far more comfortable to\nuse than it looked. I used it\nfor many years.
+
+@095.0134
+I see...\nDidn't you find it when you searched?
+
+@095.0160
+It was nowhere to be found...\nSome local fisherman probably picked\nit up and sold it for next to\nnothing.
+
+@095.01C8
+You think so?\nIf it's such a good sword, I'm sure\nsomeone is taking good care of it.
+
+@095.020E
+...A sword like that is rare to find.\nIf someone who knows its worth uses\nit, I would feel a little easier...
+
+@097.0008
+Admiral, what's a nukenin?
+
+@097.002A
+Nukenin?
+
+@097.003C
+Someone who used to be a ninja.
+
+@097.0064
+Oh, ninja! ...So what's a ninja?
+
+@097.0098
+A clan in Japan that excels at\nsecret operations.
+
+@097.00CA
+Hmm, Japanese spies, then.\nHave you ever met one?
+
+@097.0118
+No, never. The ninja code says\nanyone who sees their identity\nmust die...
+
+@097.015A
+Mamma mia!
+
+@097.0170
+Leaving the shinobi is a matter of\nlife and death, of course. A nukenin\nwho escaped the clan's pursuit must be\na ninja of extraordinary skill.
+
+@097.01EA
+What about this nukenin?
+
+@097.0210
+Well, actually, I just overheard\nsomething about their outfit.
+
+@097.0256
+It's all black, called the "Rogue Ninja\nGarb." And it's armor, not clothes,\nthey say.
+
+@097.02B2
+Armor?
+
+@097.02C0
+I don't know the details, but they say\nit's very light and sturdy.
+
+@097.0304
+Oh, such a thing existed?\nThis is the first I've heard of it.
+
+@097.032E
+Maybe it's really rare? Even\nYukihisa, a Japanese, doesn't know\nabout it.
+
+@097.0384
+No, I am ashamed.
+
+@097.039A
+Yukihisa, you don't have to apologize.
+
+@097.03C2
+But...
+
+@097.03D2
+I'm the one who brought it up.\nYukihisa, you're really funny.
+
+@097.041A
+Funny?\n...What do you mean by funny?\nInsult me and I will show no mercy.
+
+@097.0462
+Oh yeah? What does "no mercy" look like?
+
+@097.0486
+Hey, you two, stop it.\nThis isn't something to fight over,\nis it?
+
+@097.04CE
+...Forgive me.
+
+@097.04E4
+Sorry.\nMy bad.
+
+@097.04FE
+...Still, that black outfit armor,\nif it exists, would surely be\nin Japan.
+
+@097.0550
+Probably.
+
+@097.0560
+I think so too.\nLet's look for it when we have time.
+
+@100.000A
+Oh!\nYou two deal in amber?
+
+@100.0044
+Yes, we do.\n...Looking at amber's glow is like\nbeing drawn back to ancient times.
+
+@100.0094
+Hm? What are you talking about?
+
+@100.00B2
+Amber is ancient tree sap that hardened\nand was reborn as a gemstone.
+
+@100.0104
+Look, you can see a bee inside this\npiece, can't you? It has slept for\nthousands of years in a sepia-colored\nmicrocosm. How mysterious...
+
+@100.0188
+Huh? Kid, how do you know such\ncomplicated stuff?
+
+@100.01C6
+The power of science. Science is the\nstudy that tries, with human wisdom,\nto unravel a little of the world's\nmiracles beyond human understanding.
+
+@100.023C
+??? I have no idea what you mean.\n...Oh, right.\nAmber reminds me of something.
+
+@100.0294
+What is it?
+
+@100.02A6
+Off this cape there are a few islands,\nand I heard one of them has a\nstrange place that glows amber.
+
+@100.031A
+Amber-colored? A vein of ore, maybe?
+
+@100.033E
+Who knows. I don't know what it is.\nIt's just a rumor, after all.
+
+@100.0388
+I see. Thank you for telling me.\nThat appeals to my scientific\ncuriosity.
+
+@101.000A
+Sigh...
+
+@101.0018
+What's wrong, Julio?
+
+@101.0038
+Oh, I'm just worried about my\ngranddaughter.
+
+@101.0058
+You mean Christina.
+
+@101.0076
+I wonder if she's doing well.\nLaugh at me, a doting parent...\nno, a doting grandpa.
+
+@101.00C2
+Christina will be fine, I'm sure.\nShe's as strong as a reincarnation\nof Athena.
+
+@101.0114
+Athena?
+
+@101.0124
+A goddess of Greek myth. The Romans\ncall her Minerva.
+
+@101.016C
+I may have heard it long ago, but I\ndon't know much about gods.
+
+@101.01B8
+...But that Mine-something name\nsounds familiar.
+
+@101.01F6
+Anyway, Christina will be fine.
+
+@101.0222
+...Thank you.\nYou trust Christina, Admiral. But to me\nshe's just my granddaughter.\nUnderstand an old man's heart.
+
+@101.02A0
+...
+
+@101.02AA
+...Oh!\nThat's it, I remember!
+
+@101.02D0
+?
+
+@101.02DA
+Yes, yes, I'm sure they called it\nMinerva's Shield.
+
+@101.0320
+A legendary armor rumored to sleep\nin the Mediterranean or the Black Sea,\nsomewhere around there. I never\nsearched seriously before...
+
+@101.039C
+When I heard Christina is like Minerva,\nI wanted it badly. If it truly\nexists, I'd like Christina to have it...
+
+@101.0420
+Julio...
+
+@101.0434
+Sorry for the silly talk.\nIt's an old man's nonsense, forget it.\nWell, back to work.
+
+@101.0496
+Come, Admiral, you have work too.
+
+@101.04B6
+Yeah, you're right.
+
+@102.000A
+Admiral, got a minute?
+
+@102.0026
+What is it?
+
+@102.003A
+There's a bird called the peacock,\nthe most beautiful in the world.\nI'd love to see one.
+
+@102.007E
+What's this all of a sudden...\nOh, you heard another rumor again,\ndidn't you?
+
+@102.00BC
+Yeah, I did.\nIt's called the "Peacock Mail."
+
+@102.00F6
+A mail made with peacock feathers?
+
+@102.0124
+So close! Really close!\nIt's a mail with peacock tail\nfeathers fixed on the back.
+
+@102.0176
+Doesn't sound very strong.
+
+@102.0198
+But the sight overwhelms enemies and\nthey freeze in place. That's its\nbiggest effect, they say.
+
+@102.01EE
+Hmm... Is it really useful?\nSo where is it?
+
+@102.022E
+Somewhere on a small island far, far,\nfar southeast of the Cape of Good Hope.\nThat's all I could find out.
+
+@102.0296
+That alone gives me no idea\nwhere to look.
+
+@102.02C0
+But I want to see it.\nI bet it's something amazing we've\nnever seen before.
+
+@102.0312
+Right.\nI'll keep it in mind anyway.\nDon't get your hopes up.
+
+@102.0348
+I know.
+
+@103.0008
+Admiral, got a minute?
+
+@103.0024
+What is it?
+
+@103.0038
+Let's look for the Jaguar God Vest.
+
+@103.0062
+What's that?
+
+@103.0074
+Just like it sounds, a vest said to\nhold the Jaguar God.\nIt's in the New World, supposedly.
+
+@103.00C4
+You heard another new rumor, huh.
+
+@103.00EC
+Yeah.\nBut this is the last one.
+
+@103.010C
+The last?
+
+@103.011E
+Finding the locations is pretty hard.\nAnd I'm already sick of it.
+
+@103.015C
+My interest never lasts long. I like\nanimals, but it's boring if I can't\ncook them. Oh, of course, I'll tell you\nif I happen to hear something.
+
+@103.01D8
+I-I see. Back to the vest, then.\nDon't you know where in the New World\nit is?
+
+@103.0228
+Hmm.\nMaybe the west side of the New World.
+
+@103.024E
+That's too broad.\nCan't you narrow it down?
+
+@103.0278
+Sorry.\nThat's all I found out.\nSo just keep it in mind, okay?
+
+@103.02CE
+Haha. I will.

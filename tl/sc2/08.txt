@@ -1,0 +1,911 @@
+@148.0012
+Hey, mister.
+
+@148.0028
+What can I do for you, miss?
+
+@148.0046
+Um...\nDo you know Mr. Coen's son?
+
+@148.0078
+...Where did you hear about that, miss?
+
+@148.009A
+Oh, around...
+
+@148.00AE
+Ah... That boy really did have a face\nas pretty as a girl's.
+
+@148.00F2
+How long has it been since we last saw\nhis wife and child, I wonder...\nSomeone said they left the house, though.
+
+@148.0150
+Where are his wife and child now?
+
+@148.017A
+Who knows... Mr. Coen never talks\nabout it, not a word.\nThat was the last of those two...\nI haven't heard a rumor since.
+
+@148.01DC
+Look, I really, really want to meet\nthat child! Anything at all, please,\ntell me what you know!
+
+@148.023A
+Hmm, even if you say that...\nI can't even recall the real name.\nBack then we called him "Kamil," though.
+
+@148.02B4
+What, Kamil?!
+
+@148.02D6
+Kamil?! Mister, did you just say\n"Kamil"...?
+
+@148.030C
+That's right.\n"Kamil" is a girl's name, isn't it?\nHe had such a pretty face that\nthe nickname just stuck.
+
+@148.037E
+Hm? Miss, is something wrong?
+
+@148.03A6
+N-no, it's nothing.\nThank you.
+
+@148.03D0
+Sorry I couldn't be more help.
+
+@148.03F8
+Coen's son is... Kamil...?\nCome to think of it, I don't know\nanything about Kamil at all...
+
+@148.0464
+Me neither... I've known him for ages,\nbut a secret like this...
+
+@148.04A2
+And about his father, he only said\nhe had passed away...
+
+@148.04D8
+Kamil... Maybe you knew about Coen's\nmethods...\nThat's why you opposed it so much...
+
+@148.0548
+He knew, but couldn't say it, and\nwas torn up inside...\nThat idiot...
+
+@148.059A
+Poor Kamil...
+
+@148.05BA
+I...\n...\nI'm sorry, Kamil...
+
+@149.000C
+Hey, this "Tang Bamboo Craft"\nis built so intricately, isn't it?\nJust looking at it gives me a headache.
+
+@149.0084
+Just looking at it makes me hungry,\nI'll tell you.
+
+@149.00CC
+But the "Bamboo Craft Diagram"\nshows how it's made.\nJust follow it step by step.
+
+@149.0130
+I'm no good at this stuff!\nThis is Kamil's specialty, right?
+
+@149.0178
+...Yeah, yeah. So you do this here...\nand this part comes off...
+
+@149.01B2
+...Phew. I think that's got it all\ncome apart.
+
+@149.01EC
+That's Kamil for you!\nYou're so good at fiddly stuff.
+
+@149.021E
+Tch, flattery is {FI}'s\nspecialty at times like this.
+
+@149.025A
+What?! I'm being serious!\nThat's it, no more compliments from me!\n(Thump!)
+
+@149.02B4
+I really respect whoever came up\nwith this thing.
+
+@149.02DE
+But couldn't you take it apart just\nby following the "Bamboo\nCraft Diagram"?
+
+@149.033A
+I can't, that's why I'm saying it!\nForget it. You do it.
+
+@149.0378
+Me?\nSo you do this here... and this comes off...\nTch, this is a bigger pain than\nreading dice.
+
+@149.03CC
+There you go.\nThat should be completely apart.
+
+@149.0408
+Ow ow ow... I was joking!\nHuh?\nThere's something drawn on the back\nof this bamboo!
+
+@149.0454
+N-not bad.
+
+@149.0468
+Well, it's skill.
+
+@149.047C
+Hey, there's something drawn on the\nback of this bamboo.
+
+@149.04B0
+It's a map!\nIt must be a map to the East Asia\nVictor's Mark!
+
+@149.0500
+All right!\nLet's go look for it right away!
+
+@149.052A
+Lucky us.\nLet's find that Victor's Mark in no time!
+
+@150.0022
+Yo!
+
+@150.0030
+Oh, Mr. Clifford!
+
+@150.0064
+Ah, Sir Clifford!
+
+@150.0086
+It's been a while. I've heard the\nrumors. Sounds like you've been busy\nall over the place.
+
+@150.00D8
+Thanks to you. It sounds like you've\nbeen busy as well, Mr. Clifford.
+
+@150.011A
+If you're here, does that mean you're\nexpanding your forces in the\nNew World?
+
+@150.016A
+Well, something like that...
+
+@150.018A
+I read your letter. Did something\nhappen?
+
+@150.01B0
+Yes. We're in a bit of trouble.\nThere are three powers here in the\nNew World right now.
+
+@150.01F8
+Maldonado's army, Escante's army,\nand mine. But Maldonado and Escante\nhave joined hands and become one\nhuge power.
+
+@150.0280
+Well, that's rough.
+
+@150.029E
+Because of that my army is boxed in\nevery which way. I swore they were my\nprey, so it's awkward to say this,\nbut...
+
+@150.0310
+Which means... you want me to give\nyou "a little help"?
+
+@150.0350
+As expected, you catch on quick.
+
+@150.036C
+Maldonado's army and Escante's army...\nneither one is going to be easy.
+
+@150.03B8
+So here's the plan.\nFirst we hit Maldonado!
+
+@150.03E0
+Luckily, they still don't think the\n{FO} would come to the New World.\nWe can pull it off now.
+
+@150.0450
+Ah, so we catch them off guard.\nThat is a fine plan!
+
+@150.048A
+But the problem is Escante. His\nstrength and numbers are nothing\nlike Maldonado's.
+
+@150.04E2
+So even while we hit Maldonado, we\nbuild up our forces little by little\nto prepare for Escante.
+
+@150.0548
+Hmm... I wonder if that'll work out.\nBut I can't think of anything else...\nAll right. I'll give it a try.
+
+@150.05A6
+Count on you.
+
+@151.0022
+Teaming up with Escante was fine, but\nI just can't trust that man.
+
+@151.0058
+Rumor has it he plans to break away\nfrom the homeland and build a new\ncountry...
+
+@151.00B2
+It's fine for now, but once there's no\n"benefit" to his alliance with me,\nmy army will very likely be crushed...
+
+@151.010C
+It's fine for now, but once Clifford\nis driven off, my army will very\nlikely be crushed...
+
+@151.015E
+Hmm...\nWith some achievement, I could ask the\nCrown and expand my power...
+
+@151.01AE
+Phew, I'm beat...\nMister, a drink for me, please.
+
+@151.01F6
+Food for me!
+
+@151.0222
+Same as Emilio for me, too!
+
+@151.0250
+You... Every time I'm about to eat or\ndrink something, you're always there,\naren't you?
+
+@151.029C
+Right away.
+
+@151.02AA
+Hm, a woman I don't know...\nWoman, where are you from?
+
+@151.02EC
+Thank you for asking!\nI, the great me, was born in Paris,\nFrance...
+
+@151.032A
+I wasn't asking about you!
+
+@151.0356
+"Woman" means me?\nI have a name, you know!\n{FI} {FA}!
+
+@151.039C
+{FI}... Hm...\nCould you be...\nof the {FO}...?
+
+@151.03C4
+Oh? You know me?\n...Don't tell me you're\nVazquez de Maldonado?
+
+@151.043A
+So this is Maldonado...
+
+@151.0460
+So this is Maldonado...
+
+@151.0482
+I knew it!\nIf you're here, then...\nyou mean to expand into the New World!
+
+@151.04D4
+Something like that.\nNice to meet you, rival.
+
+@151.0506
+Hmph, what does a brat from little\nHolland know! Invading Spain's trade\ndomain is outrageous!
+
+@151.0564
+Stop calling us little! How rude!\nAnd where I do business is my own\nbusiness!
+
+@151.05C4
+...Here we go again.
+
+@151.05F6
+Looks like the usual is coming.
+
+@151.0628
+I won't take that from you!
+
+@151.0654
+!! Look out!
+
+@151.0670
+(Crash!)
+
+@151.0682
+Eek!
+
+@151.06A6
+What are you doing?!
+
+@151.06BE
+Hey!\nThrowing a bottle at somebody is\ndangerous!
+
+@151.0718
+Scoundrel!\nHow dare you be so rude to a lady!
+
+@151.0748
+That was a warning.\nNext time I'll really hit you!
+
+@151.0774
+Hey, old man!\nNo more drinks. With a brat like this\naround, the liquor tastes awful.
+
+@151.07BC
+Y-yes sir.\nUm, then, about the bill...?
+
+@151.07E2
+"Bill"?!\nDo you know who you owe for the\npeace you live in?!
+
+@151.083E
+Y-yes...\nOf course, there's no charge.
+
+@151.089A
+What a jerk. I'll beat him senseless...
+
+@151.08C2
+Stop it.
+
+@151.08D2
+Don't stop me!
+
+@151.08E4
+Not now. We'd cause trouble for\nthis shop.
+
+@151.090E
+Damn it...
+
+@151.0928
+Tch, I'll go drink at home!\nWhat an irritating brat!
+
+@151.0966
+I'll smash the {FO} to pieces!\nH-huh?\nCome to think of it, maybe this is an\nunexpected windfall...?
+
+@151.09BE
+Just like a moth flying into the flame!\nIf I crush her and the Crown\nrecognizes it, I might be allowed\nto expand...
+
+@151.0A2C
+I might even rival Escante...\nL-lucky!
+
+@151.0A76
+Little miss, are you hurt?
+
+@151.0AAE
+Admiral, are you all right?
+
+@151.0ACE
+Yes, I'm fine. Honestly, this is why\nI hate soldiers!\nWhat about you, mister? Getting\nstiffed on the bill like that...
+
+@151.0B30
+Can't be helped.\nHe's part of the Spanish Empire's navy.\nWe can't go against him...
+
+@151.0B78
+No way! Don't give up!\nThis is just plain bullying!\nThat thug... I'll teach him a lesson!
+
+@151.0BE8
+Did it miss you? Are you hurt?
+
+@151.0C22
+Admiral, are you all right?
+
+@151.0C42
+Yeah... That's why I hate soldiers!\nThey think everyone will listen if they\nthrow their weight around!
+
+@151.0CBE
+Except for Hodrum, though...
+
+@151.0CE2
+Ugh, now I'm furious!\nI'll never forgive a brute like that!\nYou just wait!
+
+@152.000C
+T-that "Ancient Coin"...
+
+@152.0030
+Huh? What about it?
+
+@152.0050
+That's a map to the legendary Victor's\nMark... Carrying something like that,\nyou're no ordinary person.
+
+@152.00AC
+Wow! So this is a map to the Victor's\nMark! But I can't tell which part\nis the map at all.
+
+@152.010C
+Hm? Is that so?\nI do remember hearing it's a map,\nthough...
+
+@152.015E
+Then it must be.\nI'll look into it.\nThanks, mister!
+
+@153.000C
+If the "Ancient Coin" is a map\nto the Victor's Mark...
+
+@153.0046
+Don't we need something else too?
+
+@153.0076
+Then it's this "Milk Jar,"\nright? How do we use it...
+
+@153.00B0
+How about putting the coin in that jar?
+
+@153.00D2
+Okay. I'll try...
+
+@153.00F0
+Scrub, scrub!
+
+@153.010A
+The surface of the coin is melting...\nIt's a map! There's a map drawn on it!
+
+@153.0142
+So we got the map to the Southeast Asia\nVictor's Mark too.\nAmazing, {FI}!
+
+@153.0190
+Come on, don't be so happy over just\na map. The hard part starts now.\nNow let's go find that Victor's Mark!
+
+@154.0324
+That man had incredible muscles...
+
+@154.034C
+He's wild, isn't he? So cool.
+
+@154.0382
+Hey hey, my meat is amazing too,\nright?
+
+@154.03AC
+Your meat is just flab, Emilio!
+
+@154.03D4
+...Honestly, {FI}.\nFor you, a man is only good if he's\ncool. You really have a tiny\nvocabulary.
+
+@154.0432
+Hmph, fine by me.\nHey, we have to recruit him!
+
+@154.046E
+...Yeah, yeah, whatever you say.
+
+@154.049E
+Heh heh heh, Kamil, you're being\nawfully agreeable today.
+
+@154.04DE
+...Look who's talking. You never\nlisten to my opinion at times like this.
+
+@154.051C
+Huh? I can't hear you.
+
+@154.053E
+Oh, it's that guy from before!\nHold on a second!
+
+@154.0578
+Hey, are you strong?
+
+@154.0594
+Can't you tell by looking?
+
+@154.05B0
+So you are strong.
+
+@154.05C6
+Don't talk to me like that.
+
+@154.05EA
+If you're strong, join us!\nI want to beat up the people who get\nin my way.
+
+@154.0632
+I won't babysit a kid.
+
+@154.0650
+Heh, then it's settled.\nI'm not a kid, after all.\nHey, what's your name?
+
+@154.06AA
+(T-that makes no sense at all.)
+
+@154.06E4
+This girl...\nI really can't figure her out...
+
+@154.0718
+Heh... Hehehe, ahahaha!
+
+@154.073C
+What? What is it?
+
+@154.0756
+Hehehe... No, it's nothing.\nYou win. I'm completely beaten.
+
+@154.0792
+With you around, I won't run short of\nfights.
+
+@154.07D4
+(T-that's true...)
+
+@154.07F0
+All right.\n...I'm Al.\nAl Ferid Singh.
+
+@154.0826
+Nice to meet you, Al. I'm\n{FI} {FA}.\nAdmiral, technically.
+
+@154.0860
+Yeah. Count on me, Admiral.\nThis is going to be ridiculous.\n...Heh heh, ahahaha!
+
+@154.08D6
+...How weird.
+
+@155.000C
+Hey there, you grunt!
+
+@155.002E
+...Is "grunt" me?
+
+@155.0052
+That's right. You.\nAre you a crew member of this ship?\nI'd like to meet the admiral...
+
+@155.009E
+Oh, I see. An introduction from the\nlikes of you won't help. Ahaha.\nSorry, sorry. You can go now.
+
+@155.0114
+Hey, you!\nWhat a rude little sissy!
+
+@155.014C
+S-I-S-S-Y?! I'm no sissy!\nWho the hell are you? Get lost,\nbrat!
+
+@155.01AA
+B-brat?!\nI won't be called a kid by a man as\nsuspicious-looking as you!
+
+@155.0222
+Hey, {FI}...\n(Honestly, this is why\n people call you a brat.)
+
+@155.0270
+Stop it, {FI}.\nI'm Kamil Overijssel.
+
+@155.02A2
+And she is\n{FI} {FA},\nthe admiral of this ship.
+
+@155.0304
+...That was rude of me.\nSorry, please forgive me.
+
+@155.0334
+Huh...? Well, she said some rude\nthings too, so...
+
+@155.0376
+Kamil!!\nYou don't have to apologize!\nHe was the one who insulted us!!
+
+@155.03D4
+No, the lady is right, Kamil.\nWhen I see a cute boy, I just have\nto tease him. My bad.
+
+@155.043E
+Oh, um, uh...?\nThat's fine. Please don't worry about it.
+
+@155.047C
+...See you.
+
+@155.0492
+W-wait!!\nUm, you!\nYou want to be a mate, don't you?
+
+@155.04DA
+Well, yeah.
+
+@155.04EA
+It's fine, isn't it?\n{FI}?
+
+@155.0504
+W-what?! You're going to hire this guy?\nYou're unbelievably soft-hearted.
+
+@155.057C
+Right, Kamil.\nHe made fun of you!
+
+@155.05B0
+Now, now. He doesn't seem like such a\nbad person. A voyage is more fun with\nall kinds of people, right?
+
+@155.0622
+What a softie.\n...Well, that's Kamil's good side too.
+
+@155.0670
+Still, this guy is odd. Even with my\ninsight, I can't read him at all.
+
+@155.06C2
+Honestly, ugh!\nFine, fine. I get it.\nO.K.!
+
+@155.06FE
+So that makes us crew.\nU-um, come to think of it, I haven't\nasked your name yet.
+
+@155.074C
+H-hey...! Is this really okay?
+
+@155.076E
+Yes.\nBecause {FI} said\nit's fine.
+
+@155.079A
+Looked more like you made her say it.\n...Oh well.\nThen I'll be in your care.
+
+@155.07EA
+Sorry again for earlier.\nI'm Angelo Puccini.
+
+@155.082A
+Then, Mr. Angelo,\nlet's show you to the ship.
+
+@155.0864
+...Hey, wait for me!!
+
+@155.0886
+Count on me, little lady.\nI mean, Admiral!
+
+@155.08B8
+Oh my, the pleasure is mine.\nNow, you're going to work hard!!
+
+@155.0988
+Huh? Why, why?
+
+@155.09FA
+The routes are well developed here, so\nit looks tasty at first, but big powers\nhave already developed it all, so the\nprofit is thin.
+
+@155.0A6A
+...That's true.\nContract fees and investment costs are\nhigh everywhere, and other powers\nhave nearly monopolized it.
+
+@155.0AC4
+We've got to go outside. Africa\nespecially still has room to develop.\nA little investment brings a big\nreturn.
+
+@155.0BA0
+You know a surprising amount about\nbusiness. I'm kind of impressed!
+
+@155.0C40
+Even if you buy a ship and gain more\ncargo space, in Europe, where you\nhardly get any market share, you\ncan't trade many goods at once.
+
+@155.0CC6
+In that case, no time to dawdle!\nThis time we're really going to make\na fortune!\nOkay, off to Africa!
+
+@156.030E
+Mister, some liquor, please.
+
+@156.0342
+Keep it coming!
+
+@156.0380
+Rice for me, please~
+
+@156.04B4
+That beautiful person isn't from\nthis town, are they?
+
+@156.04E2
+I don't know.
+
+@156.04F4
+Those melancholy eyes look like they\nhave a story... Why would they work\nhere?
+
+@156.053A
+Who knows. Don't ask me.
+
+@156.055A
+Huh...? Are you jealous?
+
+@156.0576
+O-of course not!
+
+@156.058A
+Hehe.\nI'm going to go talk to them.
+
+@156.0870
+I can't just leave a guy this fine!
+
+@156.08E4
+Hey... you're really cool.\nUp close, I think so even more.
+
+@156.0936
+Compared to him, {FI}\ndefinitely looks like a guy...
+
+@156.097C
+Heh heh heh, no doubt about it.
+
+@156.09A0
+How rude!
+
+@156.09DE
+Hey, you.\n...I'm complimenting you.
+
+@156.0A56
+So now you'll hear\nmy request, right?
+
+@156.0AAE
+The thing is, we're sailors.
+
+@156.0AE2
+I want to hire your skills, or like,\nuse you as a bodyguard. I was thinking,\nwould you come with us?
+
+@156.0B56
+Um... Is that a no?
+
+@156.0B74
+No, I'm glad you asked.\nThank you.
+
+@156.0B9C
+Glad? Oh, because I'm so charming,\nright?
+
+@156.0BD2
+{FI}, really.\n(Saying that in front of such\n a beauty.)
+
+@156.0C12
+Of course, you're charming too... but\nthe truth is, I'm actually a mate.\nOut of work, though...
+
+@156.0C62
+My ship sank and I was in trouble...\nIf you can take me aboard, you really\nwould save me...
+
+@156.0CC2
+I see!\nSo we both got lucky.\nUm, what's your name?
+
+@156.0CFE
+My name is Ian Dukov.\nNice to meet you.
+
+@157.03E8
+Mister, how did you know?
+
+@157.0418
+That he was sick.
+
+@157.051C
+Wow...
+
+@157.0590
+You're going to make up for it, right?\nThen of course I'm coming!
+
+@157.0A08
+Mister!
+
+@157.0A28
+Come out to sea with me!
+
+@157.0A4C
+Hey, hey, what's this all of a sudden?
+
+@157.0A74
+I think you and I would get along.\nI just got a feeling!
+
+@157.0AE0
+I knew it!\nI was sure you were a pro.
+
+@157.0B0A
+You don't need to steer a ship.\nLook, I'm a merchant too.
+
+@157.0B54
+Is there some reason you don't want to\nleave here? Malacca isn't your\nhometown, is it?
+
+@157.0D3E
+Oh... So that's why you noticed his\nillness.
+
+@157.0D76
+...Hey, didn't you ever think of going\nback to your hometown...?
+
+@157.0E14
+Mister,\nyou should come with us after all.
+
+@157.0E50
+It's boring being alone, isn't it?\nFrom now on, we'll be your family.
+
+@157.0EB8
+That's right!\nMeals taste better when everyone eats\ntogether!
+
+@157.0EF2
+{FI}!!\nThat was a really good thing to say!!
+
+@157.0F1C
+...I only ever say good things, though.\nRight, mister?
+
+@157.0F60
+......Thank you.\nThen... I'll be in your care.
+
+@157.0F8C
+Yay!
+
+@157.0F9C
+{FI}...\nI'm a little impressed.
+
+@158.000C
+Pwah, I drank a lot, didn't I?
+
+@158.0044
+{FI}, you drank too much.
+
+@158.0072
+I'm still going to eat more!
+
+@158.00A8
+Emilio, you eat too much!
+
+@158.00F6
+Oh, what passionate music.\nNice...
+
+@158.0166
+What's wrong with Christina?
+
+@158.01FC
+Christina is so cool...
+
+@158.0232
+Yeah, she's beautiful...
+
+@158.02DE
+That was so cool...
+
+@158.030C
+Yeah, amazing... Her swordplay is\ngraceful, but her dancing was even\nmore graceful.
+
+@158.0358
+Hehe, thank you.
+
+@159.000E
+No way!\nWhat's that animal with the huge ears?
+
+@159.003E
+Oh, that's called an "elephant."
+
+@159.0068
+Wow!
+
+@159.008E
+I wonder if it'd taste good roasted\nwhole?
+
+@159.00C6
+Emilio, can't you think about\nsomething other than food for once?
+
+@159.0220
+Who do you think you are? Nobody just\nsays "okay" and takes you on as crew\nbecause you said so!
+
+@159.028A
+Now, now, {FI}.\nNo need to get so worked up.\n...You'll get wrinkles, you know.
+
+@159.02CE
+W-what?!\nKamil! What a thing to say!
+
+@159.02FA
+Sorry. Getting angry is her hobby,\nso don't mind her.
+
+@159.0334
+Yeah. I don't mind what chubby girls\nsay, so it's fine, ahem!\nI'm big-hearted!
+
+@159.038E
+W-what did you say?! Where am I\nchubby?!\nI'll knock you flying!
+
+@159.03F6
+She really likes getting angry. Haha,\nwhat an odd hobby. Don't worry about it.\nI don't mind round faces either.
+
+@159.0460
+Gaaaah!! Grrr...!
+
+@159.0482
+Whoa!!\nPlease don't say anything more about\nher. Think of my position.\nOh, right. So, what's your talent?
+
+@159.04E8
+Thanks for asking!\nMy talent is, of course, "cooking"!!\nIt's really delicious, ahem!
+
+@159.055E
+!!!!!!\n"Cooking," he says?!
+
+@159.058C
+Kamil, let's go!\nIt's obviously a lie!\nBesides, anyone who insults a lady is\nno good!
+
+@159.05F4
+I only said "chubby"!\nI didn't insult anyone!
+
+@159.0636
+That's what an insult is!!\nLet's go, Kamil!!\nI can't deal with this guy!!
+
+@159.06A2
+Join us!
+
+@159.06BA
+Hey, you! Who said you could invite\nhim on your own?!
+
+@159.06EA
+B-but, you know...
+
+@159.0704
+Now, now, wait... Then, you,\nshow us that talent of yours.\nMake us something.
+
+@159.0756
+Easy enough. Wait just a moment.
+
+@159.0788
+Okay, all done. Try it.
+
+@159.07AE
+Thanks for the food!\nNom nom...\n!!
+
+@159.07D4
+D-delicious!\nBetter than {FI}'s...\nOh...!
+
+@159.07FE
+Kaaamiiil~!!\nDid you say something?
+
+@159.083C
+De-li-cious!
+
+@159.0858
+Uh, no...\n{FI}, you\ntry some too! Okay?
+
+@159.0886
+If this tastes bad, I'm not letting\nit slide!
+
+@159.08B2
+...Huh? I-it's good...\nHow annoying...
+
+@159.08DE
+Then it's settled, right? I'm Kamil.\nShe's {FI},\nour admiral.
+
+@159.0922
+Hmph. ...Well, I guess it can't be\nhelped. If I get to eat cooking like this\nevery day, I can put up with a little.\nNice to meet you.
+
+@159.099E
+Yeah.\nNice to meet you, Chubby.
+
+@159.09BC
+!!\nI'm going to kill you!
+
+@159.09E0
+Sigh.\nThis doesn't bode well...
+
+@159.0A16
+Seconds!

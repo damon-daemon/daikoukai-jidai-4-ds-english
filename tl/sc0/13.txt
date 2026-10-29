@@ -1,0 +1,917 @@
+@184.0018
+Meihua,\nI live for the sight of your\nbrilliant smile!
+
+@184.005A
+Oh, Julian...
+
+@184.0072
+...Every country has guys like that,\ndoesn't it.
+
+@184.009E
+H-huh?\nYou always smile at this part.\nDid you stop liking me?
+
+@184.00EE
+...No, it isn't that.\nUsually Julian's words cheer me up,\nbut...
+
+@184.013E
+The truth is... there's something I\nreally want, and lately I can't stop\nthinking about it, day or night...
+
+@184.01A0
+Ah, Meihua. That look doesn't suit you.\nWhat is it you want so badly?
+
+@184.020C
+It's called the "Silla Gold Crown."\nMysterious name, isn't it?\nThey say it's very rare.
+
+@184.0260
+Sounds expensive... I wonder if I can\nafford it. Where do they sell it?
+
+@184.02A2
+That's just it... they don't sell it in\nshops. I heard it's somewhere in\nHanseong.
+
+@184.02F2
+Not sold in shops? ...!!!\nThat's it! It must be there!
+
+@184.0334
+Oh, do you know where?
+
+@184.0354
+Leave it to me!\nI'll get the Silla Gold Crown as fast as I\ncan and bring your smile back!
+
+@184.03B6
+Your smile is the source of my power!\nAnd if I get the Silla Gold Crown,\nyou'll go on a date with me, right?
+
+@184.0428
+You haven't even found it yet.\nYou're getting ahead of yourself.\nAll right, I'll think about it.
+
+@184.0470
+Yay! Don't you forget that promise!\nI'm off to Hanseong!
+
+@184.04C0
+I'm counting on you... but he's\nalready gone, hasn't he...
+
+@184.04EA
+Um...
+
+@184.04F8
+Oh, welcome.\nSorry, I didn't notice you.
+
+@184.052A
+About what you just said... what is\nthe Silla Gold Crown?
+
+@184.056E
+Well... I heard, but I forgot.\nAll I remember is that it's\nsupposed to be very beautiful.
+
+@184.05BE
+Hmm... that got me curious.\nHey, {FI}.
+
+@184.05EA
+Sure. But we don't even know what it\nis, and that Julian guy has already\ngone to look for it.
+
+@184.0646
+Oh, I wouldn't mind a present from\nyou at all. Or am I not a woman\nworth giving presents to?
+
+@184.06AA
+...She says. After that, we can't\nexactly back down, can we?
+
+@184.06EE
+(Clau is so easy to push around.)\nAll right, let's all go look for it.\nUm... it's in Hanseong, you said?
+
+@184.075E
+That's what I heard.\nI don't know where in Hanseong,\nthough...
+
+@184.07A8
+Let's just go for now.\nWe can ask the locals once we're\nthere.
+
+@184.07F4
+We might run into that guy somewhere.
+
+@185.000E
+Hey, Clau.\nWhere do you think we should start\nlooking into the Silla Gold Crown?
+
+@185.0064
+Good question.\nShould we ask around?
+
+@185.008A
+Oh, welcome.
+
+@185.00A4
+Hey, ever heard of the\n"Silla Gold Crown"?
+
+@185.00D2
+Yes, I've heard of it.\nWhy do you ask?
+
+@185.0106
+We're looking for it.\nDo you know anything?
+
+@185.013A
+...Is looking for the Silla Gold Crown\nthe latest fashion? Someone asked me\nthe same thing just a moment ago.
+
+@185.019E
+That guy... was he a smooth talker?
+
+@185.01C6
+Let me think. He seemed to be either\nasking questions or trying to\nflirt with me.
+
+@185.0208
+Is his name Julian, by any chance?\nWe met him before, in Hangzhou.
+
+@185.025E
+Was it? I don't remember well. Sorry.\nBut I think he went to the\nMuryeong Tomb.
+
+@185.02C6
+The Muryeong Tomb?
+
+@185.02DC
+It's some ruins near here.\nI've heard the Silla Gold Crown is\nthere.
+
+@185.032E
+Whoa! He's ahead of us!\nLet's hurry, {FI}!
+
+@186.001C
+Hey, {FI}!\nGood to see you in Hanseong.
+
+@186.003A
+Oh, do you know each other?
+
+@186.0054
+Actually... they found this Silla Gold\nCrown first.
+
+@186.008E
+But they were so moved by my deep love\nfor Meihua that they went out of their\nway to give it to me. Nice people, huh?
+
+@186.00E6
+Huh? Oh, yes, nice people.\nSo this is the Silla Gold Crown...\nHow wonderful, the way it shines...
+
+@186.013E
+Meihua, from today it's yours.\nA present, just as I promised.
+
+@186.0182
+Lovely...!\nI'll treasure it all my life!
+
+@186.01A8
+I'm glad for you, Julian.
+
+@186.01C8
+Thank you.\nIt's all thanks to you, really.\nNow, how can I repay you...
+
+@186.0210
+N-no, you don't need to repay us!
+
+@186.022E
+I may not look it, but I'm a man who\nvalues honor. I can't just leave it at\nthat after you helped me.
+
+@186.029A
+Meihua! Is Meihua here?
+
+@186.02C4
+Oh, welcome.\nWhat's the hurry?
+
+@186.02F8
+Here...
+
+@186.030A
+Oh!\nThis is the Silla Gold Crown!?\nYou found it... Thank you!
+
+@186.0354
+No, it's nothing...
+
+@186.036A
+Why so shy? In front of Julian you said,\n"I'll give it to her as a present!"\nDidn't you?
+
+@186.03CE
+Oh, how lovely! Thank you!\n...By the way, what happened to Julian?
+
+@186.0420
+Well, we ran into each other just as\nwe found the Silla Gold Crown...
+
+@186.0468
+And then he just wandered off.
+
+@186.048C
+Meihua! I'm right here!
+
+@186.04AC
+Julian, they beat you to it this\ntime, didn't they?
+
+@186.04E6
+Yeah. But all the way to Hanseong,\nnot for one moment did I forget you.\nMy love is deeper than the sea!
+
+@186.055A
+Speaking of which, what about Reiki in\nHanseong? She was a real beauty too.
+
+@186.05A2
+Ah, she's nice too.\nShe has a different charm from Meihua.
+
+@186.05DC
+Ju-li-aaan!!!\nHonestly, you move fast!
+
+@186.0616
+Oh, come on, Meihua, no need to be\njealous! I only asked her about the\nSilla Gold Crown!
+
+@186.066C
+Anyway, you two were really quick.\nBy the time I got to Hanseong I was\nexhausted.
+
+@186.06C8
+How did you find the Silla Gold Crown\nso fast? Tell me!
+
+@186.0714
+What are you talking about?\nHanseong is a short trip by ship.
+
+@186.0744
+A ship!\nWait, are you sailors!?
+
+@186.0770
+Yes, we are.
+
+@186.0786
+Lucky... I ran all the way to Hanseong,\nyou know.
+
+@186.07BE
+(He ran to Hanseong!?\nSeriously...)
+
+@186.07EA
+A ship... Yes! This must be fate!
+
+@186.0812
+What's wrong...?
+
+@186.0828
+You see!\nThe Silla Gold Crown was my chance to\nset out into the world!
+
+@186.087A
+H-hey...
+
+@186.088C
+So take me with you!\nI want to see the world too!
+
+@186.08CC
+Don't tell me it's to flirt with every\ngirl in the world.
+
+@186.0904
+That sounds like a nice reason too, but\nno. My grandfather sailed all over the\nworld, and I've admired him since I was\na kid...
+
+@186.0974
+What is the world like? What kind of\ntown was my grandfather born in?\n...I want to know. That's why I want\nto set out.
+
+@186.09E8
+Wow, your grandfather was a mate?\nThen you must know something about\nsailing, right?
+
+@186.0A34
+Of course!\nI won't hold you back!
+
+@186.0A5E
+All right! Let's go together!
+
+@186.0A86
+By the way, Meihua?
+
+@186.0A9E
+Yes, Julian?
+
+@186.0AB8
+What about our date?
+
+@186.0AD8
+But you're leaving on a journey right\nnow, aren't you? You don't have time.
+
+@186.0B14
+Then I'll find something even better than\nthe Silla Gold Crown, come straight\nback, and we'll go on that date!
+
+@186.0B7A
+Honestly...\nFine, I'll be waiting and looking\nforward to it!
+
+@186.0BAA
+In a way, we may have got ourselves\none hell of a crewmate...
+
+@187.000C
+Gah! It's that woman!
+
+@187.0028
+That's Aziza Nurennahar, isn't it...
+
+@187.0056
+Well, well. The {FO}...\nWhat a surprise to see you here.
+
+@187.0086
+T-this is bad!\n{FI}!\nThese are all her henchmen!
+
+@187.00C4
+...Heh heh. The more I look, the cuter\nyou are, kid.
+
+@187.0108
+Shall we get acquainted?\nHow about a drink with me?
+
+@187.013C
+...
+
+@187.0146
+Heh heh, like a moth to a flame, eh?\nSurround them!
+
+@187.0186
+(What do I do? Just Clau and me\nagainst so many pirates...)
+
+@187.01DA
+Tch... W-what are you going to do!
+
+@187.01FC
+Well, well, he's scared stiff. You gave\nus a real beating last time, didn't you!
+
+@187.0266
+...Wait!\nI'm talking to this kid right now.\nYou lot, stay out of it!
+
+@187.02B8
+Eek, sorry!
+
+@187.02D2
+...?
+
+@187.02DE
+We haven't settled things yet. It'd be\nno fun if you died in a place like this.
+
+@187.0336
+Gah, what's with this woman!?
+
+@187.035A
+I'm a pirate.\nWe settle this at sea!
+
+@187.0388
+...Today, let's just give them credit for\nnot running from this many of us.\nRight?
+
+@187.03EA
+...I'm an admiral too.\nI can't run away.
+
+@187.041A
+Bold words.\nYou really have guts, kid.\nI like that.
+
+@187.0462
+...What's your name?
+
+@187.047C
+{FI} {FA}.
+
+@187.048A
+I'll remember that name and that face.\nUntil we meet again...\nnext time, at sea.
+
+@187.04DA
+...Hm!? That sword...
+
+@187.04F8
+Huh?
+
+@187.0504
+...That's a fine sword you have, kid.\nBut I think it would suit me better, so\nI'll be taking it one of these days.
+
+@187.056E
+W-what are you talking about...?
+
+@187.058E
+If you don't know, never mind.\nAll right, boys! We're pulling out!
+
+@187.05CA
+Yeaaah!
+
+@187.05DC
+...Wow. She rules them with one word...
+
+@187.0608
+...Phew, that was close...
+
+@187.0622
+That scared me for real.\nShe isn't pirate leader for nothing.
+
+@187.0670
+Yeah. What a presence...\nBut settling things at sea, is that\npirate pride?
+
+@187.06C8
+Probably. But the other way around,\nbeing chased by that woman would be\nunbearable.
+
+@187.072A
+...
+
+@187.0734
+Well, no use worrying about it now.
+
+@187.0760
+You're right...
+
+@188.0010
+Bananas, bananas!\nThe future belongs to bananas!
+
+@188.0044
+Bananas?
+
+@188.005A
+Yes. I'm sure this flavor will sell.
+
+@188.007E
+Do you think so?
+
+@188.0092
+I do. If I say it will sell,\nit will sell!
+
+@188.00C4
+Understood.\nSo what shall I do?
+
+@188.00EE
+Buy as many bananas as you can.
+
+@188.0116
+Yes, yes.
+
+@188.0126
+From now on, it's the age of bananas!\nOh ho ho ho ho!
+
+@188.0158
+Bananas look set to become a craze in\nSeville.
+
+@189.0010
+Tomatoes, tomatoes!\nThe future belongs to tomatoes!
+
+@189.0044
+You think so?\nA bright red food like that?
+
+@189.0076
+That red is exactly the point. A red that\nstirs up passion. Ah, it reminds me of\nthe burning love of my youth.
+
+@189.00D4
+...I see. That's nice for you.
+
+@189.00F8
+Start making tomato dishes right away\nand put them on sale.
+
+@189.0128
+Understood.
+
+@189.013C
+Yes, and don't let this tomato craze\nslip away.
+
+@189.0178
+Yes, yes.
+
+@189.0188
+Well then, do your best!\nOh ho ho ho ho!
+
+@189.01B6
+Tomatoes look set to become a craze in\nGenoa.
+
+@190.0010
+Honestly, baking your own bread is\nthe best.
+
+@190.003C
+It is. My husband was thrilled too.
+
+@190.0068
+Is it really that good when you bake\nit yourself?
+
+@190.0090
+Oh, it's the best. Isn't it?
+
+@190.00AA
+Yes, the bakery on the corner can't\ncompare.
+
+@190.00DC
+Really? Maybe I'll try making some.
+
+@190.0104
+You should!
+
+@190.011A
+I'll teach you.
+
+@190.0130
+Oh, really? How nice!
+
+@190.0150
+Then let's go buy the ingredients\nright away.
+
+@190.0180
+What do we need?
+
+@190.019C
+Wheat first, of course.
+
+@190.01BC
+Wheat looks set to become a craze in\nAmsterdam.
+
+@191.0010
+Hey, you're still drinking that\nstuff?
+
+@191.0040
+What's wrong with it!
+
+@191.0050
+Nothing's wrong with it, but these days\nit's wine. Wine!
+
+@191.007C
+Wine? Is it good?
+
+@191.009A
+Yeah, the best.
+
+@191.00B0
+That good?
+
+@191.00CC
+With wine, you don't need anything\nelse.
+
+@191.0100
+Maybe I'll try it.\nBartender!\nBring me a glass of this wine stuff!
+
+@191.0146
+Coming right up.
+
+@191.0154
+Glug, glug, glug.
+
+@191.0172
+Well?
+
+@191.0184
+Delicious!\nBartender! Another!
+
+@191.01AE
+Bring me one too!
+
+@191.01CC
+Wine looks set to become a craze in\nSao Jorge.
+
+@192.0008
+Say, that person...\nDidn't you think they smelled\nwonderful?
+
+@192.004E
+So you thought so too?
+
+@192.0074
+I wonder what the scent was.
+
+@192.0094
+I haven't the faintest.\nBut that fragrance is sure to catch on.
+
+@192.00CC
+Goodness, how serious!\nThen we must get some before anyone\nelse does.
+
+@192.0108
+Indeed we must.
+
+@192.011C
+Shall we muster our courage and ask\nthem the next time we meet?
+
+@192.0160
+What a fine idea.\nLet's do exactly that.
+
+@192.0194
+Well then, good day.
+
+@192.01B0
+Good day.
+
+@192.0214
+Scents look set to become a craze in\nLisbon.
+
+@193.0010
+Did you see that bright red ruby?
+
+@193.003C
+Yes, it was magnificent.
+
+@193.005E
+Oh, what are you talking about?
+
+@193.007C
+The necklace that lady was wearing,\nof course.
+
+@193.00B0
+Ah, that large and beautiful stone.
+
+@193.00DC
+Just once in my life, I would love to\nreceive a gift like that from a\ngentleman.
+
+@193.012A
+Truly. Sigh...
+
+@193.0144
+Sigh...
+
+@193.0152
+Sigh...
+
+@193.0160
+Rubies look set to become a craze in\nAthens.
+
+@194.0008
+Did you hear?\nThe princess is getting engaged!
+
+@194.004A
+Yes, to the duke's son, I hear?
+
+@194.0078
+They say the engagement ring costs as\nmuch as a whole mountain.
+
+@194.00AA
+The duke is something else...\nWhen will we get to see the princess\nwearing that jewel?
+
+@194.0118
+Not long from now, I'm sure.\nThen more ladies will be after that\njewel, you'll see.
+
+@194.017A
+Goodness! It would be too late once it's\na craze! What is that jewel, anyway?\nDo you know?
+
+@194.01D0
+I haven't a clue.\nWe must go and ask right away!
+
+@194.0250
+Gems look set to become a craze in\nLondon.
+
+@195.0010
+Hm?
+
+@195.001C
+It's truly wonderful!
+
+@195.0038
+You think so?
+
+@195.004A
+Yes, he'll be an artist remembered by\nfuture generations.
+
+@195.0078
+Hmm.
+
+@195.0084
+You should get his works while you\ncan.
+
+@195.00B8
+I think this one is better!
+
+@195.00E2
+That one isn't bad, but it can't match\nhis work.
+
+@195.0114
+What are you two saying? That one over\nthere is obviously the better work.
+
+@195.0164
+Say what you like,\nI'm buying his painting!
+
+@195.0190
+I'll take the one by the painter of\nthis picture!
+
+@195.01C0
+And I'll take this one!
+
+@195.01DE
+Thank you very much, as always.
+
+@195.0200
+(Slam!)
+
+@195.0212
+Finally gone. I wish they'd stop\narguing inside my shop every time.
+
+@195.025A
+Shopkeeper, what was all that fuss?
+
+@195.027C
+Oh, that's just rich men's hobbies.
+
+@195.029A
+Rich men's hobbies?
+
+@195.02B0
+Yeah, collecting paintings has become\nfashionable lately.
+
+@195.02E0
+I see. A lofty pastime.
+
+@195.02FC
+Well, few of them really have an eye\nfor it.
+
+@195.032E
+Hahaha, you do talk, shopkeeper.
+
+@195.0354
+Whoops, keep that between us, please.
+
+@195.037E
+I know.
+
+@195.0392
+Art looks set to become a craze in\nBasra.
+
+@196.0010
+Ah, delicious. Just perfect.
+
+@196.002E
+Yes, tea is truly wonderful.
+
+@196.0054
+Strange that something this good never\ncaught on until now.
+
+@196.0098
+True. Nobody had an eye for it.
+
+@196.00C2
+Oh, that's right, we're almost out of\ntea. Could you buy some tomorrow?
+
+@196.010C
+Of course, I'll buy some.
+
+@196.012E
+Tea really is delicious.\nIt calms the heart.
+
+@196.015A
+We couldn't live without tea.
+
+@196.0186
+Tea looks set to become a craze in\nSofala.
+
+@197.0010
+It's cold. It's really freezing.
+
+@197.0030
+Yes, it's been a long time since it got\nthis cold.
+
+@197.005A
+Oh, I want a fur coat.\nI'll freeze in this cold.
+
+@197.0096
+I hear furs are selling well in this cold\nand prices are going up.
+
+@197.00D4
+So I've heard.\nOh, it's cold.
+
+@197.00F6
+I wish it would get warm soon.
+
+@197.0120
+Yes. But while it's cold, I still want\na fur.
+
+@197.0152
+Furs look set to become a craze in\nStockholm.
+
+@198.0008
+Hmm... something's missing.\nI know, something sweet!\nIt needs sweetness.
+
+@198.004E
+Sweetness?
+
+@198.0060
+Yes! With such a plain taste, the\ncustomers won't be satisfied. Sweet is\nthe key! Sweet!
+
+@198.00CC
+Hm. Do you think so?
+
+@198.00E6
+If I say so, then it's absolutely true!
+
+@198.0116
+Well, how do we make it sweeter?
+
+@198.014C
+Thinking that up is your job.
+
+@198.0178
+...Yes, yes.
+
+@198.018A
+In any case, sweet things are certain\nto become the fashion.
+
+@198.01C2
+Yes, yes.
+
+@198.01D2
+Anyway, "sweet" it is!\nDo your best!\nOh ho ho ho ho!
+
+@198.0254
+Sweets look set to become a craze in\nAlexandria.
+
+@199.0010
+My cough has been terrible lately.\nCough, cough.
+
+@199.0038
+You all right?
+
+@199.004A
+Yeah, I'm fine.\nIt's a bit painful, though. Cough, cough.
+
+@199.0080
+Come to think of it, I've seen a lot of\npeople coughing lately.
+
+@199.00B4
+Maybe some bad sickness is going around?
+
+@199.00DA
+I heard there's a good medicine\nsomewhere.
+
+@199.0106
+Really!\nWhat's it called? Cough, cough.
+
+@199.0130
+I forget the name, but they say it uses\nalmonds.
+
+@199.0166
+Almonds?
+
+@199.017A
+I thought, "Huh, they use almonds?"\nThat's why I remembered.
+
+@199.01C2
+Does it work? Cough, cough.
+
+@199.01E6
+They say it works unbelievably well\nand sells like crazy.
+
+@199.021E
+I see. Then I'll go look for it.
+
+@199.023E
+I'll look for it too.
+
+@199.0256
+Thanks. Cough, cough.
+
+@199.0274
+Almonds look set to become a craze in\nMalacca.
+
+@200.0010
+Magnificent! This is truly art!
+
+@200.0034
+As you say, my lord.
+
+@200.004E
+A piece this fine must surely have been\nmade by a craftsman of great renown.
+
+@200.00A0
+Indeed, my lord.
+
+@200.00BA
+Hmm.\nI had no idea such things were all the\nrage.
+
+@200.00F8
+What is this called?
+
+@200.011A
+It is called giyaman (glass), my lord.
+
+@200.0142
+Hmm. Giyaman, is it?
+
+@200.015E
+Very well, I shall add it to my\ncollection. Gather all the giyaman in\nthe city!
+
+@200.019C
+At once, as you wish.
+
+@200.01B8
+Glass looks set to become a craze in\nOsaka.
+
+@201.0010
+I finally got my hands on that\nthing the other day.
+
+@201.003C
+Oh, the ceramics?
+
+@201.0056
+Yes, and as I expected, it's a superb\npiece.
+
+@201.0080
+Splendid. I would love to see it, if I\nmay.
+
+@201.00B8
+By all means, do come to my home.
+
+@201.00EC
+Still, with the recent craze for\ncollecting ceramics, good pieces have\nbecome hard to find.
+
+@201.013E
+I hear people with no sense of value are\nbuying them up just because they're\nfashionable.
+
+@201.0184
+What a nuisance.
+
+@201.019A
+Quite so.
+
+@201.01B4
+Hey, take a look at those men over\nthere.
+
+@201.01DA
+The two together? What about them?
+
+@201.01FC
+The other day they bought worthless\nceramics from me at an absurd price.
+
+@201.0244
+Good customers, then. And we're short on\ncash, so shall we call out to them?
+
+@201.0298
+Sounds good.
+
+@201.02A8
+Settled. Let's go.
+
+@201.02C2
+Sirs!
+
+@201.02D2
+Ceramics look set to become a craze in\nHamburg.

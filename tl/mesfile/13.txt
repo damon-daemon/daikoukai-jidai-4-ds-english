@@ -1,0 +1,749 @@
+@3250
+An ancient map fragment that marks the\nlocation of a hidden treasure. They say\nit takes four to make a set.
+
+@3251
+Dash of Valor
+
+@3252
+Ending
+
+@3253
+Riding the Tailwind
+
+@3254
+Theme of Departure
+
+@3255
+Let's Go South
+
+@3256
+Winds of India
+
+@3257
+Islands of the South Seas
+
+@3258
+The East Asian Sea
+
+@3259
+Beyond the Horizon
+
+@3260
+Northern European Town
+
+@3261
+Southern European Town
+
+@3262
+Islamic Town
+
+@3263
+African Town
+
+@3264
+Indian Town
+
+@3265
+Southeast Asian Village
+
+@3266
+Chinese Town
+
+@3267
+Japanese Town
+
+@3268
+New World Town
+
+@3269
+Theme of Naval Combat
+
+@3270
+The Great Sea Battle
+
+@3271
+The Road to the Sea
+
+@3272
+The True Treasure
+
+@3273
+Waves
+
+@3274
+Flames of Passion
+
+@3275
+Rafael
+
+@3276
+Hodrum
+
+@3277
+Ril and Kamil
+
+@3278
+Explore! Explore!
+
+@3279
+Dark Clouds
+
+@3280
+The Lovely Maiden
+
+@3281
+Feelings
+
+@3282
+Cheerful Companions
+
+@3283
+Sorrow
+
+@3284
+The Pirate King
+
+@3285
+The Conqueror
+
+@3286
+A Powerful Foe Appears
+
+@3287
+Great Victory!
+
+@3288
+Opening
+
+@3289
+  Aiming for a world not on any map...
+
+@3290
+Players become captains commanding sailing\nships, and set out in their own vessels\ninto the endless ocean.\n\nIn a world built on the network, you form\nfleets with companions who gather there,\nsolve puzzles tied to hidden ancient\nsecrets, and fight thrilling battles with\npirate fleets, continuing your voyage of\nadventure toward a new world.
+
+@3291
+  Human drama with all kinds of people
+
+@3292
+"Uncharted Waters Online" is an online\nmaritime adventure role-playing game set\nin the world of the Age of Exploration,\nthe great movement that swept Europe in\nthe early 16th century. Playing as an\nexplorer, merchant, or soldier, you create\nhuman drama with the many people who live\nin the same world.
+
+@3293
+  Human drama with all kinds of people
+
+@3294
+The server world is made up of several\nnations, such as Portugal, Spain, and\nEngland. When creating your player\ncharacter, which is your alter ego,\nyou choose which nation you come from.\n\nIn the lively port cities that serve as\neach nation's home base, such as Lisbon,\nSeville, and London, you choose the path of\nexplorer, merchant, or soldier and begin\nyour life as a seafarer.
+
+@3295
+  Free to live as you choose
+
+@3296
+At first you mostly work around your home\nnation, searching for new ports and trade\ngoods. Once the nearby seas are charted,\nyou trade goods and hunt pirates while\nbuilding your skills as a sailor, and\ngradually learn to handle faster, bigger,\nand sturdier ships. Cooperating with other\nplayers to complete Guild requests raises\nyour fame as a seafarer, and investing\nincreases your nation's alliance ports.\nYou can live in many ways, by your own\nfree choice.
+
+@3297
+  Take a royal order and venture on
+
+@3298
+Once you receive a royal order, you can\nopen up new sailing areas and set out on\nfurther adventures.\n\nRare clothing and local products found in\nforeign towns, ruins towering deep inland\nwith treasures sleeping within, storms that\nmercilessly block your fleet, dangerous\nwaters where you can become a privateer...\nA voyage full of thrills and spectacle\nawaits every sailor.
+
+@3299
+  Sail the world's seas\n  and live free as a sailor!
+
+@3300
+There are over 50 jobs to choose from!\nThey fall into three lines: adventure,\ntrade, and combat. As you gain experience\nas a seafarer, you can change jobs at the\nmatching Guild. Changing jobs greatly\nchanges the kinds of skills you can gain\nand how you grow.
+
+@3301
+  Sail off to the far side of the sea\n  and carve your name as a great explorer!
+
+@3302
+Majestic giant ruins, legendary treasures,\nunknown life, the wonders of nature...\nThe vast, fully 3D world hides countless\nmysteries, and explorers work together to\nchase great discoveries.
+
+@3303
+  Trade a wide variety of goods\n  and make a profit while having fun
+
+@3304
+Hundreds of kinds of trade goods are\nbought and sold. Merchants' dealings keep\nprices constantly changing, shaping the\neconomy of the virtual world.\n\nBy investing in towns around the world,\nyou can make them alliance ports of your\nhome nation, trade on favorable terms, and\neven add new specialty goods to their stock.
+
+@3305
+  Fierce battles on the open sea!
+
+@3306
+Once you leave port, you are in pirate-\ninfested, dangerous seas. Soldiers defeat\npirates while escorting explorers and\nmerchants, building their fame.\nPlayers can of course form pirate bands\ntoo. Fierce fleet battles using cannon fire\nand boarding combat are truly the star of\nthe Age of Exploration.
+
+@3307
+  A story that changes greatly with your nation!
+
+@3308
+Starting from the various nations of\nEurope, all sorts of adventures begin!\nComplete Guild requests and report your\ndiscoveries to raise your fame as a\nseafarer, and the king will issue a royal\norder granting you permission to sail to\nnew waters. Along the way, many event\ncharacters appear, and stories unfold to\nmatch the situation of your nation.
+
+@3309
+  A world in constant change\n  creates adventures of every kind!
+
+@3310
+The virtual world is affected by every\nplayer's actions and is always changing.\n\nFor example, a royal order may trigger a\ngreat sea battle over an alliance port, and\nprices swing widely because of players'\ntrading.
+
+@3311
+  Set out on a journey of adventure\n  with companions you met in town!
+
+@3312
+Take a request that gives your voyage a\npurpose from the Guild in town, then invite\nother players and form a fleet.\nOn the journey, you work together asking\naround in towns, and use members' skills,\nsuch as cartography and archaeology, to\nsolve mysteries, all aiming for great\ndiscoveries. Watching the sun set over the\nsea together, or chatting in a tavern on\nyour travels, is a special joy too.
+
+@3313
+  Race across the ocean in a ship\n  all your own!
+
+@3314
+Ships come in many types, large and small,\nand you can change the material, weapons,\nnumber of sails, emblem, and more to make\na ship that is yours alone.\n\nYour character's build and hairstyle, plus\nhundreds of pieces of gear like the clothes\nand hats favored by admirals and nobles of\nthe era, are available, so you can stroll\nthe streets in any outfit you like.
+
+@3315
+  An adventure world faithfully recreating the era!
+
+@3316
+The seas, which show many faces by region\nand time, are recreated grandly and\nbeautifully. Each city you visit has its\nlandmark, such as the Leaning Tower of Pisa\nor the Parthenon.\nYou can also explore inland from the city\ngates and landing points. Sail up the Nile\nor excavate the pyramids, and the stage of\nadventure spreads without limit.
+
+@3317
+  About the tie-up with the Online version
+
+@3318
+"Uncharted Waters IV: ROTA NOVA" has a\ntie-up with the Windows version of\n"Uncharted Waters Online," offering\nfeatures that widen the fun of the game.\n\n
+
+@3319
+If you join the Windows version of\n"Uncharted Waters Online" and complete\nquests, you receive a password paired with\na village name.\n\nSail to the village specified in "Uncharted\nWaters IV: ROTA NOVA" and use the password,\nand new trade goods appear in that village\nso you can trade them.
+
+@3320
+This %s run was\nvery profitable.\nMaybe this could become\na Golden Route?
+
+@3321
+This %s run was\nvery profitable.\nThis might be a Golden Route.
+
+@3322
+This %s run was\nvery profitable.\nI bet it's a Golden Route!
+
+@3323
+This %s run was\nvery profitable.\nMaybe this could become\na Golden Route?
+
+@3324
+This %s run was\nvery profitable.\nHey, this might just be\na Golden Route!
+
+@3325
+This %s run was\nquite profitable. Hmm...\nThis may be a Golden Route...
+
+@3326
+This %s run was\nvery profitable.\nI bet this is a Golden Route!
+
+@3327
+This %s run was\nquite profitable.\nPerhaps this could be\na Golden Route?
+
+@3328
+A Golden Route?
+
+@3329
+A Golden Route?!
+
+@3330
+What's a Golden Route?
+
+@3331
+What's a Golden Route?
+
+@3332
+They say the Guild is looking for info\non profitable trade routes.
+
+@3333
+The Guild is looking for info\non profitable trade routes.
+
+@3334
+I hear the Guild is looking for info\non profitable trade routes.
+
+@3335
+I hear the Guild is looking for info\non trade routes that make money.
+
+@3336
+I hear the Guild is looking for info\non profitable trade routes.
+
+@3337
+The Guild is looking for info\non profitable trade routes, they say.
+
+@3338
+Apparently the Guild is looking for info\non profitable trade routes!
+
+@3339
+The Guild, you see, is looking for info\non profitable trade routes.
+
+@3340
+They name routes that look especially\nprofitable Golden Routes, and pay a\nbig reward to whoever reports them.
+
+@3341
+Routes with a high profit rate are called\nGolden Routes, and the reward for\nreporting one is quite big.
+
+@3342
+They call routes that look very\nprofitable Golden Routes, and give a\nbig reward to whoever tells them.
+
+@3343
+They call routes that look like they make\nmoney Golden Routes, and give a big\nreward to whoever tells them.
+
+@3344
+They name routes that look especially\nprofitable Golden Routes, and pay a\nbig reward to whoever reports them.
+
+@3345
+They name routes that look especially\nprofitable Golden Routes, you know. Whoever\ntells them gets a hefty sum.
+
+@3346
+They call them Golden Routes. If you tell\nthem about an especially profitable\nroute, I hear they pay a big reward.
+
+@3347
+Especially profitable routes are called\nGolden Routes, it seems. If you tell them\nabout one, they pay a big reward.
+
+@3348
+That's amazing.
+
+@3349
+That's amazing.
+
+@3350
+That's amazing.
+
+@3351
+That's amazing.
+
+@3352
+Next time we reach a port with a Guild,\nlet's report it right away.
+
+@3353
+Next time we reach a port with a Guild,\nI'll tell them right away.
+
+@3354
+Next time we reach a port with a Guild,\nI have to tell them right away.
+
+@3355
+Next time we reach a port with a Guild,\nwe have to tell them right away.
+
+@3356
+Next time we reach a port with a Guild,\nlet's tell them right away.
+
+@3357
+Next time we reach a port with a Guild,\nwe'd best tell them right away.
+
+@3358
+Next time we reach a port with a Guild,\nlet's tell them right away!
+
+@3359
+Next time we reach a port with a Guild,\nlet's tell them right away.
+
+@3360
+Yeah, let's do that.
+
+@3361
+Yeah, let's do that.
+
+@3362
+Yeah, let's do that.
+
+@3363
+Yes, let's do that.
+
+@3364
+This %s run\nwas also very profitable.\nMaybe this is a Golden Route too?
+
+@3365
+This %s run\nwas also very profitable.\nMaybe this is a Golden Route too?
+
+@3366
+This %s run\nwas also very profitable.\nMaybe this is a Golden Route too?
+
+@3367
+This %s run\nwas also very profitable.\nThis might be a Golden Route too.
+
+@3368
+Right. I think the Guild will approve.
+
+@3369
+Yeah, the Guild will probably approve.
+
+@3370
+Yeah. The Guild will surely approve.
+
+@3371
+Yes. I'm sure the Guild will approve.
+
+@3372
+Yeah, I think the Guild will approve.
+
+@3373
+Indeed. The Guild will approve, I'd say.
+
+@3374
+Yeah. The Guild will surely approve!
+
+@3375
+Yes, I'm sure the Guild\nwill approve.
+
+@3376
+Then next time we reach a port with a Guild,\nlet's report it right away.
+
+@3377
+All right, next time we reach a port with a Guild,\nI'll tell them right away.
+
+@3378
+Then next time we reach a port with a Guild,\nlet's report it right away.
+
+@3379
+Then next time we reach a port with a Guild,\nlet's tell them right away.
+
+@3380
+You found a Golden Route?! Really?
+
+@3381
+Buy at %s,\nsell %s,\nand you'll make a huge profit.
+
+@3382
+Buy at %s,\nsell %s,\nand you'll make a huge profit.
+
+@3383
+Buy at %s,\nsell %s,\nand you'll make a huge profit.
+
+@3384
+Buy at %s,\nsell %s,\nand you'll make a huge profit.
+
+@3385
+All right. As a reward, I'll pay\nin %s's arrival month\n%s gold coins, for two years.
+
+@3386
+You found several Golden Routes?!\nI'm amazed.
+
+@3387
+I put the info on big profits into a report,\nlike buying at %s\nand selling %s.
+
+@3388
+I put the profitable info into a document,\nstarting with buying at %s\nand selling %s.
+
+@3389
+I put the big-profit info into a report,\nlike buying at %s\nand selling %s.
+
+@3390
+I put the big-profit info into a write-up,\nlike buying at %s\nand selling %s.
+
+@3391
+So this is it?\nVery well, I'll be generous with the reward.\nI'll pay gold coins equal to the profit for\neach good's arrival month, for two years.
+
+@3392
+The Guild paid you %s gold coins\nas a reward for discovering Golden Routes.
+
+@3393
+Port Town 1
+
+@3394
+Port Town 2 (Large)
+
+@3395
+Clau and Rafael
+
+@3396
+Repair Ship
+
+@3397
+The Three and the Ship (Large)
+
+@3398
+Rafael in Profile (Large)
+
+@3399
+Julio's Shop
+
+@3400
+Ship in the Dock
+
+@3401
+Hans and Arcadius
+
+@3402
+Ril and Raffie
+
+@3403
+Meeting Room
+
+@3404
+Arcadius's True Identity 1
+
+@3405
+Arcadius's True Identity 2
+
+@3406
+Emilio Gets Hurt
+
+@3407
+Sickroom
+
+@3408
+Uddin and His Men 1
+
+@3409
+Uddin and His Men 2
+
+@3410
+Moonlit Violin and Rafael 1 (Large)
+
+@3411
+Moonlit Violin and Rafael 2
+
+@3412
+Close-up of Rafael Playing
+
+@3413
+Close-up of Sera Listening
+
+@3414
+Hodrum Comes for Sera
+
+@3415
+Eirene and Dejected Raffie
+
+@3416
+Maria and Raffie 1
+
+@3417
+Ironclad
+
+@3418
+Clau Playing with Children
+
+@3419
+Hayreddin
+
+@3420
+Rafael Granted an Audience
+
+@3421
+Claudio and Arcadius 1
+
+@3422
+Claudio and Arcadius 2
+
+@3423
+Claudio and Arcadius 3
+
+@3424
+Raffie and Companions
+
+@3425
+Flustered Clau and Arcadius
+
+@3426
+Raffie's Ending 1
+
+@3427
+Raffie and Clau Ending
+
+@3428
+Raffie's Ending 2
+
+@3429
+Enemy Ship Sighted! (Large)
+
+@3430
+Hodrum Appears
+
+@3431
+Bustling Ship Interior
+
+@3432
+Hodrum Rises from His Seat
+
+@3433
+Hodrum's Address
+
+@3434
+Ril and Hodrum
+
+@3435
+Fleet Appears
+
+@3436
+The Captive Princess
+
+@3437
+Hodrum Reaches Out
+
+@3438
+Wounded Hodrum
+
+@3439
+Sera and the Knife
+
+@3440
+The Two Left Behind
+
+@3441
+Smiling Sera
+
+@3442
+Hodrum and Maria
+
+@3443
+Making Up
+
+@3444
+Wounded Hayreddin and Hodrum
+
+@3445
+Sera's Rescue
+
+@3446
+Sera and Hodrum Reunited
+
+@3447
+Hodrum Granted an Audience
+
+@3448
+Hodrum's Parting from Sera 1
+
+@3449
+Hodrum's Parting from Sera 2
+
+@3450
+Hodrum's Parting from Sera 3
+
+@3451
+Hodrum's Parting from Sera 4
+
+@3452
+Hodrum's Parting from Sera 5
+
+@3453
+Hodrum and Gerhard
+
+@3454
+Smiling Hodrum
+
+@3455
+The Departing Ship
+
+@3456
+Ril and Kamil Running
+
+@3457
+Worn-out Kamil and Lively Ril
+
+@3458
+Ril Looking Back at Town from Ship
+
+@3459
+Ril Departs
+
+@3460
+Clifford Appears
+
+@3461
+Ril in a Dress (Large)
+
+@3462
+Disappointed Ril and Welcoming Clifford
+
+@3463
+Feast
+
+@3464
+Inside Coen's Mansion
+
+@3465
+Kamil and Hodrum
+
+@3466
+Ril Attacked
+
+@3467
+Welcome Back, Kamil
+
+@3468
+Clifford Takes a Hostage
+
+@3469
+The Coen Family's Locket
+
+@3470
+Ship in Flames (Large)
+
+@3471
+Clifford Dies
+
+@3472
+With the Sunset at Their Backs
+
+@3473
+Fidgeting Ril
+
+@3474
+Ril Gazing at Kamil
+
+@3475
+Kiss Scene
+
+@3476
+The Two Embrace
+
+@3477
+Ril in a Wedding Dress
+
+@3478
+The Two Face Each Other
+
+@3479
+Church
+
+@3480
+Scenery of Blooming Tulips (Large)
+
+@3481
+The Two Open the Church Doors
+
+@3482
+Maria Hears the Report (Large)
+
+@3483
+Maria Close-up
+
+@3484
+Ian and Maria
+
+@3485
+Maria Talking to Flowers and Birds
+
+@3486
+Maria's Resolve
+
+@3487
+Ian and Samuel
+
+@3488
+Fleet Battle
+
+@3489
+Maria in Profile
+
+@3490
+Maria and Clifford
+
+@3491
+Encounter with Rafael
+
+@3492
+Maria and Hodrum
+
+@3493
+Richard Trampling Roses
+
+@3494
+Richard's Last Moments
+
+@3495
+Maria and the Assembled Retainers
+
+@3496
+Maria's Relaxed Smile
+
+@3497
+Maria and the Final Tally
+
+@3498
+Maria
+
+@3499
+Al Leaves the Tavern

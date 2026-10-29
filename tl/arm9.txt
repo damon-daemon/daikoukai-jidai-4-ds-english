@@ -1,0 +1,2441 @@
+# arm9 strings (tools/arm9str.py): ADDR<TAB>English, \n = newline. Grouped by pointer table.
+# --- ships, items, goods, places (chunk 02) ---
+0214C79C	N. Sea
+0214C7B4	Mediterranean
+0214C7D4	Africa
+0214C7BC	Indian Ocean
+0214C7E0	SE Asia
+0214C7C8	East Asia
+0214C7AC	New World
+0214C7A4	World
+0214DD10	Auto Move
+0214F34C	Sort
+0214F36C	Filter
+0214FBE0	Change
+02151630	Crew Setup
+02156ACC	Plaza
+02156AF4	Market
+02156AE4	Shipyard
+02156AEC	Harbor
+02156A9C	Tavern
+02156AD4	Guild
+02156AAC	Palace
+# 02156ADC..: town building tags, centred in 36 px (0x020d5340)
+02156ADC	Gov. Ofc
+02156ABC	Inn
+02156AA4	Ruins
+02156AB4	Church
+02156AC4	Gate
+0215700C	Sell All
+02157004	Trade
+02157030	Invest
+02157064	Governor's
+02157048	Prices
+02156FFC	Trade
+02157024	Invest
+0215703C	Prices
+02157088	Selected
+02157080	Anchorage
+0215A0E4	Food
+0215A0EC	Seasoning
+0215A0B4	Delicacy
+0215A114	Spices
+0215A0F4	Luxuries
+0215A0C4	Liquor
+0215A104	Metals
+0215A10C	Crafts
+0215A0D4	Textiles
+0215A0DC	Fine Goods
+0215A0AC	Scents
+0215A0FC	Jewelry
+0215A0BC	Gems
+0215A090	Meds
+0215A094	Dyes
+0215A09C	Arms
+0215A0CC	Ore
+0215A0A4	Sundry
+0215E1C4	Stonehenge
+0215E1D4	Poitiers Cath.
+0215E1E4	St. Martin's
+0215DA64	Stave Church
+0215ECD4	Santa Maria Maggiore
+0215E714	Santiago Cath.
+0215DA84	Colosseum
+0215E1F4	Parthenon
+0215DA94	Cappadocia
+0215ED7C	Pyramids & Sphinx
+0215D184	Mud Mosque
+0215E728	Great Zimbabwe
+0215ECEC	Masjid-i-Shah
+0215E204	Taj Mahal
+0215E73C	Angkor Wat
+0215DAB4	Borobudur
+0215BDD8	Forbidden City
+0215C584	Muryeong Tomb
+0215BDE0	Kinkakuji
+0215E750	Tula Warriors
+0215EBCC	Pyramids Sun/Moon
+0215E214	Castor Co.
+0215E224	Argot Co.
+0215E764	Bergstrom Army
+0215BD60	Li Clan
+0215E234	Clifford Army
+0215E778	Speyer Co.
+0215E244	Albuquerque
+0215D214	Valdes Army
+0215E9BC	Centurione Co.
+0215C638	Pasha Army
+0215E78C	Hayreddin Clan
+0215E7A0	Silveira Co.
+0215E254	Espinosa Co.
+0215E7B4	Uddin Co.
+0215E264	Nagarpur Co.
+0215DC04	Pereira Co.
+0215D268	Coen Co.
+0215D280	Kurushima
+0215E274	Maldonado Army
+0215DC14	Escante Army
+0215D28C	Hanse Cog
+0215D2BC	Lateen
+0215C6D4	Rotonda
+0215B7B8	Nao
+0215D2E0	Carrack
+0215D2F8	Light Galleon
+0215C6F8	Galleon
+0215D304	Fluyt
+0215D31C	Pinnace
+0215C704	Sloop
+0215BCC0	Ketch
+0215E2A4	Brigantine
+0215C048	Brig
+0215D358	Corvette
+0215D37C	Frigate
+0215BEF8	Man-of-War
+0215D388	Schooner
+0215E314	Barquentine
+0215BC80	Barque
+0215BF10	Ship
+0215D3AC	Small Galley
+0215BF20	Galley
+0215D3C4	Large Galley
+0215C7C4	Galleass
+0215B998	Dhow
+0215D3E8	Sambuk
+0215D3F4	Xebec
+0215DC64	Small Junk
+0215C674	Junk
+0215DCB4	Large Junk
+0215BA88	Seki
+0215BDE8	Atakebune
+0215BBF8	Suetsugu
+0215BE20	Ironclad
+0215B7E8	Fishman
+0215BC58	Kraken
+0215B958	Shark
+0215B76C	Whale
+0215BF98	Ghost Ship
+0215D4C0	Hanse Cog
+0215D4D8	Lateen
+0215C4F4	Rotonda
+0215B908	Nao
+0215D4F0	Carrack
+0215D4FC	Light Galleon
+0215C944	Galleon
+0215D478	Fluyt
+0215D418	Pinnace
+0215C5F0	Sloop
+0215BEE0	Ketch
+0215E434	Brigantine
+0215BE18	Brig
+0215CDA0	Corvette
+0215CB30	Frigate
+0215BF40	Man-of-War
+0215CB00	Schooner
+0215DE94	Barquentine
+0215BC68	Barque
+0215BDA0	Ship
+0215CA58	Small Galley
+0215BBD0	Galley
+0215CA94	Large Galley
+0215C0F8	Galleass
+0215B7F0	Dhow
+0215CAC4	Sambuk
+0215D370	Xebec
+0215D644	Small Junk
+0215C5C0	Junk
+0215D664	Large Junk
+0215BB18	Seki
+0215C020	Atakebune
+0215BD38	Suetsugu
+0215BCE0	Ironclad
+0215DF54	Merchant Carrack
+0215DF74	Merchant Light Galleon
+0215D724	Merchant Galleon
+0215DFA4	Merchant Pinnace
+0215CBB4	Merchant Atakebune
+0215CBD8	Merchant Suetsugu
+0215CBFC	Merchant Brig
+0215E958	Merchant Brigantine
+0215CC44	Merchant Ketch
+0215C074	Armed Sekibune
+0215CC8C	Armed Atakebune
+0215CCA4	Armed Suetsugu
+0215CCBC	War Ironclad
+0215DFF4	Merchant Fluyt
+0215C224	Merchant Nao
+0215E638	Transport Corvette
+0215E660	Transport Frigate
+0215D7D4	Transport Man-of-War
+0215E014	Merchant Schooner
+0215E980	Merchant Barquentine
+0215D208	Merchant Barque
+0215CD64	Merchant Ship
+0215D844	Transport Galley
+0215E688	Transport Large Galley
+0215E044	Transport Galleass
+0215E064	Merchant Sambuk
+0215E074	Merchant Xebec
+0215D884	Merchant Junk
+0215E69C	Merchant Large Junk
+0215D8A4	Transport Ironclad
+0215E094	Armed Hanse Cog
+0215E0A4	Armed Lateen
+0215D8E4	Armed Rotonda
+0215C314	Armed Nao
+0215E0B4	Armed Carrack
+0215E0C4	War Light Galleon
+0215D934	War Galleon
+0215E0E4	Armed Fluyt
+0215E104	Armed Pinnace
+0215D954	Armed Sloop
+0215CF08	Armed Ketch
+0215E994	Armed Brigantine
+0215CF44	Armed Brig
+0215E124	War Corvette
+0215E144	War Frigate
+0215CF80	War Man-of-War
+0215E164	Armed Schooner
+0215E9A8	Armed Barquentine
+0215CFBC	Armed Barque
+0215CFE0	Armed Ship
+0215E174	Armed Small Galley
+0215D010	Armed Galley
+0215E184	Armed Large Galley
+0215DA04	War Galleass
+0215C7DC	Armed Dhow
+0215E1A4	Armed Sambuk
+0215E1B4	Armed Xebec
+0215E6EC	Armed Small Junk
+0215DA44	Armed Junk
+0215E700	Armed Large Junk
+0215D118	Cartilha
+0215DA74	Vestalos
+0215D148	Arnhem
+0215B8E8	Chunshen
+0215B9E0	Huachang
+0215B9D8	Fishman
+0215BDD0	Kraken
+0215B8D8	Shark
+0215B9C0	White Whale
+0215BDB8	Ghost Ship
+0215DC84	Pumpkin Seeds
+0215DC94	Tomato Sapling
+0215D574	Banana Tree
+0215DCA4	Beehive
+0215D178	Baby Shark
+0215D994	Peppercorns
+0215DCC4	Clove Berries
+0215DCD4	Cinnamon Tree
+0215DCE4	Pimento Berries
+0215DCF4	Coffee Plant
+0215BDA8	Tea Plant
+0215D430	Cacao Seeds
+0215DD04	Tobacco Plant
+0215D43C	Alchemy Book
+0215E7C8	Glassmaking Book
+0215B770	Silk
+0215D448	Loom
+0215D460	Pearl Oyster
+0215DD14	Herbal Bible
+0215E7DC	Mangosteen Seeds
+0215D46C	Golden Cat
+0215CB24	Lime Drops
+0215E354	Hermes' Prayer
+0215DD24	Hua Tuo's Herbs
+0215E364	Black Rapier
+0215E7F0	Laocoon Sword
+0215ED98	Lohengrin's Saber
+0215E374	Waning Moon Shotel
+0215E384	Hero's Scimitar
+0215E804	Golden Cutlass
+0215E394	Valiant Bekatwa
+0215E9D0	Azure Talwar
+0215EBE4	Annihilator Katzbalger
+0215EBFC	Loyalty Fauchon
+0215E818	Fallen Angel Katar
+0215EC14	White Light Flamberge
+0215ED04	Bloodstained Shamshir
+0215CD04	Judas Blade
+0215D4B4	Zhao Yun's Spear
+0215E9E4	Atonement Orcrist
+0215E9F8	Red Pirate's Sword
+0215E82C	Minotaur's Axe
+0215E3E4	Namahage Knife
+0215EA0C	Tlaloc's Knife
+0215EA20	Vepar Halberd
+0215E3A4	Kublai's Sword
+0215DD64	Ares' Spear
+0215EA34	Excalibur
+0215C8F0	Muramasa
+0215D4CC	Blue Oak Shield
+0215E840	Armadillo Hide
+0215E854	Silver Sallet
+0215EA48	Phoenix Bascinet
+0215E868	Tortoise Shield
+0215DD84	Spirit Dress
+0215E3B4	Blade-Breaker Gi
+0215D52C	Cool Armor
+0215E87C	Kanem Hero Shield
+0215EA5C	Zealot's Cuirass
+0215EA70	Crimson Ringmail
+0215ED1C	Timur's Chainmail
+0215D5A4	Peacock Mail
+0215E890	Tula Helm
+0215E3C4	Rogue Ninja Garb
+0215EC2C	Amber Brigandine
+0215EC44	Jaguar God Vest
+0215EDB4	Decadent Bandit Mail
+0215DDA4	Empress' Gown
+0215E3D4	Noritsune's Armor
+0215E8A4	Attila Suit
+0215E3F4	Medusa's Shield
+0215EA84	Saladin's Silver Mail
+0215ED34	Charles Martel's Armor
+0215E404	Minerva's Shield
+0215DDB4	Magic Gloves
+0215D508	Diligence Rope
+0215DDC4	Milky Way Chart
+0215DDD4	Starlight Globe
+0215EA98	Horace's Poems
+0215DDE4	1001 Nights
+0215E414	World Pun Book
+0215E8B8	Golden Divider
+0215C968	Pocket Watch
+0215EAAC	Rocco's Sailing Guide
+0215EAC0	Heaven's Wristband
+0215E424	Guiding Cane
+0215EAD4	Warriors' Ocarina
+0215EAE8	Braggart's Beak
+0215D520	Marco Polo
+0215BD20	War Drum
+0215EAFC	Poseidon's Roar
+0215D538	Gallic Wars
+0215EC5C	Alexander's Campaigns
+0215ED4C	Miracle Bullet Pendant
+0215E8CC	Gunpowder Manual
+0215DE24	Demon-Slaying Arrow
+0215DE34	Lion Fang Saw
+0215EB10	Phidias' Chisel
+0215E8E0	Self-Honing Plane
+0215EC74	Herophilus' Medical Book
+0215ED64	Da Vinci's Anatomy
+0215C7F4	Canon of Med.
+0215DE44	Hestia's Cauldron
+0215E8F4	Pink Apron
+0215E444	Gauze Mask
+0215CA10	Stylish Boots
+0215E458	Gregory's Crown
+0215CA1C	Picture Bible
+0215E46C	Ancient Cross
+0215C7A0	Art of War
+0215D624	Gupta Beast
+0215DE64	Hannibal's Wars
+0215E908	Kinokuniya Abacus
+0215DE74	Vezas' Scales
+0215C92C	Eagle Statue
+0215C884	Piglet Statue
+0215C050	Shachi
+0215C104	Whale Statue
+0215BED8	Dragon
+0215CA4C	Dolphin Statue
+0215C9A4	Maiden Statue
+0215C08C	Devil Statue
+0215C998	King Statue
+0215C0B0	Madonna Statue
+0215BFA0	Compass
+0215BC28	Sextant
+0215EC8C	Aristarchus' Telescope
+0215DEA4	Frozen Rose
+0215D5C4	Rainbow Marble
+0215BBE0	Gold Dust
+0215E480	Bread Millstone
+0215D5D4	Huizong's Painting
+0215DEB4	Angel's Turban
+0215E494	Sappho's Poems
+0215C8FC	Jar of Sorrow
+0215E4A8	Venus de Milo
+0215EB24	Stained Glass Flower
+0215D4A8	Silla Gold Crown
+0215E4BC	Pottery Earrings
+0215CAAC	Jade Bead
+0215DED4	Shakuntala
+0215DEE4	Shosoin Pitcher
+0215CAB8	Black Glass Bowl
+0215E4E4	Embroidered Carpet
+0215D5F4	Snowflake Robe
+0215DEF4	Goryeo Incense Burner
+0215D604	Supreme Loupe
+0215D614	Rainbow Parrot
+0215E4F8	Hunter God Ur's Bow
+0215DF04	Cambyses' Crown
+0215E50C	Aksum King's Seal
+0215DF14	Rigveda
+0215ECA4	Kediri Eternal Amulet
+0215E520	Shihuangdi's Lamp
+0215D634	Crystal Skull
+0215E534	Thales' Paper Map
+0215EB3C	Cleobulus' Cloth Map
+0215ECBC	Periander's Stone Map
+0215DF24	Solon's Leaf Map
+0215E548	Bias' Coin Map
+0215E55C	Chilon's Bamboo Map
+0215E91C	Pittacus' Blade Map
+0215EB54	Stone Circle Map
+0215E930	Ancient Arena Map
+0215E570	Cave Village Map
+0215E584	Sahara Map
+0215E944	King's Mosque Map
+0215E598	Mughal Empire Map
+0215E5AC	Ancient Temple Map
+0215D684	Beijing Map
+0215DF34	King's Tomb Map
+0215E5C0	Golden Temple Map
+0215EB6C	Ancient City Map
+0215EB84	Aztec Kingdom Map
+0215D694	Old Parchment
+0215D6A4	Patterned Cloth
+0215D6B4	Stone Tablet Top
+0215E5E8	Evergreen Lotus Leaf
+0215DF44	Ancient Coin
+0215D6C4	Tang Bamboo Craft
+0215D6D4	Ritual Dagger
+0215CE18	Red Pigment
+0215D6F4	Brass Lamp
+0215D704	Stone Tablet Base
+0215E5FC	Kushan Platter
+0215DF64	Milk Jar
+0215E610	Bamboo Craft Diagram
+0215CB60	Sun Crest Sheath
+0215C2E4	Lion's Eye
+0215BDB0	Hexblade
+0215D714	Serpent Stone Mask
+0215EB9C	Star Rose Quartz
+0215EBB4	Rutile Phantom
+0215CCF8	Jiganemaru
+0215DF84	Idol of Allure
+0215C2CC	Dragon Horn
+0215D734	Prydwen
+0215CCB0	Gajalgu
+0215CB9C	Old Map 1
+0215CB6C	Old Map 2
+0215CB54	Old Map 3
+0215CB48	Old Map 4
+0215CBC0	Old Map 1
+0215CB3C	Old Map 2
+0215CBCC	Old Map 3
+0215CB84	Old Map 4
+0215CBE4	Old Map 1
+0215CB18	Old Map 2
+0215CBF0	Old Map 3
+0215CA88	Old Map 4
+0215CC08	Old Map 1
+0215CC14	Old Map 2
+0215CC20	Old Map 3
+0215CA70	Old Map 4
+0215CC2C	Old Map 1
+0215CA28	Old Map 2
+0215CC38	Old Map 3
+0215CA04	Old Map 4
+0215C5CC	England
+0215D1F0	Flanders
+0215BD50	Germany
+0215B898	Nordic
+0215D22C	Portugal
+0215C650	Spain
+0215C668	Italy
+0215C680	Greece
+0215BE80	Turkey
+# --- people roster, NPC labels (chunk 03) ---
+# --- table @0211FF80 (1) ---
+0215C6B0	Egypt
+# --- table @02120080 (1) ---
+0215D2C8	West Africa
+# --- table @02120180 (1) ---
+0215D2D4	East Africa
+# --- table @02120280 (1) ---
+0215BEB0	Arab
+# --- table @02120380 (1) ---
+0215BEC0	India
+# --- table @02120480 (1) ---
+0215D334	Indochina
+# --- table @02120580 (1) ---
+0215DC44	Indonesia
+# --- table @02120680 (1) ---
+0215B990	China
+# --- table @02120780 (1) ---
+0215B918	Korea
+# --- table @02120880 (1) ---
+0215B9C8	Japan
+# --- table @02120980 (1) ---
+0215C77C	Caribbean
+# --- table @02120A80 (1) ---
+0215C788	Mexico
+# --- table @02120B80 (437) ---
+0215CA40	Rafael
+0215CC5C	Castor
+0215C134	Hodrum
+0215DFD4	Bergstrom
+0215C3D4	Joachim
+0215B970	Ril
+0215CC98	Argot
+0215C030	Maria
+0215BAB8	Li
+0215C1F4	Huamei
+0215C710	Jenas
+0215C060	Passer
+0215D784	Claudio
+0215C914	Manaus
+0215BF28	Julio
+0215C20C	Elneco
+0215D794	Christina
+0215C9BC	Elneco
+0215E004	Arcadius
+0215D7A4	Eudosios
+0215C83C	Eirene
+0215BF08	Kamil
+0215E96C	Overijssel
+0215C230	Marinus
+0215BE88	Xian
+0215BB38	Yang
+0215BFF8	Jam
+0215D7B4	Ludoyen
+0215C80C	Jacques
+0215C254	Yukihisa
+0215BFD8	Shiraki
+0215CD10	Genjo
+0215CD1C	Cesare
+0215BF88	Toni
+0215C98C	Emilio
+0215CD28	Ferrog
+0215CD34	Angelo
+0215CD40	Puccini
+0215CD4C	Gerhard
+0215E674	Adelnkatz
+0215BA58	Al
+0215B8F0	Singh
+0215C9C8	Ferid
+0215C644	Charles
+0215E024	Rochefort
+0215BC38	Jean
+0215BD88	Carlo
+0215C284	Sinato
+0215D824	Fernando
+0215C5D8	Dias
+0215BDF0	Ian
+0215D1D8	Dukov
+0215CD7C	Samuel
+0215BC10	Khan
+0215B768	da
+0215C2A8	Manuel
+0215CD94	Almeida
+0215BA90	Sera
+0215E034	Charbarraz
+0215C620	Altos
+0215BE00	Ifa
+0215BB68	Sol
+0215C2B4	Julian
+0215BCA0	Lopez
+0215CDB8	Aziza
+0215E054	Nurennahar
+0215CDC4	James
+0215D854	Clifford
+0215CDD0	Martin
+0215D864	Speyer
+0215C47C	Dinis
+0215D874	Albuquerque
+0215B798	de
+0215BFC8	Pedro
+0215C458	Valdes
+0215B778	de
+0215C040	Paolo
+0215E084	Centurione
+0215CE0C	Hadum
+0215BE38	Pasha
+0215C9E0	Ahmed
+0215D894	Barbarossa
+0215D8B4	Hayreddin
+0215CEE4	Fazl
+0215CE24	Fernan
+0215D8C4	Silveira
+0215CE48	Jeronimo
+0215CE30	Espinosa
+0215B790	de
+0215CE3C	Abrahan
+0215D8D4	Uddin
+0215BDC0	ibn
+0215C308	Zamorin
+0215CE54	Nagarpur
+0215C32C	Ahmad
+0215CE60	Duarte
+0215C320	Pereira
+0215CE6C	Lopez de
+0215CE78	Anthony
+0215BD68	Coen
+0215BC90	von
+0215C290	Sojin
+0215C338	Kurushima
+0215C344	Vazquez
+0215D924	Maldonado
+0215B764	de
+0215C260	Diogo
+0215CE9C	Escante
+0215B794	de
+0215C218	Robert
+0215C368	Stoke
+0215CEB4	Charles
+0215C2D8	Gilvan
+0215BCF8	Paulo
+0215C1D0	Morais
+0215CECC	Gilberto
+0215C1B8	Graus
+0215BF38	Simon
+0215C1A0	Linares
+0215C38C	Alonso
+0215BF50	Rosa
+0215B760	de
+0215C164	Enzo
+0215CEF0	Regioni
+0215BC18	Salido
+0215CEFC	Ajar
+0215C3A4	Mushari
+0215BC08	Sidra
+0215BAF8	es
+0215E114	Al-Najud
+0215CF20	Jaume
+0215BFD0	ibn
+0215D974	Niyadi
+0215CF38	David
+0215D984	Graaf
+0215C0EC	Georg
+0215E134	Salzgitter
+0215C3C8	Nagayoshi
+0215BBC8	Kamuro
+0215BBB0	Jorge
+0215CF5C	Albacete
+0215C3EC	Garcia
+0215C14C	Oviedo
+0215B784	de
+0215BED0	Juan
+0215C3F8	Blanco
+0215C1E8	Vels
+0215CF8C	Granat
+0215D9A4	Wilhelm
+0215CF98	Jacques
+0215C410	Blum
+0215CFA4	Julien
+0215D9B4	Vermeer
+0215BD08	Ulysse
+0215D544	Huygens
+0215C9EC	Plett
+0215BBE8	Perrault
+0215BFE0	Jean
+0215C8E4	Ramusio
+0215CFD4	Gabriel
+0215CFEC	Carducci
+0215C428	Jacob
+0215D9D4	Portunt
+0215CFF8	Peralonso
+0215C434	Aguirre
+0215C440	Zaganos
+0215BB08	Bey
+0215D004	William
+0215C854	Clive
+0215C860	Hernan
+0215BF68	Berio
+0215C848	Iscar
+0215C470	Yasar
+0215D01C	Richard
+0215D9F4	Townsend
+0215BF48	Hans
+0215D034	Retzel
+0215C824	Mikhail
+0215D04C	Retzel
+0215C7B8	Volk
+0215C7D0	Akabu
+0215D058	Dhamai
+0215C494	Silwood
+0215BAB0	Aime
+0215D070	Mivor
+0215C028	Genz
+0215DA14	Charlotte
+0215C4C4	Miller
+0215D07C	Sanghyun
+0215BBA8	Kang
+0215D088	Plaza Vendor
+0215DA24	Euro Man
+0215D094	Plaza Vendor
+0215DA34	Euro Woman
+0215D0B8	Plaza Vendor
+0215C71C	Africa
+0215D0C4	Plaza Vendor
+0215C4E8	Islamic
+0215D0DC	Plaza Vendor
+0215BF18	India
+0215D0E8	Plaza Vendor
+0215D0F4	SE Asia
+0215D100	Plaza Vendor
+0215B7A0	China
+0215D10C	Plaza Vendor
+0215B7B0	Korea
+0215D124	Plaza Vendor
+0215BAF0	Japan
+0215D130	Plaza Vendor
+0215D13C	Native
+0215D2A4	Tavern Owner
+0215D298	Europe
+0215D154	Tavern Owner
+0215BAC8	China
+0215D160	Tavern Owner
+0215B8F8	Japan
+0215C518	Patron
+0215D16C	Europe
+0215C5E4	Patron
+0215C524	Africa
+0215C614	Patron
+0215C530	Islamic
+0215C53C	Patron
+0215BDF8	India
+0215C548	Patron
+0215D19C	SE Asia
+0215C554	Patron
+0215BA48	China
+0215C560	Patron
+0215BA68	Korea
+0215C56C	Patron
+0215B838	Japan
+0215C578	Patron
+0215D1B4	Native
+0215DAC4	Market Owner
+0215D1C0	Europe
+0215DAD4	Market Owner
+0215C590	Islamic
+0215DAE4	Market Owner
+0215B810	China
+0215DAF4	Market Owner
+0215B9B8	Japan
+0215DB04	Market Owner
+0215D1CC	Native
+0215DB14	Shipyard Boss
+0215D1E4	Europe
+0215DB34	Shipyard Boss
+0215C4DC	Islamic
+0215DB54	Shipyard Boss
+0215BA70	China
+0215DB64	Shipyard Boss
+0215B8B8	Japan
+0215DB74	Harbor Boss
+0215D1FC	Europe
+0215DB84	Harbor Boss
+0215C4B8	Africa
+0215DB94	Harbor Boss
+0215C608	Islamic
+0215DBA4	Harbor Boss
+0215D220	SE Asia
+0215DBB4	Harbor Boss
+0215B868	China
+0215DBC4	Harbor Boss
+0215B8A0	Japan
+0215DBD4	Harbor Boss
+0215D238	Native
+0215B9F0	Guard
+0215D244	Europe
+0215B820	Guard
+0215C65C	Islamic
+0215B800	Guard
+0215D250	SE Asia
+0215B808	Guard
+0215B7E0	China
+0215B9F8	Guard
+0215B7D0	Japan
+0215B878	King
+0215D25C	Europe
+0215C68C	Local Lord
+0215D274	Europe
+0215BB98	King
+0215C698	Islamic
+0215BCE8	Chieftain
+0215BD28	India
+0215BA50	Prefect
+0215B7C0	China
+0215BA00	Daimyo
+0215BA30	Japan
+0215B8B0	Governor
+0215D2B0	Europe
+0215B8A8	Priest
+0215C6C8	Islamic
+0215BEA0	Shaman
+0215C6E0	Africa
+0215B888	High Priest
+0215BEA8	India
+0215B9D0	Priest
+0215D2EC	SE Asia
+0215B858	High Priest
+0215B940	China
+0215B818	High Priest
+0215B8D0	Japan
+0215BDC8	Shaman
+0215D310	Native
+0215BAA0	Father
+0215D328	Europe
+0215E284	Innkeeper
+0215D340	Europe
+0215E294	Innkeeper
+0215C728	Africa
+0215E2B4	Innkeeper
+0215C740	Islamic
+0215E2C4	Innkeeper
+0215D364	SE Asia
+0215E2D4	Innkeeper
+0215B7A8	China
+0215E2E4	Innkeeper
+0215B950	Japan
+0215E2F4	Innkeeper
+0215D394	Native
+0215E304	Guild Boss
+0215D3A0	Europe
+0215E324	Guild Boss
+0215C770	Islamic
+0215E334	Guild Boss
+0215BAE0	China
+0215E344	Guild Boss
+0215B968	Japan
+0215B8C8	Henchman
+0215D3B8	Europe
+0215B900	Henchman
+0215C200	Africa
+0215B928	Henchman
+0215C248	Islamic
+0215B830	Henchman
+0215BFE8	India
+0215BA18	Henchman
+0215D3DC	SE Asia
+0215BB78	Henchman
+0215BBA0	China
+0215B8E0	Henchman
+0215BB28	Korea
+0215BB80	Henchman
+0215B7D8	Japan
+0215B978	Henchman
+0215D1A8	Native
+0215B7C8	Villager
+0215D514	Europe
+0215BA40	Villager
+0215BE40	Asia
+0215BE58	Boy
+0215D454	Europe
+0215BD48	Boy
+0215BB10	China
+0215CFB0	Couple (M)
+0215D49C	Europe
+0215D484	Couple (F)
+0215D55C	Europe
+0215BC70	Lady
+0215DD34	Europe 1
+0215BF00	Lady
+0215DD54	Europe 2
+0215BD78	Lady
+0215DDF4	Europe 3
+0215C8A8	Seductress
+0215BE48	India
+0215C8B4	Old Man
+0215C8CC	Unknown
+0215C038	Student
+0215C86C	Dutch
+0215C95C	Collapsed Man
+0215DD94	African Sailor
+0215C2FC	Suspicious One
+0215D4E4	Arab Sailor
+0215C0C8	Owner
+0215C500	Lady 3
+0215BC00	Cook
+0215C8D8	Tavern Owner
+0215C188	Privateers
+0215B890	Cult Leader
+0215D490	Event Use
+0215BAC0	Follower
+0215D40C	Event Use
+0215B948	Villager
+0215C878	Americas
+0215B9B0	Bandit
+0215C980	Africa
+0215B9E8	Monster
+0215DE04	Sea Event
+0215C000	Explorer
+0215CF14	Event Use
+0215D568	Angel
+0215C89C	Snake
+0215D580	Dandy
+0215D674	Francisca
+0215DE54	Stockholm
+0215BF60	Marie
+0215C6BC	London
+0215D5B4	Margrethe
+0215CA34	Hamburg
+0215BEF0	Wanda
+0215DE84	Amsterdam
+0215C9B0	Julia
+0215C068	Lisbon
+0215BAD8	Donna
+0215C0BC	Seville
+0215C950	Matilda
+0215CA64	Genoa
+0215CA7C	Mulinet
+0215BC30	Athens
+0215D5E4	Fatisia
+0215DEC4	Istanbul
+0215BF80	Nellie
+0215E4D0	Alexandria
+0215BE10	Hatra
+0215C758	Sofala
+0215C764	Safia
+0215BCD0	Basra
+0215CAD0	Benazir
+0215CADC	Calicut
+0215BD18	Lucia
+0215C128	Malacca
+0215CAE8	Thetis
+0215CAF4	Jakarta
+0215BA78	Meihua
+0215B7F8	Hangzhou
+0215B840	Reiki
+0215B870	Hanseong
+0215BBF0	Sakura
+0215BA60	Osaka
+0215D0AC	Verisa
+0215E5D4	Sao Jorge
+0215C26C	Silvia
+0215D6E4	Veracruz
+0215C2F0	Isabel
+0215BE08	Bahamas
+0215C62C	London
+# --- table @021225D4 (1) ---
+0215CCD4	Bristol
+# --- table @02122648 (1) ---
+0215DF94	Amsterdam
+# --- table @021226BC (1) ---
+0215CB90	Bruges
+# --- table @02122730 (1) ---
+0215BF58	Nantes
+# --- table @021227A4 (1) ---
+0215CBA8	Hamburg
+# --- table @02122818 (1) ---
+0215D744	Lubeck
+# --- table @0212288C (1) ---
+0215DFB4	Stockholm
+# --- table @02122900 (1) ---
+0215BC60	Oslo
+# --- table @02122974 (1) ---
+0215DFC4	Copenhagen
+# --- table @021229E8 (1) ---
+0215BA08	Riga
+# --- table @02122A5C (1) ---
+0215C11C	Lisbon
+# --- table @02122AD0 (1) ---
+0215BBB8	Ceuta
+# --- table @02122B44 (1) ---
+0215C080	Seville
+# --- table @02122BB8 (1) ---
+0215CC50	Valencia
+# --- table @02122C2C (1) ---
+0215CC68	Genoa
+# --- table @02122CA0 (1) ---
+0215CC80	Marseille
+# --- table @02122D14 (1) ---
+0215C1DC	Syracuse
+# --- table @02122D88 (1) ---
+0215D764	Venice
+# --- table @02122DFC (1) ---
+0215BBD8	Athens
+# --- UI (chunks u00, u01) ---
+021305F4	Pirate
+021308BC	Fencing %4d HP %4d%s
+02131E74	Are these mate assignments OK?
+02131E98	Everyone has been assigned!
+02131EB4	Command
+02131EBC	Only %s can be assigned to the Captain's Cabin.
+02131EDC	Assign Crew
+02131EE8	Unassigned
+02131EF0	--
+02131EF8	Skill Needed: %s
+02131F08	Required: --
+02131F18	Required: %4d
+02131F30	Deck
+02131F3C	Deck
+# 02131F48..FC4: Deck quick guide, fixed y per string (1/2/3 lines), stock char-wraps at ~260 px and the panel hides x<2
+02131F48	<$1E><$1E>On the Deck Screen, you can assign mates to duties.
+02131F74	<$1E><$1E>Place a mate in a room to give them the duty that goes\n<$1E><$1E>with that room.
+02131FC4	<$1E><$1E>Each duty has a required ability. A mate who falls short\n<$1E><$1E>cannot take the duty. The higher the ability, the\n<$1E><$1E>better the duty works.
+02132044	Deck
+02132050	--
+02132058	Skill Needed: %s
+02132068	Required: --
+02132078	Anyone can be assigned
+0213208C	Cannot be assigned
+021320A8	Required: %4d
+021320B8	No one can be assigned
+02133024	A lookout makes it\neasier to find ports\nat sea.
+0213305C	A captain makes\nsailors tire\nmore slowly.
+02133090	With a first mate,\nyou can send letters\nof negotiation at the Guild.
+021330C8	Sailors row the oars here.\nMates cannot be assigned.
+021330FC	Cancel the refit?
+02133114	Start over?
+02133128	%s gold coins refunded.
+02133140	Pwr %d
+# 0213314C: cannon picker (long range), drawn at x 108 = sprite seam (gap on screen), 36 px to the buffer end
+0213314C	Range+
+02133154	 Equipment
+02133160	 Ship Info 
+0213316C	X
+02133170	No
+02133178	O
+0213317C	Yes
+02133188	Cost
+02133190	Refund
+021331A0	Days  %6d
+021331AC	This will cost at least this much and take at least this long.
+021331C8	Is that OK?
+02133994	Change Extra Gear
+021339A4	Change Figurehead
+021339B0	Change Cannons
+021339BC	Add Cargo Hold
+021339C8	Lateen
+021339D0	Square
+021339DC	\n& Topsails
+021339EC	\n& Stays
+02133F28	Sailors assigned with priority to the flagship.
+02133F48	Sailors assigned evenly.
+02133F68	Sailors assigned at the bare minimum.
+02133FBC	Need  Now  Max
+02133FD4	Please organize the sailors.
+02133FF4	About %d days
+02133FFC	%s
+02134004	%14s Class
+0213400C	Capt. %s
+02134014	%d+
+02134020	%d+
+02134034	%s
+0213403C	 x%d
+02134444	Event
+02134D54	Elysion
+02134DA0	Missionary
+0213523C	Fleet %s
+02135248	%s Fleet
+02135260	Unknown Fleet
+02135258	Pirate %s
+021370F8	Target Port: %s
+02137104	Adm. %s
+0213710C	Level %4d
+02137118	Income %8lu Expenses %8lu Invested %8lu
+0213726C	?
+021378F4	Leader %s (%s)
+02137904	Level %4d
+02137910	?
+02137914	Gold: 
+02137920	?
+02137928	Influence (%s)  %6d (%4d)
+02137944	Influence  %6d
+02137950	Base: 
+0213795C	Goodwill
+02137964	-
+0213880C	Currently\nthe at-sea controls are "%s".\nSwitch to "%s"?
+02138844	Currently\nthe income report setting is "%s".\nSwitch to "%s"?
+02138878	(%s)
+02138880	You have no companions!
+0213B958	Event Scenes
+0213B968	Relive the great moments of each protagonist.
+0213B984	Enjoy them once more.
+0213B998	Sites
+0213B9A0	Review the ruins and churches you have discovered so far.
+0213B9C4	Review the churches you have found.
+0213B9D8	Items Found  %3d/%3d
+0213B9F0	%2d/%2d
+0213B9FC	Advice
+0213C194	Saker
+0213E2E0	%2d/%2d
+0213E2EC	Items
+0213E2F8	Advice
+0213E300	Items
+0213E30C	-
+0213E310	Effect
+0213E320	Equipped By
+0213E328	Use
+0213E330	Price
+0213E33C	Equipped On
+0213E344	???
+0213E350	-
+0213E354	Effect
+02140480	E
+02140484	W
+02140488	S
+0214048C	N
+02140490	Lat %s %3d  Long %s %3d 
+02143A28	I
+02143A2C	I
+02143BD0	Sir
+02143BD8	Miss
+02143BE0	Sir
+02143BE8	Miss
+02143BF0	Sir
+02143BF8	Miss
+02143C00	Sir
+02143C08	Miss
+02143D20	Oh, you're in luck!\nI've got an old map here that\nshows where a legendary treasure lies.
+02143DCC	Last Month
+02143DD4	This Month
+02143DDC	%s Months Ago
+02143DE8	%s Months Ago
+02143E70	Investment
+02143E7C	Contract Fee
+0214463C	%s
+021447D0	Ship Name
+02145098	Let's decide who goes first.
+021450B0	You go first.
+021450C4	I'll start, then.
+0214511C	Point-Blank
+02145128	N
+0214512C	NE
+02145134	E
+02145138	SE
+02145140	S
+02145144	SW
+0214514C	W
+02145150	NW
+021451EC	Auto-Moving
+021451F8	High-Speed
+# 02147540..: sea mode help (overlay renderer, laid out by arm9str.modehelp_layout: Title\\nBody)
+02147540	Search Mode\nPress A to search. A search may turn up water, food, items, and more. If nothing is found, the sailors' fatigue rises by 3. Sailors may desert or be attacked by beasts while searching.
+02147674	Declare War Mode\nAttack a fleet or port on screen: choose a target to begin the battle. Declaring war puts you at war with that faction and greatly lowers goodwill. You cannot declare war on allied fleets.
+02147778	Info Mode\nView information on the ports and ships on screen. Please choose a target.
+02147808	No one to start a battle with.
+02147828	Info Mode\nView information on the ports and ships on screen. Please choose a target.
+021478B8	%s\n%s Class
+021478C0	%s  %6s%%\nArmament %8s
+02147E54	Admiral, the village chief wants to hear your "promise word."
+02147E8C	He says it is\n%s.
+02147EA4	From your next visit, you'll be allowed to use trade, the tavern, and other facilities.
+02147EE4	The village chief walked away.
+02147F00	Weather: Cloudy
+02147F0C	Weather: Clear
+02147F18	Weather: Fair
+02147F34	No one to start a battle with.
+02148498	Leader
+021484A0	Adm. %s
+021484AC	Capt. %s
+021484B4	Ship %s
+021484CC	%s %s
+021484D4	Sailors
+021484DC	 
+021484E0	 
+02148CC8	Equipped Items
+02148CE4	Armor
+02148CD8	Weapon
+02148E68	%s Fleet
+0214A03C	Is this cargo OK?
+0214A05C	Move cargo to another ship.
+0214A078	%s  Loading Cargo
+0214A440	%2d%%%2d%%
+0214A44C	Supply Ratio
+0214C04C	%s\nViewing Fee: %s gold coins
+0214C060	assigned to command the sea area around
+0214C084	assigned to attack
+0214C0A0	assigned to patrol around
+0214C0C0	assigned to call at
+0214C0DC	:\n
+0214C0E4	 etc.
+0214C0FC	????
+0214C108	Sea Screen
+0214C114	Switch
+0214C120	OK
+0214C128	OK
+0214C130	OK
+0214C138	Switch
+0214C144	OK
+0214C14C	Sea
+0214C154	Sea
+0214C15C	Faction
+0214C164	OK
+0214C16C	OK
+0214C174	OK
+0214C17C	World
+0214C184	World Map
+0214C190	Fleet/Village
+0214C19C	Sea
+0214C1A4	Please select.
+0214C1B8	Press X to switch
+0214C1D0	the selection target.
+0214C1E4	?
+0214C1E8	Leader (%s)
+0214C1F4	?
+0214C1FC	(Unknown Faction)
+0214C20C	?
+0214C214	?
+0214C218	%d (%s: %d)
+0214C22C	?
+0214C230	None
+0214C238	-
+0214C244	Allied with %s
+0214C254	At war with %s
+0214C26C	Under %s
+0214C27C	E
+0214C280	W
+0214C284	S
+0214C288	N
+0214C28C	%s (%s%d %s%d)
+0214C29C	 ? 
+0214C2A4	Scarce
+0214C2B4	%3s%%
+0214C2BC	Adm. %s
+0214C2E0	Sea Command
+0214C2EC	around is under Sea Command
+0214C304	Attack Port
+0214C30C	will be attacked
+0214C31C	Patrol
+0214C324	will be patrolled
+0214C338	Call at Port
+0214C340	will be called at
+0214DEF8	Cannot auto-move.
+0214F328	%s Fleet
+0214FBA8	Level %4d
+0214FBBC	%s %s
+0214FBC4	Duty
+0214FBCC	Level
+0214FBD4	Cancel
+0215029C	Given
+021502A0	Middle Name
+021502B0	Family
+021502B4	Faction
+021502BC	Born %2d/%2d
+021502D0	Select Character
+021502E4	Done
+021502EC	  1  2  3  4  5  6  7  8  9 10\n
+02150318	11 12 13 14 15 16 17 18 19 20\n
+02150344	21 22 23 24 25 26 27 28 29 30\n
+02150370	31\n
+02150378	/\n
+0215037C	Birthday
+021514B0	%14s Class
+021514B8	%10d gold coins
+021514C4	%10d gold coins
+021514E0	%s
+021514E8	%14s Class
+021514F0	Docked at %s
+021514FC	Capt. %s
+0215152C	%d+
+02151538	%d+
+02151554	%s
+0215155C	 x%d
+02151624	Water
+02151628	Food
+02152BB0	Is this OK?
+02152BC8	%s
+02152BD0	%14s Class
+02152BD8	Docked at %s
+02152BE4	Capt. %s
+02152C14	%d+
+02152C20	%d+
+02152C3C	%s
+02152C44	 x%d
+02152C54	%s Class
+02156074	Promise Word
+02156058	Please enter your promise word.
+02156080	Ship Name
+02156088	%s/%s
+021565D0	Scarce
+021565D8	Normal
+021565E0	Port
+021565E4	City
+0215690C	E
+02156910	W
+02156914	S
+02156918	N
+0215691C	(%s%d%s%d)
+# 0215692C: port info header, drawn as one line but shown as 4 sprites cut at px 0/24/48/84 (widths 24/24/36/36); <$1E> = 1 px spacer
+0215692C	<$1E><$1E>Type<$1E>State<$1E><$1E>Growth   Arms
+0215694C	Scarce
+02156954	%4s%%
+0215695C	%2s%%
+02156FF4	%4s 
+02157074	Investment
+02159F7C	%s Culture Area
+02159F88	Trending
+02159F9C	 -  
+02159FA4	Income
+02159FAC	Expenses
+02159FB4	Total
+02159FC4	Balance
+02159FCC	Ship
+02159FD8	Trade City
+02159FE4	Goods Details
+02159FF0	Size
+02159FF8	Status
+0215A000	Restock
+0215A008	Gold
+0215A024	-%6s
+0215A03C	 -  
+0215A044	   
+0215A050	 -  
+0215A058	%s\n%s%4d%%
+0215A064	Short
+0215A06C	Trending
+0215A074	%s\n%s%4d%%
+0215A080	Short
+0215A088	Trending
+0215A474	Balance
+0215AD0C	X
+0215AD10	No
+0215AD18	O
+0215AD1C	Yes
+0215B6B8	World
+0215F72C	Search Mode\nPress A to search. A search may turn up water, food, items, and more. If nothing is found, the sailors' fatigue rises by 3. Sailors may desert or be attacked by beasts while searching.
+0215F870	Declare War Mode\nAttack a fleet or port on screen: choose a target to begin the battle. Declaring war puts you at war with that faction and greatly lowers goodwill. You cannot declare war on allied fleets.
+02169F08	No backup memory found.
+02169F2C	Load this data?
+02169F54	Your previous data will be erased.\nIs that OK?
+02169F84	A new save will be created.\nIs that OK?
+0216A01C	Could not write the data.\nTurn off the power and reinsert the card.
+02169FD0	Could not read the data.\nTurn off the power and reinsert the card.
+0216A068	%s's %s: %s.
+0216A07C	%s\n%s in progress.\nDo not remove the\nmemory card or\ncontroller.
+0216A0C8	Save
+0216A0D0	Load
+0216A0D8	%s in progress.\nDo not turn off the power.
+0216A0FC	Select where to save.
+0216A11C	Select the data to load.
+0216A144	 At Sea
+0216A14C	 In Port
+0216A154	Unused
+0216A15C	LV.%4s
+0216A168	 At Sea
+0216A170	 In Port
+0216AF7C	No Golden Route records.
+0216AF98	%s (%s)
+0216AFB0	Stocked
+0216AFB8	%s. %s
+0216AFD0	-
+0216B8D4	Race Over
+0216B8EC	A communication error occurred.
+0216B908	Communication was lost.
+0216B91C	Too many players to join.
+0216B93C	Touch the lower screen or
+0216B954	press the A Button to
+0216B968	return to the menu.
+0216B980	Great Voyage Race
+0216B990	Client: Select Stage
+0216B9A4	Client: Find Host
+0216B9B4	Please wait until entry closes.
+0216B9E0	Host: Select Stage
+0216B9F4	Host: Accepting Entries
+0216BA08	Host: Starting Game
+0216BA28	Host or Client
+0216BA34	-- Waiting --
+0216D8D4	 %s
+0216D8DC	 %s
+0216D8E4	???
+0216E4A0	Next
+0216E4A8	Prev
+0216E4B0	Prev
+0216E4B8	Next
+0216ECF4	Ruins Found
+0216ED00	Ruins Found
+0216ED0C	 discovered.
+02170280	Stop
+02170288	Play
+02170290	Sound Settings
+021702A0	Sound FX
+021702A8	Volume
+021702B0	BGM
+021702B8	Playing
+021702C0	Stopped
+021702C8	Volume
+0212FFA8	Mast
+0212FFE8	Crow's Nest
+0212FF70	Deck
+0212FF68	Survey
+0212FF58	Helm
+0212FFE0	Capt. Cabin
+0212FFD8	First Mate Cabin
+0212FFFC	Marine Quarters
+02130008	Armed Battery
+02130014	Supply Hold
+0212FFF0	Cargo Hold
+0212FFB0	Rowers
+0212FF50	Cabin
+0212FF80	Lumber
+0212FF90	Sickbay
+0212FF98	Galley
+0212FFD0	Rec Room
+0212FFC8	Animal Pen
+0212FFB8	Chapel
+0212FF88	Staff Room
+0212FFA0	Purser
+0212FFC0	Extra 1
+0212FF78	Extra 2
+0212FF60	None
+02130CA0	Exploration
+02130C84	Sea Battle
+0213322C	Spritsail
+02133218	Gaff Spanker
+0213320C	Extra Armor 1
+02133200	Extra Armor 2
+021331F8	Bow Cannon
+021331F0	Aft Cannon
+021331E8	Ram
+021339F8	Auto
+02133A10	Favor Flagship
+02133A00	Even Out
+02133A1C	Minimum
+02134E54	Abandon Ship
+02134E18	Suppress
+02134E3C	Appease
+02134E24	Ignore
+0213714C	Trader
+02137144	Pirate
+02137154	Soldier
+0213715C	Conqueror
+021379A8	Time Limit
+02137F74	The race has a time limit. Players who\ncannot reach the goal within the time limit\nare disqualified.\nDisqualified players receive no prize money.\nIf no one reaches the goal within the time\nlimit, the race is declared a no contest.
+021379C0	About Ships
+02137EAC	In the race you use your fleet's flagship.\nPlease select a save file that has the\nflagship you want to use.\nOnly the flagship's base stats affect the\nrace. Equipment, mates, and item effects are\nnot applied.
+02137A68	About Supplies
+02137C90	Food is consumed during the race.\nThe number next to the barrel icon at the\ntop left of the lower screen is your food.\nWhen food reaches 0, your ship slows down.\nResupply food at the supply points.
+02137974	Route Map
+02138168	The route map during the race shows the\npositions of ships, the goal, checkpoints,\nand supply points. Players appear as red, blue, yellow, and\ngreen ships in order of entry. The goal is\nmarked with a G, checkpoints with red\ncircles, and supply points with light blue\ncircles. Checkpoints you have passed\ndisappear from the route map.
+02137AA8	About the Race
+02137DF0	The Great Voyage Race is a competitive race\nusing DS Wireless communication.\nUp to 4 players can take part.\nOne player becomes the host and holds the\nrace, and the other players join that race\nto compete.
+021379E4	Race Waters
+02137BF4	There are 4 types of stage waters. The host\nchooses the race waters.\nYou cannot leave the race waters. The edge\nof the race waters is shown by a red line.
+021379CC	Basic Rules
+02138044	The race is controlled with the touch screen.\nThe Control Pad cannot be used.\nThe first player to pass 7 checkpoints and\nreach the goal wins.\nThe checkpoint order is not fixed, but you\ncannot reach the goal unless you pass all\nof the checkpoints.\nThe race continues until everyone finishes.
+02137A48	About Prizes
+02137B90	Race participants receive prize money\naccording to their rank.\nPrize money is added to the gold in your\nsave file.
+02137A88	About Quitting
+02137D38	One player cannot leave a race partway\nthrough.\nTo quit, turn off the power of the DS.\nIf one player turns the power OFF, the race\nis ended for everyone.
+02137AF8	Start Race
+02137A58	Read Rules
+02137990	Sound
+02137984	Finance Report
+02137A78	Sea Controls
+02137AB8	About the Race
+021379D8	Basic Rules
+02137A38	Route Map & Supply
+0213799C	Restrictions
+021385DC	Hide
+021385CC	Show
+02138614	Finance Report
+0213865C	Sea Controls
+02138638	Save
+02138644	Load
+0213866C	Quit Game
+021385D4	Settings
+021385E4	Mates
+021385EC	Ship Info
+0213862C	Ships in Dock
+02138608	Fleet Info
+0213867C	Golden Route Records
+021385FC	Ancient Maps
+021399B4	Great Scenes from Rafael's Story
+02139934	Great Scenes from Hodrum's Story
+02139818	Great Scenes from Ril's Story
+021398A4	Great Scenes from Maria's Story
+02138954	Prev
+02138964	Next
+02138A04	Items
+0213894C	Sites
+021389EC	Characters
+02138EFC	Event Scenes
+02139694	Maria Reports (Large)
+02138C4C	Maria Close-up
+02138EDC	Ian and Maria
+0213949C	Maria Talks to Flowers and Birds
+02138E8C	Room in Chinese Mansion
+02138B48	Ifa Appears
+02138E2C	Ifa's Tao Magic
+02138CEC	Maria's Will
+021397FC	Carlo Standing at the Grave
+0213927C	Ian and Samuel
+0213897C	Fleet Battle
+02138CDC	Maria's Profile
+02138EEC	Al Leaves the Tavern
+02138F0C	Aziza Appears
+02138A1C	Revolt Erupts
+02138B54	Three Helpers
+02139290	Meeting Rafael
+02138C1C	Jenas and the Ship
+02138ECC	Portrait of Rocco
+02138A28	Bianca
+021394B4	Angelo and Bianca
+02139178	Gerhard's Mansion
+02138F3C	Charles's Factory
+021392B8	Pitiful Mivor
+0213922C	Christina's Dance
+021392CC	Christina Close-up
+0213918C	Child Who Is Drowning
+02139954	Christina Holding the Child
+021392F4	Go for It, Mivor
+02139634	Quite a Good Couple
+02139114	Maria and Hodrum
+021394E4	Richard Trampling the Roses
+02139150	Richard's Last Moments
+02139330	Maria and the Assembled Retainers
+02139664	Maria's Relaxed Smile
+02139344	Maria and Company at the Review
+02138F2C	Maria Image
+02139888	Exhausted Kamil and Cheerful Ril
+0213958C	Ril Looking Back at the Port
+02138A34	Ril Departs
+02139088	Clifford Appears
+021393F4	Ril in a Dress (Large)
+02139254	Ril and Clifford
+02138A40	Feast
+02138E4C	Ril and Hodrum
+0213940C	Ril Hugging Kamil
+02139268	Ian at a Loss
+02138C7C	Ian's Misfortune
+02138BFC	Beautiful Ian
+0213909C	Ril and Samuel
+02138C8C	Inside Coen's Residence
+021390B0	Kamil and Hodrum
+02138C6C	Ril Is Attacked
+02138E6C	Welcome Back, Kamil
+02139424	The Coen Family Locket
+021390C4	Wild Jam 1
+021390D8	Wild Jam 2
+02138C3C	Tomato Craze
+02138D4C	Julian's Story
+021395BC	Clifford Takes a Hostage
+02138C9C	Ship on Fire (Large)
+021390EC	Clifford Dies
+0213943C	Against the Setting Sun
+02138CAC	Shy Ril
+02139454	Ril Gazing at Kamil
+02138B60	Kiss Scene
+02138CBC	Two Embracing
+02139914	Ril in a Wedding Dress
+02138EAC	Two Facing Each Other
+02139AD4	Landscape of Blooming Tulips (Large)
+0213946C	Two Opening the Church Door
+02138C2C	Ril in the Rain
+02138EBC	Ril Looks Up
+02138C5C	At Kamil's House
+02139484	Ril Meets Kamil
+021391B4	Enemy Ship Sighted! (Large)
+02138D5C	Hodrum Appears
+02138FFC	Bustling Ship Interior
+02139010	Hodrum Rises from His Seat
+02138E9C	Hodrum's Address
+02138E0C	Ril and Hodrum
+02138E1C	Angelo Fights
+02139544	Angelo Defeated
+021389F8	Fleet Appears
+02138C0C	Captive Princess
+02139204	Hodrum Reaches Out
+02138D1C	Hodrum Wounded
+02138D2C	Sera and the Knife
+02139024	Two Left Behind
+02138B18	Sera Smiling
+02139974	Violin in Moonlight and Rafael 2
+0213955C	Close-up of Sera Listening
+02139754	Hodrum Comes for Sera
+02139394	Beloved Elysion
+02139574	Hodrum vs. Escante
+02138AE8	Sera's Homeland
+02139038	Kamil and Hodrum
+0213904C	Hodrum and Maria
+0213899C	Made Up
+02139994	Wounded Hayreddin and Hodrum
+02138AF4	Sera's Rescue
+02139218	Sera and Hodrum Reunite
+021393AC	Hodrum Meets the King
+02139770	Hodrum's Parting with Sera 1
+0213978C	Hodrum's Parting with Sera 2
+021397A8	Hodrum's Parting with Sera 3
+021397C4	Hodrum's Parting with Sera 4
+021397E0	Hodrum's Parting with Sera 5
+021393C4	Hodrum and Gerhard
+02138E3C	Hodrum Smiling
+02138B3C	Departing Ship
+021393DC	Hodrum Gazing at the Stars
+02139060	Sera Gazing at the Stars
+02139074	Sera Standing by the Window
+02138B24	Portrait of Two
+0213898C	Port Town 1
+021392A4	Clau and Rafael
+02138974	Repair Ship
+021394CC	Rafael's Profile (Large)
+02138B30	Julio's Shop
+02138F5C	Ril and Raffy
+02139240	Meeting Room
+02139604	Arcadius's True Identity 1
+0213961C	Arcadius's True Identity 2
+02138F6C	Bustling Bullring
+02138F4C	Matador Appears
+021392E0	Emilio Is Injured
+0213895C	Sick Bay
+02139834	Uddin and His Men 1
+02139850	Uddin and His Men 2
+021399D4	Violin in Moonlight and Rafael 2
+021398C0	Close-up of Rafael Playing
+0213964C	Close-up of Sera Listening
+021398DC	Eirene and Dejected Raffy
+0213913C	Charlotte Appears
+02139308	Charlotte Close-up
+02138E7C	Wilderness (New World)
+021391C8	Charlotte's House
+021394FC	Charlotte Offers Flowers
+02139100	Clau Playing with Children
+0213931C	Maria and Raffy 1
+02138D0C	Yukihisa's Poise
+02138F1C	Ship in Dock
+02139164	Simon and Valdes
+02138B00	Bustling Village
+021398F8	Charlotte in a Flower Crown
+021399F4	Torch Flames and Two Silhouettes
+0213967C	Rafael Meets the King
+02139A14	Claudio and Arcadius 1
+02139A34	Claudio and Arcadius 2
+02139A54	Claudio and Arcadius 3
+02139358	Raffy and Friends
+02139A74	Flustered Clau and Arcadius
+02139128	Raffy's Ending 1
+0213952C	Raffy and Clau Ending
+021391A0	Raffy's Ending 2
+021396AC	Raffy and Charlotte
+02138B0C	Happy Clau
+02138F7C	Jenas Afterward
+02138CCC	Two Talking
+02143B30	N
+02143B28	S
+02143B2C	E
+02143B24	W
+02143B5C	A Bit
+02143B34	Keep
+02143B4C	Always
+02143B6C	Guide Fleet
+02143B78	Forge Documents
+02143B54	Bad Rumor
+02143B3C	Bribe
+02143BB0	Order a Drink
+02143BA0	Treat Everyone
+02143B90	Gather Sailors
+02143B84	Plan a Scheme
+02143C5C	Swap Ships
+02143C30	Appoint Captain
+02143C18	Formation
+02143C3C	Form Local Fleet
+02143C4C	Edit Local Fleet
+02143C6C	Disband Local Fleet
+02143CDC	Buy Items
+02143CEC	Sell Items
+02143CFC	Send Negotiation Letter
+02143CD0	Friendly Visit
+02143CAC	Make Pact
+02143CB8	Break Pact
+02143C8C	Truce
+02143CC4	Declare War
+02143C94	Threaten
+02143DA0	Stay One Day
+02143DAC	Keep Staying
+02143D78	3 Days
+02143D90	10 Days
+02143D88	30 Days
+02143DF4	Contract
+02143E04	Fund Military
+02143E1C	Use Recommendation
+02143E2C	Use Introduction
+02143E3C	Lend Item
+02143E5C	Take Back Item
+02144654	To Sea
+02144684	Deck View
+02144644	Depart
+02144664	Dock
+021446C0	Arrange Cargo
+0214465C	To Sea
+0214469C	Deck View
+02144790	Change Gear
+0214479C	Rename Ship
+021447A8	Standard Hull
+02144784	Custom Order
+0214476C	Buy
+02144764	Sell
+02144754	Repair
+0214475C	Refit
+02144774	Dock
+02147900	Keep
+021478D8	Kill
+02147928	Turn Sails
+02147920	Sails
+02147A48	Stop Auto-Move
+02147B68	'Name of the Stairway to Heaven'
+02147A78	'Name of the Fire Mountain'
+02147C90	'Name of the Bell-Shaped Rock in the Sea'
+02147AD0	'About the White Whale'
+02147BD0	'About the Easter Island Statues'
+02147B20	'Name of the Great Land'
+02147CD8	'Name of the First Frenchman Here'
+02147BB4	'Who Named This Land'
+02147AE4	'Name of the Fire-Breathing Mountain'
+02147A88	'About the Desert'
+02147BF0	'Hero Who Found This Land'
+021479D0	'Name of the Island'
+021479DC	'Name of the Lake'
+02147D28	'About the Island of Angra do Heroismo'
+02147B38	'About the Beautiful Valley'
+02147CB4	'About the Glacier Called Black Ice'
+02147C30	'About the Land Covered in Sand Rock'
+02147B98	'Correct Name of the Inca Empire'
+021479C4	'Name of the God'
+02147B50	'About the Plain of Stone Pillars'
+02147AA8	'Name of the Mysterious Pillar'
+02147C50	'About the Land Frozen Forever'
+02147C10	'Fire Mountain of Kamchatka'
+02147AF8	'About the Phantom Giant Bird'
+021478F0	Supply
+021478E8	Lodging
+02147918	Repair Ship
+02147940	Hire Sailors
+021478F8	Depart
+02147A24	Promise Word
+02147970	Aurora
+021479E8	Kilauea
+02147ABC	Pongiascar
+02147958	Beluga
+02147908	Moai
+02147964	Alaska
+02147A98	Champlain
+02147994	Magellan
+02147910	Hekla
+0214794C	Kalahari
+02147A00	Eirik
+02147988	Bora Bora
+021479B8	Baikal
+02147A0C	Terceira
+021479A0	Yosemite
+02147A58	Svartisen
+021479F4	Panurul
+02147B0C	Tawantinsuyu
+02147938	Kamui
+02147A18	Pinnacles
+02147930	Latte
+021479AC	Tundra
+0214797C	Avacha
+021478E0	Moa
+0214A090	Captain
+0214A088	First Mate
+0214A098	Adviser
+0214A0E8	Purser
+0214A0E0	Surveyor
+0214A0A8	Sailhand
+0214A0D0	Helmsman
+0214A0C0	Lookout
+0214A0F8	Boarding Chief
+0214A0F0	Gunner
+0214A0B0	Missionary
+0214A0A0	Doctor
+0214A0C8	Head Cook
+0214A0D8	Shipwright
+0214A0B8	Keeper
+0214A104	Deck Crew
+0214A110	Ratio
+0214B858	Fleet/Village
+0214B840	Waters
+0214B864	Delegate Waters
+0214B848	Patrol
+0214B838	Call at Port
+0214B850	Attack Port
+0215C018	Crete
+0215C908	Cyprus
+0215DFE4	Istanbul
+0215C938	Ragusa
+0215CCE0	Beirut
+0215C830	Tripoli
+0215C23C	Algiers
+0215C800	Tunis
+0215C818	Madeira
+0215D7C4	Las Palmas
+# --- UI, ports, descriptions (chunks u02, u03) ---
+0215C7AC	Cape Verde
+0215C6EC	Luanda
+0215D7F4	Cape Town
+0215D804	Mozambique
+0215D814	Mogadishu
+0215BE50	Aden
+0215CD70	Muscat
+0215C29C	Hormuz
+0215BA98	Goa
+0215C5B4	Ceylon
+0215CDAC	Calcutta
+0215BE68	Ava
+0215C4D0	Brunei
+0215BD90	Manila
+0215CDDC	Batavia
+0215CDE8	Palembang
+0215CDF4	Ternate
+0215CE00	Amboina
+0215BB20	Hangzhou
+0215BB30	Quanzhou
+0215BE98	Macau
+0215BA80	Nagasaki
+0215BAA8	Naha
+0215BCC8	Havana
+0215E6B0	Santo Domingo
+0215D8F4	San Juan
+0215CE84	Jamaica
+0215BCA8	Merida
+0215CE90	Portobelo
+0215CEA8	Maracaibo
+0215E0D4	Pernambuco
+0215CEC0	Trujillo
+0215C374	Cayenne
+0215E0F4	Sierra Leone
+0215CED8	Sao Tome
+0215D944	Madagascar
+0215C398	Mombasa
+0215C170	Socotra
+0215BFB8	Diu
+0215C3B0	Madras
+0215D964	Masulipatam
+0215C008	Aceh
+0215CF2C	Gia Dinh
+0215E6C4	Banjarmasin
+0215CF50	Makassar
+0215C3E0	Surabaya
+0215BB70	Yizhou
+0215CF68	Pensacola
+0215CF74	Abkhazia
+0215E154	Lelystad
+0215B828	Tamsui
+0215C41C	Inuvik
+0215C010	Hawaii
+0215E6D8	Rio de Janeiro
+0215CFC8	Churchill
+0215D9C4	Valparaiso
+0215BE78	Nome
+0215BFF0	Cod
+0215D9E4	Montevideo
+0215C44C	Karibib
+0215C464	Forel
+0215BC48	Tahiti
+0215D028	Dikson
+0215D040	Azores
+0215E194	Santa Barbara
+0215C7E8	Narvik
+0215D064	Levuka
+0215C4A0	Callao
+0215BB88	Ezo
+0215BC78	Perth
+0215BD00	Guam
+0215BD70	Chikushi
+0215BEC8	Corfu
+0215D0D0	Wanganui
+0216A1A0	Back
+0216A1A8	Next
+0216B388	Choose the sea area to play.
+0216B274	Searching for host...
+0216B15C	Please wait.
+0216B328	The host is choosing a stage.
+0216B348	Please wait for the decision.
+0216B058	Host
+0216B04C	Guest
+0216B3EC	Waiting for players to join.
+0216B308	When all members are shown,
+0216B368	select Confirm on the lower screen.
+0216B17C	Race results
+0216B2B4	Touch the lower screen or
+0216B2D0	press the A Button.
+0216B014	1P
+0216B004	2P
+0216AFDC	3P
+0216AFF4	4P
+0216B434	Choose the host and guests for wireless play.
+0216B458	Pick just one person to be the host
+0216B24C	from among the players.
+0216B3C8	Everyone else should choose Guest.
+0216B1C0	You are 1P.
+0216B1E8	You are 2P.
+0216B1FC	You are 3P.
+0216B224	You are 4P.
+0216B1AC	Won 5000 prize
+0216B1D4	Won 2000 prize
+0216B210	Won 1000 prize
+0216B14C	Won 500 prize
+0216AFE4	1st
+0216AFD4	2nd
+0216AFEC	3rd
+0216AFFC	4th
+0216BD78	Hints
+0216D9E8	About Extras
+0216D9C0	Introducing Online
+0216D95C	Game Overview
+0216D950	Occupations
+0216D990	Start of Adventure
+0216D9D4	Creating a Story
+0216EF68	Volume (Low)
+0216EF74	Volume (High)
+021379F0	Continue
+02137A08	New Game
+021379FC	Extras
+02137A14	Gallery
+02139514	Main Characters of the Story
+0213A3FC	A ring of standing stones in Salisbury, southern England.\nThe Stone Circle lies at its center.\nExplore from London to find it: Influence +5.
+02138A10	None
+02139E58	A church in Hamburg, thought to be one of those named\nfor St. Martin, a saint of the 4th century.\nDiscovering it raises Influence by 1.
+02139CC4	A wooden church in Stockholm, decorated with motifs\nfrom both Christianity and Norse myth.\nDiscovering it raises Influence by 1.
+021389D4	None
+0213A11C	A cathedral in Seville, built in the 11th century.\nIts crypt chapel enshrines James, one of the 12 Apostles.\nDiscovering it raises Influence by 1.
+0213A494	An oval arena begun in the 1st century by Emperor\nVespasian, able to hold huge crowds.\nExplore from Genoa to find it: Influence +5.
+0213A08C	A marble temple in Athens, built in the late 5th century BC.\nIts main hall holds a statue of the patron goddess Athena.\nDiscovering it raises Influence by 3.
+0213A240	Ruins of an underground city in central Anatolia, Turkey.\nThought to be about 1,000 years old.\nExplore from Istanbul to find it: Influence +5.
+0213A52C	Tombs of the kings Khufu, Khafre and Menkaure.\nThe Sphinx is a monster from myth.\nExplore from Alexandria to find it: Influence +3.
+0213A2D4	A grand mud-built mosque in Djenne, which flourished\nin the southern Sahara of West Africa.\nExplore from Sao Jorge to find it: Influence +10.
+0213A6F8	A huge stone structure built by the Rozwi in the 15th century.\n"Zimbabwe" means "house of stone."\nExplore from Sofala to find it: Influence +5.
+02139DCC	The royal mosque built in the late 16th century by\nShah Abbas I of the Safavid dynasty.\nExplore from Basra to find it: Influence +15.
+02139EE4	A mausoleum built by Mughal Emperor Shah Jahan\nfor his queen, Mumtaz Mahal.\nExplore from Calicut to find it: Influence +15.
+0213A368	A temple with five spires, built in the 12th century by\nSuryavarman II of the ancient Khmer Empire.\nExplore from Malacca to find it: Influence +20.
+0213A1AC	Built in the late 8th century, its galleries on every level\nare carved with Buddhist reliefs.\nExplore from Batavia to find it: Influence +15.
+02139F70	The palace of the Ming and Qing eras. Built on the site of\nthe Yuan palace after Ming Emperor Yongle moved from Nanjing.\nExplore from Hangzhou to find it: Influence +20.
+0213A5C4	Tomb of King Muryeong, a mid-period king of Baekje, in the\nstyle of China's Southern Dynasties, on a hill in Ungjin.\nExplore from Hanseong to find it: Influence +20.
+02139D44	A lavish gold-leaf pavilion built in Kitayama, Kyoto, in the\n14th century by the third Muromachi shogun.\nExplore from Osaka to find it: Influence +20.
+02139C48	A stone warrior statue in the ruins of Tula, capital of\nthe ancient Toltec kingdom in Mexico.\nExplore from Havana to find it: Influence +15.
+02139FFC	A group of pyramids left by Teotihuacan, said to have\nbeen built around the 2nd century AD.\nExplore from Veracruz to find it: Influence +15.
+02138DEC	00 Rafael
+02138B6C	01 Hodrum
+021389A4	02 Ril
+02138A94	03 Maria
+02138FAC	04 Claudio
+02138BE4	05 Jenas
+02138AD0	06 Julio
+021391DC	07 Arcadius
+02138D6C	08 Gerhard
+02138BF0	09 Charles
+02138BCC	10 Manuel
+021389CC	11 Sera
+02138A64	12 Kamil
+02138F8C	13 Fernando
+02138BA8	14 Emilio
+02138F9C	15 Christina
+02138DFC	16 Angelo
+02138DAC	17 Cesare
+021389C4	18 Al
+02138D8C	19 Samuel
+02138A70	20 Carlo
+02138AB8	21 Ifa
+02138B78	22 Julian
+02138A88	23 Ian
+02138B84	24 Yukihisa
+02138AC4	25 Jam
+02138ADC	26 Xian
+02138D9C	27 Aziza
+02138FBC	28 Clifford
+02138BD8	29 Valdes
+02138FCC	30 Hayreddin
+02138AA0	31 Pasha
+02138FDC	32 Uddin
+02138A7C	33 Coen
+02138D7C	34 Escante
+02138B9C	35 Blanco
+02138AAC	36 Simon
+02138FEC	37 Charlotte
+02138DBC	38 Mivor
+02138DCC	39 Sanghyun
+02138BC0	40 Silwood
+02138B90	41 Bianca
+0213C288	Local Goods
+0213C2E0	Nav. Supplies
+0213C278	Armor
+0213C298	Equipment
+0213C290	Figurehead
+0213C2B0	Curios
+0213C2A0	Gifts
+0213C2BC	Victor's Mark
+0213C2C8	Ruins Map
+0213C2EC	Proof Map
+0213C280	Other
+02143E98	Trend Info
+02143EA4	Distribute Goods
+021446CC	Leave Harbor
+0214828C	STA
+0214829C	AGI
+021482DC	CHA
+021482FC	WIT
+021482C4	SPI
+021482EC	LUK
+021482F4	Hyper
+021482B4	Cheerful
+02148368	Relaxed
+0214832C	Grumpy
+021482BC	Dazed
+0214827C	Healthy
+021482AC	Tired
+021482E4	Injured
+021482A4	Wounded
+02148284	Dying
+02148294	Sick
+021482CC	Dead
+0214833C	Vitality
+02148344	Sailing
+0214834C	Survey
+02148354	Finance
+02148334	Fencing
+02148304	Accuracy
+0214830C	Diplomacy
+02148314	Scheming
+0214831C	Insight
+0214852C	Mate Info
+02148D88	Scurvy
+02148D90	Rats
+02148D00	Storm
+02148D40	Blizzard
+02148CF8	Rain
+02148D08	Snow
+02148CF0	Thunder
+02148CF4	Fog
+02148D68	Big Fish
+02148D70	Dolphins
+02148DAC	Sirens
+02148D20	Mermaid
+02148D78	Odd Foam
+02148D30	Tornado
+02148D80	Whirlpool
+02148D28	Reef
+02148D38	Ice
+02148D48	Mutiny
+02148D50	Chaos
+02148D98	Leak
+02148D58	Epidemic
+02148D04	Calm
+0214C540	Goodwill
+0214C594	Forge Documents
+0214F354	Regional Admiral
+0214F334	All
+0214FDDC	A Portuguese boy who vaguely dreams of the sea.\nHis friend talks him into setting sail.\nRecommended for first-time players.
+0214FE48	A Swedish admiral from a newly independent nation.\nHe leads a "navy" that is really a privateer fleet,\nworking to make his country's fleet the world's best.
+0214FD7C	A Dutch girl with a head for business.\nWith her childhood friend Kamil,\nshe sails out to make her fortune.
+0214FEB4	A female Ming admiral who defies the national isolation\nlaw to protect people from the wokou pirates,\nfighting with her own private fleet.
+0214FC28	Change Given Name
+0214FC3C	Change Middle Name
+0214FC50	Change Family Name
+0214FC64	Change Faction Name
+0214FC78	Change Birthday
+02151714	Formation        Dock
+02151730	Formation        Unassigned
+0215174C	Formation        Dock
+02156354	War
+02156344	Plague
+0215634C	Famine
+02156364	Boom
+0215635C	Recession
+0215639C	Seasoning Shortage
+021563B4	Spice Shortage
+021563A8	Luxury Shortage
+02156390	Liquor Shortage
+0215636C	Cloth Shortage
+02156384	Dye Shortage
+02156378	Ore Shortage
+0215AE6C	Inuvik
+0215AE40	Hawaii
+0215AF08	Rio de Janeiro
+0215AEC0	Churchill
+0215AEE8	Valparaiso
+0215AE38	Nome
+0215AE20	Cod
+0215AED8	Montevideo
+0215AE78	Karibib
+0215AE48	Forel
+0215AE28	Tahiti
+0215AEA8	Dikson
+0215AEB4	Azores
+0215AEF8	Santa Barbara
+0215AE54	Narvik
+0215AE90	Levuka
+0215AE60	Callao
+0215ADF8	Ezo
+0215AE08	Perth
+0215AE00	Guam
+0215AE30	Chikushi
+0215AE10	Corfu
+0215AE9C	Wanganui
+0215B938	Wheat
+0215B774	Rice
+0215DC74	Corn
+0215D424	Potatoes
+0215B880	Soy
+0215BB48	Fish
+0215B8C0	Beef
+0215C5A8	Pumpkin
+0215BF78	Cheese
+0215BF70	Tomatoes
+0215BCD8	Bananas
+0215BB50	Sugar
+0215C974	Honey
+0215B78C	Salt
+0215D58C	Olive Oil
+0215BFB0	Palm Oil
+0215C350	Lychee
+0215C0A4	Hazelnuts
+0215C9D4	Sultanas
+0215C890	Caviar
+0215C794	Shark Fin
+0215C734	Pepper
+0215C140	Cloves
+0215C158	Nutmeg
+0215C35C	Cinnamon
+0215C194	Pimento
+0215CCC8	Tamarind
+0215C1AC	Saffron
+0215BFA8	Vanilla
+0215CC74	Chili
+0215C1C4	Coffee
+0215B75C	Tea
+0215BC40	Cocoa
+0215BC50	Tobacco
+0215BC88	Wine
+0215CD58	Brandy
+0215BC98	Rum
+0215B848	Sake
+0215B77C	Gold
+0215B788	Silver
+0215B860	Platinum
+0215BCB8	Glass
+0215BE60	Ceramics
+0215B960	Lacquer
+0215C4AC	Inlay Work
+0215B9A0	Wool
+0215BB40	Cotton
+0215B930	Raw Silk
+0215B780	Hemp
+0215BD10	Woolens
+0215BF90	Cottons
+0215BE28	Silk Cloth
+0215C058	Linen
+0215D0A0	Carpets
+0215BEE8	Calico
+0215C50C	Antiques
+0215BAD0	Furs
+0215BA20	Art
+0215BA28	Statues
+0215C59C	Musk
+0215BA10	Incense
+0215C5FC	Ambergris
+0215BE30	Jade
+0215B980	Ivory
+0215BE70	Coral
+0215C6A4	Tortoiseshell
+0215BEB8	Amber
+0215B9A8	Crystal
+0215D34C	Nephrite
+0215B988	Pearls
+0215DC54	Diamonds
+0215D3D0	Sapphires
+0215D400	Emeralds
+0215BC20	Rubies
+0215DE14	Lapis Lazuli
+0215C8C0	Rhino Horn
+0215C920	Ginseng
+0215C0E0	Quinine
+0215D550	Almonds
+0215C098	Cordyceps
+0215BFC0	Turmeric
+0215CAA0	Indigo
+0215CB0C	Cochineal
+0215C17C	Betel Nut
+0215C3BC	Rhubarb
+0215D754	Mangosteen
+0215BAE8	Guns
+0215BB00	Cannons
+0215BB60	Swords
+0215B850	Armor
+0215BD58	Iron Ore
+0215BD80	Copper Ore
+0215BCB0	Tin Ore
+0215C380	Saltpeter
+0215BCF0	Sulfur
+0215BA38	Lumber
+0215BB58	Leather
+0215C488	Wax
+0215BD98	Chicle
+0215BE90	Guano
+0215DAA4	Caribou Fur
+0215DB24	Maui Bananas
+0215DBE4	Canary Crystal
+0215DBF4	North Sea Ambergris
+0215DC24	Alpaca Wool
+0215C74C	Salmon
+0215BB90	Whale
+0215BF30	Black Wool
+0215DD44	Fire and Ice Ruby
+0215DD74	Desert Diamond
+0215BBC0	Mead
+0215C0D4	Black Pearls
+0215D654	Lake Caviar
+0215CB78	Falcon Isle Liquor
+0215D774	Holy Wine
+0215D7E4	Black Glacier Sword
+0215D834	Cherry Diamond
+0215D914	Emperor's Tomato
+0215C110	Smoked Salmon
+0215C404	Opals
+0215DA54	Coconut Oil
+0215D190	Tundra Gem
+0215DB44	Flame Opal
+0215DC34	Manuka Honey
+0215F540	Capricorn
+0215F500	Aquarius
+0215F4E8	Pisces
+0215F538	Aries
+0215F530	Taurus
+0215F518	Gemini
+0215F4F0	Cancer
+0215F520	Leo
+0215F510	Virgo
+0215F508	Libra
+0215F4F8	Scorpio
+0215F528	Sagittarius
+02169048	End
+02169040	Failed
+02169124	Slot 1\nMemory Card
+02169078	Data
+02169098	System Data
+02169080	Check
+02169060	Initialize
+02169050	Create
+02169058	Update
+0216A1C4	Golden Route Found!
+0216BE00	%s Map 1
+0216BDDC	%s Map 2
+0216BDF4	%s Map 3
+0216BDC4	%s Map 4
+0216BE64	Flame-Colored Gem
+0216BDE8	Ancient Dagger
+0216BEA4	Eerie Stone Mask
+0216BEE4	Clear Crimson Crystal
+0216BEB4	Gem-Eating Gem
+0216BE74	Untouchable Blade
+0216BD94	Witch Statue
+0216BE84	Twisted Horn
+0216BE24	Great King's Shield
+0216BE44	Giant Red Spear
+0216DBB0	A story that changes with your nation!
+0216DB04	Change brings unprecedented thrills!
+0216DBD4	Set out with the mates you meet!
+0216DB24	Sail the open sea in your own ship!
+0216DAA8	A grand, thrilling world of adventure!
+0216DAC4	Aim for a world not on any map--
+0216DA70	Human drama with many people
+0216DA10	Play any way you like!
+0216DA8C	Take a royal order and venture on
+0216DB44	Live as a sailor across the world
+0216DAE4	Sail beyond the sea and make your name!
+0216DB68	Trade many goods for big profits!
+0216DB8C	Fierce battles fought at sea!
+0216DE74	This is an introduction to the\ntie-in with the PC game\n"Uncharted Waters Online."\nPlaying "Uncharted Waters\nOnline" as well will add to\nthe fun of this game.\n
+0216DD70	STEP 1\nFirst, play "Uncharted Waters\nOnline" and ask a certain\ncharacter for a "village name"\nand a "promise phrase."\n
+0216DCF4	STEP 2\nFind that "village" in this game\nand use the "promise phrase"\nto trade with it and unlock\nvaluable trade goods.\n
+0216DDEC	There are 24 "villages" in all.\nThe trade goods differ\nfrom village to village.\nSee for yourself what\ngoods turn up.\n
+0216DC48	Visit the official\n"Uncharted Waters Online" site\nand sail on to new voyages!\n
+0216DC94	Network content service may\nbe changed or ended\nwithout notice.\nThank you for understanding.\n
+0216EF98	Message
+0216ED90	Success
+0216EE38	Failure
+0216ED98	Swords
+0216EE08	Gunshot
+0216EE60	Cannon
+0216EDA8	Hit
+0216EDD0	Cheers
+0216EE30	Shouts
+0216EDE0	Coins
+0216EF08	Gold Pile
+0216EED0	Punch
+0216EF14	Collapse
+0216EEA0	Knock
+0216EF20	Cursor
+0216ED80	Sail
+0216EEB0	Wave Out
+0216EE88	Wave In
+0216EDB8	Tornado
+0216EE90	Big Cheer
+0216EF2C	Battle Start
+0216EDF0	Splash
+0216EF38	Slash
+0216EDC0	Sinking
+0216EE40	Ramming
+0216EE70	Man Hit
+0216EE78	Beast Hit
+0216EEB8	Jump
+0216EEA8	Dolphin
+0216EF8C	Siren
+0216ED88	Rain
+0216EE00	Blizzard
+0216ED8C	Bolt
+0216ED84	Gale
+0216EEC0	Door Opens
+0216EE80	Seagull
+0216EE18	Crowd
+0216EED8	Running
+0216EDE8	Walking
+0216EE50	Salute
+0216EEE0	Falling
+0216EE58	Joy
+0216EE28	Mate
+0216EE10	Found
+0216EEF0	Conqueror
+0216EE48	Impact
+0216EE68	Big Impact
+0216EE98	Foe Appears
+0216EF44	Enemy Falls
+0216EFB4	Game Over
+0216EEFC	Bat
+0216EEE8	Special Move
+# --- name-entry keyboard (tools/patch_arm9.py KBD: full-width input -> ASCII) ---
+0215FC24	A
+0215FCEC	Ａａ
+0215FC10	B
+0215FCF8	Ｂｂ
+0215FBC0	C
+0215FDD0	Ｃｃ
+0215FB80	D
+0215FD04	Ｄｄ
+0215FB8C	E
+0215FD10	Ｅｅ
+0215FC1C	F
+0215FD1C	Ｆｆ
+0215FC14	G
+0215FD28	Ｇｇ
+0215FBF0	H
+0215FD34	Ｈｈ
+0215FBB0	I
+0215FD40	Ｉｉ
+0215FBAC	J
+0215FD4C	Ｊｊ
+0215FC18	K
+0215FD58	Ｋｋ
+0215FBB4	L
+0215FD64	Ｌｌ
+0215FBA8	M
+0215FD70	Ｍｍ
+0215FBC8	N
+0215FD7C	Ｎｎ
+0215FB98	O
+0215FD88	Ｏｏ
+0215FB84	P
+0215FD94	Ｐｐ
+0215FBE4	Q
+0215FDA0	Ｑｑ
+0215FBF8	R
+0215FE2C	Ｒｒ
+0215FBD4	S
+0215FDAC	Ｓｓ
+0215FBE8	T
+0215FDC4	Ｔｔ
+0215FB88	U
+0215FC78	Ｕｕ
+0215FBA0	V
+0215FC40	Ｖｖ
+0215FBD0	W
+0215FC48	Ｗｗ
+0215FBD8	X
+0215FC50	Ｘｘ
+0215FB7C	Y
+0215FC60	Ｙｙ
+0215FC34	Z
+0215FDDC	Ｚｚ
+0215FC2C	'
+0215FDEC	’
+0215FC00	-
+0215FDFC	－
+0215FC28	.
+0215FE0C	．
+0215FBCC	,
+0215FE1C	，
+0215FBE0	1
+0215FC70	１
+0215FC0C	2
+0215FC88	２
+0215FC08	3
+0215FC90	３
+0215FB90	4
+0215FCA0	４
+0215FBDC	5
+0215FCA8	５
+0215FBA4	6
+0215FDB8	６
+0215FB9C	7
+0215FCC8	７
+0215FC30	8
+0215FCD4	８
+0215FBC4	&
+0215FCB8	＆
+0215FBF4	!
+0215FC80	！
+0215FBFC	?
+0215FC98	？
+0215FBEC	+
+0215FCB0	＋
+0215FC04	/
+0215FC38	／
+0215FB94	9
+0215FCE0	９
+0215FBBC	0
+0215FC68	０
+0215FBB8	*
+0215FCC0	＊
+0215FC20	Sp
+0215FC58	　
+02155188	Aa
+0215515C	#
+021552F4	０１２３４５６７８９　．，’－＆！？＋／＊
+# --- footer / button labels 0x02119000.. (S10; Ｘ Ｒ Ｌ Ｙ key letters left as they are) ---
+021190EC	Pirates
+021190F4	Monster
+021190FC	???
+0211911C	Auto-Move
+02119128	Water & Food
+0211B4EC	Next
+0211B4F0	Prev
+0211B4FC	First
+0211B504	Info
+0211B50C	Back
+0211B514	At Sea
+0211B51C	OK
+0211B524	Contents
+0211B52C	Explore
+0211B534	Min
+0211B53C	Next
+0211B544	Change
+0211B54C	Deploy
+0211B554	Done
+0211B55C	Delete
+0211B564	Equip
+0211B56C	Use
+0211B574	Prev
+0211B57C	Common
+0211B584	Faction
+0211B58C	End
+0211B594	War
+0211B59C	Max
+0211B5A4	Staff
+0211B5AC	World
+0211B5B4	Unload All
+0211B5BC	Remove
+0211B5C4	Sort
+0211B5EC	Redo
+0212EB4C	: save data is corrupted\nand could not be loaded.

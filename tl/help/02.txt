@@ -1,0 +1,149 @@
+@100
+Ramming\nA ship fitted with a {Ram:<$38>} can punch a hole in an enemy ship's hull by hitting its side.\nA ship with a hole loses a lot of durability. The ramming ship also loses a little durability.\n\n
+
+@101
+Moving by Touch Screen (Normal Sailing)\nDuring normal sailing you can also move the ship with the touch screen. Touch the direction you want to go and the ship heads that way. The farther your touch is from the ship, the faster it goes. Touch the ship to stop it.\n\n
+
+@102
+Promise Word\nIf you join the PC game "Uncharted Waters Online" and complete a quest, you receive a password paired with a village name.\nSail to that village and use the password, and a new trade good appears there and can be traded.\n\n\n\n
+
+@103
+Common Commands\nCommands you can use in both ports and at sea.\nPress △ on the port screen or sea screen to show them.\n> {Route Map:<$68>}  > {Deck Screen:<$69>}  > {Info:<$86>}  > {Items:<$8A>}\n> {Crew Setup:<$8B>}  > {System:<$8C>}\n\n
+
+@104
+Route Map (Common Commands)\nShows the map of the current sea area and the faction names. In areas with ports you have never visited, only "{City:<$91>}" level ports are shown.\nSelect a port or fleet to see its data. The lines between ports are routes. You can auto-move along red routes.\nTo see another sea area, press □ to zoom out to the whole world, then select the area.\n\n
+
+@105
+Deck Screen (Common Commands)\nShows the deck screen.\nHere you assign duties to your mates. Select a mate and place him or her in a room; the room decides the mate's duty.\nEach duty has {Required Skills:<$85>}. A mate lacking them cannot take the duty. The higher the skill, the greater the effect.\n> {Assign Crew:<$6A>}  > {Rooms:<$6E>}  > {Cargo Hold:<$7F>}\n\n
+
+@106
+Assign Crew (Common > Deck Screen)\nAssigns duties automatically.\nPress △ on the deck screen and choose a policy: "Exploration", "Trade" or "Sea Battle".\n> {Exploration:<$6B>}  > {Trade:<$6C>}  > {Sea Battle:<$6D>}\n\n
+
+@107
+Exploration (Deck Screen > Assign Crew)\nAssigns duties for exploration.\nMates with high skills go first to duties related to exploration.\n\n
+
+@108
+Trade (Deck Screen > Assign Crew)\nAssigns duties for trade.\nMates with high skills go first to duties related to trade.\n\n
+
+@109
+Sea Battle (Deck Screen > Assign Crew)\nAssigns duties for combat.\nMates with high skills go first to duties related to combat.\n\n
+
+@110
+Rooms (Common > Deck Screen)\nRooms where mates carry out their duties.\n> {Cabin:<$6F>}  > {Rec Room:<$70>}  > {Lumber Room:<$71>}  > {Sickbay:<$72>}\n> {Galley:<$73>}  > {Animal Pen:<$74>}  > {Chapel:<$75>}  > {Staff Room:<$76>}\n> {Purser's Office:<$77>}  > {Captain's Cabin:<$78>}  > {First Mate's Cabin:<$79>}  > {Helm:<$7A>}\n> {Survey Room:<$7B>}  > {Crow's Nest:<$7C>}  > {Mast:<$7D>}  > {Deck:<$7E>}\n\n
+
+@111
+Cabin (Common > Deck Screen)\nA room where mates rest. A mate placed here recovers body and spirit.\n\n
+
+@112
+Rec Room (Common > Deck Screen)\nA room where mates and sailors relax. A mate placed here makes sailors tire less easily and recovers the mate's own fatigue and spirit.\n\n
+
+@113
+Lumber Room (Common > Deck Screen)\nA room with lumber for repairing the ship.\nA mate placed here becomes the "Shipwright". Requires a mate with Survey 130 or more.\nWith a Shipwright, the ship is repaired at sea. Repairs at the Shipyard also cost less.\n\n
+
+@114
+Sickbay (Common > Deck Screen)\nA room for treating the sick.\nA mate placed here becomes the "Doctor". Requires a mate with Insight 150 or more.\nWith a Doctor, illness is less likely and sailors tire less easily. Items that cure illness also become usable.\n\n
+
+@115
+Galley (Common > Deck Screen)\nA room for cooking meals.\nA mate placed here becomes the "Head Cook". Requires a mate with Accuracy 70 or more.\nWith a Head Cook, food and water run down more slowly at sea. Sailors also tire less easily.\n\n
+
+@116
+Animal Pen (Common > Deck Screen)\nA room for raising livestock for food.\nA mate placed here becomes the "Keeper". Requires a mate with Vitality 130 or more.\nWith a Keeper, food is produced during the voyage.\n\n
+
+@117
+Chapel (Common > Deck Screen)\nA room where mates and sailors pray.\nA mate placed here becomes the "Missionary". Requires a mate with Diplomacy 160 or more.\nWith a Missionary, sailors tire less easily, and you can use "{Distribute Goods:<$2B>}" in the Plaza to start a {trend:<$19>}.\n[!] Some mates refuse to be placed in the Chapel because of their beliefs.\n\n
+
+@118
+Staff Room (Common > Deck Screen)\nA room where the adviser plans stratagems.\nA mate placed here becomes the "Adviser". Requires a mate with Scheming 120 or more.\nWhen the Adviser has an idea, you can use "{Plan a Scheme:<$10>}" in the Tavern. The Adviser may also foil enemy schemes before they happen, and gathers information on other factions when you stay at an inn.\n\n
+
+@119
+Purser's Office (Common > Deck Screen)\nA room where the fleet's accounts are kept.\nA mate placed here becomes the "Purser". Requires a mate with Finance 100 or more.\nWith a Purser, you may get discounts at the Market. If you pay double, you can also buy out a stock. You cannot sell at double the price, though.\n\n
+
+@120
+Captain's Cabin (Common > Deck Screen)\nThe ship commander's room.\nOnly the protagonist can be placed here and becomes the "Captain".\nWith a Captain, sailors tire less easily.\nA Captain is also required for the ship's {Auto Move:<$4C>}.\n\n
+
+@121
+First Mate's Cabin (Common > Deck Screen)\nThe room of the Captain's aide.\nA mate placed here becomes the "First Mate". Requires a mate with Diplomacy 100 or more.\nWith a First Mate, you can use "{Send Negotiation Letter:<$1B>}" at the Guild, and sailors tire less easily. In a battle against a port, the First Mate urges it to surrender.\n\n
+
+@122
+Helm (Common > Deck Screen)\nThe room for steering the ship.\nA mate placed here becomes the "Helmsman". Requires a mate with Sailing 60 or more.\nWith a Helmsman, the ship turns more easily and moves faster during auto move.\n\n
+
+@123
+Survey Room (Common > Deck Screen)\nA room for surveying the sea.\nA mate placed here becomes the "Surveyor". Requires a mate with Survey 120 or more.\nWith a skilled Surveyor, you can see your latitude and longitude during the voyage.\nA Surveyor is also required for {Auto Move:<$4C>}, and the higher the skill, the faster it goes.\n\n
+
+@124
+Crow's Nest (Common > Deck Screen)\nA lookout platform on the mast.\nA mate placed here becomes the "Lookout". Requires a mate with Insight 70 or more.\nWith a Lookout, ports and the like are easier to spot at sea, and you can see info on nearby fleets. [!] If the Lookout has high Accuracy, he or she may snipe the enemy admiral in battle. If the shot succeeds, you can capture that ship.\n\n
+
+@125
+Mast (Common > Deck Screen)\nThe ship's mast.\nA mate placed here becomes the "Sailhand". Requires a mate with Sailing 80 or more.\nWith a Sailhand, the sails turn more easily and the ship moves faster during auto move.\nIf every mast has a Sailhand, the sails turn automatically when {half-open:<$53>}.\n\n
+
+@126
+Deck (Common > Deck Screen)\nThe ship's deck.\nA mate placed here becomes the "Deck Crew". Requires a mate with Vitality 30 or more.\nWith Deck Crew, your strength in a {Boarding Battle:<$62>} rises.\n[!] Mates made Deck Crew level up more easily, but they tire very fast, so watch their condition.\n\n
+
+@127
+Cargo Hold (Common > Deck Screen)\nThe ship's storage. There are five types by use. Mates can be placed in the Marine Quarters and Armed Battery.\n> {Marine Quarters:<$80>}  > {Armed Battery:<$81>}  > {Rowers' Room:<$82>}\n> {Supply Hold:<$83>}  > {Cargo Store:<$84>}\n\n
+
+@128
+Marine Quarters (Common > Deck Screen)\nA waiting room for marines. You can add up to 4 rooms.\nA mate placed here becomes the "Boarding Chief". Requires a mate with Fencing 90 or more.\nWith a Boarding Chief, your strength in a {Boarding Battle:<$62>} rises, and the Boarding Chief takes on the enemy in a {Duel:<$63>}.\n\n
+
+@129
+Armed Battery (Common > Deck Screen)\nThe ship's gun deck.\nA mate placed here becomes the "Gunner". Requires a mate with Accuracy 90 or more.\nWith a Gunner, the ship can fire many more shots.\n\n
+
+@130
+Rowers' Room (Common > Deck Screen)\nA room where sailors row with oars. Mates cannot be placed here.\nOnly ships that use manpower have one.\n\n
+
+@131
+Supply Hold (Common > Deck Screen)\nStorage for food and water for the voyage. Mates cannot be placed here.\nThe more supply holds, the more food and water you can load.\n\n
+
+@132
+Cargo Store (Common > Deck Screen)\nStorage for trade goods. Mates cannot be placed here.\nThe more cargo stores, the more goods you can carry.\nYou can add up to 5 rooms.\n\n
+
+@133
+Required Skills (Common > Deck Screen)\nMast.......Sailing 80   Crow's Nest..Insight 70\nDeck.......Vitality 30   Survey Room..Survey 120\nHelm.......Sailing 60   Captain's Cabin..Command 30\nFirst Mate's Cabin..Diplomacy 100   Marine Quarters..Fencing 90\nArmed Battery..Accuracy 90   Lumber Room..Survey 130\nSickbay..Insight 150   Galley..Accuracy 70\nAnimal Pen..Vitality 130   Chapel..Diplomacy 160\nStaff Room..Scheming 120   Purser's Office..Finance 100\n\n
+
+@134
+Info (Common Commands)\nShows various kinds of information.\n> {Mates:<$87>}  > {Ship Info:<$88>}  > {Fleet Info:<$89>}\n> {Golden Route Records:<$8D>}  > {Ancient Maps:<$8E>}\n\n
+
+@135
+Mates (Common > Info)\nShows a mate's {Character Data:<$9E>}.\nSelect a person from the list to see the data.\n\n
+
+@136
+Ship Info (Common > Info)\nShows the {Ship Data:<$C3>} of each ship in your fleet.\nSelect a ship from the list to see the data.\n\n
+
+@137
+Fleet Info (Common > Info)\nShows your faction's fleet data.\nSelect a fleet from the list to see the data.\nSelect a local fleet to change its delegation policy.\n\n
+
+@138
+Items (Common Commands)\nView item descriptions and equip items. Select an item from the list to open the item screen.\nDepending on the item type, press □ to equip or use it.\n[!] If a mate has equipped an item unrelated to his or her duty, the equipper's name is shown in red. Equip the item on another mate or change the duty.\n\n
+
+@139
+Crew Setup (Common Commands)\nAssigns sailors to ships.\nEach ship shows its sailors as "needed/current/max". Press left or right on the +Control Pad to change the current number per ship. You can also set them all automatically.\nA ship with fewer sailors than needed is slow.\n["Favor Flagship"] Fills the flagship first.\n["Even Out"] Spreads sailors evenly by ratio to the max.\n["Minimum"] Assigns only the needed number.\n\n
+
+@140
+System (Common Commands)\nSave, load, quit the game, change options and so on.\n\n
+
+@141
+Golden Route Records (Common > Info)\nInfo on the Golden Routes you have found so far.\n> {Golden Route Found:<$C9>}  > {Report Golden Route:<$51>}\n\n
+
+@142
+Ancient Maps (Common > Info)\nLegend says the "Ancient Maps" show where a great treasure lies.\nThe map is torn into several pieces.\n[!] Visit the "{Guild:<$1A>}" in each port and collect the map pieces.\n\n\n\n
+
+@143
+Data Guide\nExplanations of the various kinds of data.\n> {Port Data:<$90>}  > {Sea Data:<$99>}  > {Character Data:<$9E>}\n> {Faction Data:<$B5>}  > {Goods Data:<$BF>}  > {Ship Data:<$C3>}\n\n
+
+@144
+Port Data\nData about a port.\nSelect a port you have visited on the Route Map to show it.\n> {City / Port:<$91>}  > {Culture Area:<$92>}  > {Status:<$93>}  > {Growth:<$94>}\n> {Armament:<$95>}  > {Share:<$96>}  > {Specialties:<$98>}\n\n
+
+@145
+City / Port (Port Data)\nShows the size of the port. The commands available depend on its size.\n["City"] A large port.\n["Port"] A small port.\n["Village"] A place where you cannot land but can resupply.\nAn event may turn a village into a port.\n\n
+
+@146
+Culture Area (Port Data)\nThe culture area the port belongs to. Trade goods prices differ by culture area.\nThe building signs (available commands) change too.\n\n
+
+@147
+Status (Port Data)\nThe port's status raises or lowers prices.\n["Normal"] The usual state.\n["War"] Weapons rise, the rest fall.\n["Plague"] Food and medicine rise, the rest fall.\n["Famine"] Food rises, the rest fall.\n["Boom"] Prices rise overall.\n["Recession"] Prices fall overall.\n["Scarce"] Prices rise for the goods in short supply.\n\n
+
+@148
+Growth (Port Data)\nShows how developed the port is.\nIt rises when you use "{Invest:<$17>}" at the Market.\nWhen it is high, the port may gain more specialties.\nThe number of sailors you can recruit and the types of cannons you can equip also change.\n\n
+
+@149
+Armament (Port Data)\nShows how well armed the port is.\nIt rises when you use "{Fund Military:<$25>}" at the Palace or Governor's. The higher it is, the harder the port is to make surrender when attacked.\n\n

@@ -1,0 +1,749 @@
+@2750
+What are they talking about...?\nTell them to prepare\nthemselves and wait for us!
+
+@2751
+What nonsense...\nTell them to wash their necks\nand wait for us!
+
+@2752
+This joke has gone too far!\nTell them to wash their necks\nand wait for us!
+
+@2753
+What!?\n...Damn that %s!\nThey've got nerve.\nI'll show them what's what!!
+
+@2754
+What!?\n...That %s wants to get hurt, huh?\nBrace yourself!!
+
+@2755
+If that's how they want it,\nwe have plans of our own!\nJust you wait!
+
+@2756
+What!? Looks like that one\nwants to get hurt...\n%s\nBrace yourself!!
+
+@2757
+Join the ranks\nof %s?\nAre they serious?
+
+@2758
+They want us to\njoin the ranks\nof %s?
+
+@2759
+Join the ranks\nof %s?\nYou're kidding!
+
+@2760
+They want us to\njoin the ranks of %s?\nSeriously?
+
+@2761
+Hmph... It can't be helped.
+
+@2762
+...It can't be helped.
+
+@2763
+Oh... I guess there's no choice...
+
+@2764
+...There's no other way, is there?
+
+@2765
+...It can't be helped.
+
+@2766
+Ridiculous.\nThere's no need to entertain\nsuch a foolish proposal!
+
+@2767
+I wondered what this was about...\nI can't be bothered\nwith such a foolish proposal!
+
+@2768
+Is that all it was...?\nI can't be bothered\nwith such a foolish proposal!
+
+@2769
+What are they getting at...?\nI have no time\nfor such a silly proposal!
+
+@2770
+A new product\nin %s?
+
+@2771
+A new product\nin %s, you say?
+
+@2772
+I hear a new product\nhas turned up in %s?
+
+@2773
+What, in %s\na new product?
+
+@2774
+An enemy merchant fleet\nhas appeared in %s?
+
+@2775
+An enemy merchant fleet\nhas shown up in %s?
+
+@2776
+What, an enemy merchant fleet\nin %s?
+
+@2777
+All right, let's send a fleet\nright away.
+
+@2778
+I'll send a fleet there\nat once!
+
+@2779
+Let's send a fleet there\nright away!
+
+@2780
+Let's send a fleet there\nright away.
+
+@2781
+Suspicious... It may be a false tip.\nLeave it alone.
+
+@2782
+Can we really believe that...?\nFine, just leave it alone.
+
+@2783
+Something's fishy... It must be a false tip.\nLeave it alone.
+
+@2784
+Join the ranks\nof %s!?
+
+@2785
+Join the ranks\nof %s!?\nYou can't be serious!
+
+@2786
+Join the ranks\nof %s!?\nHow dare they!
+
+@2787
+I played humble,\nand now they take advantage!
+
+@2788
+Quit messing with me.\nThis is no joke!
+
+@2789
+This is no joke!
+
+@2790
+Quit messing with me.\nThis is no joke!
+
+@2791
+...This is a forged document.\nJust ignore it.
+
+@2792
+...This is a forged document.\nNever mind. Ignore it.
+
+@2793
+This is... a forged document, I think.\nLet's ignore it.
+
+@2794
+Hehe... This is a forged document.\nJust ignore it.
+
+@2795
+...This is a forged document.\nIgnore it.
+
+@2796
+I hear %s\nis dabbling in smuggling.
+
+@2797
+They say %s\nis a cruel person\nwith no blood or tears.
+
+@2798
+Hmm... Perhaps %s\nis not a fitting trading\npartner for our port?
+
+@2799
+%s is smuggling?\nThat's got to be a rumor.
+
+@2800
+%s is cold-hearted?\nWell, it's only a rumor.\nWe can't know the truth.
+
+@2801
+This port has too many contracts\nfor me to secure your share,\nbut for %s in gold\nI'll cut %s's share\nfor you!
+
+@2802
+You want me to help you?\nWell... I'd need %s\nin gold\nfor the arrangements.
+
+@2803
+You can't pay?\nThen forget this deal.
+
+@2804
+All right, leave it to me.
+
+@2805
+You want me to help you?\nSorry, but I can't\ndo that.
+
+@2806
+%s tried to spread\nbad rumors in %s,\nbut we managed to stop it.
+
+@2807
+%s tried to spread\nbad rumors in %s,\nbut we stopped it in advance.
+
+@2808
+Looks like %s tried to spread\nbad rumors in %s.\nDon't worry, we've got it covered!
+
+@2809
+%s spread bad rumors\nin %s.\nOf course, we won't fall for that.
+
+@2810
+%s spread bad rumors\nin %s.\nAs if that would work on us!
+
+@2811
+%s seems to be spreading\nbad rumors in %s,\nbut we won't fall for it.
+
+@2812
+%s seems to be trying to spread\nbad rumors in %s, but the\ntownspeople are on the Admiral's\nside so it's okay!
+
+@2813
+%s was trying to spread\nbad rumors in %s,\nso I took steps in advance.
+
+@2814
+You have to choose one coin,\nor the game can't go on.
+
+@2815
+A plant cultivated in the New World. The fruit and seeds are edible and a staple food for the local people.
+
+@2816
+A vegetable grown in the New World. When ripe, the fruit turns bright red.
+
+@2817
+A tree of Southeast Asia. The fruit turns yellow when ripe and is good to eat. It is fragrant and sweet.
+
+@2818
+A nest carefully built by honeybees. It is packed with nectar gathered from flowers and is highly nutritious.
+
+@2819
+A fierce fish that sometimes attacks people. Its fins and roe are prized for their flavor.
+
+@2820
+The fruit of a tropical plant that grows 5 to 9 meters tall. Produced in large quantities in India. Also called the king of spices.
+
+@2821
+A dark brown fruit shaped like a nail. Known for a strong sweet aroma and a numbing sting on the tongue. Native to Southeast Asia. Also called cloves.
+
+@2822
+A tree that grows from India to Southeast Asia. Its dried bark gives off a distinctive sweet fragrance. Used as a spice.
+
+@2823
+A kind of chili pepper. The fruit is round or oval. Native to the New World, it is fiery when bitten.
+
+@2824
+A tree native to East Africa. Its flowers are pure white and smell of jasmine. The dried fruit is roasted and made into a drink.
+
+@2825
+A tree native to southern China. Its oval leaves are fermented and brewed as a drink. The flavor varies with the fermentation and the part used.
+
+@2826
+A tall tree native to the New World. Seeds are taken from the large fruit growing straight on the trunk, then fermented and dried for eating.
+
+@2827
+Dried leaves are finely shredded, wrapped in paper and burned, and the smoke is inhaled for pleasure. Native to the New World.
+
+@2828
+A book on alchemy, the study that sought the structure of all matter. It describes the art of turning one substance into another.
+
+@2829
+A book explaining in careful detail how to make glasswork.
+
+@2830
+The larva of a moth. When grown, its body turns clear and it spins a cocoon, and the raw silk it spins is silk thread. Used as a raw material for clothing.
+
+@2831
+A machine that weaves cloth by crossing threads lengthwise and crosswise. Worked by hand and foot.
+
+@2832
+A bivalve living in the waters off Japan. Its shell is nearly square and blackish brown on the surface. It is the mother shell of pearls.
+
+@2833
+An Eastern medical book. It describes how to make medicine from herbs and tree bark. The author is unknown.
+
+@2834
+Native to Southeast Asia. The fruit is round and dark purple, with juicy, delicious flesh. Called the queen of fruits.
+
+@2835
+A cat covered all over in golden fur. It is a glutton and loves mice.
+
+@2836
+A magic lime that always yields a drop however often it is squeezed. It quenches the mates' thirst during voyages.
+
+@2837
+A mystical ring holding the soul of Hermes, god of travel and one of the twelve Olympians. It is said to protect the mates from danger even in storms.
+
+@2838
+A medicine said to cure any epidemic. Made by the method devised by Hua Tuo, a famed physician of China's Three Kingdoms era. A tiny dose is enough.
+
+@2839
+A slender sword with a blade and hilt painted a glossy black.
+
+@2840
+A broadsword said to have been used by Laocoon, the Trojan priest of ancient Greece.
+
+@2841
+A saber said to have been used by the legendary knight Lohengrin. Its blade is longer and sharper than usual.
+
+@2842
+A sword whose blade curves in an S shape. The blade shines golden and looks like a crescent moon.
+
+@2843
+A curved sword with lavish decoration. Regarded as proof of a hero.
+
+@2844
+A very heavy military sword. Every part of it is made of gold.
+
+@2845
+A mysterious sword that fills the wielder with courage. Plain and unadorned, but practical and easy to handle.
+
+@2846
+An Indian saber studded with countless lapis lazuli beads. Said to date from ancient times.
+
+@2847
+At a glance just an old sword, but a fine piece once favored by an admiral who wiped out the pirates of nearby waters.
+
+@2848
+A wide crescent-bladed glaive. It is said a fleet's first mate used it to cut down on the spot a sailor who tempted him to betray the admiral.
+
+@2849
+A dagger with a distinctive H-shaped hilt. Its color and decoration are both eerie. Its origin is unknown.
+
+@2850
+A two-handed sword whose blade gives off a white light. The cause of the glow is unknown.
+
+@2851
+A scimitar with a reddish blade, reminiscent of all the blood it has drunk.
+
+@2852
+Commonly called the Sword of Betrayal. It has an eerie air, as if haunted by an evil spirit.
+
+@2853
+A spear said to have been used by Zhao Yun, a great general of Shu in the Three Kingdoms era. The spear was his favorite weapon.
+
+@2854
+A superb sword. A general whose poor strategy got a dear ally killed gave it to the family as an apology.
+
+@2855
+A sword once used by a red-haired woman pirate famed for her beauty. Its sharpness goes without saying, and it is highly valued as a treasure.
+
+@2856
+A huge axe. A mighty weapon said to have been held by the Minotaur, the legendary bull-headed monster.
+
+@2857
+A strange kitchen knife. Made for cooking, but it becomes a powerful weapon in the hands of an angry person.
+
+@2858
+A bright sky-blue knife. Said to win the protection of Tlaloc, the Aztec water god.
+
+@2859
+An axe with a black handle and a twisted tip. An excellent weapon, but it gives off a somewhat eerie air.
+
+@2860
+A big sword used by the Mongol hero Kublai Khan. A fine piece with great power when swung down from above.
+
+@2861
+A legendary spear said to have been held by Ares, god of war and one of the twelve Olympians. It has a glow reminiscent of flames.
+
+@2862
+A holy sword with a tough blade that can split rock. Said to have been worn at the waist by Arthur, the legendary king of England.
+
+@2863
+A Japanese sword with an eerie aura. Its cutting edge is the finest, but legend says something befalls its owner.
+
+@2864
+A small round shield. Made from a strange, very hard blue oak.
+
+@2865
+A shield made from the hide of a giant armadillo. Very light, yet harder than iron.
+
+@2866
+A helmet with eye slits. Its surface is covered in silver leaf and shines beautifully.
+
+@2867
+A helmet pointed in places like a beak. The ornament of a bird in flight expresses a spirit unafraid of death.
+
+@2868
+A shield made from the shell of a giant tortoise. Far sturdier than any ordinary ore.
+
+@2869
+A pure white dress that mysteriously warms the heart. Legend says its wearer is protected by spirits.
+
+@2870
+Light, tough martial arts clothing. It snaps the blades of any sword that strikes it.
+
+@2871
+Highly breathable armor. Its wearer is said to feel refreshed. Quite strong as well.
+
+@2872
+A sturdy shield used by warriors of Kanem, a state that flourished in central Africa in the 11th century.
+
+@2873
+Armor said to have been worn by a knight who fell for a dubious superstition. The design is in truly poor taste.
+
+@2874
+Armor strengthened by linking rings together. Legend says it once glowed red in battle and the knight wearing it was protected by God.
+
+@2875
+Chain mail that puts practicality first. A bit heavy. Worn by Timur, king of the Timurid Empire that flourished in the 14th century.
+
+@2876
+Flashy mail with peacock feathers stuck in the back. Beautiful and eye-catching but weak, made to stand out rather than to be practical.
+
+@2877
+A legendary helmet. Said to have been worn in battle by ancient Aztec Tula warriors to rouse their courage.
+
+@2878
+Black garb used by Eastern ninja. Excellent armor that is easy to move in and hard to spot.
+
+@2879
+Strange armor with a yellow luster. Fine protection, but its material and age are shrouded in mystery.
+
+@2880
+A wonderful jerkin made from the pelt of a giant jaguar. Said to have been granted by the legendary jaguar god.
+
+@2881
+Frightening-looking armor. Found among the belongings of a knight who sold his soul to a devil for power. Said to choose its wearer.
+
+@2882
+Eerie to look at, but excellent armor. It has an ill-fated past: an empress who ruled with absolute power wore it when she was assassinated.
+
+@2883
+Wonderful armor. Worn by the Taira warrior Taira no Noritsune when he sank at Dan-no-ura.
+
+@2884
+Superb armor. Worn by Attila, the ancient Hun king feared throughout Europe.
+
+@2885
+Eerie to look at, but a wonderful shield. Made with Medusa's hair as its motif.
+
+@2886
+Armor worn by Saladin, the Islamic hero who fought the Crusaders. Regarded as proof of one with both justice and virtue.
+
+@2887
+Armor worn by Charles Martel of the Franks at the Battle of Tours. Sturdy and beautiful, as befits a king. A superb piece.
+
+@2888
+A mysterious shield that glows by itself. Sturdy. Said to belong to Minerva, goddess of war and one of the twelve Olympians.
+
+@2889
+Mysterious leather gloves. They protect the hands when raising and lowering the mast.
+
+@2890
+A thick, pure white rope used on the mast. Strangely, it stirs up the will to work.
+
+@2891
+A scroll depicting the stars of the Milky Way. Said to have been copied by an idle mate gazing up at the night sky.
+
+@2892
+A mysterious celestial globe. It is built so that the light of the night stars projects their positions.
+
+@2893
+Works by Horace, a poet born in Rome before the Common Era. They urge us to enjoy the day and not be caught up in excess desire.
+
+@2894
+A collection of folk tales centered on Arabia. A young woman tells all manner of stories over a thousand and one nights.
+
+@2895
+A book collecting nothing but unfunny puns from around the world. The compiler is said to be Japanese.
+
+@2896
+A pure gold divider. Extremely expensive. Said to have been made at great cost by a king of a once-glorious nation to give to an outstanding mate.
+
+@2897
+A pocket watch with a picture of the Virgin Mary inside the lid. Its holder is said to receive divine protection.
+
+@2898
+A ship-handling guide by Rocco, a veteran mate of the sea. An autobiography in a rough style. A useful book.
+
+@2899
+A mysterious bracelet. The angel carved on it in relief brings heaven's help.
+
+@2900
+A cane with mysterious power. Said to lead everyone following the leader who holds it toward good.
+
+@2901
+A dove-shaped instrument. Its clear, soft tone is said to calm the hearts of listeners and raise their spirits.
+
+@2902
+A mysterious figurine. Holding it somehow makes one blurt out one lie after another.
+
+@2903
+A book completed in the 13th century. A record of what Marco Polo saw and heard on his journey to the East.
+
+@2904
+A drum sounded on the battlefield to signal an army's advance and retreat.
+
+@2905
+A necklace holding the soul of Poseidon, god of the sea and one of the twelve Olympians. A symbol of courage.
+
+@2906
+A book written by Caesar in the 1st century BC. It details the nearly seven-year war against Gaul.
+
+@2907
+A document recording in detail the route of the expedition of Alexander, king of Macedon in the 4th century BC.
+
+@2908
+A bullet-shaped pendant. Said to bring miraculous luck.
+
+@2909
+A scroll accurately recording the mixing ratios of saltpeter, sulfur, charcoal and more used to refine gunpowder, as well as the friction, pressure and heat required.
+
+@2910
+A legendary arrow said to have been used by an angel to strike down a devil in the age of myth.
+
+@2911
+A saw by a master craftsman handed down since ancient times. Said to have been used to build a royal hall in antiquity.
+
+@2912
+A sharp chisel. Said to have been favored by Phidias, the Greek sculptor of the 5th century BC. They say the soul of an artist dwells in it.
+
+@2913
+A plane with a diamond blade. A wonderful piece that never chips.
+
+@2914
+The world's oldest medical book, compiled by Herophilos, father of medicine of the Hellenistic era.
+
+@2915
+The latest medical book, in which the Italian genius Leonardo da Vinci gathered the results of his study of the human body.
+
+@2916
+A comprehensive medical book written in the Islamic world in the 11th century.
+
+@2917
+A cauldron said to belong to Hestia, goddess of the hearth and one of the twelve Olympians. Just put ingredients in and a meal is made.
+
+@2918
+A very cute apron. Whether pink suits the rough men of the sea is another matter.
+
+@2919
+A small mask. Invented to keep out the stench of the breeding room. Each one is carefully handmade.
+
+@2920
+Stylish rubber boots. Made with plenty of precious rubber, since feet inevitably get dirty in the breeding room.
+
+@2921
+The crown of Pope Gregory VII, who held power in the 11th century. It symbolizes the pope's absolute authority.
+
+@2922
+A book that makes the difficult parts of the Bible easier to understand with illustrations.
+
+@2923
+A miraculous cross. Made in the year Christ died and buried in the earth for a long time, it came to the surface more than a thousand years after his death.
+
+@2924
+A book of tactics by the Chinese strategist Sun Tzu. Mostly about land warfare; little of it applies to naval battle, but it is still useful.
+
+@2925
+A bronze statue thought to have been made under the Gupta dynasty of 5th century India. Said to have the power to foresee whether something will succeed.
+
+@2926
+The war chronicle of Hannibal, the Carthaginian general who fought Rome before the Common Era. It describes his uniquely daring tactics.
+
+@2927
+A calculating tool used by merchants in China and Japan. Beads are flicked with the fingers to calculate.
+
+@2928
+A merchant's balance once used by a famous Islamic trader. Highly precise, without the slightest error.
+
+@2929
+A figurehead shaped like a large eagle soaring swiftly through the sky. Fitted to a ship, it makes the ship surge ahead.
+
+@2930
+A figurehead shaped like three cute piglets that soothes the heart. Strangely, ships fitted with it need less food.
+
+@2931
+A figurehead of an orca with its tail raised, as if to threaten the enemy. Legend says even fearsome storms avoid a fleet that carries it.
+
+@2932
+A white whale figurehead. Found after the white whale vanished, it is taken as proof the whale chose not to fight. A ship fitted with it seems harder to sink.
+
+@2933
+A figurehead of a dragon glaring at the enemy and ready to strike it down. A ship fitted with it is said to hit enemies harder with its cannons.
+
+@2934
+A figurehead of a cute dolphin parent and child swimming happily across the ocean. Said to let you see more.
+
+@2935
+A figurehead shaped like an innocent maiden. Her lovely beauty gives people rest and comfort.
+
+@2936
+An eerie figurehead imbued with a devil's curse. It seems to bring various effects.
+
+@2937
+A figurehead of a king. His example of leading from the front and encouraging his men rouses the sailors.
+
+@2938
+A figurehead of the Virgin Mary holding her baby. Wrapped in deep heavenly protection, it holds a mysterious power that repels illness and more.
+
+@2939
+A navigation tool. Indispensable for checking direction at sea. Invented in China.
+
+@2940
+A navigation tool. Handy for finding your exact position at sea.
+
+@2941
+A telescope. Made by Aristarchus, an astronomer of the Hellenistic era. It can see quite far.
+
+@2942
+A rose-shaped glass craft. So delicate it looks like a real rose frozen as it was.
+
+@2943
+Beautifully colored marbles. Their raw material receives special processing, and the method is a closely guarded secret.
+
+@2944
+Gold in the form of sand. Finely ground but very valuable. Different in charm from gold bars, and beautiful.
+
+@2945
+A millstone for grinding wheat into flour for leavening. The best gift for a hardworking woman.
+
+@2946
+A watercolor painting. Painted by Emperor Huizong of the Northern Song, skilled in calligraphy and painting. Elegant, as befits one of refined upbringing.
+
+@2947
+A legendary turban. Said to have been left behind by a beautiful woman who descended from heaven when she went home.
+
+@2948
+A book. The work of Sappho, a woman poet of ancient Greece. It speaks of love and beauty.
+
+@2949
+A jar dug out of the earth. The layer it came from predates pottery, which has stirred debate among scholars of antiquity.
+
+@2950
+A statue of a beautiful woman thought to date from ancient Greece. Regarded as a crystallization of the skill of that time.
+
+@2951
+Stained glass modeled on small flowers blooming in a single-stem vase. A fine piece that recreates delicate beauty with beautifully colored glass.
+
+@2952
+A golden crown made in Silla, the first unified state of the Korean peninsula. Its gorgeous workmanship is astonishing for a 7th century piece.
+
+@2953
+Earrings made of tiny ceramic beads. Red and white materials are skillfully blended into a beautiful color.
+
+@2954
+A beautiful large jade. Keeps a perfect round shape and shines white in the light, an especially rare piece even among jade.
+
+@2955
+A book. A classic completed in India around the 4th century, telling of the love between a celestial maiden and a hermit.
+
+@2956
+A water pitcher kept in the Shosoin of Nara. Said to be Persian-made and carried over the sea, though this is uncertain.
+
+@2957
+A Chinese teacup. In the light, the mottled blue pattern inside appears in vivid color.
+
+@2958
+An expensive Persian carpet. Carefully handwoven, with a large sunflower embroidered into it.
+
+@2959
+A silk robe pleasant to the touch. Made of fine, thin pure white cloth. Very light.
+
+@2960
+A Goryeo celadon incense burner made in Korea. The color of its glaze is especially wonderful.
+
+@2961
+An expensive magnifying glass that shows everything clearly. Its lens is the largest in the world.
+
+@2962
+A brightly colored bird of the southern lands. A mysterious bird that mimics human speech with skill.
+
+@2963
+A bow made of yew wood. Said to have been used by Ullr, the Norse god of hunting and master archer.
+
+@2964
+A legendary crown. Made to display his might by King Cambyses, who expanded Achaemenid territory around the 5th century BC.
+
+@2965
+A seal made of pure gold. Said to have been used on documents by the kings of Axum, the state that flourished from the 2nd to 6th century as a forerunner of Ethiopia.
+
+@2966
+The oldest literature in India, said to have formed around the 15th to 10th century BC. It reflects the outlook of the ancient Aryans and was the source of Indian thought.
+
+@2967
+A wooden tablet handed down in Kediri, a state that flourished in Indonesia from the 10th to 13th century. Said to protect all islanders from disaster.
+
+@2968
+A bronze candlestick. Said to have been used by Qin Shi Huang, emperor of Qin China in the 3rd century BC, and made when he built grand palaces such as Epang.
+
+@2969
+Crystal polished into the shape of a skull. Its method of making is shrouded in mystery.
+
+@2970
+An old map. Drawn on paper.
+
+@2971
+An old map. Drawn on cloth.
+
+@2972
+An old map. Carved into a stone tablet.
+
+@2973
+An old map. Drawn on a mysterious lotus leaf that never withers.
+
+@2974
+An old map. What looks like a pattern serves as the map.
+
+@2975
+An old map. Drawn on the inside of a split thick bamboo.
+
+@2976
+An old map. Carved into the blade of a large knife.
+
+@2977
+A detailed map of southern England. It is marked with mysterious symbols.
+
+@2978
+A map of the area around the capital of the ancient Roman Empire. It covers nearly all of Italy.
+
+@2979
+An old map of Anatolia, marking the location of a hidden village of Christians.
+
+@2980
+A desert map. Used by caravans trading with the fabled city of Timbuktu in the middle of the Sahara.
+
+@2981
+A mysterious map. A mark labeled the King's Mosque is drawn in the middle of the map.
+
+@2982
+A detailed map of the Mughal Empire, the great empire of northern India. It shows the route to the capital, Delhi.
+
+@2983
+A map from the ancient Cambodian dynasty. A structure that looks like a palace and temple is drawn at the center.
+
+@2984
+A detailed map of northern China. It shows the route to the capital, Beijing.
+
+@2985
+A map showing the way to the tomb of a great king. Some parts are illegible here and there.
+
+@2986
+A map showing the way to a legendary temple standing in the golden land of Zipangu.
+
+@2987
+A map recording in detail the traffic between an ancient city now in ruins and a distant island.
+
+@2988
+A pictorial codex recording the cultural roots of the Aztec kingdom. A picture map of the kingdom is drawn in it.
+
+@2989
+Parchment with nothing drawn on it. Its use is a mystery.
+
+@2990
+A scrap of cloth with a strange pattern drawn on it.
+
+@2991
+The top half of a stone tablet carved with a mysterious design.
+
+@2992
+A lotus leaf said to have lived on without withering since ancient times.
+
+@2993
+A coin thought to have been used in an ancient kingdom. The pictures and letters on it are corroded beyond reading.
+
+@2994
+Bamboo work thought to have been made in China during the Tang dynasty. Its workmanship is extremely fine.
+
+@2995
+A knife used in rituals of an ancient dynasty of the New World. It has no edge worth speaking of as a weapon.
+
+@2996
+A vividly colored pigment. It was not in common use, and its ingredients are unknown.
+
+@2997
+A brass lamp. Seems to have been used at festivals and rites.
+
+@2998
+The bottom half of a stone tablet carved with a mysterious design.
+
+@2999
+Something made in ancient India. Seems to have been used as tribute to other countries.

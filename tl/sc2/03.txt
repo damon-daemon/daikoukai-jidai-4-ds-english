@@ -1,0 +1,902 @@
+@064.000C
+Mixed feelings...
+
+@064.0022
+{FI}...\nThis was bound to happen sooner or later...
+
+@064.004E
+Kamil...
+
+@064.005E
+Marinus. I've been looking for you.
+
+@064.0078
+F-Father...?
+
+@064.008E
+To think my own son would beat me.\nI never imagined you'd come this far...
+
+@064.00D4
+You understand now, don't you?\nYou can make money the honest way\nand still do fine.\nLike we used to.
+
+@064.013E
+Hmph. Perhaps.\nBut I have my own way of doing things.
+
+@064.0176
+Father!
+
+@064.0186
+I'll build it up again from scratch.\nI haven't given up on everything.\nOur contest can wait for another day.
+
+@064.01EE
+Marinus. I'm leaving this with you.\nI have no use for it now.\nBut I'll be coming to take it back soon...
+
+@064.0266
+I found it while sorting my things.\n...It reminded me of the old days.
+
+@064.02A8
+One is a treasure I found in my youth.\nThe other is something\n...your mother gave me long ago.
+
+@064.02FC
+Father, this is...!
+
+@064.0316
+...Father!\nLet's go to Holland!\nIt's not too late!
+
+@064.0350
+It's too late to turn back now...
+
+@064.0372
+Why are you like this?\nYou've always been so stubborn!
+
+@064.03AC
+That's how adults are.\nYou'll understand one day...
+
+@064.03EC
+Why... Father...
+
+@064.0404
+Kamil...
+
+@064.0414
+It's all right, I knew.\nFather is just like that.\nHe won't change easily...
+
+@064.0468
+Maybe... But when he handed Kamil\nthe locket...\nhe had the face of a kind father...
+
+@064.04D2
+In his own way, Coen\nloves you...
+
+@065.002A
+With the Coen Company, Southeast Asia's\nbiggest organization, wiped out, I can\ntrade freely in Southeast Asia now.
+
+@065.0088
+All right, let's do this!
+
+@065.00A6
+Now that Southeast Asia's biggest\norganization is gone, nobody can\ncomplain if I trade freely there!
+
+@065.0114
+All right, let's do this!
+
+@065.014E
+We took the Coen Company under our wing,\nso we can trade freely in\nSoutheast Asia now. All right, let's do this!
+
+@065.01C6
+Huh? What's wrong?\nYou look pale.
+
+@065.0208
+Tired from the voyage, perhaps?
+
+@065.022C
+N-no, it's nothing...
+
+@065.025C
+Really...? Well, if you say so...\n!? Who are you?
+
+@065.029A
+Really...? Well, if you say so...\nHey! It's you!
+
+@065.02E8
+What's he doing here?!
+
+@065.0314
+So it was you...\nI heard the rumors but I couldn't believe it.
+
+@065.0364
+Who is this man...
+
+@065.037E
+Coen!
+
+@065.03A0
+Marinus... is it?
+
+@065.03D8
+Marinus?\nWhy is Kamil answering?\nI don't get it at all! What's going on?!
+
+@065.042E
+Marinus!? What does that mean?\nYou know Coen?
+
+@065.0486
+What's the relationship between you two?
+
+@065.04DE
+...{FI}\nThere's a reason for this.
+
+@065.0500
+Marinus. I never thought I'd run into\nmy own son in a place like this...
+
+@065.0566
+Son...
+
+@065.057C
+Son!? Kamil's father is\nAnthony Coen!?
+
+@065.05CE
+S-son?\nYou told me your old man was gone...\nDidn't you say he died?
+
+@065.0634
+You're kidding, right?
+
+@065.064E
+Sorry... My real name is\nMarinus Coen.
+
+@065.0682
+Father, you understand now, don't you?\nYou can make money the honest way\nand still do fine.\nLike we used to.
+
+@065.06F6
+Hmph. Perhaps.\nBut I have my own way of doing things.
+
+@065.072E
+Father!
+
+@065.073E
+I'll build it up again from scratch.\nI haven't given up on everything.
+
+@065.078C
+...Marinus. I'm leaving this with you.\nI have no use for it now.
+
+@065.07E2
+It's something I found in my youth.
+
+@065.080E
+Father... won't you go back to being\nthe kind father you used to be?
+
+@065.0852
+Impossible.
+
+@065.0864
+Why? You could start over with Mother,\njust like before!
+
+@065.08AC
+...Is your mother well?
+
+@065.08D4
+I see. Then that's good.\n...So many years have passed.\nLife has no going back.
+
+@065.091E
+Father...
+
+@065.092E
+Marinus... look after your mother.
+
+@065.0950
+...Understood. Take care, Father...
+
+@065.0976
+Kamil, what was all that...?
+
+@065.0998
+...Sorry.\nI don't want to talk about it...
+
+@065.09C4
+...I see.
+
+@065.09E6
+Let's leave him be...\nEveryone has a past they don't\nwant touched.
+
+@065.0A48
+Don't worry.\nHe'll tell us someday, I'm sure of it.
+
+@066.001A
+With the Coen Company, Southeast Asia's\nbiggest organization, wiped out, I can\ntrade freely here now.
+
+@066.0074
+All right, let's do this!
+
+@066.00AA
+We took the Coen Company under our wing,\nso we can trade freely in\nSoutheast Asia now.
+
+@066.0110
+So you're {FI}...
+
+@066.0126
+Who are you?!
+
+@066.013C
+Anthony Coen...
+
+@066.015A
+You're Coen...
+
+@066.0176
+{FI}...\nwas it?
+
+@066.018A
+Hey, it's you!
+
+@066.01A6
+What became of Marinus?
+
+@066.01C2
+Marinus?
+
+@066.01E0
+Nobody like that is with us.
+
+@066.0202
+I see... You don't know.
+
+@066.0228
+What are you talking about?
+
+@066.023E
+That's Kamil's real name?\n...Kamil left us.
+
+@066.027C
+You'd know the story better than I\nwould, wouldn't you?\nYou're his father, right?
+
+@066.02DA
+You know about Kamil and me?
+
+@066.0304
+...Sort of.
+
+@066.0328
+No, forgive me. Farewell.
+
+@066.0344
+Father!
+
+@066.0356
+Kamil...
+
+@066.037C
+Kamil, you rat!\nWhere have you been?!
+
+@066.03C0
+You're back! I'm so glad!
+
+@066.03F6
+Kamil, you'll be fine now.
+
+@066.0422
+Then I'll be going.
+
+@066.043A
+Hodrum, sir.\nThank you so much for everything!
+
+@066.046C
+Think nothing of it.
+
+@066.047E
+Kamil, where have you been!?
+
+@066.04AE
+And what's this about "Father"?\nWhat's going on!?
+
+@066.04E6
+I looked... everywhere for you...
+
+@066.0508
+I have to apologize.\nKamil, you're really Coen's...
+
+@066.0540
+Yes... Overijssel is my mother's name.\nMy original name is\n"Marinus Coen."\nI'm the son of that Anthony Coen.
+
+@066.05C2
+Marinus Coen...\nCoen is Kamil's father...
+
+@066.05F6
+Right.\nKamil is just an old nickname.
+
+@066.0628
+Father was a good man once.\nWhen he met Mother, he was just a\ntiny trader, they say.
+
+@066.0692
+They were poor, but every day was fun\nand happy, Mother used to tell me.
+
+@066.06DA
+But the moment he expanded to the Spice\nIslands, the Coen Company took off.\nOnce he had a fortune, Father changed...
+
+@066.073E
+Greed blinded him.\nAll he thought about was profit,\nand he didn't mind using dirty tricks...
+
+@066.079E
+Mother and I couldn't stand it.
+
+@066.07D2
+Kamil...
+
+@066.07E2
+Everyone around feared Father.\nEven the neighbors started avoiding\nMother and me...
+
+@066.0844
+Mother decided we couldn't live there\nany longer, and took me back to\nHolland.
+
+@066.089C
+{FI}...\nI never meant to tell anyone about Father.\nI especially didn't want you\nto know.
+
+@066.08F2
+That's why, back then... I'm sorry.
+
+@066.0920
+No... Back then.\nThat's why you were so against it...
+
+@066.0954
+I didn't know, but I still doubted you...\nI'm really sorry...
+
+@066.09A8
+No...\nYou were hurting too, Kamil.
+
+@066.09D8
+...Hey, {FI}.\nWill you let me aboard your ship again...?
+
+@066.0A0A
+Of course!\nIt was hard while you were gone!\nYou'd better make up for the lost time.
+
+@066.0A62
+Honestly, {FI}.\nYou haven't changed a bit.\nStill working me to the bone.
+
+@066.0AA0
+Well, sorry about that!
+
+@066.0AB8
+Haha. But that's just like\nyou, {FI}.
+
+@066.0ADE
+Kamil...\n(I'm so glad he's come back to me!)
+
+@066.0B1E
+Hey, Father.
+
+@066.0B40
+You understand now, don't you?\nYou can make money the honest way\nand still do fine.\nLike we used to.
+
+@066.0BAA
+Hmph. Perhaps.\nBut I have my own way of doing things.
+
+@066.0BE2
+Father!
+
+@066.0BF2
+I'll build it up again from scratch.\nI haven't given up on everything.
+
+@066.0C40
+...Marinus. I'm leaving this with you.\nI have no use for it now.
+
+@066.0C96
+It's something I found in my youth.
+
+@066.0CC2
+Father... won't you go back to being\nthe kind father you used to be?
+
+@066.0D06
+Impossible.
+
+@066.0D18
+Why? You could start over with Mother,\njust like before!
+
+@066.0D60
+...Is your mother well?
+
+@066.0D88
+...Look after your mother.
+
+@066.0DA2
+That's not fair!\nYou should go see her yourself!
+
+@066.0DD8
+Adults have their reasons.\nFarewell.
+
+@067.001A
+Pirate Clifford...\nHe really lived up to being a pirate\nrecognized by the English crown...
+
+@067.0072
+So England's strongest pirate is gone too...
+
+@067.00B0
+Swallowed by the tide of a new age...
+
+@067.00FA
+...It's kind of sad.
+
+@067.0126
+Admiral,\nwe found this letter at Clifford's manor.
+
+@067.0152
+A letter?
+
+@067.0162
+Yes, here it is.
+
+@067.0178
+"To the one who rules the north..."\nWhat could it be?
+
+@067.019C
+To the one who ruled the north:\nI have prepared a heartfelt gift. Take this\nletter to the Amsterdam tavern.\n                    James Clifford
+
+@067.021A
+A gift...? I don't really get it, but\nI just need to go to the tavern\nin Amsterdam, right?
+
+@068.0018
+Pirate Clifford...\nWe brought him under the {FO},\nbut he really was a pirate worthy of\nthe English crown.
+
+@068.0084
+I still can't believe we made\nhim submit.
+
+@068.00D2
+It's our "bond," plain and simple!\nThat's the secret, sir!
+
+@068.0106
+I believed in you, you know...\nI thought you were my friend...
+
+@068.0158
+...\nI think I understand how\nMr. Clifford felt.
+
+@068.0196
+He must regret deceiving you,\n{FI}.
+
+@068.01D0
+You think so...?
+
+@068.01E0
+If not for the ties to the English crown,\nthis would never have happened...\nI think he wanted to be friends\nwith us.
+
+@068.0256
+Admiral, Clifford left us\nsomething like this...
+
+@068.02A4
+It's the stolen Victor's Mark, boss!
+
+@068.02CC
+It's the Victor's Mark.
+
+@068.046E
+Admiral, there's a letter from Clifford.
+
+@068.0492
+A letter?
+
+@068.04A2
+Yes, here it is.
+
+@068.04B8
+It says "To {FI}..."
+
+@068.04DE
+I have prepared a gift. Take this\nletter to the Amsterdam tavern.\n                    James Clifford
+
+@068.0546
+A gift...? I don't really get it, but\nI just need to go to the tavern\nin Amsterdam, right?
+
+@069.000C
+You did it!\n{FI}!
+
+@069.0028
+Oh...\nKamil.
+
+@069.003A
+You did it!\nYour trade domain finally\nspans the whole world!
+
+@069.0082
+What's wrong?\nAren't you happy?
+
+@069.00AA
+No, it's not that...
+
+@069.00CC
+...You're thinking about home, aren't you?
+
+@069.00EC
+W-what, no...
+
+@069.0102
+...Hey,\nwhy don't we go back to Amsterdam\nfor the first time in ages?
+
+@069.0148
+I left Mother behind, so I worry.\nI'd like to show my face once in a while.
+
+@069.0190
+Kamil...
+
+@069.01A0
+Is that okay?
+
+@069.01B2
+Yeah...\n(Thank you, Kamil.)
+
+@070.0020
+You did it!\n{FI}!
+
+@070.003C
+Oh!\n...Kamil!
+
+@070.0052
+You did it!\nYour trade domain finally\nspans the whole world!
+
+@070.0090
+Amsterdam...\nWe're back.
+
+@070.00BA
+Yeah, I've missed it.
+
+@070.00D2
+This is where it all began...
+
+@070.0104
+Still, the world sure was big...
+
+@070.012C
+It was fun!\nWe got to eat yummy food\nfrom all over the world!
+
+@070.0180
+I got to raise hell all over the\nworld, too!\nYahoo!
+
+@070.01D2
+I am truly moved that the world is this\nvast. It is all thanks to\nLady {FI}.
+
+@070.0228
+{FO}...\nI never dreamed it would grow\nthis big.
+
+@070.027A
+Yes, yes. Indeed.\nEven I'm surprised.
+
+@070.02C0
+I considered it scientifically impossible,\nthough.
+
+@070.02EE
+What's that supposed to mean?
+
+@070.030A
+Haha, just kidding.
+
+@070.0336
+Can't even take a joke?\nNo wonder they call you a "little girl"!
+
+@070.0384
+Hmph.
+
+@070.0394
+But I didn't make it this big by myself.\nIt was because all of you were there...
+
+@070.040A
+Ahem!\nI guess it was thanks to me.
+
+@070.044C
+It's {FI}'s character.\nEveryone came to like\n{FI} for that cheerful spirit.
+
+@070.049C
+And, well...\nUmm, let's see...\nKamil...
+
+@070.04E0
+It's because\n...\nyou were there...
+
+@070.0504
+Huh...
+
+@070.0522
+Looks like we're in the way...\nCome on, Emilio, everyone, let's go.
+
+@070.055E
+Huh? Wh-what's going on...?
+
+@070.0580
+Ahem.\nWe'd best be off.\nCome along, everyone.
+
+@070.05B6
+The old man's right.
+
+@070.05EE
+Let's clear out...
+
+@070.061A
+This sort of thing is, well,\nnot my strong suit...
+
+@070.0674
+Well, well, nice going!\nI'm jealous!
+
+@070.06B6
+Yeah-hoo!\nWhat a mood!\nHumans are all about Love!
+
+@070.0720
+I see...\nThen I'll just stay here...
+
+@070.0750
+You dirty old man!\nYou're the biggest nuisance of all!!
+
+@070.079E
+You know, I finally...
+
+@070.07C4
+When Kamil\nleft me...
+
+@070.07F6
+I realized...
+
+@070.080A
+Hey.
+
+@070.0816
+When I first set out to sea, I only\nwanted to make money. Looking back,\nI was a selfish girl, wasn't I?
+
+@070.087A
+But I went out to sea, met all kinds of\npeople, and saw the world. Little by\nlittle I came to understand what I\nreally want.
+
+@070.08EA
+My dream now is for people in need all\nover the world... no, for everyone in\nthe world to be happy.\nEven I think I've changed.
+
+@070.096E
+And Kamil... you've been supporting\nme like that all along, haven't you...
+
+@070.09C2
+Thank you... really.
+
+@070.09DC
+{FI}, you're not just dense,\nyou have no sense of direction.
+
+@070.0A12
+Who knows what would've happened\nwithout me.
+
+@070.0A3A
+Hey. Aren't you the dense one?\nI...!
+
+@070.0A74
+{FI}\nYou still don't get it?\nThat's exactly why I call you dense.
+
+@070.0AA8
+What do you mean by that!?
+
+@070.0ABE
+I don't want to make a girl say this\nkind of thing out loud.
+
+@070.0AFC
+Kamil...?
+
+@070.0B0E
+...{FI}\nI... no...
+
+@070.0B24
+I'll always be by your side.\nNo matter what happens, I'll protect you.
+
+@070.0B6A
+And... whatever happens,\nI'll be thinking of you.
+
+@070.0B9A
+Kamil...
+
+@070.0BAA
+I love you...
+
+@070.0BBE
+Huh...
+
+@070.0BDA
+They finally got together.
+
+@070.0BFE
+Yeah. They're such good friends.\nHow nice.
+
+@070.0C26
+Well, romance is a kind of bargaining too.\nKamil came through when it counted,\ndidn't he?
+
+@070.0C86
+Yeah-hoo!\nKiss, kiss, kiss!\nAnd one more yahoo for good measure!
+
+@070.0CF0
+Getting together only now...\nWhat a pain those two are.
+
+@070.0D46
+Yes, yes.\nWhen it comes to proposals,\nsincerity is everything.
+
+@070.0D96
+...Coming from you,\nit has no ring of truth at all.
+
+@070.0DE2
+Kamil's words were wonderful.\nHmm, I shall write a poem based on them.
+
+@070.0E46
+It's "love," plain and simple!
+
+@070.0E7C
+Love? Science can't explain that...
+
+@070.0EC0
+Aww, my little chubby one...
+
+@070.0EE4
+Huh? Don't tell me Samuel too...?\nI'll never understand your taste.
+
+@070.0F3C
+Peeping is rude, you know!
+
+@070.0F72
+Kamil, it's your chance!\nSweep her off her feet!
+
+@070.0FB2
+Hush, you noisy ones!\nThey'll notice us!
+
+@070.1000
+Falling in love might not be so\nbad...
+
+@070.1044
+A few years later...
+
+@070.1054
+(Ding dong, ding dong)
+
+@070.106A
+Oh no, I have to hurry!\nI'm not used to clothes like this,\nso it took forever!
+
+@070.10BC
+Sorry, sorry.\n......!?
+
+@070.10E8
+\n\nWell? Do I look nice...?
+
+@070.1106
+\n\n                    Yes... ...You're beautiful.
+
+@070.1134
+\n                    {FI}...\n                    You're my bride indeed.
+
+@070.1178
+\n                         You really are\n                    the most beautiful in the world.
+
+@070.11C8
+\n\n...Thank you.
+
+@070.11F4
+...?\nOh!
+
+@070.1206
+Quite a fine show for a man who goes\nby a woman's name on his big day.
+
+@070.1250
+Father!
+
+@070.1260
+Mr. Coen...
+
+@070.1276
+Your friends came to tell me.\nHonestly, at such a busy time...
+
+@070.12B8
+(You came...)
+
+@070.12D6
+Since I've come all this way,\nI'll teach you one thing.
+
+@070.1314
+There is nothing in this world that is\nabsolutely right. You can only walk\nthe path you believe in.\nDo you understand, Marinus?
+
+@070.137E
+...I still don't know what my path is.\nBut...
+
+@070.13B0
+If I'm with {FI},\nI feel like I'll find it.
+
+@070.13DC
+(Kamil...)
+
+@070.13F2
+...Heh.
+
+@070.1400
+There's no need to rush. If you rush,\nyou'll lose sight of it somewhere,\nas I did...
+
+@070.1444
+Father...
+
+@070.1454
+...I've said too much.\nI'll leave before your mother arrives.
+
+@070.148A
+Huh?\nYou won't... see her?
+
+@070.14AA
+No. I won't disgrace myself on the\nday you set out together.\nAnother time.
+
+@070.150A
+Mr. Coen...
+
+@070.151E
+(Father... Thank you.)
+
+@070.1562
+Ms. {FI}!
+
+@070.1572
+Oh, it's been a while!
+
+@070.158C
+It's done!\nThe "polder"!
+
+@070.15B4
+Really!?
+
+@070.15CC
+Look!\nThis is what the polder achieved!
+
+@070.1604
+Amazing, it's amazing.
+
+@070.161C
+Beautiful...
+
+@070.162C
+Now we can save the poor.\nIt's all thanks to you,\nMs. {FI}!
+
+@070.166A
+From now on, I'd like to keep thinking\nof ways to help people\nall over the world.
+
+@070.16BC
+What a wonderful idea!
+
+@070.16D6
+Yeah, that's amazing!
+
+@070.16EE
+I only started thinking this way\nbecause I met you,\nMs. {FI}.
+
+@070.172C
+When I come up with another new idea,\nplease support me again.
+
+@070.1766
+Sure, leave it to me!
+
+@070.1784
+...By the way,\nwhat brings you two here?\nDo you have business at the church?
+
+@070.17C8
+Y-yes. Um...\nWe're getting married.
+
+@070.17F6
+Right?
+
+@070.1802
+......What? Wh-wh-what~!\nIs that so~!?
+
+@070.183C
+Couldn't you tell from how we look?
+
+@070.1860
+A-ah!? I see!\nI had no idea at all!
+
+@070.18A8
+I was so focused on telling you about\nthe polder... I'm sorry!
+
+@070.18E8
+No, no, please don't worry about it.
+
+@070.190E
+Still, the two benefactors of the polder\nare getting married!
+
+@070.1954
+Yes, yes! Oh, how wonderful!
+
+@070.197C
+To finish it in time for such a happy day\nis a real blessing!\nNow our joy is doubled!
+
+@070.19D6
+Please, be happy!!
+
+@070.19F2
+Hehe, thank you.
+
+@070.1A10
+Kamil, it's about to begin.
+
+@070.1A30
+Yeah. Let's go!\nOur new voyage begins!

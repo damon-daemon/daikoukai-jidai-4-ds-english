@@ -1,0 +1,905 @@
+@224.0044
+Is there something about this port?
+
+@224.01D0
+Oh? The truth?
+
+@224.02D8
+Who is Saladin?
+
+@224.03C8
+A true hero, then.
+
+@225.0014
+What is it, Gerhard?\nGazing at the sunset... lost in thought?
+
+@225.00B2
+Oh? Whose story?
+
+@225.0106
+What did he do, all those years ago?
+
+@225.030E
+A terrible way to die...\nHe must have been a true warrior.
+
+@225.0342
+Precisely.
+
+@225.0352
+Gerhard,\nit seems that story struck a chord.
+
+@226.0440
+Oh? So Ian is interested in\nAsian history.
+
+@226.04F2
+Oh?
+
+@228.007C
+What are they doing?
+
+@228.00F2
+Then the hero around here is Charles...\nwhat was the name?
+
+@228.01D2
+Winning a battle is admirable, but\ntreating him as a hero for that alone\nseems a bit overblown.
+
+@228.02BA
+A man who could have changed history...\nThe children must worship him for\nprotecting Europe.
+
+@229.0022
+Manuel.
+
+@229.0062
+Not only that.\nIt's also a breather now and then.
+
+@229.00A2
+Did you have some business\nin the plaza, Manuel?
+
+@229.015E
+The name sounds familiar...?
+
+@229.01EC
+Oh? To press the Roman Empire that\nhard... He must have been quite\na great man.
+
+@229.02BE
+Harsh words.\nYou mean we must not let our guard down.
+
+@229.0314
+Of course.\n...By the way, why did Attila come up?
+
+@229.03B0
+Armor?
+
+@229.040A
+"The king's armor, carried off to the\nnorthwest"... Anyone who threatened\nRome must have been feared indeed.
+
+@230.0022
+Training this late?\nI wish my marines would follow\nher example.
+
+@230.0184
+Swords chip?\nOh...
+
+@231.0024
+What is it?
+
+@231.011A
+What about that shield?
+
+@231.01AC
+True.\nWhere would we go to get it?
+
+@231.022C
+...With that alone, there's no way\nto search for it.
+
+@231.026C
+Don't be disappointed. I'll keep it in\nmind. With luck, we'll get it.
+
+@232.0024
+What is it?
+
+@232.0122
+Hm? That sounds familiar...\nDidn't you say the same thing about\nthe Armadillo-whatever?
+
+@232.01A0
+Never mind.\nWhat about that shield?
+
+@232.0212
+You said exactly the same thing\nabout the Armadillo-whatever.
+
+@232.027E
+...\nWhere would we go to get it?
+
+@232.02F4
+There's no way to search with that alone.
+
+@232.0332
+Don't be disappointed. I'll keep it in\nmind. With luck, we'll get it.
+
+@233.0024
+What is it?
+
+@233.005C
+I don't know. But if it exists, I'd like\nto see it once.\nWhy the sudden question?
+
+@233.0116
+So you want to get it because it'd be\nuseful in battle?
+
+@233.0170
+You said something like this before.
+
+@233.01BE
+So where is it?\nDon't tell me Africa or India again.
+
+@233.0242
+I-I see.\nThis time you narrowed it down nicely.
+
+@233.02DA
+I see, you researched it well.
+
+@233.030C
+All right. In honor of Samuel's effort,\nI'll keep the Phoenix Bascinet in mind.
+
+@234.0034
+No, I haven't heard of him.\nWhat about him?
+
+@234.00BE
+Oh?
+
+@234.0124
+Oh... That sounds like a wonderful book.\nIf it's true, I want it.
+
+@234.0172
+But how do we find it...?\nIs there any clue to go on?
+
+@234.0212
+Anything else?
+
+@234.0238
+I see. That alone isn't enough\nto search with.
+
+@234.027C
+No need to apologize.
+
+@234.02A8
+So if I want it, I must search the\nMediterranean myself.
+
+@236.0088
+A scrap of paper?
+
+@236.0122
+A chisel, then.
+
+@236.0232
+Manuel.\nYou want to use that chisel\nto repair the ship?
+
+@238.04DE
+It sounds rather fishy...\nBut the part about the sailors being\nstirred up catches my attention.
+
+@239.04D2
+Hmph. Can't that man write a letter in\nplain prose? ...Well, since he went to\nthe trouble of reporting by letter,\nit's worth looking into.
+
+@240.003A
+What is it, Cesare?\nWhat are you angry about?
+
+@240.0136
+I don't follow...\nWhat is this "Demon-Slaying Arrow"?
+
+@240.0396
+...\n(No point saying anything now.)
+
+@241.0028
+Jenas?\nWhat happened?
+
+@241.00E6
+My mate seems to have\nhurt his hand.
+
+@241.0284
+...This is hopeless.
+
+@241.035C
+Understood. We'll look for them.
+
+@242.0026
+!?\nOh, the figurine you're holding...\nmay I see it?
+
+@242.0060
+This?
+
+@242.0074
+I knew it!!\nHey! Where did you find this?!
+
+@242.00A8
+A thug named Gabriel was\ncarrying it...
+
+@242.00E0
+That's mine!\nIt was my treasure, but it was\nstolen from me a while ago...
+
+@242.0132
+Papa bought it for my birthday\nbecause I love roses so much.\nI cherished it dearly.
+
+@242.018C
+...I see. Then it's happily\nback with its original owner.
+
+@242.0212
+O-oh, thank you!\nI'd given up, and now I have it\nback in my hands!
+
+@242.0262
+I have to thank you somehow...
+
+@242.0286
+I've already received the reward for\ncatching Gabriel from the Guild.\nI need nothing more.
+
+@242.02DA
+{FI}...!
+
+@242.02EC
+Farewell.
+
+@242.0320
+You explore the whole world,\ndon't you?
+
+@242.0354
+Have you been to the church on the\nedge of town? It's a wooden church,\nrare in Europe.
+
+@242.03A8
+The lighthouse casts a shadow at its\nfoot, as they say. I hadn't thought of\nthat. I'll go and see it.
+
+@243.001E
+What is it?
+
+@243.0090
+I sense a regal air about it...\nIs there a story behind this statue,\nFather?
+
+@243.01FC
+Oh...
+
+@243.0278
+Hmm......
+
+@243.02CC
+All right, everyone, lend a hand!
+
+@243.030A
+You can go back first if you like.
+
+@243.03E4
+Run!
+
+@243.04D8
+No... I can't think of any other reason.\nI suppose we were simply lucky.
+
+@246.0098
+I see. I'll remember that.
+
+@247.00AA
+Oh?
+
+@248.0008
+I'd like to ask you for a job.
+
+@248.002E
+Cross the Atlantic, the side opposite\nthis port, and far to the west there's\na village called Rio de Janeiro. I want\nyou to send a survey team there.
+
+@248.00B2
+A survey team?
+
+@248.00C2
+Just carry them as sailors. When you\ngo to the Tavern, hire more sailors\nthan usual.
+
+@248.0128
+Crossing the Atlantic means the south\nof the New World. That's...\nquite far.
+
+@248.0178
+That's exactly why I'm asking you.
+
+@248.019E
+The survey will need funds too, so\nplease take a little extra along.
+
+@249.0018
+If I remember right...\nRio de Janeiro Village is in the\nsouth of the New World.
+
+@249.005E
+How's the Rio de Janeiro survey going?\nIt's across the Atlantic on the\nopposite side of this port, far west.
+
+@250.0008
+Thank you.\nHere are the expenses and your reward.\nPlease take them.
+
+@250.0046
+You received 42000 gold coins.
+
+@251.002A
+...Don't you sense something from this\nstatue? A strange sort of warmth...
+
+@251.00A2
+There.
+
+@251.013C
+Is it something famous?
+
+@251.0258
+A figurehead this splendid. Leaving it\nsitting on land would be the height of\nfolly. Don't you think so?
+
+@251.03B2
+What are you doing?\nHurry up and help me.
+
+@251.03F2
+Are you half asleep?
+
+@251.0512
+Time to head back to town.
+
+@252.013C
+This is the answer!
+
+@252.02C0
+Wrong, then.\nAnyway, it's dangerous here.\nBack to town!
+
+@252.031E
+This is the answer!
+
+@252.04A4
+Wrong, then.\nAnyway, it's dangerous here.\nBack to town!
+
+@252.0502
+The water level can't change\njust because ice melts.
+
+@252.0580
+Where?
+
+@252.0746
+Who knows.\nI don't know that myself.
+
+@256.0008
+I have a job for you, finding\nsomeone. Care to try it?
+
+@256.0048
+I want you to find a Dutch nobleman\nnamed Ulysse Huygens.
+
+@256.008C
+He's a noble who loves long trips,\nand the citizens complain he never\ncomes back to his domain.
+
+@256.00F2
+I heard a rumor he was seen in\nSyracuse...
+
+@258.000E
+The man named Ulysse should be in\nthis town, if I recall.
+
+@258.003E
+Ah, ancient Roman civilization,\nhow beautiful!
+
+@258.0068
+Excuse me, do you know of anyone\naround here named Ulysse?
+
+@258.00A8
+Such strength, such grace...
+
+@258.00CC
+...Hey, can you hear me?
+
+@258.00F2
+I hear you. I am Ulysse.
+
+@258.0116
+You are!?\nNow that you say it, you do have\nan elegant, noble air about you.
+
+@258.016E
+You're hardly in a position to idle\naway here, are you? Your people are\nin an uproar because their lord left\nand never came back.
+
+@258.01EA
+Oh, no! I completely forgot\nabout my domain!\nPlease take me back there.
+
+@258.024E
+Well, we'll go back to London first,\nand then see.
+
+@259.0008
+Ah, Ulysse! What have you been doing,\nforgetting your duties all this time?\nYour people are in real trouble.
+
+@259.005E
+So sorry. When I travel far,\nI tend to lose myself.\nI'll be right back.
+
+@259.00B0
+Honestly... Well, you must be tired\nfrom the long trip, so rest here a\nbit before you head back.
+
+@259.010E
+Oh, I almost forgot.\nIt's not much, but here's a reward.\nTake it.
+
+@259.0156
+You received 11000 gold coins.
+
+@259.01FE
+Oh, sorry. Looks like customers.
+
+@259.0222
+Old man, are the maps sold out?
+
+@259.0242
+You again, huh? Yeah, none left.
+
+@259.0270
+Tch, useless shop.
+
+@259.0292
+Hmph, you lot bought them all up!
+
+@259.02CE
+Maps to the ruins. Lately some odd\ntypes keep hanging around there, and\nthe neighbors are getting bothered.
+
+@259.0320
+Is it near here?
+
+@259.033A
+Quite far, but with a map it's easy to\nget there. Trouble is, those guys\nbought up every last map.
+
+@259.03A0
+There might still be some in\nother ports, though.
+
+@260.0018
+I have to go to Syracuse and look\nfor this Ulysse.
+
+@260.0050
+I heard a rumor Ulysse was seen in\nthe Syracuse plaza.
+
+@261.0008
+Sir, I have a favor to ask.
+
+@261.0030
+If you see a fellow named Gabriel\nCarducci from Italy, would you bring\nhim back here?
+
+@261.0098
+He committed a minor breach of the\npact. Seems he headed for the\nCaribbean, but...
+
+@262.0008
+Speaking of which, the Stockholm Guild\nwas looking for sailors willing to take\non a job.
+
+@263.0018
+I have to find this Gabriel.\nHe's in the Caribbean, right?
+
+@263.0056
+Haven't found Gabriel yet?\nHe should be in the Caribbean.
+
+@264.0010
+Sir, this time you've got to pay up.\nDo you even remember how much your\ntab has piled up?
+
+@264.007A
+I told you, I'll pay next time. Have I\never once skipped out on a bill?
+
+@264.00C2
+You've never once paid either.
+
+@264.00E8
+Innkeeper, is there a man named\nGabriel Carducci in this town?
+
+@264.0128
+Gabriel Carducci is me,\nthe great one. Who are you?
+
+@264.0168
+It seems you broke the pact\nat the Guild.
+
+@264.018E
+S-so what if I did?!\nIt's none of your business!
+
+@264.01D0
+Enough excuses.\nYou're coming with me to the Guild\nin Stockholm.
+
+@264.021A
+H-hey, let go of me!
+
+@264.0236
+Wait, wait, my tab...
+
+@264.025E
+Admiral. This guy was hiding\nthis. Looks like stolen goods.
+
+@265.000A
+I brought Gabriel.
+
+@265.002A
+Finally back, huh?\nNow hand over the money you skimmed\nbehind our backs.
+
+@265.006E
+I-I'll definitely pay that next time...
+
+@265.0092
+That's the same line I heard at the\nTavern. Now, old man, I'll take my\nleave.
+
+@265.00E0
+Hold on.\nWe can't send Mr. {FA} home\nempty-handed. Please, take this.
+
+@265.0140
+You received 22000 gold coins.
+
+@265.01A8
+Stockholm's share rose a little!
+
+@265.01E6
+I'll leave those stolen goods with you.\nIf no owner turns up, do as you\nlike with them.
+
+@269.0008
+The Sao Jorge Guild was looking\nfor you.
+
+@272.0018
+We have to defeat the outlaw Plett\nsoon.
+
+@273.0008
+I have faith in you, so I've got a\nfavor. Capture a bounty target named\nJean Ramusio.
+
+@273.0058
+We were tracking him as a smuggler,\nbut our hunting party was beaten\nback in India.
+
+@273.00B0
+He seems to have a fleet on par with\npirates. Brace yourself.\nThis is an advance payment.
+
+@274.0008
+Ah, the smuggler! So you finally\ncaught him.
+
+@274.003C
+Everyone says I smuggle, but it's a\nmisunderstanding. All a\nmisunderstanding! I'm the one\nbeing bothered, you know?
+
+@274.00A2
+Honestly... the only thing he's good at\nis talking. Think about the trouble\nyou cause others instead of yourself!
+
+@274.00F2
+Then what do you want me to do?!
+
+@274.011A
+Work honestly. That's all I'm saying.\nDon't tell me you thought you were\nalready doing that.
+
+@274.0182
+...No good?
+
+@274.0192
+...Sorry you had to deal with such a\nguy. It's only a token, but please\naccept this.
+
+@274.01EC
+You received 75000 gold coins.
+
+@274.0264
+Basra's share rose a little!
+
+@274.02AA
+Let me tell you something good.\nFar inland from this town there's a\nmosque, and a great treasure is\nhidden there.
+
+@274.031A
+To get it, you have to be recognized\nby the king enshrined in the mosque.\nYou might find it worth a try.
+
+@275.0018
+I'm to defeat the fleet of this Jean\nin India, right?
+
+@275.0052
+Jean seems to be lying low in India.
+
+@276.0008
+Mr. {FA},\nI have faith in you, so I've got a\nfavor.
+
+@276.0032
+What is it?
+
+@276.0040
+I want you to capture a bounty target.\nA Dutch smuggler named Jacob\nPortunt.
+
+@276.0094
+Until recently he was a petty thug, but\nhe seems to have struck it rich in\nAfrica and now fancies himself\na real pirate.
+
+@276.0108
+This is an advance payment.\nWe can't stand up to him, but you\nshould be fine. Please deal with him.
+
+@276.017E
+You received 16000 gold coins.
+
+@277.0008
+Oh, he's back.
+
+@277.001E
+My cargo...
+
+@277.0032
+What are you saying?! It was all\nsomeone else's cargo to begin with!
+
+@277.0072
+I owe you for catching him.\nIt's not much, but please accept it.
+
+@277.00B4
+You received 72000 gold coins.
+
+@277.012C
+Calicut's share rose a little!
+
+@277.0176
+I have some prime information for you.
+
+@277.01A0
+Try heading out to explore from this\ntown's gate. A building up ahead is\nsaid to hide a magnificent treasure.
+
+@277.0214
+Don't forget to get a map before\nyou set out to explore.
+
+@278.0018
+I have to find the bounty target\nJacob's fleet.
+
+@278.004A
+Still haven't found that Jacob\nbastard?
+
+@279.0008
+Hmm, what to do...\nI guess I have no choice but to ask you...
+
+@279.0044
+Please. Defeat a Spanish pirate named\nHernan Berio.
+
+@279.0088
+All the merchants around here are\nbothered, but they're so scared of his\nname that nobody will take the job.
+
+@279.00F2
+They say he's been prowling the\nMediterranean lately. I'm counting on\nyou. This is the advance payment.
+
+@279.0154
+You received 30000 gold coins.
+
+@280.0008
+Hey! Make way for the great Hernan\nBerio!
+
+@280.003A
+Tied up and still acting like a king.\nWhat an absurd man.
+
+@280.006A
+Oh, you finally caught Hernan! Asking\nyou was the right call. Good work.\nPlease take this.
+
+@280.00EE
+You received 110000 gold coins.
+
+@280.0168
+Athens's share rose a little!
+
+@280.01AE
+By the way,\nhave you been to this town's landmark?
+
+@280.01E8
+A landmark?
+
+@280.01F6
+Well, anyway, go take a look.\nIt's like the symbol of the town.
+
+@281.0018
+I'm to defeat the pirate Hernan, who\nprowls the Mediterranean, right?
+
+@281.0058
+Hurry up and give that Hernan\nbastard a good beating!
+
+@282.000E
+Admiral {FA}.\nThe king has summoned you.
+
+@282.003C
+Ah, Admiral {FA}.\nI have a special request for you.
+
+@282.006C
+Thanks to your exploits, our ships can\nnow operate beyond the Indian Ocean,\nbut...
+
+@282.00CA
+A powerful enemy has appeared in Arabia\nand our merchant fleets are suffering\ngreat losses. I want you to defeat him\nsomehow.
+
+@282.0136
+That Arab pirate is named Iscar Yasar.\nMany punitive fleets have been beaten\nback. You are my only hope now. I\ncount on you.
+
+@283.000E
+Admiral {FA}.\nWelcome back.
+
+@283.0036
+Ah! {FA}!\nWell done defeating that fierce enemy!
+
+@283.006C
+Bring the reward!
+
+@283.0082
+It may fall short of repaying your\nservice, but please accept this.
+
+@283.00C8
+You received 250000 gold coins!
+
+@283.0114
+Now then, {FA}.\nIs your mission progressing?
+
+@283.0146
+Yes, sire.
+
+@283.0152
+Hmm.\nBut the crucial point has not been made\nclear, has it?
+
+@283.0194
+By what measure is the fleet you aim\nfor the strongest in the world?
+
+@283.01D0
+?\n...What do you mean, Your Majesty?
+
+@283.01F2
+Claiming it yourself is easy. Only when\neveryone acknowledges it does the title\nof "strongest" mean anything. Is that\nnot so?
+
+@283.0262
+When everyone acknowledges it...
+
+@283.027A
+Indeed. Have you heard of the sign of\nthe world's strongest that the great\npowers covet?
+
+@283.02D6
+The Victor's Mark...?
+
+@283.02FE
+Hm. So you knew.
+
+@283.031A
+It is that very Victor's Mark, said to\nbe scattered across the world, that I\nwish to discuss.
+
+@283.0376
+They say it can be held only by one\nqualified as the Victor of each sea,\nliterally.
+
+@283.03CC
+By gathering all seven, we can show\nour strength to the world.
+
+@283.0420
+I want you to achieve this great feat\nand raise the Kingdom of Sweden to\nthe ranks of the great powers.
+
+@283.0490
+The Victor's Mark... So the hunt for a\ntreasure of unknown substance is now a\nroyal command.
+
+@283.04E8
+But, Admiral, His Majesty speaks so,\nbut does the Mark really hold that\nmuch meaning?
+
+@283.054C
+I don't know. It's hard to think that\nwhat powerful men of every nation seek\nso desperately is worthless...
+
+@283.05A4
+On the other hand, it's common for\neveryone to be swept up in an illusion\nthat means little.
+
+@283.05F4
+Either way, to obtain the Marks we\nmust defeat the strong rivals of each\nsea who are thinking the same thing.
+
+@283.0666
+It takes more than strength in local\nfights. Overall, advanced ability will\ncertainly be required.
+
+@283.06BE
+In that sense, the fact remains that\nthe Victor's Mark proves the strongest\nfleet.
+
+@283.0710
+I see... Then gathering the Marks is\nour mission, and we may think of it\nas such, sir?
+
+@283.0770
+Exactly.
+
+@284.0008
+Admiral, the King summons you.\nPlease return to Stockholm at once.
+
+@284.004E
+His Majesty?
+
+@284.005E
+What could he want...?
+
+@285.0008
+I'm to defeat Iscar, the Indian Ocean\npirate, right?
+
+@286.0008
+Mr. {FA}.\nI was looking for you. There's a\ngang I'd really like you to take down.
+
+@286.004E
+A job request, then.\nWho is the enemy?
+
+@286.0070
+They used to pay tribute to Maldonado\nand play at piracy and smuggling.\nJust a bunch of lowly thugs.
+
+@286.00D8
+While their boss Maldonado is busy with\nEscante in Mexico and Clifford in\nEngland, they raised their own banner.
+
+@286.0158
+The boss is a pirate named William.\nHe's an especially nasty piece of work.
+
+@286.01A6
+Not just merchant ships, they hit even\nemigrant ships, kill every prisoner,\nand burn every village they raid.
+
+@286.0202
+Compared to them, Maldonado starts to\nseem a good deal more decent.
+
+@286.0256
+They don't act as an open faction, and\nthe boss William rarely shows his face.
+
+@286.02B8
+I sent in plenty of bounty hunters to\nget a lead on him, but none came back\nin one piece.
+
+@286.0322
+You're the only one left I can ask.
+
+@286.034C
+Sounds like a troublesome opponent...\nVery well.
+
+@286.0380
+Oh! You'll take it!
+
+@286.03A8
+I can't let this go.
+
+@286.03BE
+Reassuring words!\nThis is the advance payment.\nI'm counting on you!
+
+@286.03FC
+You received 25000 gold coins.
+
+@286.042A
+...But how do we find William?
+
+@286.0460
+I have no leads.\nWe'll have to force it.
+
+@286.048A
+...Meaning?
+
+@286.049E
+Defeat his pirate henchmen one after\nanother. Sooner or later he'll lose\npatience and come out.
+
+@286.04F0
+Brute force, sir.
+
+@287.0052
+I'm finally free of this.
+
+@287.006E
+I'm awed by your skill! I'll be\ngenerous with the reward, so please\ntake it!
+
+@287.00C4
+You received 180000 gold coins!
+
+@287.0140
+Havana's share rose a little!
+
+@287.0176
+Actually, there's someone I'd like you\nto meet.
+
+@287.01C2
+I believe in your skill and have a\nrequest. There is a ruin we must find,\nno matter what.
+
+@287.021E
+A ruin...?
+
+@287.02C6
+You're saying I'm the strongest warrior?
+
+@287.02F0
+That recent pirate hunt convinced me.
+
+@287.0314
+Not merely strong, but one with a\nrighteous heart and wisdom as well.\nThat is the strongest warrior.
+
+@287.0368
+Wait.\nYou overestimate me.\nI can't accept such a request...
+
+@287.03B2
+No, no, don't worry. Honestly, for us\ntoo it's like grasping at clouds.
+
+@287.0408
+We just ask anyone who looks strong,\nat random, like this.
+
+@287.0456
+I know it's rude, but since no one has\never managed it, I won't expect too\nmuch.
+
+@287.04B8
+An honest man.\nThen I can take it easy.
+
+@287.04DC
+I'll pay you an advance. Of course,\nI won't ask for it back if you don't\nfind anything.
+
+@287.0546
+You received 5000 gold coins.
+
+@287.0574
+First you will need a map to the ruins.\nOnce you have the Ancient City Map,\ncall on me. I'll join the search.
+
+@287.05F2
+I'll be waiting at this town's gate.
+
+@288.0008
+Mr. {FA}?\nThe Havana Guild was looking for you.
+
+@289.0018
+I'm to defeat William, the New World\npirate, right?
+
+@289.0056
+That William bastard still hasn't\nshown his face?
+
+@289.008C
+That William bastard still hasn't been\ncaught?

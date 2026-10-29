@@ -1,0 +1,992 @@
+@3000
+A small jar filled with a milky white liquid.
+
+@3001
+A detailed illustrated guide to assembling bamboo crafts.
+
+@3002
+A sheath for a small knife, carved with a sun motif.
+
+@3003
+A red gem that glows as if on fire.
+
+@3004
+A dagger engraved with ancient script. Said to ward off evil and to have been used in exorcism rites.
+
+@3005
+A stone mask with two serpents in relief, said to have been worn by priests in ancient rites.
+
+@3006
+A rose quartz with a six-rayed star. Its clarity and sharp star shape make it a rare find.
+
+@3007
+A phantom crystal containing diamond. A rare piece in which the crystal grew a second time. Said to sharpen concentration.
+
+@3008
+A treasured sword from a small island nation in the East. So sharp it is said to cut things it never touches.
+
+@3009
+A figurehead modeled on a siren whose song wrecks ships. Why it was chosen as a motif is unknown.
+
+@3010
+An intricately twisted horn. Whether it is really a dragon's horn is unknown. Said to cure all diseases.
+
+@3011
+A great king's shield painted with a goddess. Legend says it was once used as a boat. Sailors long to keep one as a charm.
+
+@3012
+A huge red spear. Said to repel evil and protect its bearer from all harm.
+
+@3013
+A fragment of an ancient map. Four pieces make a set.
+
+@3014
+A fragment of an ancient map. Four pieces make a set.
+
+@3015
+A fragment of an ancient map. Four pieces make a set.
+
+@3016
+A fragment of an ancient map. Four pieces make a set.
+
+@3017
+A fragment of an ancient map. Four pieces make a set.
+
+@3018
+A fragment of an ancient map. Four pieces make a set.
+
+@3019
+A fragment of an ancient map. Four pieces make a set.
+
+@3020
+A fragment of an ancient map. Four pieces make a set.
+
+@3021
+A fragment of an ancient map. Four pieces make a set.
+
+@3022
+A fragment of an ancient map. Four pieces make a set.
+
+@3023
+A fragment of an ancient map. Four pieces make a set.
+
+@3024
+A fragment of an ancient map. Four pieces make a set.
+
+@3025
+A fragment of an ancient map. Four pieces make a set.
+
+@3026
+A fragment of an ancient map. Four pieces make a set.
+
+@3027
+A fragment of an ancient map. Four pieces make a set.
+
+@3028
+A fragment of an ancient map. Four pieces make a set.
+
+@3029
+A fragment of an ancient map. Four pieces make a set.
+
+@3030
+A fragment of an ancient map. Four pieces make a set.
+
+@3031
+A fragment of an ancient map. Four pieces make a set.
+
+@3032
+A fragment of an ancient map. Four pieces make a set.
+
+@3033
+There's every chance it could be
+grown around the North Sea.
+
+@3034
+Bring it to the Mediterranean
+and it should grow well.
+
+@3035
+It might even grow in the tropics
+of the New World or Africa.
+
+@3036
+Honey made from Mediterranean flowers
+must be delicious, too.
+
+@3037
+They say in China they eat shark fins,
+and around the Black Sea,
+beyond the Mediterranean, shark roe.
+
+@3038
+Southeast Asia has the perfect
+climate for growing pepper.
+
+@3039
+The climate of Southeast Asia suits
+cloves very well. In the
+Mediterranean... that may be hard, eh?
+
+@3040
+If we could produce cinnamon in the
+Mediterranean, we'd make a fortune.
+
+@3041
+If only we could sell this spice
+as a product in Africa.
+
+@3042
+The New World should be
+well suited to growing coffee.
+
+@3043
+Africa might be a place
+where tea could be grown, too.
+
+@3044
+This only seems to grow in the tropics.
+How about taking it to Africa?
+
+@3045
+Grow it and sell it in the Mediterranean.
+You might get rich.
+
+@3046
+Ore from Africa might become
+a new product.
+
+@3047
+In Africa and East Asia,
+glass is a precious thing.
+
+@3048
+Silk has long been East Asia's
+main commodity.
+
+@3049
+The textile industry in the North Sea
+and Mediterranean still has
+room to grow.
+
+@3050
+Perhaps pearls could be found
+in East Asia, too.
+
+@3051
+I hear China still has plenty of
+rare herbal medicines.
+
+@3052
+Southeast Asia has many rare fruits.
+The peel of this one
+yields a dye.
+
+@3053
+It'll be a great help
+when rats break out.
+
+@3054
+Any voyage needs this against scurvy.
+Be sure to carry it.
+
+@3055
+No sailor can defy the weather.
+This is sure to come in handy.
+
+@3056
+The mystery of Eastern medicine.
+It's said to work especially well
+against epidemics.
+
+@3057
+Best given to the Deck Crew.
+
+@3058
+Best given to the Deck Crew
+or a Boarding Chief.
+
+@3059
+Lohengrin was a swan in human form
+with supernatural powers, they say.
+This saber looks wonderfully sharp, too.
+
+@3060
+Best given to a Boarding Chief.
+
+@3061
+Best given to the Deck Crew
+or a Boarding Chief.
+
+@3062
+Not as useful as the price suggests,
+but it may look rather fine.
+
+@3063
+Best given to the Deck Crew.
+
+@3064
+Best given to the Deck Crew
+or a Boarding Chief.
+
+@3065
+You could give it to a mate,
+but the Admiral might wield it
+personally.
+
+@3066
+Best given to the Deck Crew
+or a Boarding Chief.
+
+@3067
+Best given to a Boarding Chief.
+
+@3068
+Best given to a Boarding Chief.
+
+@3069
+It should go to a trusted hero.
+
+@3070
+It should go to a trusted hero.
+
+@3071
+This one is called "Rindo" (gentian).
+A hero who can master it
+must be a formidable warrior.
+
+@3072
+A weapon for a truly capable
+Boarding Chief.
+
+@3073
+I'd love to give this to a
+capable Boarding Chief.
+
+@3074
+Best given to a Boarding Chief.
+
+@3075
+Even the Deck Crew could carry it
+for self-defense.
+
+@3076
+Best given to the Deck Crew
+or a Boarding Chief.
+
+@3077
+A fine piece for a trusted warrior.
+
+@3078
+You could give it to a companion,
+but the Admiral might wield it
+personally.
+
+@3079
+Hmm! A magnificent blade.
+I sense some unseen power in it.
+
+@3080
+So this is the legendary...
+I never thought I'd see it
+with my own eyes.
+
+@3081
+Truly a cursed blade. Hmm...
+The more I look, the more
+it draws me in.
+
+@3082
+Best given to the Deck Crew.
+
+@3083
+Even someone unsure of their skill
+can handle this.
+
+@3084
+Simple, handy armor.
+
+@3085
+I'd like Deck Crew and
+Boarding Chiefs to carry this.
+
+@3086
+Best given to the Deck Crew.
+
+@3087
+Light, easy-to-use armor.
+
+@3088
+This belongs with a Boarding Chief.
+
+@3089
+This belongs with a Boarding Chief.
+
+@3090
+I'd like Deck Crew and
+Boarding Chiefs to carry this.
+
+@3091
+I'd like Deck Crew and
+Boarding Chiefs to carry this.
+
+@3092
+This belongs with a Boarding Chief.
+
+@3093
+This belongs with a Boarding Chief.
+
+@3094
+I'd like Deck Crew and
+Boarding Chiefs to carry this.
+
+@3095
+I'd like Deck Crew and
+Boarding Chiefs to carry this.
+
+@3096
+Those confident in their skill
+should be given gear like this.
+
+@3097
+Those confident in their skill
+would do well with gear like this.
+
+@3098
+Those confident in their skill
+should be given gear
+like this.
+
+@3099
+This is fit to be
+the Admiral's own armor.
+
+@3100
+One doesn't come across
+such a piece easily.
+
+@3101
+One doesn't come across
+such a piece easily.
+
+@3102
+Hmm... A truly splendid piece.
+
+@3103
+It holds a power
+I can hardly put into words.
+
+@3104
+This is what a true hero
+ought to wear!
+
+@3105
+The dignity and presence of a
+conqueror... A feast for the eyes.
+A collector's dream come true.
+
+@3106
+This is fit to be
+the Admiral's own armor.
+
+@3107
+Best given to a Sailhand.
+
+@3108
+Best given to the Sailhand
+on the main mast.
+
+@3109
+A lookout must know which way
+the ship is heading.
+
+@3110
+A lookout must know exactly
+which way the ship is heading.
+
+@3111
+Deck work is dull. A book of poems
+might lift your spirits.
+
+@3112
+Deck work is dull. A good story
+might take your mind off it.
+
+@3113
+Deck work is dull. Some funny
+stories might help pass the time.
+
+@3114
+The accuracy of a survey chart
+depends on the quality of the tools.
+
+@3115
+Knowing the exact time lets you work
+out the ship's exact speed.
+It should help with surveying.
+
+@3116
+Knowing the tricks learned through
+experience is a big plus for steering.
+
+@3117
+Calling down heaven's favor
+takes a captain's caliber.
+
+@3118
+A captain needs the charisma
+to draw mates to him.
+
+@3119
+Raising the sailors' morale is also
+an important part of a captain's role.
+
+@3120
+Persuading discontented sailors and
+negotiating with other factions
+are the First Mate's duties.
+
+@3121
+With a First Mate who knows world
+geography, a voyage feels
+much safer.
+
+@3122
+A Boarding Chief also needs the
+ability to lead his men.
+
+@3123
+One roar from a Boarding Chief
+and the men are fired up.
+
+@3124
+One skilled with the sword who knows
+how to fight is a Boarding Chief
+you can rely on.
+
+@3125
+One skilled with the sword who knows
+how to fight is a Boarding Chief
+you can rely on.
+
+@3126
+Unseen luck plays a big part
+in gunnery skill, too.
+
+@3127
+A gunner needs to know the
+properties of gunpowder as well.
+
+@3128
+These arrows seem to push an archer's
+concentration to its limit.
+
+@3129
+This wonderful sharpness is a great
+ally to a shipwright.
+
+@3130
+This remarkable sharpness is a great
+ally to a shipwright.
+
+@3131
+This sharpness is a great
+ally to a shipwright.
+
+@3132
+Even the old medicine had
+remarkable techniques.
+
+@3133
+Knowing how the body works is
+the basis of all medicine.
+
+@3134
+Islamic medicine is said to be
+very advanced.
+
+@3135
+Wonderful... Truly a dream
+cooking tool.
+
+@3136
+Dress like a cook, and somehow you
+feel you could make a fine meal.
+
+@3137
+Raising animals is hard work.
+I hope this makes it a little easier.
+
+@3138
+What stylish boots!
+They should make tending animals
+comfortable.
+
+@3139
+A prized possession of missionaries.
+
+@3140
+A Bible anyone can understand.
+
+@3141
+An item that carries a sense
+of history.
+
+@3142
+Winning without fighting
+is the best victory.
+
+@3143
+The power to know the future...
+The great strategists of old
+may have had it.
+
+@3144
+Outwitting the enemy.
+That is the essence of strategy.
+
+@3145
+They say it can do hard sums
+in the blink of an eye.
+
+@3146
+With this, you won't be
+overcharged or lowballed.
+
+@3147
+On any ship, it should raise the
+whole fleet's speed.
+
+@3148
+A crew on a ship fitted with this
+supposedly won't get so hungry.
+
+@3149
+It seems to clear away dangerous
+clouds. Fit it to any ship.
+
+@3150
+Best fitted to an important ship.
+
+@3151
+Fit it to the ship with the
+strongest guns.
+
+@3152
+It works for the whole fleet on
+any ship. It seems to widen the
+range of discovery.
+
+@3153
+It should work on any ship.
+It cleanses the spirit and
+seems to cure fatigue...
+
+@3154
+Hmm... Once this is fitted,
+it can't be moved to another ship.
+
+@3155
+Fit it to a ship with many sailors.
+It should help in melee.
+
+@3156
+On any ship, it should bring
+heaven's protection. Sailors
+seem to stop catching diseases.
+
+@3157
+A truly useful tool for a surveyor.
+
+@3158
+A basic tool for a surveyor.
+
+@3159
+Give it to a lookout and items
+and ports are easier to find.
+
+@3160
+Fine craftsmanship. A woman of the
+North Sea could appreciate
+its delicacy.
+
+@3161
+Beautiful. Only in a land of
+advanced seafaring would such
+simple beauty be prized.
+
+@3162
+Gold dust, eh. I seem to recall
+northern women have a great
+longing for gold.
+
+@3163
+It takes strength to use this.
+But I heard in the north that
+Nordic women who love cooking
+will be delighted.
+
+@3164
+In Western countries, Eastern art
+is a rare curiosity.
+
+@3165
+To Europeans, Arabian garb
+looks quite mysterious.
+
+@3166
+A beautiful poem. In the
+Mediterranean, the glory of ancient
+Greece is a famous tale full of romance.
+
+@3167
+The Mediterranean has many ancient
+ruins. Someone raised there
+might take an interest.
+
+@3168
+A statue so famous that everyone
+on the Mediterranean coast knows it.
+Many would want it. Wonderful...
+
+@3169
+The Mediterranean boasts the finest
+stained glass craft. They will
+surely see its worth.
+
+@3170
+A girl I met in China
+was always begging for this.
+
+@3171
+I once heard of a woman learning
+dancing at a tavern in a town
+on the Indian Ocean.
+
+@3172
+They say an Eastern fleet that reached
+East Africa taught them that jade
+is a good luck charm.
+
+@3173
+Indian classics seem to be
+widely read in Southeast Asia, too.
+
+@3174
+Carried from Persia to Japan...
+Perhaps it has deep ties
+to Asia.
+
+@3175
+Truly beautiful... Westerners
+would find it hard to grasp
+its real worth.
+
+@3176
+An elaborate masterpiece. Carpets
+are very popular in East Asia, too.
+
+@3177
+Made of fine-quality silk.
+Easterners would like it, too.
+
+@3178
+Pottery is thriving in West Africa.
+They'll understand the value
+of this fine piece.
+
+@3179
+It seems hard to get the latest
+European tools in the New World.
+
+@3180
+A beautiful feather. They say many
+women in the New World dearly
+love animals.
+
+@3181
+It's the North Sea Victor's Mark.
+
+@3182
+It's the Mediterranean Victor's Mark.
+
+@3183
+It's the African Victor's Mark.
+
+@3184
+It's the Indian Ocean Victor's Mark.
+
+@3185
+It's the Southeast Asian Victor's Mark.
+
+@3186
+It's the East Asian Victor's Mark.
+
+@3187
+It's the New World Victor's Mark.
+
+@3188
+It marks the location of the
+North Sea Victor's Mark.
+
+@3189
+It marks the location of the
+Mediterranean Victor's Mark.
+
+@3190
+It marks the location of the
+African Victor's Mark.
+
+@3191
+It marks the location of the
+Indian Ocean Victor's Mark.
+
+@3192
+It marks the location of the
+Southeast Asian Victor's Mark.
+
+@3193
+It marks the location of the
+East Asian Victor's Mark.
+
+@3194
+It marks the location of the
+New World Victor's Mark.
+
+@3195
+Best to explore from London.
+
+@3196
+Best to explore from Genoa.
+
+@3197
+This is a map of the area
+around Turkey.
+
+@3198
+Best to explore from Sao Jorge.
+
+@3199
+It looks like a map of
+the Arab lands.
+
+@3200
+Best to head inland from Calicut.
+
+@3201
+This looks like a kingdom
+in Indochina.
+
+@3202
+Best to head north overland
+from Hangzhou.
+
+@3203
+This is a map of the
+Korean peninsula.
+
+@3204
+Best to explore from Osaka.
+
+@3205
+What's drawn here is an island
+in the Caribbean.
+
+@3206
+Best to explore from Veracruz.
+
+@3207
+It may record where the North Sea
+Victor's Mark lies, but we can't
+make it out like this.
+
+@3208
+It must record where the Mediterranean
+Victor's Mark lies, but it's
+unreadable by itself.
+
+@3209
+It must record where the African
+Victor's Mark lies. We can't tell
+from only half, though...
+
+@3210
+I think it records, in some form,
+where the Indian Ocean Victor's
+Mark lies.
+
+@3211
+It's probably needed to find the
+Southeast Asian Victor's Mark.
+
+@3212
+It may be related to the
+East Asian Victor's Mark.
+
+@3213
+It's surely the key to finding the
+New World Victor's Mark.
+
+@3214
+It may be related to the map of the
+North Sea Mark.
+
+@3215
+It seems related to the map of the
+Mediterranean Mark.
+
+@3216
+It must record where the African
+Victor's Mark lies. But with
+only half...
+
+@3217
+It seems related to the record of the
+Indian Ocean Victor's Mark.
+
+@3218
+It seems to be the key to finding the
+map of the Southeast Asian Mark...
+
+@3219
+Could it record where the East Asian
+Victor's Mark lies?
+
+@3220
+It may be related to the map of the
+New World Mark.
+
+@3221
+This gem is redder than any ruby.
+A rare beauty. Best given to a
+Boarding Chief.
+
+@3222
+Best given to the Deck Crew
+or a Boarding Chief.
+
+@3223
+Best given to a Boarding Chief.
+
+@3224
+Best given to a gunner.
+
+@3225
+Best given to a purser.
+
+@3226
+Truly a cursed blade. Hmm...
+The more I look, the more
+it draws me in.
+
+@3227
+A pretty mermaid statue. Best given
+to a gunner.
+
+@3228
+An animal horn. I hear it's prized
+as herbal medicine.
+
+@3229
+It holds a power
+I can hardly put into words.
+It should go to a trusted hero.
+
+@3230
+One doesn't come across such a piece
+easily. It should go to a
+trusted hero.
+
+@3231
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3232
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3233
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3234
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3235
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3236
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3237
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3238
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3239
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3240
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3241
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3242
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3243
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3244
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3245
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3246
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3247
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3248
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.
+
+@3249
+A fragment of an ancient map showing
+a treasure's location. Four pieces
+make a set.

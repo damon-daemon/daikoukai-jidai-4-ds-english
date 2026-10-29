@@ -1,0 +1,749 @@
+@1250
+With a Head Cook aboard,\nwater and food last longer\nand the sailors tire less.
+
+@1251
+The mate here feels refreshed,\nand the sailors get\ntired less easily.
+
+@1252
+With a Keeper aboard,\nfood spoils more slowly.
+
+@1253
+A Missionary calms the sailors'\ngrievances, and can hand out\ntrade goods in the plaza.
+
+@1254
+With an Adviser aboard,\nyou can plot schemes\nat the Tavern.
+
+@1255
+With a Purser aboard,\nyou can haggle and\nbuy up whole stocks.
+
+@1256
+Admiral, I'll help with the refit too.
+
+@1257
+Admiral, I'll help with\nthe refit too!
+
+@1258
+Admiral, let me help with the refit, too.
+
+@1259
+Admiral, I'll lend a hand too.
+
+@1260
+Admiral, I'll lend a hand with the refit, too.
+
+@1261
+Admiral, I'll help with the refit too!
+
+@1262
+Admiral, if it's a refit, I can help too...
+
+@1263
+If that one helps out, I'll take\n%s%% off the refit cost.\nSo that makes it...
+
+@1264
+Which ship do you want to rename?
+
+@1265
+All right, give it any name you like.
+
+@1266
+Which ship do you want to refit?
+
+@1267
+Wait %s day(s)\nuntil the refit is done.
+
+@1268
+A Spritsail improves\nsquare-sail performance and\nraises speed in a tailwind.
+
+@1269
+A Gaff Spanker improves\nfore-and-aft sail performance and\nraises speed in a headwind.
+
+@1270
+Extra Armor raises durability,\nbut slightly lowers speed.
+
+@1271
+Extra Armor 2 raises durability\neven more, but slightly\nlowers speed.
+
+@1272
+A bow cannon lets you fire\nforward too, but its\npower is low.
+
+@1273
+An aft cannon lets you fire\nbackward too, but its\naccuracy is low.
+
+@1274
+A Ram lets you charge into\nthe side of an enemy ship.
+
+@1275
+A Boarding Chief raises melee\nattack power. Up to 4 rooms\ncan be set up.
+
+@1276
+A Gunner speeds up\ncannon fire. Up to 4 rooms\ncan be set up.
+
+@1277
+A room for storing\nwater and food.
+
+@1278
+A room for loading trade goods.\nUp to 5 rooms can be set up.
+
+@1279
+You can add a cargo hold here,\nbut adding one slightly\nlowers speed.
+
+@1280
+You can add a Ram or bow cannon here,\nor a Spritsail on medium\nships and larger.
+
+@1281
+You can equip Extra Armor\nhere.
+
+@1282
+You can add an aft cannon here,\nor a Gaff Spanker on\nlarge ships.
+
+@1283
+You can attach a figurehead\nyou own here.
+
+@1284
+You can change the type of\ncannons mounted on the ship.
+
+@1285
+Triangular sails handle headwinds well,\nbut square sails can't be\nplaced behind them.
+
+@1286
+A Topsail improves\nsquare-sail performance and\nraises speed in a tailwind.
+
+@1287
+Square sails handle tailwinds well,\nbut triangular sails can't be\nplaced in front of them.
+
+@1288
+A Staysail improves\nfore-and-aft sail performance and\nraises speed in a headwind.
+
+@1289
+A square sail improved for both\nfore-and-aft and\nsquare-sail performance.
+
+@1290
+Admiral, I see a port!
+
+@1291
+Admiral, I can see a port!
+
+@1292
+Admiral, I can see a port!
+
+@1293
+Hey, Admiral, I can see a port!
+
+@1294
+Admiral, that looks like a port.
+
+@1295
+Admiraaal! There's a port!
+
+@1296
+Admiral, there's a port ahead!
+
+@1297
+Admiral!\nThe %s fleet is\nin battle! Will you join in?
+
+@1298
+Admiral!\nThe %s fleet is\nin battle! Join in?
+
+@1299
+Hey, Admiral!\nThe %s fleet is\nin battle! Shall we join in?
+
+@1300
+Admiral!\nThe %s fleet is\nin battle! Want to join in?
+
+@1301
+Admiral!\nThe %s fleet is\nin battle! Join in?
+
+@1302
+Admiral!\nThe %s fleet is\nin battle! Shall we join in?
+
+@1303
+Admiral!\nThe %s fleet is\nfighting! Want to help?
+
+@1304
+The %s fleet is\nin battle.\nShall we lend a hand?
+
+@1305
+Admiral, %s\nis attacking us!
+
+@1306
+Admiral, %s\nis attacking us!
+
+@1307
+Admiral, %s\nis attacking us!
+
+@1308
+Admiral, %s\nis attacking us!
+
+@1309
+Hey, Admiral, %s\nis attacking us!
+
+@1310
+Admiral, %s\nis attacking us!
+
+@1311
+%s is\nattacking us!
+
+@1312
+Admiral, %s\nis attacking us!
+
+@1313
+Admiral, I found a village!
+
+@1314
+Admiral, a village!
+
+@1315
+Admiral, a village!
+
+@1316
+Admiral, I see a village!
+
+@1317
+Hey, Admiral, a village!
+
+@1318
+Admiral, a village!
+
+@1319
+Hey, hey, there's a village!
+
+@1320
+Admiral, I see a village!
+
+@1321
+The villagers shared\ntheir food and water.
+
+@1322
+We got food and water\nfrom the villagers.
+
+@1323
+The villagers shared\ntheir food and water with us.
+
+@1324
+The villagers shared\ntheir food and water.
+
+@1325
+The villagers shared\ntheir food and water, Admiral.
+
+@1326
+The villagers shared\ntheir food and water.
+
+@1327
+The villagers gave us\nfood and water!
+
+@1328
+The villagers shared\ntheir food and water, Admiral.
+
+@1329
+The villagers welcomed us warmly,\nso everyone is happy.
+
+@1330
+The villagers welcomed us warmly,\nand everyone is happy!
+
+@1331
+The villagers welcomed us warmly,\nso everyone's happy.
+
+@1332
+Thanks to the villagers' welcome,\neveryone's happy.
+
+@1333
+Thanks to the villagers' welcome,\neveryone's happy.
+
+@1334
+The villagers' feast is delicious!\nEveryone's happy too!
+
+@1335
+The villagers welcomed us warmly,\nso everyone is happy.
+
+@1336
+The villagers repaired\nthe ship for us.
+
+@1337
+The villagers repaired\nthe ship for us!
+
+@1338
+The villagers repaired\nthe ship for us.
+
+@1339
+The villagers repaired\nthe ship for us.
+
+@1340
+The villagers repaired\nthe ship for us.
+
+@1341
+The villagers fixed\nthe ship for us!
+
+@1342
+The villagers repaired\nthe ship for us.
+
+@1343
+%s villagers\ngathered around.
+
+@1344
+%s villagers\ngathered around!
+
+@1345
+%s villagers\ngathered around.
+
+@1346
+%s villagers\ngathered around.
+
+@1347
+%s villagers\ngathered around.
+
+@1348
+%s villagers\nsaid they'd come along.
+
+@1349
+%s villagers\ngathered around.
+
+@1350
+To thank them for their help,\nwe gave the villagers\n%s gold coins.
+
+@1351
+They helped us so much that\nwe gave the villagers\n%s gold coins.
+
+@1352
+They helped us so much that\nwe gave the villagers\n%s gold coins.
+
+@1353
+They helped us, so as thanks\nwe gave the villagers\n%s gold coins.
+
+@1354
+To thank them for their help,\nwe gave the villagers\n%s gold coins.
+
+@1355
+As thanks, I gave the villagers\n%s gold coins.\nThere you go!
+
+@1356
+To thank them for their help,\nwe gave the villagers\n%s gold coins.
+
+@1357
+I cook really well.\nSure to be tasty.
+
+@1358
+You give me a room...?\nI'm happy.
+
+@1359
+I can't do that...\nI'm sorry...
+
+@1360
+... (I don't understand the words.)
+
+@1361
+Mm, what a nice sound!
+
+@1362
+...Not bad work...
+
+@1363
+ZZZ...\nMooo, Kamil... ZZZ
+
+@1364
+Good tea.
+
+@1365
+Yes, yes, a good story.
+
+@1366
+99, 100, 101...\nNggh, 102...
+
+@1367
+Gaaah!\nSo good!
+
+@1368
+La la la la!\nDancing makes me happy.
+
+@1369
+Hmm, ancient...\nI see...
+
+@1370
+Gazing at the sky like this\nis so relaxing...
+
+@1371
+Always training...\nA fighter's every day is practice.
+
+@1372
+Nice rod!\nTime to catch a big one.
+
+@1373
+My sword, as always,\nhas a fine shine...
+
+@1374
+Exactly!\nGood work, isn't it?
+
+@1375
+Yum, yum!\nSneaking bites is the best.
+
+@1376
+Tch. The sea breeze\nis ruining my hair.
+
+@1377
+Swinging my sword\ncalms me down...
+
+@1378
+A man's fists decide it.\nI'll keep training.
+
+@1379
+Mixing in this medicine...\nSo that's how it is!
+
+@1380
+ZZZ... mumble\n(nod) ZZZ
+
+@1381
+I wanna gamble.
+
+@1382
+Stronger and stronger,\nno matter what...
+
+@1383
+ZZZ...\nYummy... ZZZ
+
+@1384
+Color, shine, balance...\nA masterpiece.
+
+@1385
+Giving water...\nThe flowers are so happy...
+
+@1386
+I have to make spare\nparts like this...
+
+@1387
+Might as well make\nsome spare parts...
+
+@1388
+Ships wear out so fast.\nIt's tough.
+
+@1389
+No matter how many I make,\nthey break right away.
+
+@1390
+Owww!\nI hit my own hand!
+
+@1391
+Hmm... Not bad\nwork, if I say so.
+
+@1392
+Done!\nI'll make lots more!
+
+@1393
+Oh, this is\na masterpiece...
+
+@1394
+Gotta keep making\nparts...
+
+@1395
+Better make spare parts\nwhile I can...
+
+@1396
+Huh? Is this part\nokay like this?
+
+@1397
+I'm good at\nthis kind of work.
+
+@1398
+We're out of ointment.\nI'll make some.
+
+@1399
+Mix this herb into\nthis medicine...
+
+@1400
+It stinks! But\nit really works.
+
+@1401
+Someone's always getting hurt,\nso I have to make medicine.
+
+@1402
+All right!\nThe seasickness medicine is done!
+
+@1403
+Hmm... It should\nbe ready about now.
+
+@1404
+Time for a taste...\nBlech, awful!
+
+@1405
+Hm, it seems the\nmedicine is ready.
+
+@1406
+Someone like Clau\nis always getting hurt...
+
+@1407
+I have to learn\nmore about herbs.
+
+@1408
+What a weird color...\nIs it safe to drink?
+
+@1409
+The herbal medicine Xian taught me\nis coming in handy.
+
+@1410
+Let's make something\nnutritious.
+
+@1411
+Add salt... and\nnext is this.
+
+@1412
+I'm good at cooking!\nWhat shall I make?
+
+@1413
+Hehe! I'm good\nat cooking!
+
+@1414
+Salt, salt... Wait,\nthis is sugar!
+
+@1415
+Let's try making\na man's dish.
+
+@1416
+Time to taste...\nHuh, it's all gone?
+
+@1417
+Hm, hm, the seasoning\nis just right.
+
+@1418
+Mmm, it's a little\nsalty...
+
+@1419
+Heh, I used to cook this\nall the time as an apprentice...
+
+@1420
+Why do I have\nto do the cooking?!
+
+@1421
+I wonder if fried rice\nis good for today.
+
+@1422
+Tasty food makes\neveryone happy.
+
+@1423
+Hurry up and\ngrow big, okay?
+
+@1424
+I'll wipe you\nnice and clean...
+
+@1425
+Ha ha, so cute.
+
+@1426
+Piggy, hurry up\nand grow big!
+
+@1427
+Hey, hey, stop\nrunning around!
+
+@1428
+Wiping them makes\nyou get attached.
+
+@1429
+Waah! I'm not\none of your pals!
+
+@1430
+This one looks like\na top-notch pig.
+
+@1431
+I'll make you\nnice and clean.
+
+@1432
+Looking closely,\nyou're a cute one...
+
+@1433
+Eek, don't rub\nagainst me!
+
+@1434
+Eat lots and\ngrow big.
+
+@1435
+In the name of the Father,\nand of the Son, and...
+
+@1436
+Amen...
+
+@1437
+Praying, praying...
+
+@1438
+Lord, please hear\nmy wish.
+
+@1439
+Maybe I'll pray\nonce in a while!
+
+@1440
+Faith is\neverything.
+
+@1441
+I was reading the Bible\nand got sleepy.
+
+@1442
+Lord, I confess...
+
+@1443
+May Portugal be\nrestored soon.
+
+@1444
+Lord, will I ever\nbuild the strongest fleet...
+
+@1445
+Lord, please\nprotect us.
+
+@1446
+May everyone have\na safe voyage...
+
+@1447
+Time to think up\nthe next scheme...
+
+@1448
+This plan is...
+
+@1449
+Isn't there some\ngood move?
+
+@1450
+I have to study more\nand come up with good plans.
+
+@1451
+Thinking of a plan... ZZZ\nThis is "sleeping"!
+
+@1452
+Scheming gets better\nwith years of practice.
+
+@1453
+Me, scheme?\n...I'll give it a try.
+
+@1454
+Please look forward\nto my plans.
+
+@1455
+I'll study\nscheming too!
+
+@1456
+Straight tactics aren't\nenough. Schemes matter.
+
+@1457
+Leave the scheming\nto me!
+
+@1458
+Plans are\nmy specialty.
+
+@1459
+Let's check the market\nprices at each port.
+
+@1460
+Watching market prices\nis the key...
+
+@1461
+How much profit will\nwe make this month?
+
+@1462
+Earning money\nis hard...
+
+@1463
+Prices, huh... hmm,\nI don't get it.
+
+@1464
+What sells well now...\nI wonder.
+
+@1465
+Where would it sell\nfor a profit...
+
+@1466
+Now then... time to\ntally this month's profit.
+
+@1467
+Let's get a grasp\nof our finances.
+
+@1468
+This month's profit...\nHmm...
+
+@1469
+Ugh, all these numbers\nare driving me nuts.
+
+@1470
+What goods might sell\nwell right now...
+
+@1471
+I'm a Captain now...\nI'll do my best!
+
+@1472
+I'll build the\nstrongest fleet...
+
+@1473
+Hehe, I'm\nthe Captain!
+
+@1474
+The organization rests\non my shoulders...
+
+@1475
+Leave the paperwork\nto me.
+
+@1476
+My job is to support\nthe Admiral from behind.
+
+@1477
+Leave diplomacy\nto me!
+
+@1478
+Admiral, are you\nwriting something?
+
+@1479
+Leave the First Mate\njob to me.
+
+@1480
+Leave diplomatic\nnegotiations to me.
+
+@1481
+Heh heh... I'm\nthe First Mate!
+
+@1482
+Leave negotiations\nto me.
+
+@1483
+I'm the First Mate, right?\nLeave it to me! Huh?
+
+@1484
+If I'm First Mate,\nwho's the Captain?
+
+@1485
+First Mate? Sure, but...\nwho's the Captain?
+
+@1486
+I'm the First Mate, huh?\nLeave negotiations to me.
+
+@1487
+Leave the helm\nto me.
+
+@1488
+Let's sail\nsafely...
+
+@1489
+The helm? Leave it to me!\nHard to starboard!
+
+@1490
+Steering a ship?\nEasy, easy.
+
+@1491
+Spinning around!\nOne more spin!
+
+@1492
+I'll dodge the enemy's\ncannonballs too.
+
+@1493
+I've always wanted\nto steer a ship.
+
+@1494
+Look at me\nhandling the wheel!
+
+@1495
+Ha ha ha...\nIt spins well.
+
+@1496
+At the helm, working with\nthe sail handlers is key.
+
+@1497
+We're moving the ship?!\nLeave it to me!
+
+@1498
+Xian taught me\nhow to steer.
+
+@1499
+Surveying goes smoothly\nwith a sextant.

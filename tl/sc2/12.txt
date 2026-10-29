@@ -1,0 +1,680 @@
+@303.0008
+The Basra Guild was\nlooking for you.
+
+@304.0008
+Hey, sorry to call you in like this.\nI've got a big job for you.
+
+@304.004A
+Soon, merchants from all along the Indian\nOcean coast will gather for a spice\nexhibition. We plan to hold a little\nsale there too.
+
+@304.00BE
+But as you know, this town doesn't\nhandle spices, so we have to get\nthem from other ports.
+
+@304.0128
+Trouble is, we're so busy setting up the\nhall that we've barely got the display\npieces ready. We'll probably run a\nbit short on stock for sale.
+
+@304.019E
+That's where you come in.\nYou know trade goods from all over the\nworld, so I'd love you to buy them.
+
+@304.01F8
+Leave it to me!
+
+@304.0218
+Then I'd like one hold's worth\nof every kind of spice.
+
+@304.0252
+Pepper, Cloves, Cinnamon,\nNutmeg, Pimento, Tamarind,\nSaffron, Vanilla and Chili.\nThat's nine in all.
+
+@304.02BC
+Bring them all together in one go.
+
+@304.02E6
+Huh? Can't I just bring them\nover one at a time?
+
+@304.0318
+I want them all in the hall at once.\nI told you we're swamped, didn't I?\nWe've got nowhere to put the cargo.
+
+@304.0388
+Ugh. What a hassle.
+
+@304.03A4
+Now, now, don't say that.
+
+@304.03C0
+The New World and Southeast Asia are\nespecially famous for them. If you get\nlost, check the Prices. Well, I'm\ncounting on you.
+
+@305.001C
+Where's the Pepper?\nHurry it up, will you?
+
+@305.0066
+Looks like the Cloves are missing.\nHurry it up, will you?
+
+@305.00B6
+You're short on Nutmeg.\nGet it in quickly, please.
+
+@305.0106
+There's no Cinnamon.\nGet it in quickly, please.
+
+@305.0152
+What happened to the Pimento?\nBring everything together, please.
+
+@305.01B0
+No Chili yet.\nBring everything together, please.
+
+@305.0206
+No Vanilla yet.\nBring everything together, please.
+
+@305.0258
+What about the Saffron?\nHurry, please.
+
+@305.02A0
+No Tamarind yet.\nHurry up, please.
+
+@305.02D2
+Oh, you've got them all.\nThanks a lot!\nHere's your payment and reward.
+
+@305.0362
+You received 40000 gold coins.
+
+@305.0400
+I'd like to thank you properly, but we've\ngot expenses of our own...\nOh, wait, that's right!
+
+@305.0458
+Someone brought in a certain item\nrecently. It's supposed to be valuable,\nbut I can't put a price on it.\nIt's a real headache.
+
+@305.04C2
+Not much of a thank-you, but\nwould you take it?
+
+@306.002E
+Oh, I forgot!
+
+@306.008E
+Yeah, thanks!
+
+@306.00A8.6
+Let's goooo!
+
+@306.00A8.7
+Well then, shall we be off?
+
+@306.0142
+Huh? There should be a bridge here...
+
+@306.016A.0
+Perhaps it was washed away by\na flood or something.
+
+@306.016A.1
+Perhaps it was washed away by\na flood or something.
+
+@306.016A.2
+It must have been washed away\nby a flood or something.
+
+@306.016A.3
+I wonder if it got washed away...
+
+@306.016A.4
+Washed away by a flood\nor something?
+
+@306.016A.5
+Washed away by a flood\nor something, I suppose.
+
+@306.016A.6
+Did the water overflow\nand wash it away?
+
+@306.016A.7
+It may have been washed away\nby a flood or some such.
+
+@306.028E
+Whoa...\nThat river is moving so fast.\nWhat do we do...
+
+@306.02C2.0
+Find a bridge
+
+@306.02C2.1
+Wade across
+
+@306.02F6.0
+Admiral, look at this map.\nIt's a long way, but there seems to be\na log bridge upstream.
+
+@306.02F6.1
+Admiral, this map...\nIt's quite far, but there is a\nlog bridge upstream.
+
+@306.02F6.2
+Hey, look at the map!\nThere's a log bridge upstream!\nIt looks kind of far, though...
+
+@306.02F6.3
+Hey, look at the map. It's far,\nbut there's a log bridge upstream!
+
+@306.02F6.4
+Admiral, take a look at this map!\nApparently there's a log bridge upstream!\nIt's a bit of a trek, though...
+
+@306.02F6.5
+Looking at the map, there seems\nto be a log bridge upstream.\nIt's a bit far, mind you...
+
+@306.02F6.6
+Hey, look at the map!\nIt looks really far, but there's\na bridge up that way!
+
+@306.02F6.7
+According to the map, there is a log\nbridge upstream.\nThough it is a considerable distance...
+
+@306.056C
+Hey, according to this map,\nthere's a log bridge upstream.\nIt's a bit far, but shall we try it?
+
+@306.05CE
+I see...\nBetter than turning back.\nAll right, let's head upstream!
+
+@306.0658
+Pfft!\nA little river is nothing!\nWe're wading across!
+
+@306.0696
+Yes, ma'am...\nHm? Admiral, there's a ferry over there!
+
+@306.06C4
+Well, look at that.\nThere was something handy all along.\nEveryone, cross in turns.
+
+@306.070E
+You paid 100 gold coins for the ferry.
+
+@306.0752
+Is everybody across?
+
+@307.0054
+Temples, huh...\nIs there anything worth seeing?
+
+@307.007E
+Hmm...\nBut it should be a nice break.
+
+@307.00AA
+Oh, right.
+
+@307.00C2
+Is the Golden Temple on this map\nnear here?
+
+@308.0008
+Oh, right.\nI was supposed to buy rice, wasn't I?
+
+@309.0010
+I bought it!\nAh, I'm tired.
+
+@309.003C
+Well? No time to rest!
+
+@309.005E
+Huh?\nWhat is it this time?
+
+@309.007E
+Mind your manners!
+
+@309.00A2
+...What is it this time, please!
+
+@309.00BE
+Hmm.\nPrepare tea and sugar.
+
+@309.00E2
+Offerings again?\nDon't tell me I'm paying for this too?
+
+@309.0116
+Indeed.
+
+@309.0122
+Why do I have to do this when\nI'm not even Buddhist?
+
+@309.0166
+No complaints!
+
+@309.017A
+Yes, yes, tea and sugar.\nI'll go buy them, all right?
+
+@310.001C
+We need tea and sugar, right?
+
+@310.005C
+We need tea and sugar, right?
+
+@310.00A0
+I bought them!
+
+@310.00BA
+Well done, well done.\nNow, next...
+
+@310.00D8
+Yes, what is it?\n(Ugh, I give up...)
+
+@310.0108
+...Hmm, hmm. Not yet from the heart,\nperhaps, but you have finally picked up\nsome humility and manners.\nWell, that will do.
+
+@310.017E
+Now listen well.
+
+@310.019C
+Go far to the northeast of China, to a\nsmall village near the icy sea.\nA clan that guards the map should live there.
+
+@310.020A
+Far northeast of China...?
+
+@310.02DE
+Listen well. Never hand the Mark\nto anyone with evil intent.
+
+@310.0318
+And you, do not forget humility and\nmanners. Do not be seized by\nwicked desires.
+
+@310.036C
+This is payment for your errands\nso far, and a little extra.
+
+@310.03CA
+Huh!\nI can have this?\n...May I?
+
+@310.03F4
+Do not squander it.
+
+@310.0410
+I'm not a child!
+
+@310.0434
+Ho ho.\nWell then, do your best.
+
+@312.02B2
+E-everyone, calm down.
+
+@312.031E
+I-I'll handle it...\nGo away! Shoo!
+
+@312.0408
+Aaah! Ouch!
+
+@312.0470
+Ouch...\nI-I'm okay, I think...
+
+@312.04DE
+I'll take them all on!\nCharge!!
+
+@312.0654
+I'm sorry...\nIf only I'd fought better...\nIt's my fault...
+
+@312.08CC
+Thank goodness.
+
+@312.0914
+Hey, you're lucky!\nNormally I'd wipe you out,\nbut I'll let you off today.
+
+@312.0982
+If you're scared of wolves,\nyou could just say so...
+
+@312.09B0
+Did you say something, Kamil?!
+
+@312.09CE
+N-no, nothing at all.\n(She only ever hears\n this kind of thing.)
+
+@314.0298
+...This is bad.
+
+@314.02AC.0
+Force our way down
+
+@314.02D2.0
+Watch your step.
+
+@314.02D2.1
+Watch your step.
+
+@314.02D2.2
+Watch your step.
+
+@314.02D2.3
+Watch your step.
+
+@314.02D2.4
+Watch your step, now.
+
+@314.02D2.5
+Watch your step, you hear.
+
+@314.02D2.6
+Watch your step, okay?
+
+@314.02D2.7
+Do watch your step.
+
+@314.0372
+Whoa, it's collapsing!
+
+@314.03AE
+There seem to be some injured.
+
+@314.044E
+Almost there. Keep it up!
+
+@315.00B8
+Oh, a pictorial map?\nHey, who has it?
+
+@316.01DA
+Of course it's hot, it's a desert.\nCome on, let's go.
+
+@316.02E8
+E-everyone, calm down.
+
+@316.035C
+L-leave it to me...\nI'll handle it... Hyah!
+
+@316.04F4
+Ouch!!
+
+@316.0508.6
+Waaah! Admiraaal!
+
+@316.057E
+I-I got stung!
+
+@316.06B0
+Thanks.\nWhew, that scared me!\nI really hate bugs!
+
+@316.06EA
+I-I'll handle this...\nGo away! Shoo!
+
+@316.0896
+Ouch!!
+
+@316.0916
+I-I got stung!
+
+@316.0932.0
+...It's all right.\nIt's just a cactus spine.
+
+@316.0932.1
+It's all right.\nIt's only a cactus spine\nstuck in you.
+
+@316.0932.2
+Let me see... Oh, it's fine.\nIt's just a cactus spine.
+
+@316.0932.3
+...Oh, it's all right.\nIt's only a cactus spine\nstuck in you.
+
+@316.0932.4
+It's fine, really.\nJust a cactus spine stuck in you.\nYou're making a fuss over nothing.
+
+@316.0932.5
+Let me see... Ah, it's fine.\nJust a cactus spine stuck in you.
+
+@316.0932.6
+Let me see!\nOh, it's just a cactus spine.
+
+@316.0932.7
+It's all right.\nWhy, it's only a cactus spine.
+
+@316.0AEC
+Oh, is that all?\nWhew, that scared me!\nI really, really hate bugs!
+
+@316.0B32
+Shh!\nWe sneak away quietly.\nDon't provoke them for no reason.
+
+@316.0DF2
+Everyone, run!
+
+@319.0008
+Hey there, little lady.\nWorking hard at such a young age.
+
+@319.0034
+Hey, mister. I'll have you know\nI'm the Leader of the {FO}.\nDon't call me "little lady."
+
+@319.0088
+Hahaha, sorry, sorry.\nBut Leader or not, it's dangerous for\na young girl to wander around here.\nBe careful.
+
+@319.0108
+This area is famous for gold and ivory.\nHigh-end goods with big profits,\nbut there are few of them.
+
+@319.016C
+Greedy types like Silveira buy them\nall up, so others have started looking\nfor other ways to make money.
+
+@319.01DC
+What kind of ways?
+
+@319.01F2
+Slave and drug trading, poaching...\nAnything goes. There are always people\nwho'll break the law without a second\nthought if the money comes easy.
+
+@319.0284
+You mean Espinosa...
+
+@319.02B0
+Don't worry, the Espinosa Company\nis already gone!
+
+@319.0304
+Leave it to us, we'll take down\nthe Espinosa Company!
+
+@319.034A
+Don't worry, we already taught\nEspinosa a lesson.
+
+@319.0394
+No...\nIf Espinosa is gone, someone else\nwill just show up next.
+
+@319.03DA
+What do you mean?\nNo matter what we do, the bad guys\nnever go away?
+
+@319.0426
+Even if Espinosa vanishes, wicked types\nwho want the same profits will appear.\nThe problem is rooted in this region.
+
+@319.0492
+Ah, if only there were a cheap, profitable\nspecialty that suited this land...
+
+@319.04D6
+What are you talking about?
+
+@319.04E6
+Ivory and gold are expensive, right?\nAnd scarce, so you need capital to start.\nOnly a limited few can do business.
+
+@319.0556
+But if the specialty is cheap,\nanyone can get in.\nAnyone can trade honestly.
+
+@319.05B0
+If honest business is easy to start and\nprofitable, nobody will bother taking\nrisky shortcuts.
+
+@319.0614
+Aha...\nIf ordinary trade pays well, people won't\nturn to the drug trade.
+
+@319.0664
+...\nA new, profitable specialty, huh...
+
+@319.068C
+Seeds of crops that grow in the tropics,\nsay. Rumor has it the New World keeps\nturning up crops nobody's ever seen.
+
+@323.02CE
+Well, let's try pressing on.
+
+@323.03D0
+We're going!\nWe'll get through one way or another!
+
+@323.050C
+Can't be helped.\nLet's look for a way around.
+
+@323.0642
+I can't see anything... For now,\nlet's wait for the fog to clear.
+
+@323.076E
+Oh, it looks like it cleared!\nAll right!\nEveryone, let's go!
+
+@324.0246
+Whoa. It's so muggy.
+
+@324.02B8
+Ugh, it's pitch black.\nWe have no choice but to go in, right...
+
+@324.031E
+Hmm. I hate the dark, but finding\nsomething weird would be scary too...\nWe keep going!
+
+@324.040E
+Aaaah! A snake! No, noooo!!
+
+@324.0474
+Phew...\nAh, I'm exhausted...\nSo, where are we?
+
+@324.065E
+All right, I'll light a fire.
+
+@324.0682
+Aaaah!\nHey, what is this?!
+
+@324.0790
+Enough!! Break right through!\nEveryone, run for the exit!!
+
+@325.0218
+What, what do you mean?!
+
+@325.0262
+Then shouldn't we go back\nto the harbor?
+
+@325.0490
+Over there? I'm coming.
+
+@326.0116
+Who knows?
+
+@327.0008
+Hey, {FI}.\nI've got the perfect job for you.
+
+@327.0040
+I want you to make Tomatoes, which\ncome from the New World, a hit in\nGenoa, in the Mediterranean.
+
+@327.008A
+Tomatoes... in Genoa?\nWhy?
+
+@327.00B4
+When people think of New World goods,\nit's Cacao, Tobacco and Silver, but\nTomatoes are nothing to sneeze at.
+
+@327.0112
+But some folks in Europe still won't eat\nthem. They say the color of blood is\ncreepy, and they refuse to even try.
+
+@327.018A
+To promote how delicious they are,\nspreading word that they're a huge hit\nin some town is the quickest way, right?
+
+@327.0204
+I hear plenty of people in Italy like\nthem, and Genoa is the hub there, so\nI figured it'd be perfect.
+
+@327.027A
+Hmm, I see.\nGot it, I'll give it a shot.
+
+@327.02AA
+So I put a Chapel on the ship, appoint\na Missionary... and hand out trade goods\nfor free in the Plaza, right?
+
+@327.02FE
+I've already talked to the Genoa Guild.\nYou can collect your reward there.
+
+@328.002C
+Hurry up and make Tomatoes\na hit in this town.
+
+@328.0062
+Make Tomatoes a hit in this town.\nYou can do it.\nI'll be patient and wait.
+
+@328.00C8
+Hey, {FA}!\nJust a bit more! Keep this up and in\ntwo or three days, Tomatoes will\nbe a huge hit!
+
+@328.0128
+Amazing, look at the town!
+
+@329.0008
+Amazing, what a huge success!\nI never thought Tomatoes would\ncatch on like that!
+
+@329.0056
+Now, take your reward.
+
+@329.0128
+Oh, right, right.\nStop by the Havana Guild again.
+
+@329.0182
+Someone there says they\nhave a favor to ask you.
+
+@330.0018
+You're the one who has\na favor to ask me?
+
+@330.003E
+Actually... I am looking for ruins.\nI thought that with your help,\nperhaps...
+
+@330.00B4
+Ruins our ancestors are said\nto have built to honor warriors.
+
+@330.00F6
+Legend says only one who qualifies as\nthe "Strongest Warrior" can find them.
+
+@330.014E
+Huh?
+
+@330.015C
+Listen,\ncalling a lovely maiden like me\nthe strongest warrior is a bit much.
+
+@330.01A6
+O-of course, I don't mean you look\nlike a muscular warrior.
+
+@330.01F4
+The strongest warrior is not merely strong,\nbut has a righteous heart and wisdom.
+
+@330.0234
+You answered the Guild's request and\nstarted the Tomato craze, so I thought\nyou might have that heart and wisdom...
+
+@330.0298
+A righteous heart and wisdom...\nSo, honest and smart, right?\nThen I'm perfect!
+
+@330.02FE
+Really...?
+
+@330.0312
+To be honest, though, this search is\nlike grasping at clouds even for us.
+
+@330.035A
+We just ask anyone who seems to fit\nthe conditions, one after another,\nas I am doing now.
+
+@330.03B0
+I know it is rude, but no one has ever\nsucceeded at this, so there is no\nproblem even if you fail.
+
+@330.0424
+What is that?!\nSo it could be anyone?\nDon't mess with me!
+
+@330.0470
+Now, now, please reconsider.
+
+@330.0490
+...I believed you, {FA}, were on the\nside of people in trouble.\nAm I disappointed?
+
+@330.04E4
+D-disappointed?
+
+@330.04FC
+We will prepare part of the reward in\nadvance, and even if the ruins are not\nfound, we won't ask for a refund.
+
+@330.0568
+Will you not do it...?
+
+@330.0580
+O-okay, fine.\nIt's helping people, right? Yeah, I'll do it.
+
+@330.05B4
+Oh, you will! Thank you so much!
+
+@330.060C
+First, you will need a map to the ruins.\nOnce you get the Ancient City Map,\ncall me. I will join the search.
+
+@331.0038
+The Netherlands.
+
+@331.004A
+Netherlands? Sounds familiar, then\nagain it doesn't... But you seem to\nhave come from very far away.
+
+@335.0046
+You know him?
+
+@335.0118
+Huh.\nHe's a monk, but like a doctor.
+
+@335.02CE
+H-hey!\nWhat's gotten into you, Charles?!
+
+@335.046C
+We finally found it!
+
+@335.0490
+We finally found it!
+
+@335.04B4
+Hey. Where is that person now?
+
+@335.070E
+Yeah, I'll do it!\nI swear I'll find it!

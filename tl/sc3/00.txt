@@ -1,0 +1,926 @@
+@000.000E
+What could this treasure the Powers\nare searching for possibly mean?
+
+@000.0062
+I do not know. It may be nothing more\nthan an excuse to justify the world\ndomination the Western nations are\ncarrying out.
+
+@000.00C6
+You mean the "Victor's Mark" is\na fabrication?
+
+@000.0108
+That's outrageous! They can't just\nget away with it!
+
+@000.0138
+And yet, if it were a fiction of their\nmaking, the Mark would surely be a\ntreasure they could lay their hands on\nat once.
+
+@000.01B2
+The very fact that no one has found it\nto this day suggests it may truly be\nthe "Mark of the Victor."
+
+@000.0228
+...I see.
+
+@000.023A
+The very fact that no one has found it\nto this day suggests it may truly be\nthe "Mark of the Victor."
+
+@000.02C0
+Either way, to stop the Powers from\ndoing as they please, we have to\nfind the Mark before it falls into\ntheir hands.
+
+@003.000E
+Sister {FI}!\nToday we settle this once and for all!
+
+@003.005E
+Kurushima!\nStop this foolishness!
+
+@003.0084
+You call yourself a samurai and side\nwith foreigners?!\nYou're a disgrace to the warrior class!
+
+@003.00D8
+Is it the act of a proud warrior to\nravage the continent's coast and plunder\ndefenseless people?!
+
+@003.0128
+Oh, so stiff.\nThat's the kind of man I hate most.
+
+@003.0160
+Heh heh heh, {FI}!\nBe my woman and I might let you\nsurrender quietly!\nI'll spare your life, at least!
+
+@003.01C8
+Sojin Kurushima...\nKeep running your mouth and I'll rip\nout that proud beard of yours.
+
+@003.0228
+Gahahaha!\n......I'll kill you!!
+
+@004.000C
+Conqueror Escante. Free the people\nof the New World you are ruling\nunjustly.
+
+@004.005C
+Hahaha, what has Maldonado been\nfeeding you? But what a miscalculation...\nto end up facing a woman like you\ninstead of Valdes.
+
+@004.00DE
+Valdes? Don't tell me...\nthe military man from your country?
+
+@004.0112
+Hmph.\n...I realized something. How naive\nI have been all this time.
+
+@004.0166
+A New World that vast. All this time I\nhanded it over to the homeland as a\nsource of funds.\nAh, what a waste.
+
+@004.01D4
+So... you've been busily stocking up\non weapons, planning to break away\nfrom your homeland?
+
+@004.0222
+Precisely. You loathe the colonial rule\nof the Powers, so you of all people\nshould see how splendid my plan is.
+
+@004.028A
+The people living in the New World will\nhave a country of their own. How\nmarvelous, and what a bold idea!
+
+@004.02EC
+...How selfish.\nJustifying your own greed is exactly\nwhat a villain would think of.
+
+@004.0338
+To think you expected me to go along\nwith such a ridiculous scheme...\nYou have badly underestimated me!
+
+@004.0394
+Hmph... Talking further seems\npointless. A child who won't listen\ngets a spanking! All ships, charge!!
+
+@004.0470
+It seems we came at a good moment.
+
+@004.04A2
+He is my enemy too.\nSorry, but I'm joining in uninvited.
+
+@005.01DE
+I've never heard of these pirates.
+
+@005.01FC
+A woman pirate is rare indeed.\nI wonder if she has her reasons?
+
+@005.0230
+Reasons or not, we can't leave pirates\nplundering the seas.\nEveryone, prepare for battle!
+
+@007.0008
+At last. So you're Ulysse,\nthe ship thief.
+
+@007.009A
+Bothered by a nickname? You're more\ndelicate than I thought. But once you're\nsent to Batavia, you can say\ngoodbye to it.
+
+@008.0008
+So you're Jacob Portunt. A shady\nmerchant playing at pirates is quite\nsomething. Get too full of yourself\nand you'll get hurt.
+
+@009.0008
+So you're Gabriel. Go easy on these\nselfish acts that violate the\nagreement.
+
+@009.009A
+That's my line, isn't it?\nOr do you only understand when\nforce is used?
+
+@010.0044
+...Is this even a person?
+
+@011.0008
+The Spanish pirate Hernan Berio.\nYou seem pleased with yourself,\nleading a fleet, but\nyou still have me to deal with.
+
+@012.000C
+I'll never forgive that Clifford!\nAnd sending that vulgar thug after me,\nhow low can you get!
+
+@012.006E
+You're awfully spirited.\nYour face is completely different from\na moment ago.
+
+@012.00AC
+W-what do you want?
+
+@012.00BE
+Ril, just thank her properly.\nThank you very much. You really\nsaved us...
+
+@012.0128
+It's all right, don't mind it. More\nimportantly, they may still be nearby.\nStay on your guard.
+
+@012.0192
+She saved me again...\nAh, this is so frustrating.
+
+@012.01C8
+Ril, honestly!
+
+@012.01DC
+It's all right, don't mind it. More\nimportantly, they may still be nearby.\nStay on your guard.
+
+@012.0238
+I'll definitely pay you back for this!
+
+@013.000C
+Ngh... we'd better pull back here.\nRetreat!
+
+@013.0040
+Damn it!\nLosing to a vulgar thug like that!
+
+@013.0072
+Ril, honestly... Just being alive\nthis time is good enough.\nThank you very much.\nYou really saved us...
+
+@013.00E2
+It's all right, don't mind it. More\nimportantly, they may still be nearby.\nStay on your guard.
+
+@013.014C
+Thank you for saving me...\nThat was really dangerous this time...
+
+@013.0184
+It's all right, don't mind it. More\nimportantly, they may still be nearby.\nBe careful.
+
+@013.01DC
+It'd be embarrassing to keep being\nrescued forever.\nI'll show you I can get stronger!
+
+@013.022C
+That's the spirit! Ril!
+
+@013.024A
+Heh. What a positive young lady.
+
+@014.0008
+As expected of Admiral {FA}.\nI guess you didn't need my help\nafter all?
+
+@014.004A
+No, it helped.\nThank you very much.
+
+@014.0074
+Heh, so now we're even?\nWell then, bye-bye!
+
+@016.0008
+That was perfect timing.\nWell done.
+
+@016.0044
+Thank me after we've finished off\nEscante. I'll be pulling out here,\nbut don't let your guard down.
+
+@017.0008
+Damn, we retreat here!
+
+@017.0042
+He's... alive, it seems.
+
+@017.005A
+A tactical mistake on my part...
+
+@017.0074
+Not at all. In any case,\nthank you for lending a hand.
+
+@017.00C6
+Thank me after we've finished off\nEscante. I'll withdraw now, but\ndon't let your guard down.
+
+@018.000C
+We won.
+
+@018.001E
+You're getting good at commanding\nfleet battles.
+
+@018.0044
+It's thanks to you, Xian.
+
+@018.005C
+Heh, what are you saying?\nThere's hardly anything left\nfor me to teach you.
+
+@018.027E
+Oh... Manuel.\nYou compose poetry...
+
+@018.02A2
+What a surprise...\nI thought he cared about nothing but\nships.
+
+@018.02D8
+No, no.\nYou're wrong, {FI}.\nEvery man of the sea carries\nromance in his heart.
+
+@018.0332
+Hahaha, we won!\nTime for a victory feast!!\nYahoo!
+
+@018.036A
+That one is an exception...
+
+@019.0148
+Something seems to be happening on\nthe ship over there.
+
+@019.0170
+There's an unusual atmosphere.\nLooks like some kind of trouble.
+
+@019.01A0
+Let's go. Bring our ship alongside.
+
+@019.039E
+...At this rate,\nher life is in danger.
+
+@019.03C6
+Still, this is not a problem for a third\nparty to meddle in...
+
+@019.0402
+...I'll go.
+
+@019.0414
+Al!
+
+@019.050E
+Yahoo!\nI'll be your opponent!
+
+@019.05BE
+Damn, this is going badly!\nWhy are these guys backing Aziza\nso much...?
+
+@019.061A
+Wait!
+
+@019.0658
+Exactly.\nIf you mean to lay a hand on her,\nI can't guarantee your safety.
+
+@019.06B2
+...Doesn't look like we can escape.
+
+@019.06D0
+If you release her quietly, I could\nspare some money.
+
+@019.070C
+And if I said 1,000,000 gold?\nI hold that much of a grudge\nagainst her.
+
+@019.0758
+...Are you kidding me!
+
+@019.076E
+Al, let it go.\nAziza's safety comes first.
+
+@019.07A8
+Such a huge sum, for me...
+
+@019.07D8
+Now you have no complaints.\nCome here, Aziza.
+
+@019.0840
+Betrayed by my own crew...\nI've really sunk low.\nMore importantly, why did you save me?
+
+@019.08A2
+I remember that day in the tavern.\nThat's when you first caught my interest.
+
+@019.0948
+You flatter me.\n...I didn't sink into it. I'm a pirate's\ndaughter. My father is a pirate.
+
+@019.0A18
+And your father now...?
+
+@019.0B70
+If you did...?
+
+@019.0D1C
+I understand, Al. That's why I helped\nher. Few people have her caliber.\nWill you come with us?
+
+@019.0D90
+Thanks... If you'll take me aboard,\nI'll work my fingers to the bone for\nyou. You did save my life, after all.
+
+@019.0E26
+Understood.\nI look forward to your work.
+
+@020.0062
+All talk.
+
+@020.00F2
+A pirate who never gives up.
+
+@021.001C
+How was that, Admiral!\nDon't underestimate me just because\nI'm a pirate!
+
+@021.005C
+...True.\nI seem to have underestimated you.
+
+@021.0088
+If you're only realizing that now,\nthat's the extent of your skill!
+
+@021.00D0
+{FI}!\nWe must retreat!
+
+@021.00EC
+We'll withdraw for now,\nbut next time will be different!
+
+@021.013C
+{FI}! We must retreat!
+
+@021.015A
+It was a mistake to take them lightly\njust because they were pirates...
+
+@022.0012
+Well, your time is up.\nWe're taking you to Batavia.
+
+@023.003A
+Still worried about your cargo at a\ntime like this? Dedicated to the job, or\njust a lump of greed... Now, you're\ncoming with us to Calicut.
+
+@024.0024
+You sound entertaining when you talk,\nso I'll spare you the gag. Until we\nreach Havana, mouth off all you like.
+
+@024.0104
+Oh, have we met somewhere before?
+
+@024.0172
+Don't worry.\nThere won't be a third time.
+
+@025.005E
+...Louder than a fly.\nLet's hurry to Veracruz.
+
+@026.0042
+I'm leaving you with the Guild in\nAthens. Try anything funny and I\ncan't guarantee your life.
+
+@027.0008
+The enemy ship?
+
+@027.0018
+It vanished...
+
+@027.0030
+...So we won?
+
+@027.0056
+That...\nWas it really a ghost ship?
+
+@027.0084
+That...\nWas it really a ghost ship?
+
+@027.00B8
+Who knows... I don't believe in\nsuperstition, but what we just saw\ncan't be dismissed as a trick of the eye.
+
+@027.0120
+Hmm. I can't make sense of it.\nIn the end, its identity remains a\nmystery.
+
+@027.015C
+Strange things do happen.\nIn the end, it remains a mystery.
+
+@027.01A2
+Ghost or not, our job is done.\nLet's return to the Guild in Havana.
+
+@028.0012
+There you are!\n"Soaring Scarlet Orca" {FA}!
+
+@028.0032
+Today is the day you die!\nFeel the power of the Ironclads!
+
+@028.006E
+What is that fleet?!
+
+@028.00C2
+That's... an iron-plated ship!?
+
+@029.0032
+Ril! Are you all right!?
+
+@029.004C
+That Clifford!\nHow dare he betray us!!
+
+@029.0082
+Hahaha!\nGive up already, little lady!
+
+@029.00DA
+Wow... we're completely surrounded.\nWe can't escape like this!
+
+@029.011C
+Damn it!
+
+@029.0130.0
+I'll help
+
+@029.0130.1
+Let's stay out of it
+
+@029.0162
+Wait!
+
+@029.0176
+Hm?? Who's there!?
+
+@029.018E
+Never mind who I am.\nYou there, a moment!
+
+@029.01BC
+"You there"? Me?
+
+@029.01D6
+A pack of grown men ganging up on\na girl. I don't approve!
+
+@029.022E
+Exactly, how low.\nBe gentle with girls, always.\nThat's how a man should be.
+
+@029.0286
+Ah!? Shut up!\nThis has nothing to do with you!\nStay out if you don't know the story!
+
+@029.02EE
+Not everyone backs down when told to.\nEspecially when savage men are\nharassing a defenseless girl.
+
+@029.0366
+H-hold on a second\nDid you just call me defenseless?
+
+@029.03A8
+In this situation,\nyou don't look strong at all.
+
+@029.03D8
+M-maybe so, but\nI'm actually...!
+
+@029.040E
+Honestly, Ril! Don't pick a fight with\nsomeone offering to help us now!\nPlease! Help us, please!
+
+@029.047A
+Kamil, deciding things on his own again!
+
+@029.049C
+Whatever's going on, a hare hunt that\nwasn't fun at all just got a fine\nprize I never expected.\nI'll gladly take her!
+
+@029.0518
+Not everyone backs down when told to!
+
+@029.056A
+With Ms. {FI} on our side,\nwe're worth a hundred men!
+
+@029.059C
+Tch, whatever's going on, a hare hunt\nthat wasn't fun at all just got a fine\nprize I never expected.
+
+@029.0600
+I'll gladly take her!
+
+@029.0626
+Eeek! What's that supposed to mean!
+
+@029.064E
+Here they come!
+
+@029.069E
+This is none of our business.\nWe're leaving the battle area.
+
+@030.000C
+Well, well, what do we have here.
+
+@030.002A
+Clifford!?
+
+@030.0042
+Richard did a decent job, but it seems\nhe was out of his league.
+
+@030.0098
+Your role was to make the Ming\ngovernment give up that foolish\nisolation policy. And you played it\nbetter than I expected.
+
+@030.0112
+...Is that all you have to say?
+
+@030.0136
+Just as Richard said. A superb woman,\nbut strong-willed and stubborn.\nAnyway, you've meddled too much.
+
+@030.01A4
+A pity, but you die here.
+
+@030.022E
+Ms. {FA}!!
+
+@030.024C
+I'm taking your side whether you like it\nor not! I hate being in anyone's debt!
+
+@030.0290
+That's... the Argot Company!?
+
+@030.02B4
+Clifford!\nPrepare yourself!
+
+@030.02DA
+...What a troublesome young lady.\nPlaying with fire gets you burned.
+
+@031.000C
+Kyaaa!\nWhat? Is an enemy fleet attacking!?
+
+@031.003E
+The {FO}\nis firing on us!
+
+@031.0062
+The {FO}!\nHey... it's just like Coen said!
+
+@031.00A4
+What is going on!?\nIt isn't us attacking Ril's fleet!\nWho is that fleet?
+
+@031.00F8
+Coen disguised a fleet as ours\nand had it attack the Argot Company!
+
+@031.013C
+Coen's decoy fleet...\nHe's finally showing his true colors.\nWe must go help Ril at once!
+
+@031.018E
+W-wait!\nAnother fleet is heading this way!\nThat fleet is...
+
+@031.01CC
+It seems we made it in time...
+
+@031.01F2
+Rilllll!!!
+
+@031.020A
+K-Kamil!\nAnd Hodrum...?\nWhy are you here?
+
+@031.0248
+{FI} told us.\n"Ril's in danger!" she said.\nIt's Coen's decoy fleet that's\nattacking you!
+
+@031.02A8
+What!? What did you say!!!
+
+@031.02CC
+This is the real Coen!\nWe'll join the fight too!
+
+@031.02FE
+{FI}...\nI-I was such a fool...\nI'm sorry...
+
+@031.0336
+It's all right. I'm glad we didn't\narrive too late.\nNow, let's take down Coen!
+
+@031.0382
+Let's go!\nAll hands, battle stations!
+
+@031.03AA
+Tch, it failed...!
+
+@031.03C6
+Lord Coen, this puts us at a\ndisadvantage.
+
+@031.03EE
+I know that!\nDamn it, pull out!
+
+@032.0008.0
+Admiral!\nIt looks like that ship!!
+
+@032.0008.1
+Admiral!\nIt looks like that ship!!
+
+@032.0008.2
+Admiral!\nThere's a weird ship!\nMight be that one!!
+
+@032.0008.3
+Admiral!\nThere's a strange ship!!
+
+@032.0008.4
+Admiral!\nThere's a strange ship, I tell ya!!
+
+@032.0008.5
+Admiral!\nI've spotted an odd ship!!
+
+@032.0008.6
+Admiraaal!\nThere's a weird ship~!!
+
+@032.0008.7
+Admiral!\nI have spotted an odd ship!!
+
+@032.00F4
+T-that's!?
+
+@033.0022
+Admiral, we're back!
+
+@033.004A
+The mission to destroy the wokou ships\nis complete.
+
+@033.007A
+What were our losses?
+
+@033.0092
+Heh heh heh. We fought with the usual\ntactics. "Losses"?\nNo way we'd have any!
+
+@033.00E8
+We cornered the nimble wokou ships,\nmasters of boarding combat, with our\nformation and sank them with\noverwhelming firepower. We took no damage.
+
+@033.0164
+Hmm hmm. Good work.
+
+@033.019A
+Well done, both of you.\nGood work.
+
+@033.01BE
+Yahoo!
+
+@033.01CE
+Yes, ma'am!
+
+@033.01EC
+Oh, old man Xian!\nWe're back!
+
+@033.021A
+I hear it was a great victory.
+
+@033.0238
+We merely moved the fleet according to\nLady {FI}'s plan. Once we took the\nwindward in that narrow bay, our\nvictory was assured.
+
+@033.02A8
+Seriously, the enemy fleet showed up\nexactly like Admiral {FI} said.\nWe were the ones who were\nsurprised.
+
+@033.0310
+A true stroke of genius. A truly\nmagnificent plan.
+
+@033.0338
+Hmm. {FI} is\ndoing well.
+
+@033.035A
+She's scary as hell,\nbut still, she's great.
+
+@033.0384
+Our lives are thanks to her, are they\nnot?
+
+@033.03B4
+Still, I can't stand Richard. Useless at\nwork on a ship, yet he acts like\n{FI}'s\nadvisor.
+
+@033.0424
+Can't be helped. We can raid Ming's\nclosed seas in the open only because\n"that one" has strong connections to\nEngland.
+
+@033.04A8
+And you have no pipeline to France\nat all.
+
+@033.04E0
+Heh, I took the fall for some\nunknown bastard's crime, so I can't\nshow my face back home. When I find\nhim, I'll flatten him!
+
+@033.0560
+Lord Yukihisa's fate is ironic too.
+
+@033.0590
+You snuck onto a wokou ship seeking a\nlegendary sword and came to Ming, only\nto end up hunting down those very wokou.
+
+@033.05FC
+No need to worry. I merely happened to\nlearn of my countrymen's wrongdoing\nin a foreign land. I cannot leave such\nshameful men alone.
+
+@033.066C
+Oh, what reassuring words.
+
+@033.06AE
+Is Ian here?
+
+@033.06CA
+You wanted me?
+
+@033.06DE
+Report on the contracts with the\ncoastal towns.
+
+@033.0708
+Going well. The bribes were hugely\neffective.
+
+@033.0730
+We settled on paying 3% of sales.\nIf we disguise ourselves as foreign\nships, the officials will look the\nother way.
+
+@033.079E
+Just as I thought.\nThey're completely rotten...
+
+@033.07CA
+You are harsh, Admiral... But the\nprefect also realized it's smarter to\noverlook our business, with its large\nexpected tax revenue.
+
+@033.0834
+Merchants always seek profit. It paid\noff to win their support first...
+
+@033.0894
+Anyway, this opens the way.\nWe can start trading right away.
+
+@033.08DA
+Yes. Be thorough with the ship\nmaintenance, to prepare for Kurushima's\nrevenge.
+
+@034.000C
+You're the famous Ms. {FA}?\nYou'd best pull out before you get\ncaught up in the Coen and Pereira\nfeud.
+
+@034.0084
+Whoever wins, it's nothing to do with\nus. What a nuisance. Haah...
+
+@034.00DE
+They come from far away to expand\ntheir own countries. Whoever wins,\nwe just get eaten. There's no profit\nfor the locals.
+
+@034.0166
+So neither side gives a thought to the\nlocal people...
+
+@034.01C2
+Portugal and the Netherlands... Both\nare plotting to expand into East Asia.
+
+@034.0210
+We need to act before our homeland\nsuffers harm.
+
+@035.000C
+Excuse me. Sorry to be so sudden...
+
+@035.0032
+? Who are you?
+
+@035.0050
+I am Bergstrom of the Swedish Navy.\nAre you Admiral {FA}, the one\neveryone's been talking about lately?
+
+@035.00A8
+...And if I am?
+
+@035.00C4
+...I only want to see with my own eyes\nwhether you are our enemy.
+
+@035.00FA
+Whether I'm your enemy or not...\nthat is entirely up to you.
+
+@035.014C
+Then answer my question too. You said\nSwedish forces. Do you know the Argot\nCompany, also from the North Sea?
+
+@035.01BA
+...The Argot Company, you say.\nI am not unfamiliar with it...
+
+@035.01F0
+...Sorry to interrupt. What about the\nArgot Company?
+
+@035.0236
+And you are?
+
+@035.024A
+This is Kamil.\nHe isn't one of my fleet, but for\ncertain reasons he travels with us.
+
+@035.0290
+I know the Argot Company well.\nCould you tell me about it, please?
+
+@035.02DE
+...It may be worth telling.
+
+@035.0302
+Coen and Pereira rule Southeast Asia\nhere. It seems the {FO}\nand the Argot Company have been\ndragged into their conflict.
+
+@035.0376
+So it was true...
+
+@035.0392
+Wait... knowing this, who are you?
+
+@035.03D0
+Kamil is a young man of the Argot\nCompany, close to Admiral Argot.\nHe happens to be acting separately\nfor now...
+
+@035.0440
+...I see. Then does Admiral Argot\nrealize Coen is using her?
+
+@035.0492
+I think she still doesn't know...\nDamn... so that's how it was...
+
+@035.04D0
+So you don't know everything either.\nThanks to Coen's scheme, the {FO}\nand the Argot Company are about to\nclash.
+
+@035.0538
+Admiral {FA}.\nI understand the situation is quite\ncomplicated. ...What will you do?
+
+@035.0582
+I want to talk with the Argot Company's\nLeader. Directly, with no one in between.\nKamil, would you guide me?
+
+@035.05DC
+That's a bit... But Ril should be\nstaying somewhere around Batavia, I\nthink.
+
+@035.062C
+Batavia, then. I'll go see.\nThank you.
+
+@035.0668
+Kamil... don't you want to go yourself?\nThis seems a good chance.
+
+@035.06A6
+...Sorry.\nRight now I really can't face her...
+
+@035.06D0
+...Understood. Do as you like.
+
+@036.000C
+Everyone, ready to leave port?
+
+@036.002E
+Oh, that's the Argot Company's Leader,\nRil Argot.
+
+@036.006A
+So it seems.
+
+@036.007C
+Excuse me.\nAre you Admiral Ril Argot?
+
+@036.00A6
+W-what, all of a sudden?\nI'm Ril, sure, but\nwho are you?
+
+@036.00EA
+I am {FI} of\nthe {FO}.\nYou must know the name.
+
+@036.0114
+{FI}...\nThe one from...!? Wait, wait!\nYou came here yourself?
+
+@036.015A
+Ah!\nDon't tell me... you're here to kill me...
+
+@036.0182
+No. ...Coen has poisoned you badly.\nI came to tell you the truth.\nCoen is using you.
+
+@036.01FE
+???  What do you mean?\nCoen wants to save the people of\nSoutheast Asia. He's a wonderful\nmerchant.
+
+@036.025A
+I'm just helping him.\nYou're the pirate who runs China's\nunderworld!
+
+@036.02B0
+You don't know Coen's true nature...\nHe'll use you for all you're worth\nand then get rid of you.
+
+@036.030A
+That's a lie!\nDon't talk nonsense!\nDo you have any proof Coen's a villain?\nNo, you don't, do you!?
+
+@036.0370
+You still don't understand?\nYour life is at stake.\nIt's not too late yet.
+
+@036.03B6
+Saying that out of nowhere, as if I'd\nbelieve you!\nHmph!
+
+@036.0400
+...What a thickheaded girl...
+
+@037.000A
+That was close...\n...Coen, that bastard...
+
+@037.002C
+Ril! Are you safe!?
+
+@037.0048
+Yeah...\nEveryone, because of me...\nI don't know how to apologize...
+
+@037.008A
+It's over now.\nCoen is the one at fault.
+
+@037.00B4
+Somehow we avoided disaster.\nI'll be returning to the North Sea.\nWell then, if you'll excuse me...
+
+@037.010E
+Thank you, Hodrum.
+
+@037.012E
+Thank {FI},\nnot me.
+
+@037.014C
+What will you two do?
+
+@037.016C
+I'm going back to the North Sea too.\nI realized I can't compete in the\nworld as I am now...
+
+@037.01C2
+Ril...\nI'll go with you.
+
+@037.01E0
+Thank you, Kamil!
+
+@037.01FC
+Then leave the rest to us.\nWe'll take down Coen.
+
+@037.023C
+Scoundrels like that can't be\nforgiven!
+
+@037.025C
+Well then...\nSorry for all the trouble...
+
+@038.000E
+You must be {FA}, who's been stirring\nup the Indian Ocean lately.
+
+@038.0052
+I'm with the Uddin Company.
+
+@038.0078
+Forgive my saying so, but these are\nwaters Muslims like us have run since\nlong ago. Sorry, but I'd like you\nto keep your hands off.
+
+@038.0104
+What does that mean?\nAre you telling us to leave the\nIndian Ocean?
+
+@038.0142
+Don't jump to conclusions. I'm busy\ndriving out the Europeans and have no\ntime for you. So here's the thing.
+
+@038.01BC
+I propose a joint front.
+
+@038.01E6
+Stay out of our territory, and when you\nclash with the Europeans, we'll lend\nyou some help. What do you say?
+
+@038.0268.0
+...All right
+
+@038.0268.1
+I can't accept
+
+@038.0290
+Hahaha. Just what I hoped for.\nI think we'll make good partners.\nThen, until next time.
+
+@038.02F2
+So be it. Then we will defend our\nyard with the pride of the Arabs.

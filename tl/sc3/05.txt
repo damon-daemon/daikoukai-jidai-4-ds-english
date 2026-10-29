@@ -1,0 +1,938 @@
+@141.003A
+...Huh?
+
+@141.0272
+So you've come to take Ifa\nback, then?
+
+@141.04E6
+Was that... a dream?\nIt felt so vivid, though...
+
+@141.0592
+Your senior?\nIs his name Sanghyun?
+
+@141.05C4
+What?!\nYou met my brother?
+
+@141.05E6
+No, it was in a dream.\nA man appeared and said he was your\nsenior, and gave that name.
+
+@141.06A4
+Magic...?\n(I see...)
+
+@141.06C2
+Oh, right. He said you should keep\nup your training even after leaving\nthe mountain.
+
+@141.0748
+...\nWhat's the matter?
+
+@141.07B2
+Then put in the same effort\nwith your work on the ship.
+
+@142.0072
+Dealing with men like that every day...\nworking in a tavern must be hard.
+
+@142.04FE
+That story... is rather interesting.
+
+@142.0524
+Oh, were you listening?\nWell, a man like him might actually\nsuit you.
+
+@142.057A
+...Sadly, what interests me isn't\nthat man, but the\n"Silla Gold Crown."
+
+@142.05D2
+Oh, I see...\nWell, that's more natural, I suppose.\nSo, do you have any idea where\nthe "Silla Gold Crown" is?
+
+@142.0626
+None at all.\nWould you tell me what you know?
+
+@142.066E
+All I know is that it's somewhere in\nHanseong.\nOh, and that it's incredibly beautiful.
+
+@142.06C6
+I see...\nIf I get the chance to visit Hanseong,\nI'll look for it myself.
+
+@142.06FC
+Really?!\nIf you get it, let me see it too!
+
+@142.0734
+If I get it, I will.\nBut I think you'd do better to put\nyour hopes on that man.
+
+@143.0022
+In a tavern, it wouldn't be strange\nto find someone who knows...
+
+@143.0058
+Excuse me, but does anyone here\nknow about the "Silla Gold Crown"?
+
+@143.00A8
+Oh, I know it, but...
+
+@143.00C2
+I'm looking for it.\nCould you tell me where it is?
+
+@143.0106
+Hmm, what should I do...
+
+@143.0126
+Do you need an information fee?
+
+@143.0146
+It's not that...\nSomeone asked me the same thing just\nbefore. A really flippant guy.
+
+@143.019C
+That must be Julian, whom I met in\nHangzhou...
+
+@143.01C4
+Oh, you know him?\nAnd you are... Oh!
+
+@143.01FE
+Could you be...\n{FI} of the\n{FO}?
+
+@143.0234
+Um, the "Silla Gold Crown" is said to\nbe at a site called "Muryeong Tomb."\nThat's all I know, though...
+
+@143.0296
+I see. I'll go and take a look.\nThank you.
+
+@143.02C4
+N-not at all...
+
+@143.02D6
+(...The {FO}'s\nreputation is a bit of a\nnuisance sometimes...)
+
+@144.000C
+Oh, {FI}...
+
+@144.0020
+Oh, when did you two meet?
+
+@144.0046
+Meihua, actually, she's the one who\nfound the "Silla Gold Crown."\nI just got it from her.
+
+@144.00A0
+So this is the "Silla Gold Crown"...\nHow wonderful, this shining gold.\nOh, it's so beautiful it takes my\nbreath away...
+
+@144.0124
+Oh, lovely!\nI'll treasure it forever! Thank you!
+
+@144.015A
+I'm glad.
+
+@144.016E
+Yes, it's thanks to you.\nNow I should do something in return.
+
+@144.01A8
+There's no need for that.
+
+@144.01C4
+You helped me, Admiral {FI} of the\n{FO}. Let me repay you.\nPlease let me work on your ship.
+
+@144.0224
+Hey now.\nI'm not sure that counts as repaying...
+
+@144.0252
+Oh, don't worry about my skill.\nMy grandfather sailed all over the\nworld, and I've dreamed of ships since\nI was a child...
+
+@144.02BC
+I want to be an adventurer like my\ngrandfather!\nI want to go out into the world!
+
+@144.0302
+Out into the world, eh...\nPerhaps you take after your grandfather.
+
+@144.0340
+...Fine. I liked your nerve in\nHanseong.\nCome to sea with us.
+
+@144.0384
+Yes!\nA journey with a beautiful lady like you\nsounds wonderful...
+
+@144.03CE
+Julian?
+
+@144.03E0
+Sorry, Meihua. I'm leaving on a voyage,\nbut there's no need to be jealous.\nShe's just my new employer.
+
+@144.0440
+When I find something even better\nthan the "Silla Gold Crown," I'll come\nstraight back. Then let's go on a date!
+
+@144.04A0
+Honestly... I can't win against you,\nJulian.\nI'll be waiting.
+
+@144.04D4
+I hope this won't become a voyage of\nwooing women...
+
+@145.0010
+Well, well. Looks like you and I\nare fated, Admiral.
+
+@145.0044
+The woman pirate from before!
+
+@145.005C
+{FI}... this is bad.\nEveryone around us looks like a pirate.
+
+@145.008A
+Welcome, Your Highness, I suppose.\nNow, what'll it be?\nSome liquor? Or perhaps...?
+
+@145.00EE
+Heh heh heh.
+
+@145.0100
+Hmph.
+
+@145.0110
+...What do you intend to do with us?
+
+@145.0138
+Well now... impressive.\nYou've got nerve.
+
+@145.016E
+A mere pirate has no right to\ntalk to us like that!
+
+@145.01A4
+...You've got guts yourself, old man.\nIf I wanted, I could carve you up in a\nsecond. Are you sure you should talk\nlike that?
+
+@145.0206
+Enough!
+
+@145.0216
+Eek, sorry!
+
+@145.0232
+...You, on the other hand, seem\nsurprisingly reasonable.
+
+@145.0266
+...You really are something, Princess.\nI'll give you that.
+
+@145.0294
+Hmph, don't underestimate me. I\ndon't plan to kill you here. Pirates\nhave their own way of doing things.
+
+@145.030E
+I'll settle this with you at sea\nsoon enough! Wash your neck and wait!
+
+@145.034C
+Fine with me.\nWe're ready for you anytime.
+
+@145.037C
+Don't you forget those words!\n...Hm!?
+
+@145.03AE
+What is it?
+
+@145.03C2
+I like you more and more.\nThat's a fine sword you have there.
+
+@145.0400
+Sword?
+
+@145.040C
+Don't get it? Well, never mind.\nBut be ready. When I set my eye on\nsomething, I always take it.
+
+@145.0470
+All right, boys, we're pulling out!
+
+@145.04A6
+Oh, she commands this many men\nwith one shout.
+
+@145.04CE
+Just because we're pirates, don't you\nlook down on us!
+
+@145.0500
+She's quite an interesting pirate.
+
+@145.0520
+A pirate with backbone, that one.
+
+@145.0542
+At this rate, she'll be on our\ntail for a while.
+
+@146.0016
+...By the way, did Yukihisa find any\nclue to that sword he's looking for?
+
+@146.0060
+No, it seems he still has\nnothing.
+
+@146.008E
+Hmm.\nI wonder if it really exists.
+
+@146.00CE
+Yukihisa.
+
+@146.00DE
+Ah, Admiral.
+
+@146.00EE
+I hear you're looking for a sword.
+
+@146.0114
+You know of it. But it may be a mere\nrumor. After traveling the world this\nmuch, I have not found a single clue.
+
+@146.0186
+If I can, I'd like to help.
+
+@146.01B8
+No, it has nothing to do with our\nmission.\nPlease do not trouble yourself.
+
+@146.0200
+...Would you consider going to Japan\nalone?
+
+@146.023A
+You'd have no time to search while\nwith us, would you?\nI'll entrust a fleet to you. Why not\nsearch at your leisure?
+
+@146.02A0
+Absolutely not!\nI cannot borrow the organization's ships\nfor such a personal matter!
+
+@146.0302
+Always so dutiful.\nBut choosing someone who knows the\nregion is a natural decision for an\nadmiral to make.
+
+@146.036A
+Admiral...\nThank you.
+
+@147.0008
+India has such a unique atmosphere,\ndoesn't it, boss?
+
+@147.0046
+Somehow, everything people do seems\nawfully small here.
+
+@147.008E
+When this big job wraps up, spending\ntime here in a daze might not be bad.
+
+@147.00D0
+Planning a vacation already?\nIsn't that a bit early?
+
+@147.010E
+Haha, I know, I know.\nThere's still a mountain of things\nto do, after all.
+
+@148.0008
+The Arabs don't drink any alcohol at\nall. The tavern in this town is for\nforeign sailors, apparently.
+
+@148.006E
+Despite differences in race and\nreligion, I admire the strong will and\nstrictness of the Arab people.
+
+@148.00C6
+Indeed.
+
+@148.00D2
+No wonder. I can't imagine Ian or\nYukihisa ever giving up vodka or sake.
+
+@148.0130
+Heh. True enough.\nBut it's not only about liquor.
+
+@148.0170
+Behind a ruthless ferocity at times,\nthey have a rich love of beauty and a\nstrong kindness that protects the weak...
+
+@148.01DA
+I think there is much we should learn\nfrom them.
+
+@148.0206
+Didn't know you liked the Arabs, Ian.\nFor me, they're a country my\ntemperament just doesn't get along\nwith...
+
+@148.0270
+Heh, I'm sure.
+
+@172.0008
+Sir Ian.\nDo you know the gentleman in this\nportrait?
+
+@172.003C
+Yes. He's an old navigator named\nRocco Alemquer.\nWhat about him?
+
+@172.008E
+Oh, I just thought he has quite a\nfine face.\nWhat sort of man was he, I wonder?
+
+@172.00EA
+All I know is that he was someone who\nsupported Portugal long ago.
+
+@172.014C
+What is it?
+
+@172.015C
+Let's take a look.
+
+@172.0172
+Something behind the picture...\nLooks like a book.
+
+@172.01A6
+Whose could it be?\nIt looks like quite an interesting book.
+
+@172.01DC
+Let's ask the owner.\nInnkeeper! Is the innkeeper here?
+
+@172.0218
+Yes, yes, what is it?
+
+@172.0232
+This book turned up from behind it.
+
+@172.0262
+Let me see.
+
+@172.0274
+Hmm, I don't recognize it.\nYou're welcome to take it, if you\nlike.
+
+@172.02BA
+But we can't just take it for free...
+
+@172.02E6
+Don't worry about it. I didn't even\nknow it was there, and it doesn't\nseem to have anything to do with me.
+
+@172.0348
+In that case,\nwe'll gratefully accept.
+
+@172.0374
+Yes.\nThank you very much.
+
+@172.039C
+Oh, no thanks needed.\nExcuse me, I have work to do.
+
+@172.03DC
+For now, let's give this book to\nAdmiral {FI}.
+
+@172.040C
+Yes, indeed.\nSir Ian, would you hand it over?
+
+@174.0030
+Is that so?\nI don't think they are.
+
+@174.00C8
+Oh?\nYou'll replace them for free?
+
+@174.0398
+Right. I leave it to you.
+
+@174.047A
+Hmm... On second thought,\nthere's no need to hurry and replace it.
+
+@175.00C4
+H-hey, you, wait a moment!
+
+@175.010E
+Someone... forced this on me.
+
+@175.0148
+It seems to be a book.
+
+@175.01AE
+But...
+
+@175.0214
+Honestly...\nThis is what happens with rare books.
+
+@176.004C
+This is... an insect?
+
+@176.0194
+This must be valuable, isn't it?\nI can't accept it.
+
+@176.0290
+All right.\nCan I buy it for 1000 gold?
+
+@177.0104
+Jam,\nwhere have you been?
+
+@177.0156
+Goodness... Where did you get such a\nthing?
+
+@177.0244
+I see. Good that they understood it\nproperly. Now, we'll be leaving soon.\nGet ready, too.
+
+@178.00AA
+This is a parrot.
+
+@178.01A2
+Got you.
+
+@178.0204
+Heh.
+
+@179.005C
+What's wrong?\nOh, earrings?
+
+@179.010E
+Really? What's different about them?
+
+@179.01A4
+Heh. Dancing, hm?\nWhat do you think, Christina?
+
+@179.037C
+Then I'll take them.
+
+@180.0084
+It's surprising that you want\nsomething besides food. So what's the\nweapon's name?
+
+@180.00EC
+That sounds rather grand.\nSo where is it?
+
+@180.0172
+I see... Then it'll be hard to find.\nWell, let's look for it without rushing.
+
+@180.01D0
+But it may not be soon.
+
+@180.0212
+...And I haven't decided to give it\nto you, either.
+
+@182.0446
+...I see. This is interesting.
+
+@183.00F8
+A blade the color of blood...
+
+@183.0190
+...A splendid sword, it seems, yet it\ncan't show its worth. What a shame.
+
+@183.021E
+Well, I can understand his feelings.\nStill, where could that sword have\ngone?
+
+@184.0192
+Oh, Christina.\nWhat were you looking at?
+
+@184.01EC
+Oh, they come even to a place in the\nmiddle of town like this.
+
+@186.0020
+Do you want something with me?
+
+@186.02AE
+Sir, that must be some mistake.\nI am not such a person.
+
+@187.042A
+A traitor's sword...\nThe view that the sword isn't to blame\nis so like practical Jenas.
+
+@188.00F0
+That's right. What do you want?
+
+@188.014C
+It's hardly something that deserves\nthanks.
+
+@188.01B4
+...Tell me.
+
+@188.020E
+...The Demon King. And then?
+
+@188.032A
+A weapon bearing the Demon King's\nname... Thank you for the information.\nI'll go look for it.
+
+@189.008C
+Are you all right?\nWho are you, exactly...?
+
+@189.01AE
+Avalon...?\nWhere is it?
+
+@189.01D8
+The land where King Arthur sleeps...\nIf we ask at a tavern around here, we\nmight get some information.
+
+@190.000A
+Owner,\ndo you happen to know of a place called\nAvalon?
+
+@191.0042
+It's rare for Ian to put it that way.\n...What kind of weapon is it, exactly?
+
+@191.00F4
+Ares? If I recall, the god of war.\nA weapon called his spear is surely\nworth hoping for. Where can I get it?
+
+@191.01D2
+That doesn't answer my question.\n...I have no idea at all.
+
+@191.027C
+(Oh, so he is interested.)
+
+@191.02FE
+To be honest, yes.
+
+@191.03F8
+I see...\nYou're a romantic.
+
+@194.02CC
+Saladin?
+
+@194.03B8
+A hero who repelled the European\ninvasion... An interesting story.
+
+@195.0014
+Oh, Gerhard.\nIt's rare to see you gazing at the\nsunset. Lost in thought?
+
+@195.00BA
+For you to say so much...\nWhat kind of man was he?
+
+@195.012A
+What sort of commander was he?
+
+@195.0320
+...A sad hero's tale.
+
+@195.033A
+Yes.\nHow bitter Noritsune's regret must\nhave been...
+
+@195.0376
+You must have been truly moved.\nThat's just like you.
+
+@196.0440
+I'm surprised Ian was interested in\nAsian history.
+
+@196.04F6
+I see.\nYou're well read, too.
+
+@198.007C
+What is that? What an unusual game.
+
+@198.00FA
+So the hero around here is Charles...\nsomething-or-other?
+
+@198.01E2
+There must be many people in history\nwho won battles.\nWhy is he still the children's hero\nafter hundreds of years?
+
+@198.02E2
+I see, he protected European culture\nand tradition.\nNo wonder children see him as a hero.
+
+@199.0022
+Oh, Manuel.
+
+@199.0066
+It's not all work.\nLooking at the townscape like this is\none of my pleasures, too.
+
+@199.00C4
+Did you have business in the plaza,\nManuel?
+
+@199.017E
+...I haven't heard much of that name.
+
+@199.0206
+The Roman Empire...\nTo trouble even the Daqin, he must\nhave been quite a figure.
+
+@199.02D0
+So I mustn't let my guard down.\nI'll take that as a lesson.
+
+@199.032E
+Listen to you.\n...By the way, why bring this up now?
+
+@199.0418
+"The King's Stolen Armor"...\nTo threaten the Roman Empire, he must\nhave been truly feared.
+
+@200.0022
+You're working hard late.\nIf you push yourself too much, you\nwon't last in the long run.
+
+@200.018C
+Is that true?
+
+@201.0122
+What about that shield?
+
+@201.01B2
+That could be.\nWhere can we get it?
+
+@201.0236
+I see...\nThat's not enough to go on.
+
+@201.027C
+All right, I'll keep it in mind.\nWith luck, we're sure to get it.
+
+@202.012A
+Oh?\nDidn't you say something similar about\nthe armadillo whatever?
+
+@202.018E
+Well, never mind.\nWhat about that shield?
+
+@202.0202
+You said exactly the same thing about\nthe armadillo whatever.
+
+@202.0270
+Never mind.\nWhere do we go to get it?
+
+@202.02EE
+That's not enough information to\nsearch with.
+
+@202.0334
+All right. I'll keep it in mind.\nWith luck, we're sure to get it.
+
+@203.0064
+Something like China's Vermilion Bird?\nIf it exists, I'd love to see it once.\nSo what about the phoenix?
+
+@203.0132
+You want to get it because it'd be\nuseful in battle?
+
+@203.0190
+You said something similar before.
+
+@203.01DE
+Honestly... So where is it?\nAre you going to be vague again,\nsaying Africa or India or somewhere?
+
+@203.0274
+Oh?\nThat's a much narrower area this time.
+
+@203.0304
+I see, you did your research well.
+
+@203.0336
+Since Samuel worked hard, I'll keep the\nPhoenix Bascinet in mind.
+
+@204.0034
+I don't recognize the name.\nWhat about him?
+
+@204.00B8
+I see. And...?
+
+@204.012A
+Oh... I'd love to read it\nsomeday.
+
+@204.0168
+How should we search for it...\nIs there any information to go on?
+
+@204.0230
+I see...\nThen it'll be hard to find.
+
+@204.0274
+It's not your fault.
+
+@204.02A2
+If you want that book, it seems the\nonly way is to go to the\nMediterranean.
+
+@206.0238
+Manuel,\nare you planning to use that chisel to\nrepair the ship?
+
+@208.04DE
+It's certainly a strange story, but...\nI think there's something to this.\nI'd like to find out if it's true.
+
+@209.04D2
+Heh heh, same as ever. ...Well, since\nhe went to the trouble of telling us,\nmaybe I'll look into it next time.
+
+@210.003A
+What's the matter?\nCesare, why are you angry?
+
+@210.0136
+I wish you'd explain more clearly...\nWell, never mind.\nWhat is it, then?
+
+@210.03A6
+...\n(Nothing I say seems to reach him now.)
+
+@211.0028
+...Jenas?\nWhat happened?
+
+@211.0282
+Pull yourself together.
+
+@211.035E
+Fine. Let's go look for it.
+
+@212.0124
+You look quite down.\nIs something troubling you?
+
+@212.01A4
+Hm? Yes, that's right.
+
+@212.0206
+Yes. But why do you ask?
+
+@212.0228
+The New World...?\nUnfortunately, I haven't crossed the\nAtlantic yet.
+
+@212.0266
+But I might go someday.\nWhy do you ask?
+
+@212.02D4
+A treasure?
+
+@212.03AA
+How awful...\nDo you know who did it?
+
+@212.03EC
+That's difficult...\nFrom what you said, I thought the\nculprit might be in the New World...
+
+@212.04BC
+A swindler, eh?\nHmm, we can hardly be sure he's the\nculprit, but...
+
+@212.04FC
+Anyway, let's go to Havana.\nWe have no other leads.
+
+@212.0544
+Hmm... I suppose so.
+
+@212.0576
+I'll do what I can.\nBut don't get your hopes up too much.
+
+@213.0074
+I told you I'll pay next time!\nHave I ever once skipped out on a bill?
+
+@213.01EC
+Wait.
+
+@213.0222
+Is that ornament really amethyst?
+
+@213.024A
+Wh-what, you got a problem?!\nAre you picking a fight with my\nbusiness?!
+
+@213.0292
+Xian.
+
+@213.02A0
+Let me see it.\n...Hmm, this is definitely glass.
+
+@213.0336
+How shameful.\nWe were commissioned by the ornament's\nowner. Further excuses are useless.
+
+@214.002A
+Is this the stolen ornament?
+
+@214.010E
+Don't let it be stolen again.\nWell, goodbye.
+
+@214.01F2
+A wooden church?\nThat is rare indeed. It seems worth\na visit.
+
+@215.0092
+It's an imposing statue.\nDoes it have some story\nbehind it?
+
+@215.01F6
+Such a thing...\nIt's as if the statue itself were\nalive.
+
+@215.02F6
+Everyone, lend me a hand.
+
+@215.033A
+You can go back first.
+
+@215.0504
+No, we were just truly lucky.
+
+@218.009A
+I see. I'll go and look.
+
+@219.00AA
+I see. It sounds interesting.
+
+@220.002A
+This statue...\nDon't you feel a kind of warmth?
+
+@220.0088
+Over there.
+
+@220.0122
+Is it a famous piece?
+
+@220.023C
+A figurehead this fine would surely\nrather be at sea than left on land.\nThat's what I think it truly wants.
+
+@220.03A6
+What's wrong?\nLet's carry it quickly.
+
+@220.03E4
+Are you half asleep?
+
+@220.0502
+Shall we head back to town\nnow?
+
+@221.013C
+Here's my answer!
+
+@221.02C0
+...I got it wrong.\nAnyway, we have to escape from here.\nLet's go back to town for now.
+
+@221.0336
+Here's my answer!
+
+@221.04BC
+...I got it wrong.\nAnyway, we have to escape from here.
+
+@221.0514
+Even when the ice melts, the water\nlevel should stay the same.\nThe answer is "right."
+
+@221.0592
+Where?
+
+@221.0756
+...Who knows.
+
+@225.0008
+Grumble...\nThat bastard, damn him!
+
+@225.004A
+What's wrong, you ask... Oh!\nBig Sis {FI}! No, no, it's nothing.\nPlease pretend you didn't hear that.
+
+@225.00AA
+Asking you to catch a criminal named\nPlett Perrault is too scary. I could\nnever ask Big Sis {FI} for that.
+
+@225.0116
+Plett Perrault, was it?\nAll right, I'll catch him for you.
+
+@225.014A
+N-no way!\nAsking Big Sis {FI} for something\nlike that!
+
+@225.0188
+All we know is that he's hiding out\naround Indonesia.
+
+@225.01C8
+...You're pretty good at asking for\nfavors.
+
+@226.000E
+Owner,\ndoes the name Plett Perrault\nring a bell?
+
+@226.0048
+Hmm, never heard of him.
+
+@226.0068
+Clatter, thud!
+
+@226.007E
+Ow...
+
+@226.008E
+Oh, why are you so flustered?\nSurely you're not the man himself?
+
+@226.00D0
+W-well, no use hiding it now.\nYeah, I'm Plett Perrault.
+
+@226.0110
+Surprisingly honest, for how you look.\nThen come with us to Hangzhou.
+
+@226.0164
+Not a chance!
+
+@226.017C
+...You'd do well to stop resisting.
+
+@226.01A6
+Get him!
+
+@226.01B8
+Damn it!\nSo you've got friends!
+
+@226.01F4
+Drop your sword.
+
+@226.021A
+Gr, grrr...\nFine, do what you want!
+
+@226.024E
+Give it up!\n...Hm?
+
+@226.026A
+Aaaah!!\nY-you! I remember now, you son of\na bitch!!
+
+@226.02B0
+?\n...!!
+
+@226.02C0
+That typical small-time crook face!\nI could never forget it, even if I tried!\nYou pinned your theft on me, the\ngreat me!!
+
+@226.032C
+You... Don't tell me, you're the\nguy from back then?
+
+@226.0350
+Heh heh heh...\nAdmiral, would you let me handle this\none?
+
+@226.039A
+Oh no.\nWhatever you say, I can't hear it.\n...Now, prepare yourself!!
+
+@226.03EA
+W-wait! There was nothing I could do\nback then! Right? Hear me ou...
+
+@226.042E
+Bwah!!
+
+@226.0442
+W-wait...
+
+@226.0458
+Aghhh...!!
+
+@226.047C
+That's enough.\nLet's leave the rest to the Guild in\nHangzhou.

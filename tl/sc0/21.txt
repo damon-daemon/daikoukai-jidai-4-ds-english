@@ -1,0 +1,389 @@
+@334.0018
+First, please get hold of a map\nto the ruins.
+
+@334.0060.0
+I can hardly believe there was\nan ancient city in a place like this...
+
+@334.0060.1
+I can hardly believe there was\nan ancient city in a place like this.
+
+@334.0060.2
+Wow, there was an ancient city\nin a place like this.
+
+@334.0060.3
+An ancient city, in a place\nlike this...
+
+@334.0060.4
+Who'd have thought there was an\nancient city in a place like this...
+
+@334.0060.5
+Hmm, an ancient city in a place like this.\nHard to believe, hard to believe.
+
+@334.0060.6
+So there used to be a city\nin a place like this, huh?
+
+@334.0060.7
+An ancient city in a place\nlike this, eh... Remarkable.
+
+@334.01DA
+Actually...\nAccording to this map, the ruins don't\nseem to be on this island.
+
+@334.0218
+What?!
+
+@334.0232
+...We have to cross the sea.
+
+@334.0254
+Then wouldn't it be faster to go\nback to the harbor?
+
+@334.0280
+No, I have a small boat ready.\nWe'll go on in that.
+
+@334.02BA
+Only you have the right to see them.\nI'd like the sailors not to learn\nwhere the ruins are.
+
+@334.032E
+One day has passed.
+
+@334.0346
+We're here.\nFrom here on, we go by land.
+
+@334.0380
+Oh!\nThere it is, that's it!
+
+@334.03A4.0
+Admiral, we've found the ruins.
+
+@334.03A4.1
+Admiral, we've found the ruins.
+
+@334.03A4.2
+Admiral, we found the ruins!
+
+@334.03A4.3
+Admiral, so that's the ruins.
+
+@334.03A4.4
+Admiral, looks like we found the ruins.
+
+@334.03A4.5
+Admiral, it seems we found the ruins.
+
+@334.03A4.6
+Admiraaal, that's the ruins, right?
+
+@334.03A4.7
+Admiral, it seems we have found the ruins.
+
+@334.047E
+Yeah! Let's go.
+
+@335.0008
+Oh, welcome!
+
+@335.0022
+Hey, hey.\nHave you ever been to the village far\nto the north of the New World?
+
+@335.0066
+A customer told me this.\nLong ago, a high-ranking monk from this\ntown crossed to the northern continent to preach.
+
+@335.00C6
+After he found that village,\nthey say he went missing.\nI wonder what happened?
+
+@335.0116
+Who knows?
+
+@335.0124
+He was supposedly a man of great virtue.\nI hope the people he preached to\nheld him dear.
+
+@335.016C
+If you ever get the chance to go north,\nask about the monk, okay?
+
+@336.0008
+Hey there, {FA}.\nActually, there's someone\nI'd like you to meet.
+
+@336.0044
+...Hello.
+
+@336.0054
+?
+
+@336.005E
+I know this is very rude of me,\nbut I would like to put you to the test.
+
+@336.009A
+What?!
+
+@336.00AA
+We just met, and you spring\nthat on us? Come on.
+
+@336.00D0
+I'm sorry. The truth is...\nthere are ruins I desperately need\nsomeone to find.
+
+@336.0116
+Ruins?
+
+@336.0124
+They are said to have been built by our\nancestors to honor their warriors.
+
+@336.0166
+Legend says only one who holds the\nqualification of "the Strongest Warrior"\ncan find them...
+
+@336.01BC
+The Strongest Warrior...?
+
+@336.01D8
+Not merely one who is strong, but one\nwith a righteous heart and wisdom.\nThat is the Strongest Warrior.
+
+@336.0226
+...You want to test whether\nI have what it takes?
+
+@336.025E
+Yes.
+
+@336.026E
+Hmph. I don't much like\nthe sound of that.
+
+@336.029C
+Of course, I know it is rude,\nand still I ask this of you.
+
+@336.02DA
+...Understood. I'll give it a try.
+
+@336.0302
+You sure?
+
+@336.0324
+"The Strongest Warrior," huh...\nI want to test my own strength too.\nAnd besides...
+
+@336.036A
+Maybe we'll find the key to the Mark\nin those ruins. Don't you think?\nI think it's worth a try.
+
+@336.03D8
+I agree.\nIf the ruins are secret, there may well\nbe something hidden there.
+
+@336.042A
+We might even find the key to the Mark\nin those ruins.
+
+@336.0476
+Could be.\nIf that's the case, I'm in too.
+
+@336.04B0
+Thank you.\nThen let us begin right away...
+
+@336.04DC
+First, to gauge your swordsmanship,\nthere is something I'd like you to find.
+
+@336.0532
+What is it?
+
+@336.0546
+Please find "Tlaloc's Knife," said to be\nhidden somewhere in the New World,\nand bring it to me.
+
+@336.05A4
+"Tlaloc's Knife"...
+
+@336.05C4
+If you find it, I will use it to pass on\nthe combat techniques of the ancient\nwarriors.
+
+@336.0618
+Until then.\nI'll be waiting in this town's plaza.
+
+@337.0018
+Right.\nI have to bring "Tlaloc's Knife."
+
+@337.004E
+You can't hand it over while it's\nequipped, so be careful.
+
+@337.008C
+You brought it.
+
+@337.00AC
+You handed over Tlaloc's Knife.
+
+@337.00D2
+For a while from now, please come\nto this town's plaza.
+
+@337.0114
+What?!\nFor a while...?
+
+@337.0136
+It's a secret ancient martial art.\nIt can't be learned in just\na few hours of practice.
+
+@337.0182
+Now, let us begin.
+
+@337.01C4
+Then I'll see you again tomorrow.
+
+@337.01EE
+I'm amazed. You don't need any practice\nat all, it seems.\nYou'll be fine.
+
+@337.024C
+Now, next...
+
+@337.025E
+Huh?\nThere's still something to do before\nwe look for the ruins?
+
+@337.0298
+We must find the map to the ruins.\nFind the "Ancient City Map" and come\nto the gate of this town.
+
+@337.0312
+{FI}'s Agility\nwent up by 1!
+
+@338.0008
+Well then,\nlet's do our best again today.
+
+@338.0046
+From today, we practice advanced techniques.
+
+@338.0088
+Now, we move on to the finishing touches.
+
+@338.00F6
+I'm amazed.\nYour progress is wonderful.\nYou'll be fine.
+
+@338.0148
+It has taken shape, after all.\nYou'll more than hold your own\nas a warrior now.
+
+@338.01B4
+Then I'll see you again tomorrow.
+
+@338.01E4
+{FI}'s Agility\nwent up by 1!
+
+@338.0216
+Now, next...
+
+@338.0228
+Huh?\nThere's still something to do before\nwe look for the ruins?
+
+@338.0262
+We must find the map to the ruins.\nFind the "Ancient City Map" and\ncome to the gate of this town.
+
+@339.0008
+I don't recognize your face.\nWhere are you from?
+
+@339.0038
+A country called Portugal, in Europe.
+
+@339.0062
+Ah, the country that brought us\nthe matchlock guns, was it...?\nYou've come a long way!
+
+@339.00B6
+Hmm, I get it.\nYou must have that handy tool they call\na "sextant," don't you?
+
+@339.010C
+Huh?
+
+@339.011A
+I've heard rumors.\nThey say it tells you where you are,\neven on open sea with no landmarks.
+
+@339.0178
+Well? Would you let us have that\n"sextant"? I'll give you something\ngood in return.
+
+@339.01CE
+Something good?
+
+@339.01E0
+That's a surprise for after\nyou bring it.
+
+@340.0008
+Oh, you brought it?\nHere, take this in exchange.
+
+@340.005C
+You handed over the Sextant.
+
+@341.0008
+So this is what you came looking for?
+
+@341.002E
+It's been so long...\nFinally, this day has come.
+
+@341.005A
+I will put my trust in you.\nPlease, take it.
+
+@342.0008
+Oh!\nYou know of that holy monk?!
+
+@342.0046
+You know of him?
+
+@342.005C
+When we were suffering from plague, he\ncouldn't bear it and nursed us devotedly.\nThanks to him, the village was not wiped out.
+
+@342.00CA
+Once we drank the medicine the monk\nmade, the sickness subsided at once.\nIt was truly a miracle.
+
+@342.011A
+Was he a man with medical knowledge?
+
+@342.014A
+No, he spoke of something like the art of\nalchemy. Something about removing the\nmineral poison mixed into the drinking water.
+
+@342.01AC
+Look, he's the one who wrote this book.
+
+@342.01E4
+!!\nCould this be...!
+
+@342.022C
+This is the book Charles talked about!\nWe finally found it!
+
+@342.026E
+The "Alchemy Book"?!\nW-who would have thought I'd\nencounter it in a place like this!!
+
+@342.02BC
+Wh-what's wrong, Charles?!
+
+@342.02DE
+The reason I came all the way to this\nNew World... was because I heard rumors\nof a newly discovered experimental material!!
+
+@342.0350
+I had researched as far as learning that\nthis "Alchemy Book" is needed\nto obtain that material...
+
+@342.03AE
+It is certainly a clue to some\nprecious metal!!\nAll that remains is how to use it\n...mutter mutter...
+
+@342.0416
+Ah, ah, never mind the explanation.\nThis is going to take a while...
+
+@342.0444
+So, what became of that monk?
+
+@342.047C
+...
+
+@342.0486
+?
+
+@342.0490
+Thanks to the water he drank in this\nvillage, he caught the same illness as us...
+
+@342.04D4
+And yet he hid it completely, and gave\nevery bit of the medicine he made\nto the villagers!
+
+@342.053E
+And in the end, he never returned...!\nHe was truly an angel sent by God...
+
+@342.0586
+...
+
+@342.0590
+...May I entrust this book to you?
+
+@342.05BE
+Entrust?
+
+@342.05CC
+It tells the secret of an ore that\nno one has ever seen.
+
+@342.0610
+Surely this ore must lie buried\nsomewhere in the world.
+
+@342.064C
+We seek someone to carry on the monk's\nresearch. Would you look for that ore?
+
+@342.06B0
+...Understood.\nI'll definitely find it.

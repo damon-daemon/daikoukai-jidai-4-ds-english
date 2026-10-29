@@ -1,0 +1,749 @@
+@250
+Wine produced in the Azores, the islands known as the "Islands of the Hawks."
+
+@251
+Wine brought by missionaries. The climate of Santa Barbara, where it is made, suits grape growing well.
+
+@252
+A sword reminiscent of the black glaciers called Svartisen (black ice).
+
+@253
+A cherry-pink diamond mined in Australia. Why it turns pink remains a mystery.
+
+@254
+A small tomato with a distinctive taste and flavor. It sells for a high price in the Andes, where it originates.
+
+@255
+Salted salmon dried while being smoked over the smoke of oak and other wood chips. It has a distinctive flavor.
+
+@256
+A translucent gem with a pearl-like luster. It shows many beautiful colors depending on the light. Its name comes from the Sanskrit word for precious stone.
+
+@257
+Coconut oil. Its feature is a very light, smooth texture, with a faint coconut scent. Used as a raw material for soap and perfume.
+
+@258
+A diamond mined in Siberia. Siberia is covered in permafrost and its nature is harsh, but it is blessed with rich resources such as gold and diamonds.
+
+@259
+Fire opal. A gem as red as flame. It is thought to be a volcanic opal.
+
+@260
+Honey unique to New Zealand with strong antibacterial properties, long prized as a remedy for burns, wounds and sore throats.
+
+@261
+This news seems to be the talk of the trend-savvy people of %s.
+
+@262
+You own too many ships!
+
+@263
+No ships can be built in this town!
+
+@264
+You don't have enough gold!
+
+@265
+Buy this ship?
+
+@266
+Please give the ship a name!
+
+@267
+You can't dispose of any more ships!
+
+@268
+There is still cargo aboard.\nIs that all right?
+
+@269
+Choose a ship to change the captain of.
+
+@270
+Leave the captain to your crew.
+
+@271
+Choose a mate to be the captain.
+
+@272
+Changing the flagship may relieve the\ncabin staff of their duties.
+
+@273
+Is that all right?
+
+@274
+Dismiss the captain and leave\nthe ship to the sailors under you?
+
+@275
+Creating a local fleet requires\n100000 gold coins!
+
+@276
+You already have seven fleets!
+
+@277
+Choose the ships to join the new fleet.
+
+@278
+Choose an admiral for the new fleet!
+
+@279
+Make %s\n%s\nthe admiral?
+
+@280
+Choose a fleet to organize.
+
+@281
+Choose a fleet to disband.
+
+@282
+Be sure to set orders and\na target town.
+
+@283
+Change the orders of the organized fleet?
+
+@284
+That fleet is in the red. You don't have\nenough gold to pay off its debts!
+
+@285
+Disband this fleet?
+
+@286
+Each ship will be left at the dock.
+
+@287
+Found %s!
+
+@288
+Influence rose\nby %s!
+
+@289
+You feel at peace.
+
+@290
+%s and the others\nhad the rare experience of being\nled into an unknown spiritual world.
+
+@291
+%s and the others\nhad the rare experience of\ntouching a new culture firsthand.
+
+@292
+This discovery seems to be the talk\nof the trend-savvy people of %s.
+
+@293
+A gentle melody echoed deep in the hearts\nof %s and the others.
+
+@294
+After enduring hunger,\n%s and the others\ncaught a glimpse of a new horizon.
+
+@295
+%s and the others\ndid some hard exercise on land\nfor the first time in a while.
+
+@296
+Is %s all right?
+
+@297
+Found %s.
+
+@298
+Stop the automatic movement?
+
+@299
+You can't place it here.
+
+@300
+Choose an opponent to attack.
+
+@301
+Gained %s gold\nfrom the captured ship.
+
+@302
+Trade goods not loaded will be discarded.\nIs that all right?
+
+@303
+Gained %s barrels of food\nand %s barrels of water\nfrom the captured ship.
+
+@304
+This town is held by an allied power.\nYou can't attack it.
+
+@305
+Gained %s gold as a reward\nfrom the nation.
+
+@306
+You can't view the information!
+
+@307
+There is no lookout.
+
+@308
+Fatigue rose\nby %s.
+
+@309
+Fatigue recovered\nby %s.
+
+@310
+The hot spring's effects raised\nyour Experience.
+
+@311
+Gained %s\ngold coins.
+
+@312
+Lost %s\nsailors.
+
+@313
+Flop, flop...
+
+@314
+You got a baby shark!
+
+@315
+You can't organize sailors during battle!
+
+@316
+Save the ending data?
+
+@317
+You can't change the figurehead at sea.
+
+@318
+This is fair data.\nIf you quit the game,\nthe data will be lost.\nIs that all right?
+
+@319
+Quit the game?\nIs that all right?
+
+@320
+Who will equip it?
+
+@321
+%s\nequipped %s.
+
+@322
+Removed %s.
+
+@323
+Which ship will it be equipped on?
+
+@324
+The Devil Statue broke!
+
+@325
+The Devil Statue won't come off...\nRemove it by force?
+
+@326
+You have no items.
+
+@327
+%s\nequipped %s.
+
+@328
+You have no items to equip.
+
+@329
+%s\nremoved %s.
+
+@330
+The music is currently %s.\nSet it to %s?
+
+@331
+The sound effects are currently %s.\nSet them to %s?
+
+@332
+Vibration is currently %s.\nSet it to %s?
+
+@333
+The Quick Guide auto display\nis currently %s.\nSet it to %s?
+
+@334
+The town of %s is\nunder attack by the fleet of %s!
+
+@335
+%s leveled up!!
+
+@336
+%s\nrose by %s!
+
+@337
+%s disbanded.
+
+@338
+%s has sunk!
+
+@339
+%s has\nno sailors at all!
+
+@340
+Got %s!
+
+@341
+%s\nhas joined you!
+
+@342
+After leading %s\nfor many years,\n%s has...
+
+@343
+lived out a full life and\nclosed a life full of upheaval.
+
+@344
+The Age of Discovery, which brought\ngreat change to the world from the\nMiddle Ages to the early modern era...
+
+@345
+Leaving behind countless legends,\nit will be passed on to the\nnext new generation--
+
+@346
+%s\nrefused to accept the letter.
+
+@347
+A letter has reached %s.
+
+@348
+Goodwill rose\nby %s.
+
+@349
+A letter has arrived\nfrom %s.
+
+@350
+%s\nproposes a pact against\n%s.\nDo you accept?
+
+@351
+%s and\n%s\nhave formed a pact against\n%s and become allies.
+
+@352
+You refused the offer.
+
+@353
+The pact with %s\nfailed.
+
+@354
+The pact between\n%s and\n%s\nhas been broken off.
+
+@355
+%s\nhas asked to break the pact!
+
+@356
+%s\nproposes a cease-fire.\nDo you accept?
+
+@357
+%s and\n%s\nhave agreed to a cease-fire.
+
+@358
+%s\nagreed to a cease-fire.
+
+@359
+%s\nrejected the cease-fire offer!
+
+@360
+%s\ndeclared war on\n%s!
+
+@361
+%s\nhas declared war!
+
+@362
+%s\nhas come under your wing.
+
+@363
+%s\nrefused the merger offer.
+
+@364
+False information\nhas reached %s.
+
+@365
+The lure toward %s\nseems to have succeeded.
+
+@366
+A forged document\nhas reached %s.
+
+@367
+It seems you succeeded in setting\n%s and\n%s against each other.
+
+@368
+It seems they want to deepen their goodwill.
+
+@369
+Someone's scheming seems to be\nlowering goodwill with %s!
+
+@370
+%s and\n%s\nhave begun fighting!
+
+@371
+The plan seems to have failed.
+
+@372
+In %s,\nbad rumors about %s\nare spreading.
+
+@373
+Share has dropped.
+
+@374
+The rumor wasn't taken seriously.
+
+@375
+In %s,\nthe broker of %s\nreceived a letter.
+
+@376
+Will you pay?
+
+@377
+Took away the share of %s.
+
+@378
+Lowered the share of %s.
+
+@379
+In %s,\n%s seems to have\nbribed your broker!
+
+@380
+The bribe failed.
+
+@381
+%s\nignored the merger offer.
+
+@382
+%s and\n%s\nhave made a pact and become allies.
+
+@383
+Admiral, a storm is coming!
+
+@384
+Admiral, it's a storm!
+
+@385
+Oh no, Admiral!\nIt's a storm!
+
+@386
+Admiral, a storm's coming!
+
+@387
+Admiral, a storm's blowing in!
+
+@388
+Oh noooo!\nIt's a stoorm!
+
+@389
+Admiral, it's turned into a blizzard!
+
+@390
+Admiral, it's turned into a blizzard!
+
+@391
+Admiral, a blizzard!
+
+@392
+Admiral, it's a blizzard, you know!
+
+@393
+Brrr!\nA-Admiraaal, it's a blizzaard!
+
+@394
+Admiral,\nthe sailors seem to have scurvy!
+
+@395
+This is bad!\nThe sailors have come down with scurvy!
+
+@396
+Admiral, this is terrible!\nThe sailors\nseem to have scurvy!
+
+@397
+Admiral, the sailors\nseem to have scurvy!
+
+@398
+Admiral, the sailors\nseem to have scurvy, hmm!
+
+@399
+This is baaad!\nThe sailors got sker-vy!
+
+@400
+Admiral,\nthe sailors have scurvy, I'm afraid!
+
+@401
+Admiral, rats have broken out in swarms!\nAt this rate they'll ruin our food!
+
+@402
+Admiral, a rat outbreak!\nI'm worried about the food.
+
+@403
+Admiral, the ship is full of rats!\nThe food might be in trouble...
+
+@404
+Eeek!\nAdmiral, the ship is full of rats!\nHelp!
+
+@405
+Admiral, the rats have broken out in swarms!\nIs the food okay!?
+
+@406
+Admiral, the ship is full of rats!\nThe food's in danger, I tell you!
+
+@407
+Waaah!\nAdmiral, there are so many rats!\nDon't eat my food, pleeease!
+
+@408
+Admiral, the ship is full of rats!\nOur food is in danger!
+
+@409
+A-a storm!!\nIt was so sunny just a moment ago...
+
+@410
+Admiral, a storm!!\nThe weather changed so suddenly...
+
+@411
+Admiral, a storm's here!!\nIt was sunny just a moment ago...
+
+@412
+Admiral, it's a storm!!\nIt was so sunny, too...
+
+@413
+A-a storm!!\nHow strange, it was so sunny...
+
+@414
+A-a storm!!\n...It was such fine weather, hmm?
+
+@415
+A-a storm's here!!\nThe sun was out just a moment agooo...
+
+@416
+Admiral, look at the sky!
+
+@417
+Admiral, look at the sky!
+
+@418
+Admiral, look at the sky!
+
+@419
+Admiral, look at the sky!
+
+@420
+Admiral, look at the sky, will you!
+
+@421
+Admiraaal, look at the skyyy!
+
+@422
+Fog is rolling in...\nI'm worried about visibility.
+
+@423
+Fog...
+
+@424
+Fog is rolling in...
+
+@425
+Fog... It'll make it hard to see.
+
+@426
+Fog's rolling in.
+
+@427
+Fog's rolling in, hmm.
+
+@428
+It's fog. I can't see around us.
+
+@429
+Fog is rolling in.\nI'm worried about visibility...
+
+@430
+Waaah!\nM-monster!!
+
+@431
+Gah!!\nA monster!!
+
+@432
+Waaah!\nM-monster!!
+
+@433
+Eeek!\nA-a monster!!
+
+@434
+Eeeeek!\nM-monster!!
+
+@435
+Waaaah!\nM-monsteeer!!
+
+@436
+W-what is this song...?
+
+@437
+?\nWhat is this song...?
+
+@438
+I hear a song...?
+
+@439
+W-what is this song...?
+
+@440
+What's that...? I hear a song...?
+
+@441
+Hm? What's that...?\nS-someone is swimming!
+
+@442
+What is that...?\nSomeone seems to be swimming!
+
+@443
+What is that...?\nS-someone's swimming!
+
+@444
+Oh...?\nS-someone seems to be swimming!
+
+@445
+What's that...?\nS-someone's swimming out there!
+
+@446
+What's that...?\nS-someone is swimming!
+
+@447
+What's that...?\nSomeone's swimming!
+
+@448
+What on earth is that...?\nIs someone... swimming!?
+
+@449
+Oh! Could that be the mermaid\nof legend!?
+
+@450
+Oh!\nIs that the legendary mermaid!?
+
+@451
+Whoa!\nCould it be the legendary mermaid!?
+
+@452
+My... Could that be the mermaid\nI've heard of!?
+
+@453
+Don't tell me that's the\nlegendary mermaid!?
+
+@454
+That's... a mermaid, isn't it?\n
+
+@455
+Is that a mermaid?\n
+
+@456
+That's... the legendary mermaid, I wonder?\n
+
+@457
+Admiral! Look over there!\nThere are strange bubbles on the sea!
+
+@458
+Admiral!\nStrange bubbles on the sea!
+
+@459
+Admiral!!\nI see strange bubbles on the sea!
+
+@460
+Admiral, look over there!\nStrange bubbles are floating on the sea!
+
+@461
+Admiral! Suspicious bubbles\nare floating over there!
+
+@462
+Admiral, look at that!\nWeird bubbles are floating on the sea!
+
+@463
+That's the one I've heard about...
+
+@464
+(Gulp)\nThat's the famous...
+
+@465
+(Gulp)\nDon't tell me that's...
+
+@466
+Could that be the famous...
+
+@467
+(Gulp)\nTh-that's the rumored...
+
+@468
+No, no, is that the bubble in question...
+
+@469
+?
+
+@470
+There's a tale among the sailors about\nbubbles that swallow ships...
+
+@471
+They say there are bubbles that swallow\nships...
+
+@472
+I've heard there are bubbles\nthat swallow ships...
+
+@473
+I've heard there are bubbles\nthat swallow ships...
+
+@474
+Those bubbles...\nI hear they swallow ships whole.
+
+@475
+It's an old legend, but they say those bubbles\nswallow whole ships.
+
+@476
+I heard they swallow a ship whole...
+
+@477
+This is bad! Let's evade! All hands to stations!
+
+@478
+Then we evade! All hands to stations!
+
+@479
+No way! We have to run!\nEveryone, evade! All hands to stations!
+
+@480
+Everyone, stay calm.\nAll hands to stations! We evade!
+
+@481
+Admiral! It's %s!
+
+@482
+Admiral! It's %s!
+
+@483
+Admiral! It's %s!
+
+@484
+Admiral! It's %s!
+
+@485
+Admiraaal! It's %s!
+
+@486
+Admiral! It's %s, I'm afraid!
+
+@487
+An epidemic has broken out!
+
+@488
+Admiral, this is bad!\nAn epidemic has broken out!
+
+@489
+This is bad! An epidemic has broken out!
+
+@490
+Admiral!\nAn epidemic has broken out!
+
+@491
+An epidemic has broken out!\nThis is troublesome.
+
+@492
+Oh nooo!\nA scary epidemic is spreading!
+
+@493
+Admiral, the wind has died.\nThere's nothing we can do...
+
+@494
+The wind has died...
+
+@495
+Oh, the wind died...\nAll we can do is wait.
+
+@496
+Not a breath of wind... It's a calm.\nLet's wait patiently.
+
+@497
+Tch, the wind stopped completely.\nGuess we just wait...
+
+@498
+...A calm, Admiral.\nThere's nothing to do with no wind.
+
+@499
+The wind's gone...\nOh well, let's wait it out.

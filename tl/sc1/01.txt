@@ -1,0 +1,908 @@
+@041.000A.0
+Admiral! It's here!!\nA monster fish!!
+
+@041.000A.1
+Admiral! It's here!!\nA monster fish!!
+
+@041.000A.2
+Whoa!\nIt's a monster fish!!
+
+@041.000A.3
+Eek!!\nI-it's here!!\nA monster fish!!
+
+@041.000A.4
+Admiral!!!\nThe damn monster fish showed up!!
+
+@041.000A.5
+A-Admiral!\nIt's the monster fish!!
+
+@041.000A.6
+It's heeere!!\nThe monster fiiish!!
+
+@041.000A.7
+Admiral!\nThe monster fish has appeared!!
+
+@042.002A
+\n\n...Give the warning.
+
+@042.003E
+\n\nAye, sir!
+
+@042.0054
+\n\nIssue the warning!
+
+@042.006C
+\n\nUnderstood!
+
+@042.0082
+\nThis sea is under our navy's watch!!\nYou are violating our territorial waters!\nHeave to!
+
+@042.00E0
+\n\nLet's go!
+
+@042.011C
+Well done.
+
+@042.0130
+Admiral, a few words for the crew, please.
+
+@042.0152
+Hm...
+
+@042.017A
+...Do you know of the island nation\nrising in the North Sea?
+
+@042.01BA
+Exactly. The Kingdom of England openly\nallows piracy against Spanish merchant\nships, and steadily builds up its navy\non the plunder.
+
+@042.0230
+Our own country means to claim mastery\nof the Baltic and North Seas. We must\nfollow suit and raise our navy to\nthe world's first rank.
+
+@042.029E
+But though this great task has been\nentrusted to us, the truth is\nthat not much is expected of us.
+
+@042.0308
+As you all know...\nOur fleet is a navy in name only.\nOur one and only ship at present\nis this one, the Vestalos.
+
+@042.036C
+To the powers that be, we are merely\na pirate-like patrol fleet,\n"a stopgap until a proper navy\nis formed."
+
+@042.03E4
+...That's the sad lot of a young nation.\nWe also support the Protestants as\nstate policy, so the budget is tight.
+
+@042.044C
+The road ahead is endlessly steep.\nI don't expect this to be settled\nin two or three years, of course.
+
+@042.04B0
+But someday, we will float the world's\nmightiest navy, built by our own hands,\nin the Baltic, and show its splendor\nto the King and all our people!
+
+@042.053A
+Success depends\non your tireless efforts!
+
+@042.056C
+Yeah!!
+
+@042.0584
+(clap clap clap clap)
+
+@042.05B0
+Every time, the Admiral's speech\ngives me chills.
+
+@042.05E8
+It is hardly an exaggeration to say\nthat we decided to make our graves in\nthis country because we were captivated\nby the Admiral's fiery words.
+
+@042.066E
+Now that you mention it, it was Admiral\n{FA}'s speech that first made me\nshiver with excitement, too.
+
+@042.06CA
+...Enough.\nThat is one of the duties I dislike\nmost. More to the point...
+
+@042.0716
+From now on, when we defeat enemy fleets\nor pirates, the crown will pay us\na reward according to our results.
+
+@042.077E
+Oh!
+
+@042.078C
+So the conditions are in place to\nexpand the fleet's budget.
+
+@042.07C4
+At last we can go on the offensive.
+
+@042.07E6
+We must quickly confirm the report that\nHanseatic ships are intruding in our\nwaters without permission. It seems\ntoday's prey was a bust.
+
+@042.0872
+Give the crew a short rest, then\nprepare to leave port at once.
+
+@042.08BC
+Understood!
+
+@042.08CA
+Aye aye, sir!
+
+@043.000A
+Let's crush Speyer right now and take\nback the trade rights on the Baltic\ncoast that they won by violating our\nwaters.
+
+@043.0094
+If we win a naval battle, the enemy's\nhold on a port weakens.
+
+@043.00D6
+Whoever has a strong fleet can maintain\na broad trade domain, and the profit\nfrom it buys an even stronger fleet.\nThat's how it works.
+
+@043.0168
+That's right. If you want to raise the\nhuge sum needed to build a fleet,\nthe best way is to earn it through\ntrade all along.
+
+@043.01EE
+So a trade domain, the largest in the\nworld, is the shortcut to the world's\nbest fleet.
+
+@043.0236
+Indeed. In the long run, an army without\nfunds can never hold on to victory.
+
+@043.02A2
+Even 1% will do. Sign contracts with\nas many ports as possible and you'll\nsecure a wide route network. Raising\nyour share can come afterward.
+
+@043.0334
+And if a port is under contract to a\nforce we're at war with, we can invest\nin it and take its share without\nany hesitation.
+
+@043.03A0
+Good.\nFirst, we contract with the main North\nSea ports and secure an exit to the\nopen ocean.
+
+@044.0010
+<Girl's Voice>\nHey, you!
+
+@044.0042
+That ship tied up in the harbor is yours,\nisn't it? What's the big idea?
+
+@044.0088
+Are you listening? I'm talking to you!
+
+@044.00B4
+...What are you trying to say?
+
+@044.00CC
+This is my turf, got it? Don't you dare\ngo doing business here without asking,\nnot ever!
+
+@044.0126
+Ril!\nThat's a rude way to talk to someone\nyou've never met!
+
+@044.015C
+If we sign a contract and trade,\nthere should be no problem...
+
+@044.018E
+"There should be no problem..." Hmph!\nLook at you, all prim and proper.\nHow gloomy can you get?
+
+@044.01E8
+Stop it, this is bad.
+
+@044.0202
+...Ohhh. You're military, aren't you?\nThese days soldiers, adventurers and\npirates are all rushing into business.\nBusiness, business, business.
+
+@044.0264
+Outsiders keep barging into us\nmerchants' territory, one after another,\nand they act so high and mighty about\nit. It's so annoying!
+
+@044.02E8
+Ril!
+
+@044.02F8
+I've listened quietly long enough.\nThis woman!
+
+@044.031E
+What, you wanna fight me?
+
+@044.0340
+Gerhard, stop.
+
+@044.0358
+But, sir!
+
+@044.036A
+...Hmm. You're a bit more decent\nthan I thought.
+
+@044.03A0
+But that's a separate matter! Get in my\nway and I won't forgive you!\nCome on, Kamil!
+
+@044.0406
+Um, I'm sorry about this...\nPlease don't take offense.\n...Though that's impossible, right?
+
+@044.0454
+W-well then...
+
+@044.048C
+Whew... What a brat.
+
+@044.04B2
+Admiral {FI}!\nYou are far too lenient! How can you\nlet that rude woman's insults go\nunanswered?!
+
+@044.050A
+......\nDealing with that sort of person is\nworse than any torture...
+
+@044.0568
+Let sleeping dogs lie, as they say.\nShe's the type who's trouble\nonce she's angry.
+
+@045.0010
+The lady boss of the Argot Company is\nwaiting for you in Amsterdam.
+
+@046.000E
+Hold it right there!
+
+@046.0024
+I hear you're the richest person in\nthese waters. Then compete with me!
+
+@046.007E
+Compete?
+
+@046.0090
+This is the key to solving a treasure\nmap. You and me: whoever finds it first\nis the champion of the North Sea.
+
+@046.00F8
+No holding back, of course.\nIt's a serious contest!\nI won't lose to you of all people!
+
+@046.0192
+A map key?\nWhat does that mean...?
+
+@047.000A
+Aaah!\nYou already found it?\nSo annoying!
+
+@047.003E
+...I lost.\nBut oh well.
+
+@047.0066
+If you beat me, you can't lose to\nanyone else. You'd better become the\nbest in the world, or I won't accept it!
+
+@048.0008
+Ril Argot has found\nHunter God Ur's Bow!
+
+@048.0052
+Heh. Too bad,\n{FI}!!
+
+@048.007A
+If you want it, you'd better wait for\nme in Amsterdam.
+
+@049.000C
+Oh, there you are.
+
+@049.0024
+Hehn. This is the mark of the champion\nof these parts, so I can't just\nhand it over that easily.
+
+@049.008C
+But there is one thing I'd trade it for.
+
+@049.00D4
+It's called the "Heaven's Wristband."\nIt's just sooo cute!
+
+@049.0144
+It's somewhere in the New World.\nBring it to me and it's yours.\nSee ya, bye-bye!
+
+@049.01AC
+Huh, you have it?\nLet me see, let me see!
+
+@049.01D8
+Waaah!!\nIt's real, it's so cuuute!!\nHey, give it to me!\nI'll give you this bow for it!
+
+@049.023E.0
+Sure
+
+@049.023E.1
+No
+
+@049.0260
+Yay!!\nNo changing your mind, got it?!\nBye now!
+
+@049.02A8
+Huh?!\nIt's a Victor's Mark, you know? Don't\nyou want it??
+
+@049.02D8
+...It's not that I don't want it.
+
+@049.02F6
+See? See? Here,\ngive me that, please!!
+
+@049.0334
+Waaah!! It's real, it's so cuuute!!\nYesss!! See ya!!
+
+@049.038E
+You handed over the Heaven's Wristband.
+
+@050.000C
+Oh, you brought it!?\nLet me see, let me see!!
+
+@050.0040
+Waaah!! It's real!\nSo cuuute!!\nHere, you can have this!\nYay!! See ya!!
+
+@050.00A2
+You handed over the Heaven's Wristband.
+
+@051.000C
+I don't know what you plan to do in\nthe southern Mediterranean, but\nlet me warn you.\nYou should leave.
+
+@051.006A
+...What do you mean?
+
+@051.0084
+There's a terrible fellow out there.\nTake my advice and head to another\nsea, for your own good.
+
+@051.0106
+...A terrible fellow?
+
+@051.0126
+(...Could it be!?)
+
+@052.0008
+You mean to make an enemy of the\nHayreddin Clan?
+
+@052.0044.0
+I don't
+
+@052.0044.1
+I'll face them
+
+@052.0070
+Then get out of here before they\nfind you.
+
+@052.00B2
+You've got a death wish.
+
+@053.000C
+Looks like you've finally been put on\nthe Ottoman Empire's wanted list.\nBe careful out there.
+
+@054.000A
+You're new here, aren't you?
+
+@054.0026
+?  Yes.
+
+@054.0036
+I see, I see.\nWell, do your best.\nHeh heh heh.
+
+@055.0008
+You're that soldier called {FA}, right?\nThe Guild boss in Veracruz was\nasking for you.
+
+@056.0010
+...What about you?\nWon't you go with the others?
+
+@056.0044
+<Foreign Girl>\n...
+
+@056.005C
+I see. You alone are of a different\npeople from the other captives.\nYou should let this town look after\nyou for a while.
+
+@057.000C
+Ah... {FI}
+
+@057.001A
+Hm, what is it?
+
+@057.002C
+...Thank... you
+
+@057.0042
+You spoke! ...You learned our language?
+
+@057.0062
+(nods) ...A little
+
+@057.007E
+I see. You learn quickly.
+
+@057.009E
+{FI}. Thank, you...
+
+@057.00B8
+Ah, yes. ...Think nothing of it.
+
+@058.000C
+Eek! Wh-what are you doing, you scum!
+
+@058.0032
+Come over here!
+
+@058.004A
+?  ...Espinosa!?
+
+@058.0066
+Admiral {FA}.\nThank you for taking down this\nvillain.
+
+@058.0094
+Y-you can't do this to me and get away\nwith it!
+
+@058.00CA
+Shut up!
+
+@058.00E2
+Gah!! I-it hurts!!
+
+@058.0106
+You've done whatever you pleased\nto us for years.
+
+@058.0132
+W-what are you talking about?
+
+@058.0148
+Don't tell me you forgot...\nMy father was cheated by you and lost\nhis house and his farm. The whole\nfamily has vanished!
+
+@058.01B4
+You killed my friend and made it look\nlike an accident, because he was going\nto report your crimes to the homeland!
+
+@058.0208
+In my hometown, so many villagers were\ncarried off and are being worked\nalmost to starvation!
+
+@058.027C
+A devil...\nin human skin.
+
+@058.02A4
+I-I don't know anything!\nIt was all my stupid underlings'\ndoing!
+
+@058.02E2
+Y-you bastard...!!
+
+@058.0312
+Rotten to the core...\nThere's no room for mercy.
+
+@058.0364
+...Sera, do you know this man?
+
+@058.0396
+!!  You are...!?
+
+@058.03B0
+This man... me... sold high...\nSend to homeland, he said.
+
+@058.03E6
+W-what...!
+
+@058.0404
+Wait, you have the wrong person!\nThis is slander!
+
+@058.042C
+This man...! Brother... friends...\nAll killed!!\nThis man!!
+
+@058.0466
+S-stop it! You, you woman!\nDamn!\nIf I'd killed you with them then...\nUgh!!
+
+@058.04BA
+......You can't talk your way out of\nthis.
+
+@058.04EC
+You monster!\nAdmiral {FA}, what do you intend to\ndo with him?
+
+@058.0528
+I leave his fate to you.
+
+@058.0544
+You heard him! Now come on!\nYou'll pay for your sins in full!
+
+@058.0580
+H-help me!!
+
+@058.05C6
+Sera... remember this.\nMen like that, Westerners, still\nstrut around all over the world.
+
+@058.0626
+...And I may not be so different from\nthem, myself.
+
+@058.0662
+No...\n{FI}...\nis different.
+
+@058.0680
+You shouldn't trust people too much.
+
+@058.06AA
+Admiral {FA}.
+
+@058.06B6
+I feel bad, as if I'm testing you, but\nthere is something I really need you\nto find for me.
+
+@058.07A6
+Rumor has it that a weapon tied to that\nDemon King was sealed away on an icy\nisland far to the northwest of here.
+
+@058.080E
+They say only one who is worthy of\nbeing a ruler can wield that weapon.\nIf you could bring it back...
+
+@058.0876
+If we bring it back?
+
+@058.088C
+I intend to give you\nsomething.
+
+@058.08BA
+What is it?
+
+@058.08CE
+I can't say now.\nConsider it a pleasure waiting for\nyou when you return safely.
+
+@058.0910
+Hm...\nThe Demon King's weapon.
+
+@059.000A
+Oh, you found it?
+
+@059.0030
+Hmm, there's no mistake.\n...Then I'll entrust this to you.
+
+@059.006A
+Please accept this fragment of a map.
+
+@059.00B6
+It belonged to Espinosa.\nHe too was always searching for the\nAfrican Victor's Mark, and we prayed it\nwould never fall into his hands...
+
+@059.0140
+You are the one who should become the\nVictor of these waters. Please find the\ntreasure on the map as soon as you can\nand bring peace and prosperity here.
+
+@059.01CC
+I'd rather you didn't expect too much,\nbut...I'll gladly accept it.
+
+@060.000A
+Admiral. There's nothing in this world\nI hate more than slave traders.
+
+@060.0052
+...Long ago, I was a shipwright on a\nPortuguese fleet bound for India. We\nstopped at Sao Jorge, I fell ill with a\nplague, and I left the ship.
+
+@060.00CC
+The one who saved me then was the local\npeople. They nursed me with real\nkindness.
+
+@060.0126
+I heard the Portuguese had treated them\nterribly. Yet they worried over me like\nfamily, saying a sick man is a sick man.
+
+@060.01A4
+I see...
+
+@060.01B2
+Right then I felt in my bones the Lord's\nteaching, "Love thy neighbor." Since\nthen, this place has been my second\nhome.
+
+@060.0232
+And I swore that one day I'd fight the\nvile, wicked merchants who hunt slaves\nin Africa.
+
+@060.028A
+...Admiral, let's be sure to take down\nEspinosa!
+
+@060.02B8
+Yes. Of course.
+
+@061.001C
+Here......
+
+@061.002C
+What is it?
+
+@061.003E
+Here... I know
+
+@061.0056
+What!?\nThen your homeland is close!?
+
+@061.0096
+I see...\nThen did we pass it when they brought\nyou here?
+
+@061.00D4
+When... run away... from Ottoman
+
+@061.00F6
+The Ottomans!\nWas your country destroyed by the\nOttoman Empire?
+
+@061.0148
+The question was too hard...\nWhat I mean is, Ottoman soldiers\nattacked your homeland, didn't they?
+
+@061.01AC
+I see...
+
+@062.001A
+Sera?\nWhat are you doing in a place like\nthis?
+
+@062.0044
+Town, lively...
+
+@062.005A
+Yes.\nThis is a relay point for Indian Ocean\ntrade. Is the big-city noise hard on you?
+
+@062.009E
+Noise?
+
+@062.00B0
+Do you dislike crowds?
+
+@062.00C8
+No. I don't dislike\nBut... surprised
+
+@062.00F4
+I see.\nYou're not used to it.\n...It's quiet here.
+
+@062.0130
+...What was your homeland\nlike?
+
+@062.015A
+Homeland...?
+
+@062.016E
+The country where you were born.
+
+@062.0194
+Wide, wide grassland...\nSpring, flowers, many
+
+@062.01BE
+River... spring...\nBirds... goats... sheep...\nAnd then......
+
+@062.01FA
+Far away... sea, I see
+
+@062.0214
+Oh... the sea.
+
+@062.0228
+Yes. Blue, blue sea
+
+@062.0242
+It must be beautiful.\nI'd like to see it.
+
+@062.026E
+But...\nAll burned away...
+
+@062.029C
+...That's right.\nI'm sorry.
+
+@062.02BE
+No\n{FI}, don't mind
+
+@062.02DA
+...\nOur town, surely...
+
+@062.02F8
+Hm? What about your town?
+
+@062.0314
+Can't... say it well...
+
+@062.0338
+If you have no place to return to,\nyou can stay on this ship as long as\nyou like.
+
+@062.036C
+Warship, woman, no good\nTrouble...
+
+@062.0390
+What I said before you learned to\nspeak...
+
+@062.03B6
+Never mind. Don't worry about it.\nYour cooking is quite popular.\nNo one will object.
+
+@063.000A
+Make way for Lord Nagarpur's party!\nHey, you, Westerner, get out of the way!
+
+@063.0050
+Nagarpur?
+
+@063.0064
+What is this?\nThis strange horde...
+
+@063.0086
+Hohoho, make waaay!\nHm? You there.\nDo you want something from me?
+
+@063.00D0
+What do you mean?\nI don't intend to be in your way...
+
+@063.0102
+Hmm, hmm, I see.\nYou want a tip, don't you?\nHere you go!
+
+@063.015A
+Hey! What are you getting so wrong!
+
+@063.0186
+What!\nAre you making fools of our Admiral\n{FI}!
+
+@063.01BA
+...Nagarpur, was it?\nWhat is the meaning of this?
+
+@063.01E6
+Hohoho, is that not enough?\nThen shall I give you more?\nI have plenty of money, you see~
+
+@063.0246
+Nagarpur... I remember now!\nThe Nagarpur Company, famous for its\nnouveau riche boss! He seems to run\nthis area.
+
+@063.02AC
+...You seem to be earning quite a lot.
+
+@063.02D2
+After all, this world is money, money,\nmoney. Money is everythiiing!
+
+@063.0312
+Money is everything... How pitiful.
+
+@063.0348
+I like money too, but the ones who say\nit's everything are, without\nexception, rotten through and through.
+
+@063.03A0
+...Hm?\nDid you say... something?
+
+@063.03C2
+Got a problem, Westerner!
+
+@063.03E4
+Ugly on the inside, just like the\noutside... I feel sick. Let's go.
+
+@063.0420
+Quite right, sir.
+
+@063.0442
+Oho, picking a fight with me, are you?\nReally, either you have a death wish\nor... I don't know what.
+
+@063.0498
+No one can beat my financial power!
+
+@063.04D8
+He thinks money alone can solve\nanything, this man.
+
+@063.0516
+What a gross misunderstanding!
+
+@063.0534
+Let him talk. No matter how much wealth\none has, if the one using it is\nincompetent, that's the end of it...
+
+@063.0588
+Hohoho, if you have time for such\nnonsense, why not think of a way to\nbecome fabulously rich like me?
+
+@063.05E4
+Now, off we go.\nMake way.
+
+@063.060A
+Move it, move it!
+
+@063.062C
+...I could never get along with that man.
+
+@063.0658
+Utterly rude! Let our fleet's power\nshow him how the world ought to be!
+
+@064.0018
+Admiral {FA}.\nYou are the king of the sea who rules\nthe Indian Ocean. Please, accept this.
+
+@064.0082
+...You, legend, king
+
+@064.009E
+What did you say?
+
+@064.00B0
+This
+
+@064.00C0
+You're giving it to me?\n...This is!?
+
+@064.0100
+This leaf...?\nWhat on earth does it mean?\nWhy give it to me?
+
+@064.0138
+...Legend of my country
+
+@064.014E
+A legend?
+
+@064.015C
+Silver hair, blue eyes, rides ship of\niron. King of sea... find treasure\nof my kingdom
+
+@064.01A4
+I'm the legendary king? A ship of iron?
+
+@064.01C8
+(nods)
+
+@064.01E6
+Hahaha!\nHow absurd. It's just a fairy tale.
+
+@064.021A
+{FI}\nYou made fun... of my country's legend
+
+@064.023C
+Made fun? But think about it. Could you\nbelieve such a wild story?\nSilver hair and blue eyes?\nHa, it sounds contrived.
+
+@064.02A8
+{FI}\nYou made fun of me...
+
+@064.02C2
+Ah, no...\nI didn't mean it like that.
+
+@064.02F8
+I'm sorry, I'm sorry.\nBut it must be someone else.\nIt isn't me.
+
+@064.033A
+{FI}......\nFind treasure
+
+@064.0354
+Hm? Ah, I'll look. I'll look.\n...Don't make such a scary face.
+
+@065.001C
+Silwood!
+
+@065.0068
+!  Don't tell me, you know each other!?
+
+@065.008A
+Friend from my country!
+
+@065.00A0
+What!!
+
+@065.00D2
+So there were survivors after all...\nA nostalgic reunion, then.
+
+@065.010E
+I see... Now you can rest easy.
+
+@065.0144
+I go home to my country
+
+@065.015A
+...Right.\nYes, that's best.
+
+@065.017C
+{FI}\nSurely will become king of sea
+
+@065.0198
+...For me, who aims to build the world's\nbest navy, there's no better\nsend-off.
+
+@065.01CE
+{FI}\nWhen you become king of sea...
+
+@065.01F4
+When...
+
+@065.0206
+What?
+
+@065.0214
+...We meet again
+
+@065.022A
+Yes. I hope so.
+
+@065.024C
+Don't let your guard down around\nWesterners...me included.
+
+@065.0286
+{FI}!
+
+@065.02C2
+...What did you say?
+
+@065.02D6
+It's nothing\n...Thank you...!\nGoodbye!!
+
+@065.030A
+Yes...\n...Farewell.
+
+@065.0356
+Is this all right, sir?
+
+@065.0370
+...She's a strong woman.\nThere's no need to worry.
+
+@066.000C
+You're a new face. You'd best leave\nbefore you get dragged into the Coen\nand Pereira squabble.
+
+@066.00A0
+Whoever wins, it's no great blessing\nfor us anyway.\n...Right, young man?
+
+@066.00EA
+W-well, yes, I suppose...
+
+@066.0102
+!  You are...!?
+
+@066.0118
+?  ...Ah!!
+
+@066.0136
+Kamil...!?\nIf I remember right.
+
+@066.0154
+{FI}...\nIt's you, right?
+
+@066.016E
+Why are you here? Where's Ril?
+
+@066.019A
+Well, um...\nWe're acting separately right now.
+
+@066.01DC
+W-well then...
+
+@066.0200
+There seems to be some reason behind\nthis...

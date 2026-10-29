@@ -1,0 +1,749 @@
+@1500
+I must always know\nwhere we are.
+
+@1501
+Uh, um, where are we?\nHang on a sec!
+
+@1502
+You can tell where we are\nfrom the stars, too.
+
+@1503
+Just need to know where\nwe are, right?
+
+@1504
+Surveying, eh? The basics\nof seafaring, you know.
+
+@1505
+Surveying, right? I'll\ndo my best!
+
+@1506
+Surveying, is it?\nOh, it's easy.
+
+@1507
+Surveying... I use this\ntool, right?
+
+@1508
+Surveying finds our position\nfrom the sun.
+
+@1509
+Surveying, right? It's\nsailing 101!
+
+@1510
+We work out our position\nfrom the sun and stars.
+
+@1511
+I'm keeping watch all\naround. Don't worry.
+
+@1512
+Keeping watch on the\nsurroundings now.
+
+@1513
+If anything's wrong,\nI'll tell you right away!
+
+@1514
+I can see so far!\nThe world is huge.
+
+@1515
+Nice and high up.\nFeels great!
+
+@1516
+If I spot anything,\nI'll tell you at once.
+
+@1517
+It's high up, so I can\nsee faaar!
+
+@1518
+On watch, on watch! I'm\nkeeping a good lookout.
+
+@1519
+If I find something,\nI'll tell everyone!
+
+@1520
+I sense danger with\nmy whole body!
+
+@1521
+Wow! I can see\nso far!
+
+@1522
+I'm confident in my eyes.\nLeave it to me.
+
+@1523
+Tailwind, headwind...\nI'll show you wind control.
+
+@1524
+Pick fore-and-aft or\nsquare sails by the wind.
+
+@1525
+In a strong wind,\nI might blow away.
+
+@1526
+See? My sail handling\ngot better, right?
+
+@1527
+To slow down, set the\nsails to "Half Open."
+
+@1528
+Fore-and-aft and square\nsails are very different.
+
+@1529
+I can handle the\nwind too!
+
+@1530
+A true sailhand can\nread the wind.
+
+@1531
+I can read the wind\nnow!
+
+@1532
+Sailhand and helmsman\nmust work together.
+
+@1533
+Waaah! The wind's\ngonna blow me away!
+
+@1534
+No matter how good I get,\na "Calm" is awful.
+
+@1535
+I train like this\nevery day.
+
+@1536
+Leave the boarding\nfights to me...
+
+@1537
+I'll get even\nstronger!
+
+@1538
+How's this?\nDo I look the part?
+
+@1539
+When a fight starts,\nleave it to me!
+
+@1540
+Ow! My back just\n"snapped"...
+
+@1541
+Training all the time\nmakes me hungry.
+
+@1542
+Constant training is\nwhat matters.
+
+@1543
+My swordplay got a bit\nbetter, right?
+
+@1544
+I must show the sailors\nhow to use a sword.
+
+@1545
+How's this? Pretty\nelegant swordplay, huh?
+
+@1546
+In boarding fights, I'll\nlead and give orders.
+
+@1547
+Test firing right now.
+
+@1548
+We're test firing. Talk\nto me later...
+
+@1549
+Practicing for the\nnext sea battle.
+
+@1550
+Don't you get nervous\nwhen you fire?
+
+@1551
+All right, one more\nshot!
+
+@1552
+Let's fire away, nice\nand loud!
+
+@1553
+That loud noise echoes\nin my empty stomach.
+
+@1554
+Cannon accuracy is\nthe problem.
+
+@1555
+I'm practicing so we can\nfight anytime.
+
+@1556
+Hitting the target is\nhard...
+
+@1557
+I hate this sound, no\nmatter how often I hear it.
+
+@1558
+I need to study\ngunnery more.
+
+@1559
+There, it's nice and\nclean now, right?
+
+@1560
+The ship is our home.\nI must polish it.
+
+@1561
+It's our ship, so we\nhave to keep it clean.
+
+@1562
+However much I clean,\nit gets dirty again.
+
+@1563
+Swabbing the deck?\nLeave it to me!
+
+@1564
+Cleaning under the open\nsky is nice for a change.
+
+@1565
+Scrub, scrub... All\nclean now!
+
+@1566
+It's a precious ship,\nso I put my heart in it.
+
+@1567
+It's gotten much\ncleaner.
+
+@1568
+I miss my training days\nunder my master...
+
+@1569
+These leftovers...\nEmilio, was it you?
+
+@1570
+It feels good when\neverything's clean.
+
+@1571
+Take courage from the\nmusic I play!
+
+@1572
+I needn't join this\nbattle...
+
+@1573
+ZZZ... Ugh, it's\nso noisy.
+
+@1574
+It's a battle, but\nstay calm, have a smoke...
+
+@1575
+A battle? Then I'll read\nmy sea battle book...
+
+@1576
+Call me when it's\nmy turn.
+
+@1577
+Pwah! I can't put down\nmy drink even in battle!
+
+@1578
+Look! It's the\n"Dance of Battle"!
+
+@1579
+A sea battle!? Wait,\njust one more page.
+
+@1580
+Shall we gaze at\nthe sky for a while?
+
+@1581
+Keep a calm mind...\nPanic and you lose.
+
+@1582
+A battle? Hmph. My\nfishing rod matters more.
+
+@1583
+Please wait a moment.\nI'm tending my sword...
+
+@1584
+I'd better put away\nmy precious models...
+
+@1585
+Munch munch, if there's a\nbattle I'd better eat.
+
+@1586
+Before a battle, I\nshould tidy up...
+
+@1587
+Is it not my turn\nyet...?
+
+@1588
+Hup, hup! I wonder if\nthere are strong foes...
+
+@1589
+Until the experiment\nis done, I can't leave...
+
+@1590
+ZZZ... A battle?...\n(nod) ZZZ
+
+@1591
+Shall I read the cards\nfor this battle?
+
+@1592
+I've saved my best move\nfor a "Duel"...
+
+@1593
+ZZZ... Battle...\nNo... too full...
+
+@1594
+A battle while I'm\nbuilding a model!?
+
+@1595
+Fighting is bad...\nThe flowers are sad...
+
+@1596
+We'll reinforce any\nhit spots right away.
+
+@1597
+Now it's the\nshipwright's time to shine...
+
+@1598
+If we're hit, I'll\nrush right over!
+
+@1599
+If the hull's damaged,\nI'll fix it at once!
+
+@1600
+Try not to damage\nthe ship too much.
+
+@1601
+Report any hits!\nI'll rush right over.
+
+@1602
+If we get hit, I'll\nfix it up!
+
+@1603
+A sea battle... The\nshipwright is busy now.
+
+@1604
+Leave repairs to me and\nfight without worry!
+
+@1605
+Report damage at once!\nI'll go patch it up.
+
+@1606
+I'll fix cannon damage\nin no time!
+
+@1607
+If the ship's broken,\nI'll repair it at once.
+
+@1608
+I'll tend to the\nwounded.
+
+@1609
+If anyone's hurt,\ncall me right away.
+
+@1610
+I'm here, so don't\nworry!
+
+@1611
+An angel in white\nis by your side!
+
+@1612
+Injuries? Just put\nsome spit on it!
+
+@1613
+The great doctor is\nwith you!
+
+@1614
+If you get hurt,\nI'll treat you!
+
+@1615
+If you're hurt, don't\npush it. Come here.
+
+@1616
+Don't get hurt by\nfighting recklessly.
+
+@1617
+Don't throw your\nlives away...
+
+@1618
+I'm bad with blood,\nthough...
+
+@1619
+The Doctor is\nbusy in a battle.
+
+@1620
+Eat my cooking and\nyou'll find courage!
+
+@1621
+How about a meal\nbefore the battle...
+
+@1622
+Eat this and you're\nsure to win!
+
+@1623
+You still get hungry\nin a battle...
+
+@1624
+Can't fight on an\nempty stomach!
+
+@1625
+A battle, eh? I'll\ncook up a feast!
+
+@1626
+Eat up and give it\nyour all!
+
+@1627
+I'll cook a feast for\nthe victory party.
+
+@1628
+What should I cook\nfor the battle?
+
+@1629
+Should someone like me\nbe cooking...?
+
+@1630
+Why am I cooking in\nthe middle of a battle?
+
+@1631
+Will good food really\nraise morale...?
+
+@1632
+Everyone eats this\nbefore fighting.
+
+@1633
+The pigs are startled\nby the cannon noise.
+
+@1634
+Even in battle, I brush\nthem with love.
+
+@1635
+There, there, almost\ndone. Don't get excited.
+
+@1636
+I'm brushing you, so\nhold still, please!
+
+@1637
+Make such a racket and\nI'll eat you!
+
+@1638
+Now, now, don't\nmake a fuss.
+
+@1639
+Like I said, I'm\nnot a pig!
+
+@1640
+Pigs need care even\nduring a battle.
+
+@1641
+In a battle, I'd take\neven a pig's help.
+
+@1642
+With pigs around, there's\nno tension...
+
+@1643
+The roar is causing\npanic! I hate this!
+
+@1644
+Don't be scared, it's\nfine. It'll be over soon.
+
+@1645
+Lord, please save\nour fleet...
+
+@1646
+Grant peace to\nthose who have fallen.
+
+@1647
+God, please protect\nmy comrades.
+
+@1648
+I'm praying that\neveryone's safe.
+
+@1649
+I'd rather fight than\npray!
+
+@1650
+Everyone, God is\nwith us!
+
+@1651
+God, please help\nmy friends!
+
+@1652
+Lord, so many more\nlives...
+
+@1653
+Please lend strength to\nmy friends, Clau and the rest.
+
+@1654
+Victory to\nmy fleet...
+
+@1655
+I prayed to God, so\nvictory is certain!
+
+@1656
+May all my friends\nstay safe...
+
+@1657
+We can't use "Schemes"\nin a sea battle.
+
+@1658
+"Schemes" won't work\nin a sea battle...
+
+@1659
+A strategist is idle\nduring a sea battle.
+
+@1660
+In a sea battle, we\nhave to fight head on.
+
+@1661
+No schemes here! Just\nlet me fight!
+
+@1662
+If only "Schemes" worked\nin sea battles...
+
+@1663
+It's quiet in a sea\nbattle. Time to snack...
+
+@1664
+There's no place for me\nin a sea battle.
+
+@1665
+No scheme needed now.\nHead on is the only way!
+
+@1666
+A sea battle!? Take\nme to the "Marine Quarters"...
+
+@1667
+Staying in the Staff Room\nduring a sea battle...
+
+@1668
+Nothing to do\nif I stay here...
+
+@1669
+What does a purser\ndo in a sea battle...?
+
+@1670
+Might as well work\non the financial report...
+
+@1671
+A purser has nothing\nto do in a sea battle...
+
+@1672
+I wish I could haggle\nwhile fighting...
+
+@1673
+Can't haggle in a\nsea battle, can we...
+
+@1674
+This month's profit...\nWhoa! What's that roar?
+
+@1675
+I want to fight\ntoo, but...
+
+@1676
+I can't be of much use\nhere in a sea battle.
+
+@1677
+In a battle, a purser\nis helpless...
+
+@1678
+This is no time to be\ncalculating profits!
+
+@1679
+What am I supposed to\ndo in the Purser!
+
+@1680
+I can't give orders to\neveryone from here!
+
+@1681
+Um, um, I have to\npull myself together!
+
+@1682
+Gunners, lay down fire!\nDeck crew, prepare to board!
+
+@1683
+I can't keep relying on\nKamil forever...
+
+@1684
+Xian, report on the\nbattle situation!
+
+@1685
+I'll keep you posted\non the battle situation.
+
+@1686
+When attacking a port,\nI'll demand surrender!
+
+@1687
+To make a port yield, you\nneed a Captain and First Mate.
+
+@1688
+In a sea battle, a First Mate\njust reports the situation.
+
+@1689
+Shall we go to the\n"Guild" and call a "Truce"?
+
+@1690
+Admiral, do your\nbest!
+
+@1691
+I'm useful when we\nattack a port!
+
+@1692
+Now's the time for the\nAdmiral to show some skill.
+
+@1693
+We can't negotiate now.\nWe have to go to the port.
+
+@1694
+I can't give orders\nfrom here...
+
+@1695
+You can't expect much\nof me here...
+
+@1696
+Port attacks are where\nCaptain and First Mate shine.
+
+@1697
+Which ship shall\nwe approach?
+
+@1698
+I'll dodge those\nshots easily.
+
+@1699
+Can I dodge this\nrain of shots?
+
+@1700
+I want to charge!\nDon't we have a "Ram"?
+
+@1701
+Like I'd get hit by\nsuch weak shots!
+
+@1702
+A sea battle is when\nveterans shine!
+
+@1703
+A sea battle is where\nmy ship handling shines!
+
+@1704
+A sea battle! I'm\nitching to go.
+
+@1705
+Sailhand, match my\nship handling!
+
+@1706
+Ram the enemy ship!\nGerhard, board them!
+
+@1707
+With a "Ram," I'd punch\na big hole in them!
+
+@1708
+Close in on the flagship\nand finish it at once?
+
+@1709
+Surveying on deck in a\nbattle takes guts...
+
+@1710
+This is when to stay calm\nand check our position.
+
+@1711
+Our position? With shots\nflying, measuring is hard...
+
+@1712
+Even in an emergency,\nmeasuring is the job...
+
+@1713
+Surveying in the middle\nof a battle? Seriously!?
+
+@1714
+Surveying even in a\nbattle. Plain but hard work.
+
+@1715
+I'd rather fight on\ndeck than measure.
+
+@1716
+Surveying even now...\nThis is no joke.
+
+@1717
+This is the time to\nmeasure calmly.
+
+@1718
+Measuring instead of\nfighting matters too...
+
+@1719
+Why is the Admiral\nsurveying in a battle!
+
+@1720
+Measuring calmly even\nat a time like this...
+
+@1721
+Enemy ship confirmed.\nChecking its type now.
+
+@1722
+In a boarding fight,\nlet's snipe their Admiral.
+
+@1723
+If the snipe works,\nwe turn it all around!
+
+@1724
+Eek!\nShots are flying at us!
+
+@1725
+Enemy shells incoming!\nHelmsman, I'm counting on you!
+
+@1726
+My, what a powerful\nsight this is.
+
+@1727
+Waah! Shots keep\ncoming and coming!
+
+@1728
+I'm looking around in case\nreinforcements show up.
+
+@1729
+The enemy's coming!\nEveryone ready?
+
+@1730
+Enemy shot closing.\nHelmsman, follow my orders!
+
+@1731
+This is no time to\nenjoy the view.
+
+@1732
+Give me a gun! I'm\ngoing for their Admiral!
+
+@1733
+I'll use the wind to\ndodge the enemy shots.
+
+@1734
+With the helmsman, we'll\ndodge the cannon fire.
+
+@1735
+Even in battle, panic\nand you'll fall.
+
+@1736
+Handle it calmly and we\ncan dodge any shot.
+
+@1737
+Heading upwind. That's\nokay, Admiral?
+
+@1738
+Fighting is easier\nfrom upwind, eh.
+
+@1739
+Staying here, we'll\nget hit by a shot!
+
+@1740
+Taking the upwind side\nis the basis of naval battle.
+
+@1741
+Helmsman, match\nmy movements!
+
+@1742
+Helmsman, align with the\nmast like in drills!
+
+@1743
+Eek, a cannonball\nflew right past me!
+
+@1744
+The other helmsmen\nwill follow my lead.
+
+@1745
+Watch the results of\nmy daily training.
+
+@1746
+At last, my time\nto shine...
+
+@1747
+In a boarding fight,\nI'll lead the way!
+
+@1748
+Count on me, Admiral.\nEveryone, ready?
+
+@1749
+A sea battle! I'm\nready for it!

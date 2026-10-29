@@ -1,0 +1,962 @@
+@144.0008
+Hmm...
+
+@144.0018
+What's up, {FI}?
+
+@144.0032
+Oh, Clau.\nThese two stone tablets are a map,\nright? They have to be.
+
+@144.0070
+Huh? What kind of question is that?\nObviously they are.
+
+@144.00AC
+The Stone Tablet Top, the Stone Tablet\nBase... Whichever I look at, I\ncan't tell where the Mark is.
+
+@144.010E
+The Stone Tablet Top and the Base,\nyes. But I can't tell where the Mark\nis from either of them.
+
+@144.018C
+What are you doing? Of course you\ncan't make anything out of them\nlooking at them one at a time!
+
+@144.01D8
+Perhaps they're hard to read because\nyou're looking at the two pieces\nseparately?
+
+@144.021E
+Right!\nLet's put them side by side.\nThis is the top, so I'll set it up here...
+
+@144.0268
+And the other tablet goes below it?
+
+@144.0292
+Yeah. If I put it like this...
+
+@144.02C2
+A perfect fit!\n...H-huh!?
+
+@144.02EA
+Look, the two tablets are fitting\ntogether on their own!
+
+@144.032A
+Whoa, that's amazing!
+
+@144.034A
+The two tablets joined up\nand became one...
+
+@144.038C
+Hey!\nThere's some kind of mark on it!\nIt wasn't there a minute ago!
+
+@144.03D8
+Huh?\nDoesn't that look like a mark to you?\nWas it there from the start...?
+
+@144.042A
+Really?
+
+@144.044E
+I get it!\nThe Victor's Mark of Africa is at the\nplace this mark points to!
+
+@144.04A0
+Could it be...!\nThat this is the location of\nthe Mark?
+
+@144.04EA
+W-wow!
+
+@144.050E
+All right, we have to set out right away!
+
+@144.0536
+Let's go look for it at once!\n{FI}, Clau!
+
+@144.056A
+Yeah, let's go!
+
+@145.000C
+Hey, {FI}.
+
+@145.001C
+Oh, Clau. What's up?
+
+@145.003E
+Let's go get something tasty to eat.\n...Oh, right.\nWe'd better invite old Julio too.
+
+@145.008A
+Good idea. He got mad at us last time\nwhen we forgot to ask him.
+
+@145.00C2
+Tell me about it. The old man never\nforgets that kind of thing.
+
+@145.010A
+Oh yeah, how about asking Arcadius\nfor once?
+
+@145.013E
+Arcadius?
+
+@145.0158
+Yeah, he never hangs out with us.\nI figure we drag him out whether he\nlikes it or not and have a real man-to-man talk.
+
+@145.01B6
+He likes being alone.\nWe should think about how he feels.
+
+@145.01EE
+I am thinking about it!\nThat's why I'm dragging him out by force!\nLet's see, he said he was going to the inn...
+
+@145.0254
+Honestly, you're so pushy!
+
+@145.027A
+(knock knock)
+
+@145.028A
+Hey, Arca... dius...
+
+@145.02BA
+!!!  W-what the...!?
+
+@145.02DA
+T-that just now,\nthat was Arcadius...!?
+
+@145.0308
+Kyaa!
+
+@145.031A
+Did you see that?
+
+@145.032A
+Y-yeah...
+
+@145.033C
+I think I just saw something\nseriously dangerous...
+
+@145.0364
+Y-yeah...
+
+@145.037A
+!!
+
+@145.0386
+H-hey! You two!!
+
+@145.03A6
+Oh, it's old man Hans.
+
+@145.03C2
+D-don't tell me... you saw?
+
+@145.03E0
+Um...
+
+@145.03F2
+Well, saw, sort of...
+
+@145.0412
+You two... would you come in?
+
+@145.0434
+Eire... no, I mean,\nA-Arcadius!
+
+@145.045E
+It's all right, Hans. Not anymore.\nCome in, you two.
+
+@145.0490
+Y-yeah.
+
+@145.04A0
+Okay.
+
+@145.04AC
+...
+
+@145.04B6
+So you saw.
+
+@145.04D0
+N-no, I...
+
+@145.04E8
+I-I didn't see a thing...
+
+@145.04FE
+It's all right. You're right, I'm a woman...\n"Arcadius" is an alias.\nMy real name is "Eirene."
+
+@145.0560
+I always keep watch\nat the entrance, but today of all days...
+
+@145.05A2
+I'm sorry.\nI didn't want to keep calling Dr. Hans\nover for every little thing, so I thought\nit would be fine just this once.
+
+@145.05FA
+Why dress as a man...?
+
+@145.0616
+Yeah, what a waste.
+
+@145.0634
+When I decided to sail with Hans,\nI decided to dress as a man.
+
+@145.0672
+Many sailors are rough men...\nWith a woman among them, there's no\nsaying what trouble might follow.
+
+@145.06D0
+Well, there might be some guys like\nthat, sure.\nBut not among our crew.
+
+@145.0720
+That's right. Everyone's a good person.\nThough if anything,\nthey're a bit on the odd side...
+
+@145.0786
+True.\nI suppose I worried for nothing...
+
+@145.07B8
+Yes.\nYou, {FI}, Clau,\neveryone is such a good person.\nClau is a bit... rough, though...
+
+@145.080A
+What did you say!?
+
+@145.081E
+...A-am I really that rough?
+
+@145.0842
+Now, now, we can talk about that later.\nMore importantly, didn't you ever think\nabout going back to dressing as a woman?
+
+@145.0898
+How could I now?\nI can't just say "actually, I'm a woman."
+
+@145.08C8
+It would mean we'd been deceiving\neveryone all this time.\nThat would be awfully awkward.
+
+@145.0916
+So please,\nkeep this a secret.
+
+@145.0946
+Okay, understood.\nI won't tell the others.
+
+@145.0972
+Y-yeah, you bet...\nOur secret.
+
+@145.099E
+Thank you...
+
+@146.0014
+...\nYou must be {FU}.
+
+@146.0030
+And you are?
+
+@146.0042
+Forgive me for not introducing myself.\nI run a modest trading business out of Basra.\nMy name is Abrahan ibn Uddin.
+
+@146.00B0
+P-pleased to meet you.
+
+@146.00C2
+I've been hearing the name of the {FO}\nquite often for a while now.\nYou seem to be doing very well.
+
+@146.011A
+Oh, not really...
+
+@146.0130
+I have something to discuss with you.\nWould you hear me out?
+
+@146.015A
+(He's quiet, but he carries himself\nwith dignity... All right, here goes...)
+
+@146.0194.0
+I can't really refuse.
+
+@146.0194.1
+He seems scary. Better pass.
+
+@146.01E2
+It would mean making a trip\na little further on.
+
+@146.020E
+Y-yes. I'll go with you.
+
+@146.022A
+Then let's meet at the Guild in Basra.
+
+@146.0252
+Understood.\nThe Guild in Basra, then.
+
+@146.027A
+Good.\nI'll go ahead and wait for you there.
+
+@146.029C
+Yes.\nSee you later.
+
+@146.02B2
+Until then.
+
+@146.02DA
+Sorry. I'd like to talk it over with\nmy crew first. I can't make a decision\non my own as Admiral.
+
+@146.032A
+I wanted to hear your own judgment...\nBut never mind, I apologize.\nWe'll meet again somewhere, someday.\nGood day to you.
+
+@147.0016
+!  Wow... A-amazing...!
+
+@147.003A
+Forgive me for startling you.\n{FI}... no,\nperhaps I should call you\nLeader of the {FO}.
+
+@147.0082
+Mr. Uddin...\nNo, Leader...
+
+@147.00A8
+Let me come straight to the point.
+
+@147.00CC
+Y-yes.
+
+@147.00DC
+Would you form an alliance with us?
+
+@147.0102
+An alliance...
+
+@147.011C
+I don't blame you for being wary.\nI know full well how abrupt\nand impolite this must seem.
+
+@147.017E
+Of course, an alliance request is a\nmatter of great weight for a faction.\nYou can't decide it easily...
+
+@147.01D0
+I don't blame you for being wary.\nI've naturally looked into what\nyou went through in Africa.
+
+@147.0232
+I understand why you're sensitive to\nalliance requests. Even so, I am\nasking you for this.
+
+@147.027E
+...
+
+@147.0288
+I don't need an answer now. Sleep on it.\nThat's all I wanted to say. I've arranged\nan inn for you.\nNow, off you go.
+
+@147.02EE
+This way.
+
+@147.0300
+...Thank you.
+
+@148.000C
+Have you decided?
+
+@148.0024
+Yes.\nI've thought about it a great deal...
+
+@148.0048
+Hmm. Let me hear it.
+
+@148.0066
+...
+
+@148.0070.0
+I accept the alliance.
+
+@148.0070.1
+I can't accept the alliance.
+
+@148.00B0
+I trust you.\nI look forward to working with you.
+
+@148.00E6
+I'm glad to hear it. Then,\nLeader {FA},\nI'd like to get down to business.\nIs that all right?
+
+@148.0142
+Y-yes. Of course.
+
+@148.0160
+Then I'll have you shown to another room.\n...\nTake Leader {FA}\nto the reception room.
+
+@148.01A2
+Very well, sir.
+
+@148.01C4
+First, the terms of the alliance.\nOur target is Lord Zamorin of Nagarpur,\nwho holds power around India.
+
+@148.021A
+He's a man obsessed with gold.\nHis greedy, undignified methods of\ntrade have caused us great trouble.
+
+@148.027C
+His company's wealth is vast, and its\nstrength not to be underestimated, but\nhe is hardly what you'd call a "gentleman."
+
+@148.02DC
+If we join forces,\nwe can bring him down in time.
+
+@148.0308
+Yes.
+
+@148.0314
+Now then.\nThere's something you may be worried about...
+
+@148.0346
+What happens after we defeat\nthe Nagarpur Company.
+
+@148.0372
+Exactly. You're sharp. The alliance ends\nthere. We have no written contract, but\nafterward I'd like us to switch\nto a "non-aggression pact."
+
+@148.03F8
+Non-aggression...
+
+@148.040E
+In the Arab region around my base, your\ncompany could coexist with mine to a\ncertain degree. In all other cities and\nports, you'll have a free hand.
+
+@148.0488
+You're saying not to interfere too much\nin the Arab sphere.
+
+@148.04BC
+That's right.\nWe, in turn, promise never to get\nin your way.
+
+@148.0536
+Uddin gave you a share of\nMuscat.
+
+@148.05B4
+Uddin gave you a share of\nSocotra.
+
+@148.05FA
+Understood.\nIs there anything else?
+
+@148.061E
+No, that's all.\nSorry to have taken your time.
+
+@148.0654
+Not at all.\nThe {FO} is\nstill small, but\nI'm happy to cooperate.
+
+@148.0694
+Thank you.\nI'm counting on you.
+
+@148.06B4
+Then let's bring down Nagarpur!
+
+@148.06DC
+Yes.\nLet us work together and press on.
+
+@148.0736
+You won't accept the alliance?
+
+@148.0752
+I'm sorry...
+
+@148.077C
+So the wounds from Africa\nhave not healed.
+
+@148.07AA
+No, it's not that...
+
+@148.07CE
+If that's your decision, then from now on\nwe are rivals, each aiming to rule the\nIndian Ocean. ...Is that a strange thing to say?
+
+@148.0838
+N-no.\n...Please go easy on me.
+
+@148.0856
+Farewell, then.
+
+@149.0008
+I've been wondering.\nThis Evergreen Lotus Leaf is a map to a\nVictor's Mark, isn't it?
+
+@149.0066
+If Uddin says so,\nit can't be wrong.
+
+@149.009A
+I wonder what it goes with.
+
+@149.00E2
+How about this Kushan Platter?
+
+@149.011A
+How about this Kushan Platter?
+
+@149.014E
+Let's try putting the leaf on the platter.\n...Nothing happens.
+
+@149.0180
+Hey, now what do we do?
+
+@150.000C
+Oh? That's a Kushan Platter, isn't it?\nThere's an old tale about that plate.\nDo you know it?
+
+@150.0062
+What kind of tale?
+
+@150.007E
+They say that plate was used for\nfortune-telling. You'd fill it with water\nand read the year ahead from a flower\nor leaf floating on it.
+
+@150.00E4
+I wish that could tell us where the Mark\nis...\nLet's try floating the Evergreen Lotus\nLeaf on it.
+
+@150.0174
+Oh!?\nThe leaf is soaking up the water, and\nsomething is showing in the veins!
+
+@150.01BC
+Oh!?\nThe leaf is soaking up the water, and\nsomething is showing in the veins!
+
+@150.0204
+All right!\nThis is the map to the Indian Ocean's\nVictor's Mark!
+
+@150.025E
+You did it,\n{FI}!
+
+@150.027E
+You did it,\n{FI}!
+
+@150.029A
+Thanks to you, ma'am!\nThank you!
+
+@150.02FA
+It seems the maps to the Marks are\nall split into two parts.\nFirst you must find the two keys.
+
+@150.0368
+The keys... to a map?
+
+@150.037C
+Only when both keys are found and fit\ntogether does the map to a Victor's\nMark appear.
+
+@150.03E4
+Then to collect all seven Marks, we need\nfourteen keys in all. Is that right?
+
+@150.0446
+That's how it works, yes.
+
+@150.0464
+Fourteen!?\nThat's a tall order.
+
+@150.0486
+Hoho.\nIf they were that easy to find,\nsomeone would have them already.
+
+@150.04D6
+Ha, true enough. Funny how\nthe world works out.
+
+@151.0008
+Admiral, bad news!\nAn urgent message from home!
+
+@151.0036
+Read it to me.
+
+@151.004A
+The King of Spain has formally become\nthe King of Portugal as well!!
+
+@151.009A
+What!
+
+@151.00BC
+What!?
+
+@151.00D4
+Which means Portugal...\nOur country\nis gone!?
+
+@151.0130
+Yes. It exists in name, but in truth...
+
+@151.0160
+In that case, it exists in name,\nbut in truth...
+
+@151.0198
+So every Portuguese faction comes\nunder Spanish rule?
+
+@151.01E6
+I don't know the details, but it seems\nthe national army under Admiral Dinis de\nAlbuquerque has sided with Spain.
+
+@151.024C
+!!
+
+@151.025A
+That bastard Albuquerque!!
+
+@151.02C4
+...
+
+@151.02D2
+...With the country gone, there's nothing\nhe could do. I can't blame\nAdmiral Albuquerque.
+
+@151.032E
+{FI}!\nYou can't mean you too!\nI won't accept it!
+
+@151.0360
+Of course not. I'm Portuguese,\nand I'm proud of it!\nI won't take orders\nfrom the King of Spain!
+
+@151.03DA
+...
+
+@151.03E4
+What's wrong, Arcadius?
+
+@151.0406
+My homeland, Greece, was destroyed by\nthe Ottoman Turks long ago...\nI understand your feelings all too well,\nAdmiral.
+
+@151.046E
+...
+
+@151.047C
+But what can we do...
+
+@151.0496
+Even if we rushed home, it would cost\ntoo much time and supplies...\n{FI}, this is a time\nfor careful thought.
+
+@151.04F4
+No. Even if we went back, with our\npresent strength there's no way we\ncould beat Spain, now that it has\nswallowed the Portuguese forces...
+
+@151.055C
+Besides, we can't give up conquering\nAsia now, just when things were\nstarting to roll.
+
+@151.05C2
+True. Handing over all the {FO}'s rights\nin this region for nothing\nwould really stick in my craw.
+
+@151.0618
+Indeed.\nThere's no sense giving Asia's\nsupremacy to those fellows for free.
+
+@151.0664
+...
+
+@151.0670
+I've decided! I'm...\n...not going back!!
+
+@151.06AC
+!?  Admiral!
+
+@151.06C4
+{FI}, are you sure!\nYou're just going to\ngive up!?
+
+@151.0700
+No, I'll never give up!\nI'll grow strong here in Asia and\ncome back. And then\nI'll restore Portugal, our homeland!
+
+@151.078C
+!!
+
+@151.07B0
+What!?
+
+@151.07C6
+Yeah! That's it! That's the spirit!\nNow you're a man, {FI}!\nThat's the way!
+
+@151.0818
+Hahaha, restoring Portugal, huh!\nThis is getting big!
+
+@151.0868
+Hahaha, restoring Portugal, eh!\nNow this is getting big!
+
+@151.08B6
+All right, wash your necks and wait for us!\nSpanish fleet!
+
+@151.0922
+Admiral {FI}!\nCome to think of it, the governor of\nIndochina is Portuguese, I believe.
+
+@151.0968
+A fellow countryman...
+
+@151.0980
+For the sake of shared roots, how about\nteaming up with him first?
+
+@151.09CA
+Good idea.\nI'll think about it.
+
+@151.09EE
+Oh yes,\n{FI}.\nA moment, if you would. The governor of\nIndochina is Portuguese, I believe.
+
+@151.0A40
+A fellow countryman...
+
+@151.0A58
+I think his base was Malacca. He may\nfeel the same way you do. With luck,\nwe could join forces with him.
+
+@151.0ADA
+I see.
+
+@151.0AEA
+Old man, aren't you Spanish?\nYou'd be helping Portugal.\nIs that really okay?
+
+@151.0B4A
+That's a petty matter to me.\nHelping you, {FI}, my boy...\nno, Admiral,\nmatters far more.
+
+@151.0BB2
+Julio...\nThank you.
+
+@152.000E
+...Weren't you warned?
+
+@152.0036
+Who's there?
+
+@152.0044
+"Who's there?" Is that how you greet me?\nAnd you mean to start trading on your own?\nGwahaha!\nQuite the arrogant bastard, aren't you?
+
+@152.00AA
+!!\nClau, step back.
+
+@152.00C6
+Tch.
+
+@152.00D2
+Well, well. So you're the admiral?
+
+@152.00F4
+...That's right.\nYou first, tell me your name.
+
+@152.0124
+Sorry about that.\nI'm Duarte.\nDuarte Pereira.
+
+@152.0160
+!!\nThe Portuguese-sanctioned\nGovernor of Indochina!!
+
+@152.0192
+You're... Admiral Pereira!
+
+@152.01B2
+Oh?\n...So I've got a name now.\nDo you know what I'm about to say?
+
+@152.0202
+It's about the Estado (trade domain)\nhere in Southeast Asia, isn't it...
+
+@152.023E
+Right. You're a quick one, Admiral.\nIf you get it, then get out of here\nand be quick about it.
+
+@152.029A
+...As a company of the same Portuguese\nnationality, can't we compete fairly?
+
+@152.02EC
+Fair? Where in this world is there\nsuch a thing!?
+
+@152.032A
+The world is made unfair!
+
+@152.035E
+...
+
+@152.0368
+Either I drive you out,\nor you drive me out!\nGwahahaha!
+
+@152.03AA
+Besides,\nthat Portugal you talk about\ngot taken over by Spain, remember?
+
+@152.03FC
+...
+
+@152.0406
+Anyway, I want Southeast Asia left\nentirely to us, the Pereira Company.
+
+@152.045A
+You want a monopoly?
+
+@152.0470
+Gwahaha!\nShort version, yes.
+
+@152.0498
+Our homeland is gone!\nWhat good is fighting each other\nat a time like this!
+
+@152.04E6
+...It's a mixed feeling, I admit.\nPortugal, the homeland I was proud of...\nI never thought the national army\nwould go over to Spain.
+
+@152.054A
+...Right!?\nSo let's form an alliance, strike the\nSpanish army, and make Portugal...
+
+@152.059A
+Hold on. Why so worked up? It's not\nlike the country "Portugal" itself\nhas turned into "Spain."
+
+@152.0618
+But...
+
+@152.0626
+Young, aren't you?\nYou still can't accept it. Right?\nI know what you want to say.
+
+@152.067A
+...
+
+@152.0684
+Put yourself in my shoes. I'm the\n"Governor of Indochina" under the\nPortuguese state. Right now,\nthe Spanish king's word is absolute.
+
+@152.06FC
+You can't side with dangerous elements\nlike us and risk the Spanish king's\ndispleasure?
+
+@152.0750
+A lot of people's livelihoods depend\non me. I have to look after them.\nThat's the hard part of being governor.
+
+@152.07B2
+Now, if you want to take on that Dutch\nbastard in Indonesia,\nAnthony Coen, I could help you\nwith that...
+
+@152.0830
+That's how the world stands. Now that it's\ncome to this, I can fight Coen, who is\nSpain's enemy too, alongside you, but\nI can't help in any other way.
+
+@152.08A6
+So the conclusion is that you can't\njoin us in fighting Spain?
+
+@152.08DE
+Yes, take it that way.
+
+@152.08F6
+...
+
+@152.0900
+...Sorry, I went on complaining. What I\ncan tell you now is "go east and get\nstronger."
+
+@152.0970
+East...?
+
+@152.0986
+Then I'll hear you out.\n...Now, off you go.
+
+@152.09CA
+It's frustrating, but\nwhat that old guy said\nmakes sense...
+
+@152.0A0A
+East, huh.
+
+@152.0A18
+Hey, {FI}.\nWhat does "east of here"\nmean, anyway?
+
+@152.0A50
+...
+
+@152.0A6A
+Probably... that we should go to East\nAsia and bring back a Victor's Mark.
+
+@152.0ABA
+Probably... that we should go to East\nAsia and bring back a Victor's Mark.
+
+@152.0B06
+I figured. But you know,\nit's not that easy to find.\nWho knows how long it'll take?
+
+@152.0B6E
+At the very least we need a clue for\nfinding a Mark... Otherwise Mr. Pereira\nwon't ever acknowledge us.
+
+@152.0BE8
+Tch. I don't know what he's after, but\nwith things as they are, we have to win\nthe old guy over. Fine, let's go!
+
+@152.0C56
+Right.\nI'm counting on you, Clau.\nAll right, let's set out for East Asia!!
+
+@153.000C
+This Ancient Coin\nis really filthy.
+
+@153.003C
+Then why not try polishing it?\nThere's a Milk Jar over there.
+
+@153.0088
+What is this liquid?\nOh well. Let's try it.\nPut some on...
+
+@153.00C6
+(scrub scrub)
+
+@153.00D6
+Hey, {FI}!\nDon't get carried away scrubbing,\nlook at it! It's melting!
+
+@153.012E
+Whoa, no, stop!\n...Huh?
+
+@153.0154
+...A different pattern is showing up.\nIt looks like a map...
+
+@153.0194
+Then it's the map to the Southeast Asia\nVictor's Mark! So the surface melts away\nand a map shows up underneath!
+
+@153.01FC
+Then it's the map to the Southeast Asia\nVictor's Mark! When the surface melts,\nthe map shows its face...
+
+@153.0260
+All right!\nNow we know where the Southeast Asia\nVictor's Mark is!
+
+@153.02A4
+Phew, good thing it\ndidn't melt away completely...
+
+@154.0008
+Hey, {FI}.\nLooks like the Spanish guys got\na step ahead of us in these waters.
+
+@154.0058
+Looks that way.\nBut we still have a chance to catch up,\ndon't we?
+
+@154.009A
+Yeah. If we get a Victor's Mark first,\nwe can turn it all around.
+
+@154.00DE
+Besides, above all, we have to restore\nPortugal. We can't let Spain have\nthis place!
+
+@154.0156
+Well, I get how you feel about reviving\nthe homeland.\n...We've got no choice but to do it.
+
+@154.01B0
+You're not Spanish, are you?\nBy any chance,\nyou're with the {FO}?
+
+@154.01F0
+We are...
+
+@154.0204
+Keep this quiet, but this is Maldonado's\nturf around here.\nHave you heard what he's like?
+
+@154.0282
+What he's like? Are there bad rumors?
+
+@154.02B2
+Um, actually, I don't know\nmuch about him...
+
+@154.02F2
+What he's like? Are there bad rumors?
+
+@154.0322
+I'm telling this to you because you're\nwith the {FO}, but the\nlocals here all hate Maldonado.
+
+@154.0386
+Hate him... that doesn't sound good.\nWhat kind of guy is he?
+
+@154.03CA
+Please tell us.\nWhy is he hated?
+
+@154.03FE
+His men rule this whole area by force,\nand with Spain's rule backing them up,\nthey do as they please.
+
+@154.0464
+They attack any merchant ship that\npasses by, no questions asked, and fatten\ntheir own purses.
+
+@154.04AC
+Sounds just like pirates.
+
+@154.04CA
+Yes, that's the word for it. The sailors\ncan't put to sea in peace, and my\nbusiness is going under too.
+
+@154.053A
+...Are you sure you should trust us so\neasily? For all you know,\nwe might be no better.
+
+@154.05A6
+I've heard about the {FO}.\nAt least you wouldn't abuse\nthe townspeople, would you?
+
+@154.0600
+...
+
+@154.061A.0
+I'll defeat Maldonado!
+
+@154.061A.1
+What should I do...
+
+@154.0654
+{FI}...
+
+@154.0660
+...I feel like this is a problem across\nthe whole New World.\nNot just Maldonado, other powers too...
+
+@154.06CC
+So defeating him won't solve everything,\nI think. And even if we do,\nwe'd need to prepare...
+
+@154.0736
+Sir, thinking it over, I'm afraid\nwe can't help you right away...
+
+@154.0786
+I see...
+
+@154.0798
+Anyway, that was useful to know.\nRight, {FI}?
+
+@154.07C0
+Yes. I understand how the locals are\nsuffering. Soon, I'd like to\ndo something about it.
+
+@154.0822
+I hope you're not the same as them...
+
+@154.086E
+...He told us all this because\nhe trusts us, didn't he?\nTo live up to that trust...
+
+@154.08C2
+Everyone!\nLet's defeat Maldonado and bring\npeace to the New World!
+
+@154.0908
+Heh, let's do it.
+
+@154.092C
+You will? I'll be looking forward to it.\nWe can put up with this life a while longer...

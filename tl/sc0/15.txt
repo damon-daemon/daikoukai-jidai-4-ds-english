@@ -1,0 +1,899 @@
+@217.0008
+(flap flap)
+
+@217.0024
+Whoa! What is this thing?!
+
+@217.0042
+WHAT'S THIS THING
+
+@217.0056
+Mamma mia!\nIt talked like a person!
+
+@217.0086
+TALKED LIKE A PERSON
+
+@217.00AA
+Ah. It's a parrot.
+
+@217.00CA
+So this is a parrot?
+
+@217.00E2
+SO THIS IS A PARROT
+
+@217.00F8
+Quit copying me!
+
+@217.010C
+QUIT COPYING ME
+
+@217.011E
+Ohh, this is fun!\nI'll catch you!
+
+@217.0148
+Here I come! Take this!
+
+@217.0166
+(flap flap! Thud! Crack!)\n(Flap!)\n(Bang! Rustle!)
+
+@217.01AA
+All right, got it!
+
+@217.01C6
+Phew!\nHow's that?! Had enough?!\nHahahahaha!
+
+@217.01FC
+HOW'S THAT HAD ENOUGH
+
+@217.0214
+Hahaha.
+
+@218.0008
+Say, I've got something good.\nInterested?
+
+@218.002C
+Something good? Like what?
+
+@218.0046
+This right here.
+
+@218.005C
+Oh, earrings.
+
+@218.0074
+Exactly. Ceramic earrings.
+
+@218.009C
+They're not that rare, are they?
+
+@218.00CA
+Heh heh.\nThese are no ordinary earrings,\nyou see.
+
+@218.0104
+So what's different about them?
+
+@218.0122
+They belonged to the greatest dancer\nin the world. Wear them and dance,\nand legend says you can charm any man.
+
+@218.019A
+Wouldn't do me any good.\nHow about you, Christina?
+
+@218.01E0
+If they'd make me a better dancer, I'd\nthink about it... But there's no man\nI'm that desperate to impress.
+
+@218.0232
+And they're not just for wearing. Give\nthem to a woman at a tavern and she'll\nbe putty in your hands. You'll be\nfast friends in no time.
+
+@218.02C0
+Friends? And then what?
+
+@218.02EA
+Once you're friends, she'll tell you\nall sorts of things. Tavern women\nknow all the latest news, after all.
+
+@218.0344.0
+I see
+
+@218.0344.1
+So what?
+
+@218.0366
+Right?\nYou get it now?
+
+@218.038E
+All right, I'll take them.
+
+@218.03A4
+Then that'll be 9000 gold.\nI'm practically losing money here.\nNot a coin off.
+
+@218.03EE.0
+Deal!
+
+@218.03EE.1
+Too much...
+
+@218.040E
+You have a good eye. Here, the\nceramic earrings.
+
+@218.0454
+...Guess I misjudged you.\nGet lost. The sale is off.
+
+@218.0494
+What kind of talk is that?!\nYou're the one who called out to us!
+
+@218.04D4
+Hmph. I've no use for cheapskates.\nNow get lost.
+
+@218.0508
+Same goes for us!\nLet's go, {FI}!
+
+@218.0546
+...I won't sell to someone who can't\ntake a hint. Get lost.
+
+@218.058C
+Huh?\nWhat is he even trying to say?\nWhat a rude man.
+
+@219.0008
+Admiraaal...\nThere's a weapon I want...
+
+@219.003A
+Huh?
+
+@219.0048
+See, I wanna get strong too, so I\nwant a weapon...
+
+@219.0086
+You want something that isn't food?\nThat's rare. What's it called?
+
+@219.00C6
+The Minotaur's Axe!
+
+@219.00E4
+Sounds strong.\nSo where is it?
+
+@219.0116
+Dunno... Long ago there was a minotaur\non this island, they say.\nThat's all I know.
+
+@219.016C
+Not much to go on...\nWell, I'll look for it if I feel like it.
+
+@219.01A8
+Yay!
+
+@219.01BA
+Only if I feel like it, though.
+
+@219.01E0
+But, yay!
+
+@219.01F8
+Listen... I never promised\nto give it to you.
+
+@219.0228
+Awww.
+
+@220.0008
+You there, miss. A moment, please.
+
+@220.002E
+Me?
+
+@220.003A
+Yes, you.
+
+@220.0058
+What is it?
+
+@220.0068
+It's just, looking at you reminds me of\na strong woman pirate I knew long ago.\nShe was truly something.
+
+@220.00C6
+Do I look that much like her?\nThe face?
+
+@220.00EC
+Not the face. More your air about you.\nMaybe because you look strong too?
+
+@220.013C
+Do I? Well then, I'll have to follow\nin her footsteps and get\neven stronger.
+
+@220.0180
+Oh, you want to be stronger? Then why\nnot look for the treasured sword that\nwoman pirate carried?
+
+@220.01D2
+A woman pirate's sword?
+
+@220.01E8
+Yes. A sword she used. How valuable it\nis, I couldn't tell you.
+
+@220.023E
+Hmm. Now I'm curious.\nSo where is this sword?
+
+@220.0278
+The Caribbean.
+
+@220.028C
+The Caribbean...
+
+@220.029E
+There was a great sea battle in the\nCaribbean that she fought in, and\nshe lost it during the fighting.\nSo the story goes.
+
+@220.0308
+And?
+
+@220.0318
+That's all.
+
+@220.032C
+That's all?\nThen how am I supposed to find it?
+
+@220.035C
+Don't ask me... But somehow I feel\nyou could find it.
+
+@220.03A4
+I see. Well,\nI'll keep it in mind.
+
+@220.03CC
+Yes. I'm sure you'll find it.\nDo your best.
+
+@220.0406
+Thank you.
+
+@220.0418
+(A woman pirate's sword, lost\n in the Caribbean...\n I'd like to see it.)
+
+@220.0462
+Christina's Charm went up by 1!
+
+@221.0008.0
+Admiral, a letter from Yukihisa\nhas arrived.
+
+@221.0008.1
+Admiral, a letter from Yukihisa\nhas arrived for you.
+
+@221.0008.2
+Admiral, a letter from Yukihisa\njust came in!
+
+@221.0008.3
+Admiral, a letter from Yukihisa\nhas arrived for you.
+
+@221.0008.4
+Admiral, a letter from Yukihisa\nhas come in.
+
+@221.0008.5
+Admiral, a letter from Yukihisa\nhas come in.
+
+@221.0008.6
+Admiraaal, a letter from Yukihisa\nis here!
+
+@221.0008.7
+Admiral, a letter from Yukihisa\nhas arrived.
+
+@221.0148
+I have heard tell of the legendary\ncursed blade, Muramasa. A famed sword\nsaid to bring ill fortune to the House of\nTokugawa, now being wiped from the world.
+
+@221.01CC
+One of them is said to be hidden\nsomewhere in East Asia by a clan that\nbears a grudge against the Tokugawa.\nI write to inform you for now.
+
+@221.024C
+It is surely the very thing I have\nlong sought.\n\n          Yukihisa Genjo Shiraki
+
+@221.02BE.0
+What stiff writing.\nThat's so like Yukihisa.
+
+@221.02BE.1
+What stiff writing.\nSo like Yukihisa.
+
+@221.02BE.2
+Such stiff writing.\nThat's just like Yukihisa.
+
+@221.02BE.3
+What stiff writing.\nThat's so like Yukihisa.
+
+@221.02BE.4
+Kind of a stuffy letter.\nThat's Yukihisa for you.
+
+@221.02BE.5
+Stiff writing, that.\nJust like Yukihisa.
+
+@221.02BE.6
+It's so hard I can't tell\nwhat it says!
+
+@221.02BE.7
+What stiff writing.\nTruly like Yukihisa.
+
+@221.0410
+Kind of a stuffy letter.\nThat's Yukihisa for you.
+
+@221.0446
+...Wow!\nThis is worth looking for.
+
+@222.0008
+Admiral, listen up!\nI picked up a juicy bit of news.
+
+@222.003C
+They say the lord around here got hold\nof an amazingly sharp sword.
+
+@222.0086
+Wow, nice!
+
+@222.009E
+The blade has a faint red glow, like\nit's soaked up the blood of a lot of\npeople, they say.
+
+@222.0100
+A red sword...
+
+@222.0112
+The lord said it creeped him out, and\nsealed it away somewhere without ever\nusing it. Must've been a real coward.
+
+@222.0190
+But it's a great sword, right?\nKind of a waste.
+
+@222.01CA
+What an idiot. What did he plan to\nuse a sword for, then?
+
+@222.0212
+It does sound like there's a story\nbehind it. Where did he hide it?
+
+@222.025A
+I couldn't get where he hid it, but\nlet's look for it when we get a chance.
+
+@223.0008
+Hmm. What a lovely plaza...\nOh? There's something in that little\npond... That's...
+
+@223.005A
+Squawk!
+
+@223.0068
+A pair of swans! Hmm, they fly\neven out here. ...Hey, are you two\non a journey as well?
+
+@223.00D0
+Squawk! Coo...\nCoo... Squawk...\n...Squawk!
+
+@223.0100
+Heh heh. You two get along so well.\nI'm jealous.
+
+@223.012A
+(flap flap flap!)
+
+@223.0140
+Oh!\nWhere are they going?\n...Huh? They're carrying something!
+
+@223.017E
+That direction is...
+
+@223.0192
+Heeey!\nChristina!
+
+@223.01AE
+Oh, Admiral {FI}.\nListen, there was a pair of swans!
+
+@223.01E0
+Oh, on the plaza pond?\nThey must be used to people.
+
+@223.020C
+They carried something long and shiny.\nI think they flew off near Amsterdam.\nWant to go take a look?
+
+@224.0008
+Hey, you folks.\nDo you know "Romance of the Three\nKingdoms"?
+
+@224.0040.0
+I do
+
+@224.0040.1
+Never heard of it
+
+@224.006A
+Is that so?\nGive it a read sometime, it's good.
+
+@224.00A0
+Oh ho, is that right?\nMakes me happy.\nSo, which warrior is your favorite?
+
+@224.00F2.0
+Zhao Yun
+
+@224.00F2.1
+Guan Yu
+
+@224.00F2.2
+Zhuge Liang
+
+@224.011A
+What?! Same as me!\nI think we'll get along.
+
+@224.015A
+The part where he holds A Dou to his\nchest and charges through Cao Cao's\narmy alone at Changban Bridge?\nThe best!
+
+@224.01A6
+Actually, I heard a rumor that on the\npeninsula around here there's a\nlegendary spear Zhao Yun used.
+
+@224.0208
+I wanted it myself, and searched high\nand low, but never found it. I figured\nyou folks might be able to.
+
+@224.02A0
+So you like Guan Yu of the beautiful\nbeard? Not my favorite, but he's a\nfierce hero, brave and wise both.
+
+@224.02FE
+The brilliant Zhuge Liang, eh? Yes,\nyes... That "Memorial on Leading\nthe Army" brings tears to my eyes.\nHe's about my second favorite.
+
+@225.0008
+Pardon me, sir.
+
+@225.0020
+Huh, me?
+
+@225.0038
+Could I see that thing\nyou have, please?
+
+@225.0060
+What thing?
+
+@225.0072
+That one.
+
+@225.0088
+...Hmm, hmm. No doubt about it.\nIt's just as the legend says.
+
+@225.00B8
+?
+
+@225.00C2
+Over three hundred years ago, the\ncontinent was ruled by a great emperor\nnamed Kublai Khan.
+
+@225.0118
+But even that great emperor\nhad to leave this world in time...
+
+@225.014E
+The emperor told his retainers:\n"Two hundred years from now, a master\nof the ocean shall come to this land...
+
+@225.019E
+ He is a king of the sea who leads many\n foreigners. He bears the golden seal of\n a land I could not yet rule. Give my\n sword to this brave man."
+
+@225.0222
+My clan descends from those retainers.\nWe have waited for the king of the sea...
+
+@225.025E
+And today, at last, you have appeared.\n...Master of the ocean,\nwe have awaited you.
+
+@225.02B8
+I'm the "Victor of the Sea"?
+
+@225.02D8
+This kid is the "Victor" an emperor\nforetold 300 years ago?\n...No way!
+
+@225.031C
+...No, my eyes do not deceive me.\nYou are truly the "King of the Sea."
+
+@225.0362
+Search south of the Shandong Peninsula.\nThe emperor's "Great Sword" should\nbe there.
+
+@225.03A6
+I have entrusted the "Great Sword"\nto you. Now then...
+
+@226.0008.0
+Admiral, a letter from Jenas has arrived.
+
+@226.0008.1
+Admiral, a letter from Jenas has arrived for you.
+
+@226.0008.2
+Admiral, a letter from Jenas just came in!
+
+@226.0008.3
+Admiral, there's a letter from Jenas.
+
+@226.0008.4
+Admiral, a letter from Jenas has come in.
+
+@226.0008.5
+Admiral, a letter from Jenas has come in.
+
+@226.0008.6
+Admiraaal, there's a letter from Jenas!
+
+@226.0008.7
+Admiral, a letter from Jenas has arrived.
+
+@226.012A
+Admiral,\nI am writing to you from the road\nthat leads to Rome.
+
+@226.0164
+Walking this road, I can't help but\nhear tales of how missionaries long ago\novercame persecution to spread\ntheir faith.
+
+@226.01D8
+I have no interest in religion, but I\nheard one interesting story.
+
+@226.021E
+They say the sword of Judas, one of\nJesus' twelve disciples, still lies\nsleeping in a place connected to him.
+
+@226.0288
+Since Judas betrayed Jesus, people find\nit creepy that it was once his, and\nno one tries to get it.
+
+@226.02EE
+But I hear the sword is sharp and\nremarkably fine. The sword is not to\nblame, so I think it's worth looking\nfor.
+
+@226.0386
+Of course, devout Manuel would\nprobably hate to hear this.
+
+@226.03CA
+I will write again if anything comes up.\n\n                 Jenas Passer
+
+@226.042A
+Hmm, a traitor's sword. Jenas doesn't\ncare about a thing's history so long as\nit's good. That's so like him.
+
+@226.04A0
+...Now, I'm not absolutely opposed.\nJudas repented in the end, after all.\nI leave it to you, Admiral.
+
+@227.0008
+Who built these ruins, and why, I\nwonder? They remind me of King\nSolomon's gold mines from the Old\nTestament.
+
+@227.0084
+Do you folks know the legend of\nKing Solomon?
+
+@227.00B4
+Hm?
+
+@227.00C0
+Pardon me.\nAre you Admiral {FA}?
+
+@227.00F0
+Yes. I'm\n{FI} {FA}...\nWhat is it?
+
+@227.011A
+First, a word of thanks. The people are\nglad of your investment in this port.
+
+@227.015A
+Oh, it was\nnothing, really.
+
+@227.0184
+Admiral, have you heard the rumors\nabout the legend of King Solomon?
+
+@227.01BE
+What rumors?
+
+@227.01CE
+Long ago, the great King Solomon's\npowers are said to have commanded even\nthe Demon King.
+
+@227.0218
+The Demon King, huh... And?
+
+@227.0232
+Rumor has it a weapon tied to that\nDemon King was sealed away on an icy\nisland far to the northwest.
+
+@227.0296
+I thought Admiral {FA} might be able to\nmaster such a weapon, so I thought\nI would tell you.
+
+@227.02F6
+An icy island far to the northwest?\nMight that be Iceland?
+
+@227.0334
+I see... A weapon bearing the Demon\nKing's name. Thanks for telling us.\nWe'll look for it.
+
+@228.0008
+The king...?
+
+@228.0018
+You again?! You're bad for business!\nGet lost already!!
+
+@228.005E
+The king...?\nWhere is the hero who is master\nof the sword...
+
+@228.008C
+What's the matter?\nWho are you?
+
+@228.00B0
+I am... Vivian...\nOnce the maker of King Arthur's\nholy sword...
+
+@228.00F0
+King Arthur?
+
+@228.0104
+The king sleeps... But the holy\nsword still seeks a hero...
+
+@228.0144
+Hero,\nseek the holy sword Excalibur!\nIn Avalon, where the king sleeps,\nthe sword awaits you!
+
+@228.01A2
+Avalon?\nNever heard of it...
+
+@228.01E0
+Let's go to a tavern and ask around...
+
+@228.020E
+Let us gather information at a tavern.
+
+@229.000A
+Mister,\nhave you heard of Avalon?
+
+@229.0032
+Again?\nYou believe that so-called witch's\nravings too?
+
+@229.007C
+Avalon was supposedly somewhere just\nwest of here, they say.
+
+@229.00BE
+King Arthur's a fairy tale. I get asked\nthe same thing all the time, but I've\nnever heard of anyone finding it.
+
+@230.0008
+Admiral, I heard about a wonderful\nweapon in town.
+
+@230.0042
+What kind of weapon? What's it called?
+
+@230.0066
+According to legend, Ares, one of the\ntwelve Olympian gods, carried it. It's\ncalled the Holy Spear of Ares.
+
+@230.00CA
+Hmm. I don't know what's so great\nabout it... Where is it?
+
+@230.010C
+Rumor says armor named for other\nOlympian gods may be lying nearby\nas well.
+
+@230.0178
+I see... Wait, that tells us\nnothing at all!
+
+@230.01B0
+From how the townsfolk talked, I\nsuspect it's somewhere in this area...\nI'd like to find it, whatever it takes.
+
+@230.0214
+(Huh, he's interested in this stuff?\n Kind of surprising.)
+
+@230.0246
+Admiral? Why the odd look?\nSurprised that I care about legends?
+
+@230.02A2
+Yes, honestly.
+
+@230.02BC
+I suppose so. But I'm moved by\nmystical tales. The gods of myth who\nroamed all over these lands...
+
+@230.0330
+Just thinking that weapons they may\nhave used still exist in this world\nsends my mind back to ancient times.
+
+@230.039A
+Hmm...
+
+@232.0008
+Hey, Lucia. How've you been?\nYou know, I come here just to see\nthose noble, beautiful eyes of yours.
+
+@232.0076
+Oh, welcome.\nYou're as smooth as ever, Julian.
+
+@232.00B8
+Hm...?
+
+@232.00C6
+What is it?\nIs something on my face?
+
+@232.00F0
+I see... Maybe the legendary empress\nwas someone like you...
+
+@232.0136
+What's that? What do you mean?
+
+@232.015A
+Oh, sorry. That was sudden. I just heard\nabout a piece of armor called the\nEmpress' Gown, and, well.
+
+@232.01B8
+The Empress' Gown?
+
+@232.01D6
+A beautiful empress of China wore it,\nthey say. She was tyrannical, and came\nto a tragic end.
+
+@232.023E
+I bet she was so beautiful it was\nscary, a woman who could pierce a man's\nheart at a glance... Doesn't that sound\njust like you?
+
+@232.02B4
+But "tyrannical" means selfish and\nhaughty, doesn't it? Do I seem that\nmean-spirited to you?
+
+@232.0322
+Silly. A woman is cuter when she's a\nlittle selfish. Just like you,\nin fact.
+
+@232.037E
+Still, a gown made to protect a\nbeautiful woman... How romantic.\nDon't you think?
+
+@232.03E6
+A gown, romantic? Me, I'd be more\ninterested in the rings and necklaces\nshe wore.
+
+@232.044A
+You want to know what they're worth?\nWomen are so practical! Oh, I should\nget going today. See you.
+
+@232.04AC
+Yes, see you.
+
+@232.04C0
+Honestly... He runs off the moment\nI try to ask for a gift.
+
+@233.0008
+Hey, you there. Coming to this port's\nplaza and just walking past?\nThat's not right.
+
+@233.0044
+Is there something here?
+
+@233.0060
+Do you know about the Crusades?
+
+@233.0088.0
+I do
+
+@233.0088.1
+I don't
+
+@233.00AC
+Hmph.\n...An army of chivalry that fought\nto retake the Holy Land, right?
+
+@233.00F6
+Hmph. In Europe they apparently call\nit an army of chivalry that fought\nto retake the Holy Land...
+
+@233.015E
+But that's all a convenient lie.\nThe people of this port know the truth\nabout what the Crusaders were really like.
+
+@233.01CE
+The truth?
+
+@233.01DC
+I heard a bit myself. Their real goal\nwas this region's wealth, right? They\npillaged and slaughtered all along\nthe way, anything went.
+
+@233.0256
+I can't stand history being twisted to\nsuit them! The true hero isn't the\nCrusaders, it's our Saladin!
+
+@233.02CC
+Saladin...?
+
+@233.02E2
+A great figure in Islamic history.\nHe did far more than just drive off\nthe Crusaders.
+
+@233.0334
+He stuck to humane principles in every\nway: how he fought, how he treated\nprisoners and civilians, his peace\nterms. A fine man who never stooped low.
+
+@233.03BA
+Wow, amazing!
+
+@233.03D2
+Come to think of it, I heard Saladin's\narmor has gone missing... If you want\nsome of his luck, why not look\nfor it?
+
+@234.0008
+...
+
+@234.0014
+Oh, Gerhard. Looking at the sunset,\nis something wrong?
+
+@234.0056
+Admiral... In Japan I heard about a\ncertain man, and out of character,\nI got rather moved.
+
+@234.00BC
+Oh? What kind of man?
+
+@234.00D8
+A warrior from hundreds of years ago.\nHis name was Noritsune.
+
+@234.0114
+That long ago...\nWhat was he like?
+
+@234.0142
+He belonged to a once-glorious clan.\nBut after repeated defeats by rival\nforces, that clan was driven to ruin.
+
+@234.01C6
+While his weak kinsmen fell one after\nanother, he alone stood bravely\nagainst them...
+
+@234.0204
+In the final sea battle, he leapt across\nseven ships in a row, aiming for the\nship carrying the enemy commander.
+
+@234.0250
+But at last his strength gave out, and\nwith an enemy soldier under each arm,\nhe vanished to the bottom of the strait\nin his gleaming armor, they say...
+
+@234.02BE
+I never thought a man this bold lived\nin such a small eastern country.\nI feel I've seen the essence\nof the Orient.
+
+@234.0322
+...Such courage. Amazing.
+
+@234.0340
+Yes.\nThese days you hardly meet\nmen like that.
+
+@234.0378
+You must have been really moved,\nGerhard.
+
+@234.03A6
+...To the bottom of the strait,\nin his gleaming armor, huh.
+
+@234.03D0
+Forgive me, I rambled on.\nI should get back to work.
+
+@235.0008.0
+Admiral, a letter from Ian\nhas arrived.
+
+@235.0008.1
+Admiral, a letter from Ian\nhas arrived for you.
+
+@235.0008.2
+Admiral, a letter from Ian\njust came in!
+
+@235.0008.3
+Admiral, a letter from Ian\nhas arrived.
+
+@235.0008.4
+Admiral, a letter from Ian\nhas come in.
+
+@235.0008.5
+Admiral, a letter from Ian\nhas come in.
+
+@235.0008.6
+Admiraaal, there's a letter\nfrom Ian!
+
+@235.0008.7
+Admiral, a letter from Ian\nhas arrived.
+
+@235.012E
+The other day I found an interesting\nbook at an antique shop.
+
+@235.015C
+It is about Timur, who about 200 years\nago inherited the blood of the declining\nMongol Empire and built a vast empire\nfrom Central to West Asia.
+
+@235.01EE
+According to it, on the battlefield he\nwore a remarkably sturdy chainmail that\ndeflected enemy arrows and chipped\nthe edges of swords and spears.
+
+@235.0272
+It was buried with him in his tomb, but\na few decades later it was fated to be\nstolen by thieves along with the other\nburial goods.
+
+@235.02E6
+To escape pursuers the thieves fled into\nthe scorching desert, but just short of\nseeing the sea, they finally gave out\nand died.
+
+@235.0374
+This fact apparently went unknown for a\nlong time, and the chainmail has still\nnot been found.
+
+@235.03D4
+If you are interested, perhaps look\ninto it.\n                    Ian Dukov
+
+@235.0440
+Wow. Ian knows about Asian history too.
+
+@235.0488
+To the Russian people, the Mongol Empire\nwas a former ruler and a longtime foe.\nNaturally it would catch his interest.
+
+@235.04F8
+I see.\nCesare knows a lot, doesn't he.
+
+@236.0008
+Hey, Safia.\nThose eyes are as mysterious as ever.
+
+@236.0038
+Oh, Julian.\nWelcome.
+
+@236.005A
+...
+
+@236.0064
+What is it?\nIs something on my face?
+
+@236.008E
+No... When those eyes look at me, I\nreally feel drawn in. Is this what\nbeing turned to stone feels like?
+
+@236.00F8
+What? What are you talking about?
+
+@236.0110
+Oh, I can't get the story of Medusa's\nShield, the one in the Tasman Sea, out\nof my head. Your eyes reminded me.
+
+@236.017A
+...Medusa's the monster with snakes for\nhair, isn't she? Are you saying I'm a\nscary, ugly woman like Medusa?
+
+@236.01E4
+What are you saying? You don't even\nhave to uncover your hair. Your lovely\neyes alone could capture me.
+
+@236.024E
+Honestly, always joking.
+
+@236.0268
+Turned to stone by your hand, bathed in\nmoonlight, living forever by your side...\nAh, how romantic...
+
+@236.02D0
+Even if you were stone, I wouldn't\ntake care of you.
+
+@236.0300
+Aw, so cold. That prickly side is part\nof your charm, too... Well, I should go.\nSee you.
+
+@236.0364
+Yes, see you.
+
+@236.0378
+What a strange comparison. ...But my\nheart skipped a beat.

@@ -1,0 +1,1070 @@
+@326.000C
+Welcome, {FI}.
+
+@326.0026
+You want to know where this town's\ncity gate is?
+
+@326.004E
+We're really not supposed to tell\nforeigners that, but...
+
+@326.0090
+Well, with all the pressure from abroad,\nthe closed-country policy is hardly\nworth anything anymore. Fine,\nI'll tell you on the quiet.
+
+@327.0018.0
+Admiral, we can't go any farther\nwithout a map.
+
+@327.0018.1
+Admiral, going on without a map\nis reckless.
+
+@327.0018.2
+Admiral, without a map we have no idea\nwhere to go!
+
+@327.0018.3
+Admiral, how are we supposed to get\nanywhere without a map?
+
+@327.0018.4
+Admiral, no map, no way ahead.
+
+@327.0018.5
+Admiral, without a map we won't know\nwhere to go, you hear?
+
+@327.0018.6
+Admiraaal, without a map we won't know\nwhere to go!
+
+@327.0018.7
+Admiral, pressing on without a map\nis impossible, I'm afraid.
+
+@327.01B4.0
+This forest is awfully dark.
+
+@327.01B4.1
+What a gloomy forest...
+
+@327.01B4.2
+It's so dark for the middle of the day!
+
+@327.01B4.3
+It's so dark in this forest.
+
+@327.01B4.4
+Damn dark forest.
+
+@327.01B4.5
+Hmm, a gloomy forest this is.
+
+@327.01B4.6
+It's pitch black in the forest.\nLike night!
+
+@327.01B4.7
+What a gloomy forest...
+
+@327.0294.0
+Whoa!
+
+@327.0294.1
+Whoa!
+
+@327.0294.2
+Whoa!
+
+@327.0294.3
+Eek!
+
+@327.0294.4
+Whoa!
+
+@327.0294.5
+Whoa!
+
+@327.0294.6
+Whoa!
+
+@327.0294.7
+Whoa!
+
+@327.02BE
+Screech! Screech!
+
+@327.02D0.0
+Avoid the bats, take another path
+
+@327.02D0.1
+Push on through regardless
+
+@327.030C
+It's a detour, but let's take\nanother path.
+
+@327.034E
+One day has passed.
+
+@327.036A
+They're just bats.
+
+@327.0384.0
+No, these are...\nvampire bats!
+
+@327.0384.1
+No, these are...\nvampire bats!
+
+@327.0384.2
+These are...\nvampire bats!
+
+@327.0384.3
+No... these are\nvampire bats!
+
+@327.0384.4
+No, these are...\nvampire bats!
+
+@327.0384.5
+No, these are...\nvampire bats!
+
+@327.0384.6
+No, these are...\nvampire baaats!
+
+@327.0384.7
+No, these are...\nvampire bats!
+
+@327.047C
+Run for it!
+
+@327.0496
+*huff* *huff*...
+
+@327.04A8.0
+*huff* *huff* I'm tired...
+
+@327.04A8.1
+I'm tired...
+
+@327.04A8.2
+So tired...
+
+@327.04A8.3
+I'm tired...
+
+@327.04A8.4
+*pant* *pant*... I'm a bit worn out.
+
+@327.04A8.5
+Hmm, I'm tired...
+
+@327.04A8.6
+I'm hungry...
+
+@327.04A8.7
+*wheeze* *wheeze*... I'm tired.
+
+@327.055E
+The sailors seem to be exhausted.
+
+@327.05B0
+Just a little farther. Hang in there!
+
+@327.05DE.0
+Admiral! Look, over there!
+
+@327.05DE.1
+Admiral! Look, over there!
+
+@327.05DE.2
+Admiral! Look, over there!
+
+@327.05DE.3
+Admiral! Look, over there!
+
+@327.05DE.4
+Admiral! Look, over there!
+
+@327.05DE.5
+Admiral! Look, over there!
+
+@327.05DE.6
+Admiraal! Look, over there!
+
+@327.05DE.7
+Admiral! Look, over there!
+
+@328.000C
+Oh, {FI}.\nI meant to tell you something,\nbut I forgot all about it.
+
+@328.004C
+They say an ancient pictorial map was\nfound recently. According to it,\nthere are ruins of an old kingdom\nnear this town.
+
+@328.00B8
+Wow, a pictorial map?\nWhere is it?
+
+@328.00E4
+I'm sorry,\nI don't know that much. But if you're\ninterested, why not go look for it?
+
+@329.0018.0
+Admiral, without a map\nwe'll lose our way.
+
+@329.0018.1
+Admiral, without a map\nwe'll get lost.
+
+@329.0018.2
+Admiral, without a map\nwe'll get lost!
+
+@329.0018.3
+Admiral, without a map\nwe'll get lost, you know.
+
+@329.0018.4
+Admiral, without a map\nwe'll get lost, sure as anything.
+
+@329.0018.5
+Admiral, without a map\nwe'll lose our way, you hear?
+
+@329.0018.6
+Admiraal, without a map\nwe'll get lost!
+
+@329.0018.7
+Admiral, without a map\nwe'll lose our way, I'm afraid.
+
+@329.0178.0
+It really is hot.
+
+@329.0178.1
+It really is hot.
+
+@329.0178.2
+It's so hot!
+
+@329.0178.3
+It really is hot.
+
+@329.0178.4
+Man, it's hot.
+
+@329.0178.5
+Hot, isn't it...
+
+@329.0178.6
+Uuu, it's hoot!
+
+@329.0178.7
+It really is hot.
+
+@329.01DA
+Well, it's a desert.\nCome on, let's go.
+
+@329.0206
+W-whoa!!
+
+@329.0220.0
+A-Admiral!\nA swarm of scorpions!
+
+@329.0220.1
+A-Admiral!\nA swarm of scorpions!
+
+@329.0220.2
+Whoa!\nA swarm of scorpions!
+
+@329.0220.3
+Eek!\nS-scorpions!!
+
+@329.0220.4
+A-Admiral!\nThere's a ton of scorpions!
+
+@329.0220.5
+A-Admiral!\nA swarm of scorpions!
+
+@329.0220.6
+Waaah!\nScorpions!
+
+@329.0220.7
+A-Admiral!\nA swarm of scorpions!
+
+@329.02D6
+Everyone, stay calm.
+
+@329.02F0
+B-but... What do we do?
+
+@329.0316.0
+Wipe them out
+
+@329.0316.1
+Drive them off
+
+@329.0316.2
+Run away
+
+@329.0346
+Leave it to me!\nHyah!
+
+@329.0362.0
+Oh, they ran away!\nAs expected of the Admiral. You can\nreally count on him.
+
+@329.0362.1
+Oh, they ran!\nAs expected of the Admiral.
+
+@329.0362.2
+Oh, they ran off!\nNice one, Admiral. You're so reliable!
+
+@329.0362.3
+Oh, they ran away!\nAs expected of the Admiral. You can\nreally count on him.
+
+@329.0362.4
+Hey, they ran off!\nAs expected of the Admiral, \nyou can count on him.
+
+@329.0362.5
+Oh, they ran off!\nAs expected of the Admiral.\nHmm, a dependable one.
+
+@329.0362.6
+Oh, they ran away!\nAdmiraal, you're amazing!
+
+@329.0362.7
+Oh, they ran away!\nAs expected of the Admiral. You can\nreally count on him.
+
+@329.04C4
+Ow!!
+
+@329.04D6.0
+Admiral! Are you all right!?
+
+@329.04D6.1
+Admiral! Are you all right!?
+
+@329.04D6.2
+Admiral! Are you okay!?
+
+@329.04D6.3
+Admiral! Are you all right!?
+
+@329.04D6.4
+Admiral! You okay!?
+
+@329.04D6.5
+Admiral! Are you all right!?
+
+@329.04D6.6
+Admiraal!
+
+@329.04D6.7
+Admiral! Are you all right!?
+
+@329.0542
+I let my guard down...
+
+@329.055A.0
+You need treatment right away!
+
+@329.055A.1
+You need treatment right away!
+
+@329.055A.2
+We have to patch you up quick!
+
+@329.055A.3
+Oh no!\nWe have to treat you right away!
+
+@329.055A.4
+We gotta get you treated, quick!
+
+@329.055A.5
+You need treatment at once!
+
+@329.055A.6
+We have to patch you up quick!
+
+@329.055A.7
+You need treatment right away!
+
+@329.0624
+Admiral {FI} was injured.\nThe fleet will rest for one day for\ntreatment.
+
+@329.0660
+Thanks.\nAh, my head is spinning.
+
+@329.069C
+Leave it to me!\nGo away! Shoo, shoo!
+
+@329.06CE.0
+Oh, they ran away!\nAs expected of the Admiral. You can\nreally count on him.
+
+@329.06CE.1
+Oh, they ran!\nAs expected of the Admiral.
+
+@329.06CE.2
+Oh, they ran off!\nNice one, Admiral. You're so reliable!
+
+@329.06CE.3
+Oh, they ran away!\nAs expected of the Admiral. You can\nreally count on him.
+
+@329.06CE.4
+Hey, they ran off!\nAs expected of the Admiral, \nyou can count on him.
+
+@329.06CE.5
+Oh, they ran off!\nAs expected of the Admiral.\nHmm, a dependable one.
+
+@329.06CE.6
+Oh, they ran away!\nAdmiraal, you're amazing!
+
+@329.06CE.7
+Oh, they ran away!\nAs expected of the Admiral. You can\nreally count on him.
+
+@329.083E
+Slip away without a sound.\nDon't provoke them for no reason...
+
+@329.0874.0
+Everyone, we're setting out.\nQuietly now, quietly.
+
+@329.0874.1
+Everyone, we're setting out.\nQuietly, quietly.
+
+@329.0874.2
+Everyone, we're setting out.\nQuietly, quietly.
+
+@329.0874.3
+Everyone, we're setting out.\nQuietly, quietly.
+
+@329.0874.4
+Everyone, we're setting out.\nQuietly, quietly.
+
+@329.0874.5
+Everyone, we're setting out.\nQuietly, quietly, you hear?
+
+@329.0874.6
+Everyone, let's go.\nQuietly, quietly.
+
+@329.0874.7
+Everyone, we're setting out.\nQuietly now, quietly.
+
+@329.09A2
+Thud!
+
+@329.09B2
+Oops! I dropped my pack!
+
+@329.09D6.0
+Oh no!
+
+@329.09D6.1
+Oh!
+
+@329.09D6.2
+Oh no!
+
+@329.09D6.3
+Oh!
+
+@329.09D6.4
+Damn!
+
+@329.09D6.5
+Uh-oh!
+
+@329.09D6.6
+Oh!
+
+@329.09D6.7
+Uh-oh!
+
+@329.0A18
+Gwaaah!
+
+@329.0A2A.0
+A-are you all right!\nHold on!
+
+@329.0A2A.1
+Are you all right! Hold on!
+
+@329.0A2A.2
+A-are you okay? Hold on!
+
+@329.0A2A.3
+A-are you okay? Hold on!
+
+@329.0A2A.4
+Hey, you all right! Hold on!
+
+@329.0A2A.5
+A-are you all right! Hold on, now!
+
+@329.0A2A.6
+A-are you okay? Hold on!
+
+@329.0A2A.7
+A-are you all right? Hold on!
+
+@329.0AFA
+Hurry, run through!
+
+@329.0B24
+A sailor seems to be injured.
+
+@329.0B62
+Hey, looks like we've arrived!
+
+@330.000C
+Welcome.
+
+@330.0020
+Hey, {FI}.\nDo you know anything about a\n"Goryeo Incense Burner"?
+
+@330.0056
+An incense burner?
+
+@330.0064
+They say that if you use it for\nfortune-telling, the readings come true\nall the time. Ah, I'd love to try it once...
+
+@330.00D6
+Hmm.
+
+@330.00E4
+Oh, that's right.
+
+@330.00FA
+I hear pirates have been running wild\naround here lately, so you'd better\nmake sure you're properly equipped.
+
+@330.015C
+Really? ...That's dangerous.\nThanks, I'll be careful.
+
+@330.0192
+Well then, see you later.
+
+@331.000C
+Oh, welcome!
+
+@331.0028
+Thanks to the incense burner you gave\nme, my fortunes come true so often now.\nTo thank you, I'll read yours too.
+
+@331.008C
+Here, sit down.
+
+@331.00A4
+...
+
+@331.00AE
+...
+
+@331.00B8
+Far inland from this town, deep in\nthe desert, there are ruins. What you're\nlooking for must be there.
+
+@332.0018.0
+Admiral, without a map\nwe'll probably lose our way.
+
+@332.0018.1
+Admiral, without a map\nwe'll get lost.
+
+@332.0018.2
+Admiral, without a map\nwe'll get lost!
+
+@332.0018.3
+Admiral, without a map\nI think we'll get lost.
+
+@332.0018.4
+Admiral, without a map\nwe'll get lost, damn it.
+
+@332.0018.5
+Admiral, without a map\nwe'll lose our way, you hear?
+
+@332.0018.6
+Admiraal\nplease get a map!
+
+@332.0018.7
+Admiral, without a map\nwe'll lose our way, I'm afraid.
+
+@332.0154.0
+Well then, let's set out.
+
+@332.0154.1
+Shall we go, then?
+
+@332.0154.2
+All right, let's go!
+
+@332.0154.3
+Well then, let's get going.
+
+@332.0154.4
+Right, time to move out!
+
+@332.0154.5
+Now then, let's go with spirit!
+
+@332.0154.6
+Fooorward, maaarch!
+
+@332.0154.7
+Well then, let's set out.
+
+@332.0208.0
+Admiral, we've come out\nin a strange place.
+
+@332.0208.1
+Admiral, we've come out\nin a strange place...
+
+@332.0208.2
+Admiral, it's a cliff edge!
+
+@332.0208.3
+That's a huge cliff...\nWhat do we do?
+
+@332.0208.4
+Admiral, we've hit a cliff.
+
+@332.0208.5
+Hmm, this is the top of a cliff.
+
+@332.0208.6
+It's a cliff. What do we do?
+
+@332.0208.7
+Admiral, we've come out\nin a strange place...
+
+@332.02EA
+Hey, {FI}.\nHow in the world did you end up\nin a place like this?
+
+@332.0322
+That's strange.\nI thought I followed the map exactly...
+
+@332.0358.0
+Jump across
+
+@332.0358.1
+Go around
+
+@332.037C
+Should we try jumping across?
+
+@332.0396.0
+Admiral, please don't be\nunreasonable.
+
+@332.0396.1
+Admiral, that's unreasonable...
+
+@332.0396.2
+That's crazy...
+
+@332.0396.3
+You're kidding!?
+
+@332.0396.4
+That's crazy talk.
+
+@332.0396.5
+Come now,\ndon't talk nonsense.
+
+@332.0396.6
+I'd love to fly too,\nbut still...
+
+@332.0396.7
+That's completely absurd...
+
+@332.0474
+Hahaha, just kidding.\nLet's climb down the cliff.
+
+@332.0498
+(Was he really kidding?)
+
+@332.04BC
+*huff*, *huff*...
+
+@332.04D2
+Waaaah!
+
+@332.04E6
+Are you okay!?\nJust a little more, hang in there!
+
+@332.0536
+A sailor seems to be injured.\nFatigue seems to be building up.
+
+@332.0572
+It's a cliff... All we can do\nis go around.
+
+@332.059E
+One day has passed.
+
+@332.05D6.0
+It's coming into view.
+
+@332.05D6.1
+It's coming into view.
+
+@332.05D6.2
+It's coming into view!
+
+@332.05D6.3
+It's coming into view.
+
+@332.05D6.4
+It's comin' into view.
+
+@332.05D6.5
+It's coming into view.
+
+@332.05D6.6
+It's coming into view?
+
+@332.05D6.7
+It's coming into view.
+
+@332.0642.0
+The fog is rolling in.
+
+@332.0642.1
+The fog is rolling in.
+
+@332.0642.2
+Fog's rolling in!
+
+@332.0642.3
+It's gotten foggy.
+
+@332.0642.4
+Damn thick fog.
+
+@332.0642.5
+Hmm, fog is rolling in.
+
+@332.0642.6
+Wow, what thick fog!
+
+@332.0642.7
+The fog is rolling in.
+
+@332.06DC.0
+Press on regardless
+
+@332.06DC.1
+Wait for it to clear
+
+@332.070C.0
+It seems to be a dead end.
+
+@332.070C.1
+A dead end...
+
+@332.070C.2
+Aww, it's a dead end.
+
+@332.070C.3
+A dead end...
+
+@332.070C.4
+A dead end...
+
+@332.070C.5
+Hmm, it's a dead end.
+
+@332.070C.6
+Aww, it's a dead end.
+
+@332.070C.7
+Dear me, a dead end.
+
+@332.07C0.0
+Go on anyway
+
+@332.07C0.1
+Look for a way around
+
+@332.07EA.0
+I'll give it a try.
+
+@332.07EA.1
+Let's give it a try.
+
+@332.07EA.2
+Man, this is crazy.\n...I'll give it a try.
+
+@332.07EA.3
+I'll give it a try.
+
+@332.07EA.4
+All right, let's go all the way!
+
+@332.07EA.5
+That's asking a lot.\nWell, let's try it anyway.
+
+@332.07EA.6
+This is so crazy.\nOkay... here we go!
+
+@332.07EA.7
+I'll give it a try.
+
+@332.08C4
+The sailors seem to be exhausted.
+
+@332.08F0.0
+Admiral, there's a fork in the path!
+
+@332.08F0.1
+Admiral, there's a fork in the path.
+
+@332.08F0.2
+Admiral, there's a fork here, look!
+
+@332.08F0.3
+Admiral, there's a path over here!
+
+@332.08F0.4
+Admiral, there's a path over here!
+
+@332.08F0.5
+Admiral, looks like we can go this way!
+
+@332.08F0.6
+Admiraal, over here, over here!
+
+@332.08F0.7
+There's a path in a place like this!
+
+@332.09FE.0
+That seems like the better choice.
+
+@332.09FE.1
+That seems like the better choice.
+
+@332.09FE.2
+That's the best way.
+
+@332.09FE.3
+That's the best way.
+
+@332.09FE.4
+Yeah. Let's do that.
+
+@332.09FE.5
+I suppose we have no other choice.
+
+@332.09FE.6
+Yeah, let's do that.
+
+@332.09FE.7
+That is the safer way.
+
+@332.0AA2
+...
+
+@332.0AB0
+......
+
+@332.0ACC
+One day has passed.
+
+@332.0AF0.0
+It's coming into view.
+
+@332.0AF0.1
+It's coming into view.
+
+@332.0AF0.2
+It's coming into view!
+
+@332.0AF0.3
+It's coming into view.
+
+@332.0AF0.4
+It's coming into view.
+
+@332.0AF0.5
+It's coming into view.
+
+@332.0AF0.6
+It's coming into view?
+
+@332.0AF0.7
+It's coming into view.
+
+@333.0018.0
+Admiral, it's dangerous to wander\naround a jungle like this aimlessly.
+
+@333.0018.1
+Admiral, it's dangerous to wander\naround a jungle like this aimlessly.
+
+@333.0018.2
+Admiral, we can't wander around a\njungle like this with no plan!
+
+@333.0018.3
+Admiral, it's dangerous to wander\naround a jungle like this, you know.
+
+@333.0018.4
+Admiral, I'm not wandering around\na jungle like this with no plan.
+
+@333.0018.5
+Admiral, it's dangerous to wander\naround a jungle like this aimlessly.
+
+@333.0018.6
+Admiraal, it's dangerous to walk\nthrough a jungle without a map.
+
+@333.0018.7
+Admiral, it's dangerous to wander\naround a jungle like this aimlessly.
+
+@333.01BE.0
+All right, shall we go?
+
+@333.01BE.1
+Well then, let's go.
+
+@333.01BE.2
+All right, let's give it our all!
+
+@333.01BE.3
+Well then, let's go.
+
+@333.01BE.4
+All right, let's go.
+
+@333.01BE.5
+Now then, let's go.
+
+@333.01BE.6
+All right, let's give it our all!
+
+@333.01BE.7
+All right, shall we go?
+
+@333.0246
+A jungle, huh...
+
+@333.026A.0
+A cave, in a place like this...
+
+@333.026A.1
+A cave, in a place like this...
+
+@333.026A.2
+A cave, in a place like this...
+
+@333.026A.3
+A cave, in a place like this...
+
+@333.026A.4
+A cave, in a place like this...
+
+@333.026A.5
+A cave, in a place like this...
+
+@333.026A.6
+Huh? It's a cave!
+
+@333.026A.7
+A cave, in a place like this...
+
+@333.02B0
+I can't see much in here...
+
+@333.02D2
+Admiral...
+
+@333.02E0.0
+Feel our way forward
+
+@333.02E0.1
+Light a fire
+
+@333.0308
+Lighting a fire right away\nmight be risky...\nLet's go on like this...
+
+@333.035A
+Phew, that was a bit rough...\nHuh? Where did we come out?
+
+@333.0398.0
+...\n...\nI'm not sure, but we seem to be\nnear the ruins.
+
+@333.0398.1
+...\n...\nThis appears to be near the ruins.
+
+@333.0398.2
+Here? ...Um, I'm not sure,\nbut maybe it's near the ruins?
+
+@333.0398.3
+Um... huh?\n...\nWe seem to be near the ruins.
+
+@333.0398.4
+Whoa!?\n...\nIsn't this near the ruins!?
+
+@333.0398.5
+...\n...Hmm.\nIt seems we've come out\nnear the ruins.
+
+@333.0398.6
+Here? Um...\nHuh? I don't really know, but\nwe're near the ruins! Lucky!
+
+@333.0398.7
+Hmm...\n...\nWe seem to be near the ruins.
+
+@333.054C
+All right. Then let's light a fire...
+
+@333.0576
+Whoa!\nBats!
+
+@333.0594.0
+There are too many!
+
+@333.0594.1
+There are too many!
+
+@333.0594.2
+There are too many!
+
+@333.0594.3
+Eeek!\nAdmiral, this many isn't normal!
+
+@333.0594.4
+There are too many!
+
+@333.0594.5
+Admiral! We can't possibly keep going\nwith so many bats to deal with!
+
+@333.0594.6
+Aaah, bats!\nThey're creepy!
+
+@333.0594.7
+There are too many!
+
+@333.0678
+Just a few bats!\nWe keep going!
+
+@333.06D0
+The sailors seem to be exhausted.
+
+@333.06F8.0
+You did it, Admiral!\nWe're through the jungle!!
+
+@333.06F8.1
+We're through the jungle!!
+
+@333.06F8.2
+You did it, Admiral!\nWe're through the jungle!!
+
+@333.06F8.3
+Thank goodness, we're through\nthe jungle!!
+
+@333.06F8.4
+You did it, Admiral!\nWe're through the jungle!!
+
+@333.06F8.5
+We did it!\nWe're through the jungle!!
+
+@333.06F8.6
+You did it, Admiral!\nWe're through the jungle!!
+
+@333.06F8.7
+You did it, Admiral!\nWe made it through the jungle!!
+
+@333.080E.0
+Admiral, it seems we've reached\nthe ruins.
+
+@333.080E.1
+Admiral, it seems we've reached\nthe ruins.
+
+@333.080E.2
+Admiral, so these are the ruins.
+
+@333.080E.3
+Admiral, so these are the ruins.
+
+@333.080E.4
+Admiral, these are the ruins.
+
+@333.080E.5
+Admiral, it seems we've reached\nthe ruins.
+
+@333.080E.6
+Admiraal, the ruins!
+
+@333.080E.7
+Admiral, we've reached the ruins.

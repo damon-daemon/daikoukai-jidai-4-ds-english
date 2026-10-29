@@ -1,0 +1,956 @@
+@045.000A
+Huh? Where did Julio go?
+
+@045.003A
+Over here! Right here!
+
+@045.005C
+Oh, the Market...
+
+@045.0076
+Let's start by selling some trade goods\nhere. If you bought anything in Lisbon,\nyou may as well try selling it.\nBut first...
+
+@045.00EA
+To sell, you need a "Contract."
+
+@045.0116
+A contract...?
+
+@045.012C
+Go to the Palace or the Governor's Office\nand pay the lord who rules the port a fee.\nThat buys you the right to trade there.
+
+@045.0188
+Anyway, it pays to sign contracts in as\nmany ports as you can. For now, the\nminimum fee will do just fine.
+
+@045.01EE
+I took care of the Ceuta contract\nmyself, but from now on it's your job.
+
+@045.0252
+In Ceuta, the {FO}'s\nshare is 20%.\nYou can trade according to your share.
+
+@045.02B0
+All right, if you've got something to\nsell, go ahead and sell it!
+
+@045.02E0
+Yes.\nI will.
+
+@046.0032
+Phew, Hayreddin saved our necks\nback there.
+
+@046.0062
+Yeah...
+
+@046.0070
+At this rate, we may be picking a fight\nwith an enemy fleet sooner than\nwe expect.
+
+@046.00C2
+Perhaps I ought to teach you what else\nyou can do at sea.
+
+@046.0100.0
+Yes, please.
+
+@046.0100.1
+I'm fine.
+
+@046.012C
+Looking over the sea, starting a battle,\nand searching. I'll explain those three.
+
+@046.017A
+To see details on a nearby port or fleet,\nor to attack one yourself, you have to\nselect your target first.
+
+@046.01F2
+Try searching along the coast.\nYou may find all sorts of things.
+
+@046.0236
+At sea, you can view information on\nnearby ports and fleets.
+
+@046.0270
+Press the Y Button and a "magnifying\nglass" mark appears.\nThe magnifying glass is Info Mode.
+
+@046.02CA
+To view information, place the\nmagnifying glass on a port or fleet\nand press the A Button.
+
+@046.0316
+Your ship can also start battles with\nother fleets and ports.
+
+@046.0356
+While the magnifying glass is showing,\npress L to switch to a "sword" mark.\nThe sword is Battle Mode.
+
+@046.03BC
+To start a battle, place the sword on a\nport or fleet and press the A Button.
+
+@046.0408
+To search the sea for items or supplies,\npress R while the magnifying glass\nis showing.
+
+@046.046C
+A gray frame appears.\nThis is the "Search" mark.\nIt means Search Mode.
+
+@046.04B8
+You will search the land inside the gray\nframe. Press the A Button.
+
+@046.04F8
+You can switch between "Info," "Battle"\nand "Search" Modes with L and R.
+
+@046.0548
+Press L to switch in the order\n"Info" > "Battle" > "Search."
+
+@046.0592
+Press R (or the Y Button) to switch in the\norder "Info" > "Search" > "Battle."
+
+@046.05EE
+Well?\nDid you get all that?
+
+@046.060E
+Yes, thank you very much.
+
+@046.0636
+Good.\nNever let your guard down\nat sea.
+
+@046.066E
+Yes.
+
+@046.067E
+(Someday, I'll surely...)
+
+@047.000A
+I still can't read Hayreddin's true\nintentions, but it looks like we can\nmanage passage in the Mediterranean.
+
+@047.0074
+Yes. If pirates like that attacked us\nevery time we entered the Mediterranean,\nno number of lives would be enough.
+
+@047.0106
+But we can't go near the Ottoman Turks.\nThe risk is far too great.
+
+@047.014C
+Why is that?
+
+@047.0168
+These days, the eastern half of the\nMediterranean is Ottoman Turkish\nterritory, the Pasha's army's domain.\nIf they targeted us, we'd never win.
+
+@047.01EE
+So we should put off the Mediterranean,\nsince the Ottoman Pasha's army has\nsuch a strong influence there.
+
+@047.025A
+So we should put off the Mediterranean,\nsince Valdes's army of Spain and the\nOttoman Pasha's army have such\nstrong influence there.
+
+@047.02D4
+No need to force a contract there.\nBest not to provoke them.
+
+@047.0320
+Still, big cities may have fine mates,\nso we can't just ignore them. It'd be\nworth going, if only to look for\ncomrades.
+
+@047.03B8
+A wise choice.
+
+@047.03D2
+Right. If we're heading out to other\nwaters, we need stronger ships, and\nwe've got to train ourselves, too.
+
+@047.0426
+Exactly. As I said before, don't forget\nto tour the big cities and gather mates.
+
+@047.0484
+Wow.\nThere's so much to do.
+
+@047.04BE
+Well, we're about to get busy.
+
+@047.04E6
+All right, let's do our best!
+
+@048.000A
+By the way, Athens is...\na city of learning and philosophy, right?
+
+@048.0056
+Somehow it makes me feel like I ought\nto be studying. The whole city has\nthat atmosphere.
+
+@048.00C2
+Precisely! There is surely something\nfor us to learn here!
+
+@048.00F6
+Can't you do something about that\nstuffy personality of yours?
+
+@048.013E
+Stop complaining right away like that!
+
+@048.016A
+Clau, all you do is complain.
+
+@048.0186
+Yeah, yeah.\nFine, got it.\nI'll shut up.
+
+@048.01C6
+Hmm, this is a good chance. I'm going\nto look into the "Victor's Mark."
+
+@048.0212
+The Vic... tor's Mark?
+
+@048.0230
+Oh, come to think of it...\nJulio, what is it you need to do?
+
+@048.026A
+Hmm.\nI'm going to look into the "Victor's Mark."
+
+@048.029C
+What's the "Victor's Mark"?
+
+@048.02BE
+That's what I'm going to find out.
+
+@048.02DE
+??
+
+@048.02EA
+Just wait a bit.\nI'll be right back.
+
+@048.0324
+Okay...
+
+@048.0340
+...Hm?\nWhat's that...?
+
+@048.0362
+What?! What are you talking about?\n...There's no convenient ship like that!\nAsk somewhere else!
+
+@048.03B6
+Deck, hold, anywhere will do!\nJust take me to some faraway land,\nplease!
+
+@048.040A
+Look, old man. At your age, you couldn't\neven scrub the deck, could you?
+
+@048.0442
+Don't say that. Please?
+
+@048.046A
+...Um, excuse me.\nIs something wrong?
+
+@048.048C
+Oh! You're a sailor who just came into\nport, aren't you? I'm sorry to ask, but\nwould you take me aboard?
+
+@048.04E4
+I wouldn't, Captain. This old man\nwants you to carry him for free!
+
+@048.0534
+...So you want to go to sea?\nWhat should I do...
+
+@048.0570
+Hey, hey. What's the point of taking\non nothing but old men?
+
+@048.05A0
+...No good, then, is it...?
+
+@048.05C0
+Well...\nFirst, tell me your reason.\nI'll decide after that.
+
+@048.0614
+Yes! I am Hans Retzel,\na natural history scholar.
+
+@048.064E
+The whole world is my field of study!\nPlease!!\nShow me the world! Won't you?
+
+@048.069E
+...
+
+@048.06A8
+I see...
+
+@048.06BC
+...Admirable!!
+
+@048.06D2
+Clau?
+
+@048.06E2
+He'll drive his old body into dangerous\nseas just to finish his research...\nThat spirit is truly wonderful!\nI respect that!
+
+@048.0764
+Y-yes, I suppose so.\nUm, Hans, please come aboard.
+
+@048.07A4
+Oh! Really? Wonderful!
+
+@048.07CE
+Now then, Admiral. Since I'm already\nbeing selfish, I have one more favor\nto ask...
+
+@048.081C
+What is it?
+
+@048.0830
+Well, you see, I'd like to bring\none companion along.
+
+@048.086A
+??
+
+@048.0876
+My assistant. A promising... young man.\n*Ahem* Arcadius, greet everyone.
+
+@048.08D6
+...I am Arcadius Eudosios.\nPleased to meet you.
+
+@048.0928
+(Wow, what a slender fellow.)
+
+@048.0950
+(Look who's talking. But yeah, next to\nhim Jenas looks sturdy.)
+
+@048.0998
+...Ahem!
+
+@048.09AE
+Besides his attitude toward learning,\nhe's quite promising... as a young man.
+
+@048.09EC
+I have studied seafaring a little, but I\nstill expect to learn a great deal\nfrom all of you.
+
+@048.0A58
+Not at all.\nPlease don't take it too seriously.\nWe're just getting started\nourselves.
+
+@048.0AB2
+I'm relieved to hear you say so.
+
+@048.0ADA
+Oh! Everything will go well!\nWhat a wonderful voyage this will be!
+
+@048.0B30
+Sounds like it'll be a fun voyage.
+
+@048.0B56
+Having a learned scholar along is\nreassuring, isn't it, Clau?
+
+@048.0B90
+Yeah, I guess so. Do some good research,\nProfessor! ...And you too, assistant!!
+
+@048.0BE2
+Oh, leave it to me!
+
+@048.0BFE
+Yes, I look forward to it...
+
+@048.0C28
+Hey there!
+
+@048.0C3C
+Oh, Julio.
+
+@048.0C52
+Hm?\nWell, there you are! Here all along?!
+
+@048.0C86
+Oh, if it isn't Julio!!
+
+@048.0CAA
+Hans! I've been looking for you!
+
+@048.0CC8
+??
+
+@048.0CD4
+Huh? What?!\nYou were looking for this man?
+
+@048.0D08
+That's right. He's an acquaintance of\nmine. He's studied the "Victor's Mark"\nfor many years.
+
+@048.0D52
+Oh ho!\nAre you interested in the "Victor's\nMark" too?
+
+@048.0D8E
+Interested? We don't even know what\nit is! What is this "Victor's Mark"?
+
+@048.0DD6
+Treasures scattered across the seas.\nThey say that, quite literally,\nwhoever rules the sea will hold them.
+
+@048.0E2A
+Yes. The details are still a mystery,\nbut it seems we're close to a clue\nfor tracking the treasures down.
+
+@048.0E94
+Oh, you found something?
+
+@048.0EB0
+According to an old document, there are\nseven treasures in all. The seven sages\nof old marked the places where they\nshould be sealed on maps of many forms.
+
+@048.0F22
+Someday, the one who rules those seas is\nfated to take up those maps.\nThat's the idea.
+
+@048.0F7E
+Then if we collect them\nourselves...!
+
+@048.0FAC
+Exactly. You'd be the true ruler of the\nworld's seas, in name and in fact.
+
+@048.0FF0
+Ruler of the seas...
+
+@048.1004
+Let's do it!\nWe'll win it with our own strength!!
+
+@048.1030
+{FI} is always the first one to get\nexcited. I don't really get it, but\nwe won't get anywhere until we see\nthis Mark thing.
+
+@048.10A2
+Yeah!\nI'll definitely find it!
+
+@048.10CC
+All right!\nI'll definitely find it!\nAnd someday, I'll challenge\nHayreddin, too!
+
+@048.111E
+Hayreddin?!
+
+@048.1136
+My goodness.\nHave I boarded quite a ship?
+
+@048.116C
+Hohoho.\nIt's too late to notice now.\nThis Admiral fears nothing.
+
+@048.11BC
+Hmm, hmm.\nBeing young is a good thing.
+
+@048.11E8
+Actually, I heard a rumor recently that\nsomeone carried one of the "Victor's\nMark" maps off to southern Africa.
+
+@048.124C
+What? Really?
+
+@048.1266
+I can't say if it's true. But if you go to\nAfrica, I think you'll learn something.
+
+@048.12B8
+I see.\nUnderstood.\nLet's head for Africa!
+
+@048.1306
+Natural history scholar Hans Retzel\nhas joined you!
+
+@048.1342
+However, since scholar Hans isn't a mate,\nhe can't be assigned to the\nDeck Screen.
+
+@048.1396
+With Hans aboard, you can now view\ndetailed item information.
+
+@048.13D4
+While item information is shown,\ntry pressing the X Button.
+
+@048.1418
+I can't work on the ship, but I'm in\nyour hands. If you want to know\nabout an item, call on me.
+
+@049.0008
+Hm?\nWhat's that? The Market seems noisy...\nLet's go see.
+
+@049.0058
+Hey!\nYou!
+
+@049.0072
+Ril!\nNo fighting!
+
+@049.00A8
+You have to say these things\nstraight out! Kamil, you stay quiet.
+
+@049.010C
+What's going on? The mood is awfully\nhostile...
+
+@049.0138
+Do you want something with me?
+
+@049.0154
+"Want something"?! You lot! Who gave\nyou permission to do business in\nthe North Sea?!
+
+@049.01B0
+Huh? What are you saying? Hey, little\nmiss. Do you wanna make us a-n-g-r-y?
+
+@049.0214
+Um... sorry. I don't quite understand\nwhat's going on...
+
+@049.0258
+Are you stupid?
+
+@049.0280
+Ha ha. That's harsh.
+
+@049.02A6
+I'm only saying this once.\nListen up.
+
+@049.02D0
+...Oh, right, right.
+
+@049.02E6
+Look, right now people all over the\nworld are working hard to make money.\nIt's the same in these waters.
+
+@049.0348
+Please watch how you say things...
+
+@049.0372
+This is fine! Anyway. This area is the\nArgot Company's turf.\nGot it?
+
+@049.03CE
+Okay...
+
+@049.03DE
+Hey. Is this guy all right?\nAre you really an admiral?
+
+@049.043A
+...\nYeah, that's the long and short of it.
+
+@049.045E
+Yes, indeed. A fine admiral, I assure you.
+
+@049.048E
+...Ugh, how anticlimactic.
+
+@049.04AA
+But he doesn't seem like a bad guy.\nFine. I'll explain the situation.
+
+@049.04FE
+Listen. The North Sea is pretty big,\nisn't it?
+
+@049.0540
+Well, yeah.
+
+@049.0568
+Wandering around the north is some navy\nuncle called Hodrum Bergwhatever.\nFor now, anyway.
+
+@049.05F4
+Around England, an admiral named\nClifford runs things.
+
+@049.0656
+In Germany, Martin Speyer of the Hanseatic\nLeague is somehow managing the place.
+
+@049.06BE
+And as for the other regions, we want to\nget most of them ourselves, from now on.
+
+@049.0718
+I see. But Ril, if you sign a contract with\na port, isn't trade fair to everyone?
+
+@049.0762
+I know that. So I'm saying, please just\nleave us alone for a while.
+
+@049.07BA
+That's a pretty self-serving story, isn't\nit?
+
+@049.07DE
+Hmm, that's a bit...
+
+@049.07FE
+Aren't you supposed to be aiming for the\nwhole world?
+
+@049.0836
+Yes. That's right.
+
+@049.084C
+Ugh, you take all the wind out of me.
+
+@049.0880
+Well, we do have goals.
+
+@049.08B2
+Then? You could go to Africa, or the new\ncontinent in the west, right?
+
+@049.08FA
+Then? The world is big! You should look\nelsewhere too! Like the new continent in\nthe west, or solving the mystery of the\nfar east!
+
+@049.0978
+Hmm. That's one way to look at it.
+
+@049.09A0
+So for a while, I'm telling you not to\ntouch my turf.
+
+@049.09E8
+If you want a head-on fight, that's\ndifferent, but then we have plans of\nour own. Got it?
+
+@049.0A54
+R-Ril, come on...
+
+@049.0A72
+Yes, more or less. So you mean you want\nan agreement with us... right?
+
+@049.0AC6
+W-what? You're sharp in weird ways.\nThe way you say it, it sounds like I'm\nbeing humble about it.
+
+@049.0B22
+Pfft.\nYou really hate to lose, huh?
+
+@049.0B40
+Hey. Are you making fun of me?
+
+@049.0B64
+No, not at all.
+
+@049.0B9A
+Hee hee...
+
+@049.0BC4
+Oh dear.\n{FI}, it might be smarter to go earn\nour money in other waters.
+
+@049.0C34
+You're enemies with Valdes of Spain,\nright?
+
+@049.0C6A
+Enemies? Hmm, Spain is after Portuguese\nterritory, so... yes, they are.
+
+@049.0CB8
+Then we're the same! This is no place to\nbe fighting. Yeah, that's right, right.
+
+@049.0D1C
+Okay...
+
+@049.0D3E
+She's telling us to look elsewhere.
+
+@049.0D66
+So that's that! Got it?\nWe're busy too, so see you!
+
+@049.0DBA
+Ah! Ril, wait!\nS-sorry for the trouble!\nExcuse us! Ril, wait for me!
+
+@049.0E32
+...A typhoon has passed.
+
+@049.0E48
+I don't like it, but it's your call, {FI}.\nI'll follow your decision.
+
+@049.0E86
+...Let's put off these waters after all.\nI can't dislike that girl. Plus, she looks\nscary when she's angry.
+
+@049.0F00
+If the North Sea weren't the only one\nleft, that would be a wise idea.
+
+@049.0F42
+Then let's head for other waters\nfor now.
+
+@050.000C
+Wait!
+
+@050.001C
+Oh!\nUm, it's Ril, right?
+
+@050.0046
+Heh. You remembered. More importantly...\nin the end, you outsmarted me.
+
+@050.0092
+Oh! Thanks...
+
+@050.00A8
+Don't just say thanks. This is a key to\ndeciphering the treasure map.\nIt's yours.
+
+@050.00F8
+What?!\nAre you sure?
+
+@050.0118
+Sigh.\nI lost to this guy?\n...Oh well.
+
+@050.015E
+Ah! Ril, honestly!\nThere you are!\nWe haven't finished getting ready yet!
+
+@050.01B6
+Oh, hello.\nMr. {FA}, wasn't it?
+
+@050.01E0
+Y-yes. Um... Kamil?
+
+@050.0208
+Yes, that's right. Well, I suppose it's\nbeen a while... Ha ha.
+
+@050.0256
+By the way, Ril! You haven't been rude\nagain, have you?!
+
+@050.0298
+Nooo.\nI just gave it to him because I won't\nbe using that pigment anymore.
+
+@050.02D6
+Oh, right. The North Sea's Victor is\nLeader {FA} now. Then it's fine.
+
+@050.031A
+???\nDid something happen...?
+
+@050.033E
+Honestly...\nYou're as slow as ever... I mean,\nno, you're so easygoing.
+
+@050.0386
+Well, it seems I've found a way to live\nbesides making money.
+
+@050.03CE
+Oh, I see.
+
+@050.03E4
+You finally get it?!
+
+@050.0400
+(I don't get it at all, but\nI'll play along...)\nThat's wonderful!
+
+@050.0450
+Thanks!
+
+@050.0464
+Thank you.
+
+@050.0480
+So, no congratulations?
+
+@050.049C
+Wh-what?\n(...Oh no.\nI have no idea what this is about...)
+
+@050.04DA
+No, please don't worry about it.\nCome on, Ril, let's go.\nTake care, Leader {FI}.
+
+@050.052A
+Okay!\nThen do your best for us too!
+
+@050.0560
+Ril, Kamil, thank you so much!\nI'll do my best to live up to\nyour hopes!
+
+@050.05AE
+(But what was the "celebration"\nabout, I wonder...)
+
+@051.000C
+It's quiet and calm here.\nAll right. For the first time in a while...
+
+@051.0056
+(Hm?)
+
+@051.006C
+(Smile)
+
+@051.007E
+...??\n(Who is that?)
+
+@051.00A0
+\n\n......
+
+@051.00B2
+Sera.
+
+@051.00BE
+(Hm?)
+
+@051.00CE
+Oh, Hodrum.
+
+@051.00E2
+Who is that?\nAn acquaintance...\nNo, couldn't be.
+
+@051.010A
+...
+
+@051.0114
+...Hmm.
+
+@051.0122
+Hodrum?
+
+@051.0134
+Let's go.
+
+@051.0142
+Yes.
+
+@051.0152
+...She was beautiful.\nWhat country's princess is she?
+
+@051.0198
+But the soldier next to her was, if I\nremember right, from the Swedish navy...
+
+@052.000A
+Oh, you.\nAre you from the {FO}?
+
+@052.002C
+? Yes, I am.
+
+@052.0048
+I thought so.
+
+@052.0060
+Admiral Albuquerque of the Portuguese\nregular army asked me to tell you, if I\nsaw you, to return to the homeland\n(Lisbon).
+
+@052.00E0
+?\nWhat could the regular army want\nwith us?
+
+@052.0118
+Can't be helped.\nShould we head back for now?
+
+@052.0150
+It can't be helped.\nShall we head back for now?
+
+@053.0008
+Admiral. By the way, there's a summons\nfrom the Portuguese regular army.\nWhat'll we do?
+
+@053.0058
+I think I'll go.\nI just go to the Palace, right?
+
+@053.0088
+That's right.
+
+@054.000A
+Hey, you! Have you heard?
+
+@054.0030
+Yes?
+
+@054.003E
+Master Fernan Silveira took down that\nnotorious Espinosa!
+
+@054.0092
+...So that's how it's being told.
+
+@054.00BA
+? You're a strange young fellow.\nWell, whatever. Either way, Silveira's\nbetter than Espinosa, who did nothing\nbut bad things.
+
+@054.0144
+Well... Maybe so.
+
+@054.0168
+Apparently they're moving the governor's\noffice to Sofala now...
+
+@054.01A4
+The Governor's Office of Africa...?!\nSofala?! ...I have to go!\nI see, thanks, mister!
+
+@054.0208
+Hey!\n...\nHonestly, what was that about?
+
+@055.000A
+Well, well, {FI}!\nYou must be tired!
+
+@055.0030
+Oh! Admiral Fernan!\n(He's already here...!)
+
+@055.0068
+Your accomplishments were truly\nwonderful. I've already reported to His\nExcellency Albuquerque myself, so\nthere's nothing at all to worry about.
+
+@055.00D8
+...Right.
+
+@055.00E6
+Now, I declined, you see, but His\nExcellency insisted, so...
+
+@055.0128
+It seems I've been entrusted with the\nGovernor of Africa post, as they say!\nHa, hahaha!
+
+@055.017A
+What?!
+
+@055.019E
+Sofala's share has been entirely taken\nby the Silveira Company!!
+
+@055.01EA
+Well, that's luck for you.\nNo hard feelings, I hope.\nHahaha!
+
+@055.022A
+And this is your reward from His\nExcellency Albuquerque. Oh, as for a\ncelebration gift for my appointment, no\nneed. I deducted it from your reward.
+
+@055.02AE
+Of course, if you insist, you're welcome\nto pay it anyway. I wouldn't mind in\nthe least. Ha, hahaha!
+
+@055.031A
+You received 3000 gold coins...
+
+@055.0342
+...Damn!\nI've been had...!
+
+@055.0368
+Did Commander Albuquerque really decide\nthat himself?
+
+@055.0398
+Tch, that bastard begged him to. Most\nlikely he filed a false report and took\nall the credit for beating Espinosa.
+
+@055.0422
+I never knew he was that shrewd...\nAdmiral {FI}, this is simply\nunforgivable.
+
+@055.0482
+Admiral!\nOur next target is settled!
+
+@055.04AC
+Well, our next target is decided.
+
+@055.04D6
+Huh?
+
+@055.04F6
+Damn you, Silveira!\nYou've made me serious now!
+
+@055.052C
+We can't just stay quiet about this!
+
+@055.056A
+Heaven may forgive him, but I won't!\nYahoo!!
+
+@055.059C
+Let's do it!
+
+@055.05B0
+...Y-yeah. I don't like Portuguese\nfighting Portuguese, but backing down\nnow would be even worse.
+
+@055.0624
+I won't forgive him, ever!\nSilveira!!
+
+@055.0666
+Oh dear. Driving my old bones again...\n{FI}! Let's give it our all!
+
+@055.06B6
+Let's beat him! Let's wipe that smug\nlook off Silveira's face!
+
+@055.06FE
+...Thanks, everyone!\nAll right. Let's conquer Africa!
+
+@055.0734
+Let's go!
+
+@055.0746
+Yeah!
+
+@056.000A
+Oh!\nIsn't that the {FO}'s\nLeader?
+
+@056.0034
+Oh! This is perfect timing!\nHey! You there!
+
+@056.0076
+Are you talking to me?\n...\nWhat is it?
+
+@056.009C
+Compared to when Espinosa and Silveira\nwere throwing their weight around,\nthis has become a much better world.
+
+@056.00FC
+Yes, that's right.\nThanks to your people.
+
+@056.012C
+...Is it really?\nYou're making me blush.
+
+@056.0152
+We had merchants of vice for so long\nwe nearly forgot how to trust anyone.
+
+@056.01AC
+That's the truth...\nOh! I almost forgot the real reason\nwe called you.
+
+@056.01F0
+Yes?
+
+@056.01FC
+...Get yourself together.\nHere, take this.
+
+@056.0238
+What is this...?
+
+@056.025E
+Could it be the "Victor's Mark"...?!
+
+@056.0282
+Um... where did you get this?!
+
+@056.02B6
+An adventurer was going to sell it to\nEspinosa for a high price.
+
+@056.02F6
+Selling the Victor's Mark's location to a\ndevil like that for money... What a\nterrible idea!
+
+@056.0368
+A-are you sure I can have it?
+
+@056.0394
+The whole town chipped in and made him\nsell it. All to give it to you.
+
+@056.03E8
+Thank you so much!
+
+@056.0410
+It's yours, for certain.\nDo your best for all of us.
+
+@056.0444
+Yes!
+
+@056.0452
+We're counting on you!

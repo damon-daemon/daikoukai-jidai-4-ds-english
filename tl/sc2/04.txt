@@ -1,0 +1,906 @@
+@071.000C
+Ahh. Having time to stroll around town\nfor once... I'm so happy!\nHee hee, I haven't gone shopping in ages!
+
+@071.0068
+Huh? Kamil's still not here?\nHey, I'm leaving without you!
+
+@071.009E
+{FI}, come on!\nW-wait a second!
+
+@071.00C6
+Honestly! You're a guy, and you take\nlonger to get ready than a girl like me!\nHurry up, hurry up!
+
+@071.011A
+Stop rushing me!
+
+@071.013C
+...Kamil, are you done yet?\nI'm really going without you!
+
+@071.0170
+Phew. Sorry to keep you waiting.\nLet's go.
+
+@071.01BE
+Oh, it's Ian.
+
+@071.01E4
+{FI}?\nHey, {FI}!
+
+@071.01F8
+...So beautiful...\n(There really are people like that in the world.)
+
+@071.0232
+{FI}...?\nHey, can you hear me!?
+
+@071.0256
+...Oh, sorry.
+
+@071.026C
+You made me wait so long\nthat I spaced out! Let's go.
+
+@071.02AC
+Hey, what about Ian?\nYou said something just now, didn't you?
+
+@071.02EC
+Huh? Oh, no...\nIt's nothing.
+
+@071.0310
+{FI}, don't tell me...\nyou like Ian?
+
+@071.033C
+What are you saying!\nI-it's nothing like that!
+
+@071.036C
+No need to be shy.\nHe does have a lovely face, after all.
+
+@071.03A0
+Ugh! I said it's not like that!
+
+@071.03C0
+Well, Ian is beautiful, so...\n...I stared. Just a little.
+
+@071.0406
+See? I knew it!
+
+@071.0420
+But this isn't what you'd call\nlove, it's more like...\nHmm...
+
+@071.045C
+Not love?
+
+@071.0472
+How do I put it... I think any woman\nwould stare at him...
+
+@071.04BC
+Maybe you'd call it admiration?
+
+@071.04D8
+Huh, is that so?\nWell, I'll let you have it your way.
+
+@071.051C
+Hmph! Well, maybe you wouldn't get it,\nKamil. The mind of a grown woman\nand all that.
+
+@071.0566
+Heh... ahahaha!\nI never thought I'd hear the words\n"mind of a grown woman" from you, {FI}.
+
+@071.05B0
+Ahaha, I'm laughing so hard\nmy stomach hurts.
+
+@071.05D6
+Ka-mi-iil!\nHow dare you laugh at me!\nHey, running away is cowardly!
+
+@071.061A
+Of course I run before\nI get hit!
+
+@071.0646
+...Oh, wait. Could it be... Kamil,\nyou're jealous!?
+
+@071.0680
+I see, it's twisted boyish feelings!
+
+@071.06AC
+Why would I be jealous!
+
+@071.06D4
+Hm?\nThe Admiral and company again...\nIt's fine that they get along, but...
+
+@072.01C6
+Is... is that the guy?
+
+@072.01EC
+Looks like things are getting\ncomplicated??
+
+@072.078C
+I hear you're pretty good with a sword?\nWhy not join my ship\nwith your grandfather?
+
+@072.07F2
+Oh, a beautiful woman joining the crew?\nNice. An adventure isn't an adventure\nwithout a beauty or two.
+
+@072.0848
+...Did you say something?
+
+@072.09D6
+Ugh, he's so noisy! What do you\nwant to do?
+
+@072.0A6E
+So what about you?\nGoing after your beloved?
+
+@073.003E
+Take it easy.\nYou've come home, after all.
+
+@073.00BC
+Okay. Then we'll go on ahead\nto the inn.
+
+@073.0D8C
+Mivor, who was afraid of water?\nWow, that's amazing!
+
+@073.0DDC
+Oh, speak of the devil.
+
+@073.0FE8
+They actually make a pretty good\ncouple, those two.
+
+@073.105E
+...\n(Look who's talking.)
+
+@074.000C
+This port has a thriving shipping trade.\nThere might be a capable mate here.
+
+@074.0068
+Let's find a cook instead of a mate.\n{FI}'s cooking is, well...\nnot great...
+
+@074.009E
+Be grateful you get to eat it at all!
+
+@074.00D8
+A mate, huh... Oh, I know!
+
+@074.00F6
+There's someone in this town I really\nrespect! He helped me out a little\nonce. Shall we invite him?
+
+@074.0160
+Hmm. What kind of person is he?
+
+@074.0180
+I'll tell you after you meet him.\nI hope he's doing well!
+
+@074.01C8
+I think it was around here...
+
+@074.020C
+Admiral Adelnkatz!\nIt's been a long time!
+
+@074.023E
+Oh!\nYou are... um...
+
+@074.0258
+Kamil Overijssel!\nYou helped me out a little before!
+
+@074.02A4
+Ah... that's right. Must be my age,\nI've grown quite forgetful.\nForgive me.
+
+@074.02F4
+Not at all!\nI'm just glad to see you in good health!
+
+@074.0332
+You've grown into a fine young man...\n...And who is this? Your wife?
+
+@074.036E
+!\nNo way!\nWhat is this old man saying!
+
+@074.03B0
+How can you talk to an admiral like that!\nOh, A-Admiral,\nI'm so sorry!
+
+@074.03F8
+This is\n{FI} {FA}.\nI'm working on her ship now.
+
+@074.0436
+...You work for a mere girl like this?\nHow deplorable.
+
+@074.048C
+He's got a point.\nI find it "deplorable" too.
+
+@074.04CE
+Really?\nI'm having fun.
+
+@074.04F6
+"Deplorable"... you!\nWhat's that supposed to mean!
+
+@074.0530
+Exactly what it says.\nYou have no manners toward your elders,\nand a poor vocabulary besides.
+
+@074.057C
+To submit yourself to such a rabble...\nKamil has fallen far.
+
+@074.05C2
+Hey!\nYou've got some nerve\nsaying that!
+
+@074.0606
+I merely stated the facts.
+
+@074.0620
+Say whatever you like about me!\nBut my bad manners have nothing\nto do with Kamil!
+
+@074.068A
+"Kamil has fallen" isn't a fact!\nThat's just slander!
+
+@074.06F6
+...That was a slip of the tongue.\nYou are right.
+
+@074.0726
+(He's actually apologizing...\nHow unexpected.)
+
+@074.0756
+Admiral... Actually, we came here\nto ask for your help.
+
+@074.07AA
+{FI}, this is\nAdmiral Gerhard Adelnkatz.
+
+@074.07DE
+He was a great admiral who once led\nthe strongest private fleet in the navy,\nspecializing in hunting pirates.
+
+@074.0822
+There was a time when every pirate from\nthe North Sea to the Mediterranean went\nquiet. That was the result of the\nAdmiral's fleet in action.
+
+@074.089C
+A navy admiral, huh... So that's why\nyou didn't tell me who he was\nbeforehand.
+
+@074.08E4
+If I'd said he was military, you'd have\nbeen prejudiced, right? I thought you\nshould meet him and see how wonderful\nhe is, but...
+
+@074.0964
+Kamil.
+
+@074.0972
+Oh, yes! I'm sorry!\nSpeaking so rudely to the Admiral...
+
+@074.09AA
+No, that's enough. More than that,\nI find myself wanting to know why you\nwork under this woman.
+
+@074.0A1C
+{FI}...\nwas it?
+
+@074.0A3E
+Your words just now came from the\nheart. You lack manners, but you seem\nto care about your friends.
+
+@074.0AA6
+I doubt you and I will get along,\nbut if Kamil sails with you,\nI will board your ship.
+
+@074.0AF6
+Admiral! Really!?
+
+@074.0B14
+Yes. If the Admiral is willing, that is.
+
+@074.0B3A
+{FI}!\nYou agree, right! Right!
+
+@074.0B56
+I can't imagine ever liking this man,\nbut...
+
+@074.0BA6
+I know, I know.\nKamil admires him this much, so\nhe must have some good in him\nsomewhere.
+
+@074.0C00
+Yes! Admiral Adelnkatz,\nthank you so much! Please keep\nguiding me from now on!
+
+@074.0C5E
+Come now, drop the "Admiral."\nThe admiral now is her.
+
+@074.0CA0
+Oh, right...\nThen... is "Mr. Gerhard" all right?
+
+@074.0CD8
+Hahaha.\nI never thought the day would come\nwhen you'd call me that.
+
+@074.0D0A
+Well then, Admiral.\nI look forward to working with you.
+
+@074.0D30
+...Likewise.
+
+@074.0D52
+{FI},\nthis is a good chance. Adel... no,\nMr. Gerhard, could you teach us\nabout fighting?
+
+@074.0DB0.0
+Sure, please do
+
+@074.0DB0.1
+No need to ask
+
+@074.0DE8
+Hmm...\nThen let me tell you a little.
+
+@074.0EEC
+??\nThis sounds complicated...
+
+@074.106C
+Beyond that, to prepare for melee, hire\nplenty of sailors and put someone skilled\nin swordsmanship in the Marine Quarters\nas Boarding Chief. That is more effective.
+
+@074.11AC
+Uh... yeah, sort of.
+
+@074.11CE
+Even if you have no wish to fight,\nsometimes battle cannot be avoided.\nAlways be prepared.
+
+@075.001E
+Whoa, you scared me!\nWho are you!
+
+@075.007E
+Huh?\nWhat are you talking about?
+
+@075.00A2
+{FI}, honestly...\nYou get so combative right away.\nLet's at least hear him out.
+
+@075.00E6
+Thank you!\nI want to be on a ship... on your ship!
+
+@075.0120
+On a ship? Huh, you don't look it.\nYou're a sailor?
+
+@075.0164
+I studied to be a mate.
+
+@075.0186
+Studied...? You've never been on a ship?
+
+@075.01AC
+Well,\npractice is still ahead of me.
+
+@075.01CC
+Listen, it's not that easy.\nDo you think anyone will just say\n"sure" and let you aboard?
+
+@075.0226
+No good, then...
+
+@075.023A
+What did you study?
+
+@075.025A
+Well, I like machines, so I studied\nhow ships work in detail. I even\ncollected scrapped ships and built one...
+
+@075.02B0
+!\nThat's amazing!
+
+@075.02CC
+Hey, Kamil!\nWho said you could keep talking?\nI'm the admiral here!
+
+@075.0316
+I know.\nBut don't you think it's impressive?
+
+@075.0342
+...W-well, yeah.\n...So, what are your terms?\nIs there something you want?
+
+@075.038A
+Oh, wonderful!\nThank you!\n...Then I have a request.
+
+@075.03CA
+Please give me\n1000 gold coins!
+
+@075.03F6
+Hey, you!\nAn advance, right off the bat!?
+
+@075.0422.0
+Don't be stingy
+
+@075.0422.1
+Are you kidding me!
+
+@075.0460
+Thank you so much!\nNow I can repair it!
+
+@075.04C2
+You, honestly!\nAlways saying whatever you like!
+
+@075.0518
+H-hey, wait!\nWhat's your name!
+
+@075.05A6
+Thanks to the repair money you gave me\nyesterday, the ship is fixed\nand I've paid back my debt.
+
+@075.05F2
+If you like, please use this ship\nwhenever you want.
+
+@075.0620
+So that's what it was.
+
+@075.0640
+W-well then...\nyou should have said so at the start!
+
+@075.066E
+Sorry, I was testing you. If I'm going\nto entrust my life to an admiral, she'd\nbetter have the character for it...
+
+@075.06F0
+...Unbelievable!
+
+@075.0704
+Well, the truth is I was so excited\nI couldn't be bothered to explain.
+
+@075.074E
+You still haven't told me your name!
+
+@075.0764
+I'm Jenas Passer. I look forward\nto working with you from now on.
+
+@075.07B8
+Take the ship out of the dock and give\nit a name you like with "Remodel."
+
+@075.0802
+I see... It can't be helped.\nI'll look elsewhere.
+
+@075.084A
+He looked so sad.
+
+@075.086A
+Of course he did. Where would you find\na sucker who gives money to someone\nthey just met for no reason?
+
+@075.08C4
+Well, that's true.
+
+@076.000A
+So this is the biggest island in the\nCaribbean. It feels like such a cheerful\nport! Okay, let's get down to business!
+
+@076.0082
+Kyaaa!!
+
+@076.0098
+!! Phew. That startled me, but...\n{FI}, you're such a\ngirl.\n"Kyaa!" Hee hee.
+
+@076.00E8
+What! Kamil, you jerk!!\n(Slap!)
+
+@076.011C
+Ow. You didn't have to hit me...
+
+@076.013E
+You asked for it!
+
+@076.0156
+Sigh...\nHere we go. That bomb nut again...
+
+@076.0182
+Hey, mister!!\nDid you say bomb!?
+
+@076.01AE
+Yeah, that's right. He's always going on\nabout "chemistry" or something, and\nevery so often he makes that big noise.
+
+@076.0208
+Sometimes he botches it and blows\nup his own workshop.
+
+@076.023E
+Huh. "Bombs," he says. Maybe he knows\nabout cannons and could make our\nfleet incredibly strong.
+
+@076.02AC
+Well, I suppose he's got that kind of\nknowledge, but for us it's nerve-wracking.\nWe never know when our homes will go up.
+
+@076.0318
+Wow, so he's an amazing person...\nHey, {FI},\nlet's invite him to join us!
+
+@076.035C
+Hmm... He'd definitely be useful, so I\nwant to recruit him, but...\ngoing to ask him is the problem...
+
+@076.03A8
+Could it be you don't want to go\nbecause that noise scared you?
+
+@076.03E6
+Don't underestimate me!!\nWho do you think I am!? I'm\nAdmiral {FI}!
+
+@076.0438
+Um,\ncan I go now...?
+
+@076.0468
+No! Show me where he is!\nLet's recruit him!\nBombs, whatever, bring it on!
+
+@076.04C8
+Come on, Kamil! Let's go!!\n(Whack!)
+
+@076.04FC
+That hurts!!!\nStop hitting me all the time, geez!!
+
+@076.0534
+...Hey, miss,\nis she always like this?... That's rough...
+
+@076.0580
+...I've gotten used to it.
+
+@076.05CC
+Cough, y-yes, cough cough\nToo much gunpowder, maybe?\nWell, next...
+
+@076.061A
+Hey, are you all right?\nI'd like one quiet day once in a while.
+
+@076.066C
+I'm almost there, I tell you!\nIf this experiment succeeds, a new\nscience will come to the world...
+
+@076.06BC
+Yeah, yeah, enough of that. Today I\nbrought some people who want\nto meet you.
+
+@076.0716
+For me...?\nHm, who could it be?
+
+@076.0738
+I'll leave the rest to you.\nSo long.\nPlease don't blow up the town!
+
+@076.078E
+Th-thank you...
+
+@076.07A2
+Oh! Could you be from the Royal\nScientific Academy I wrote to?\nHow wonderful!
+
+@076.0804
+"Ah-ka-dem-ee"? What's that?\nI'm {FI}.\nI don't have a weird name like that.
+
+@076.0846
+No, {FI}.\nAn academy is...
+
+@076.0872
+Oh, you're not... That explains why\nyou're not rational.\nWell, excuse me.
+
+@076.08B8
+W-wait a moment, please.\nWouldn't you like to try your "bomb...",\nI mean science, on the open sea?
+
+@076.0918
+My goodness!\nYou understand science!?
+
+@076.094A
+Huh? Oh, uh, yes, sort of...
+
+@076.0980
+W-what's with him?\nHe changed his attitude all of a sudden.
+
+@076.09B2
+Wonderful!\nTru-ly won-der-ful!\nScience combined with seafaring!\nWhat a splendid idea!
+
+@076.0A04
+Then, will you join us?
+
+@076.0A2C
+Yes, of course!
+
+@076.0A46
+Huh? It's settled already?\nBut I'm the admiral...\nOh well, let's go to the ship!
+
+@076.0AA4
+I'm {FI}.
+
+@076.0AB6
+I'm Kamil. Nice to meet you.
+
+@076.0AD2
+I am Charles Jean Rochefort!\nEveryone calls me "Dr. Charles"!
+
+@076.0B2C
+......Oh, I see...
+
+@076.0B4C
+That's right, before we set out, let's\nfire my prized cannon to pray for a safe\nvoyage! Here we go! 5, 4, 3...
+
+@076.0BB4
+What!? H-hey,\nwait a second! Wait!\nOh no...
+
+@076.0BEE
+2, 1, 0!\nBOOM!
+
+@076.0C12
+Kyaaaaaaah!
+
+@076.0C2E
+...Huh...
+
+@076.0C3E
+...Eh...
+
+@076.0C4E
+Kyaa, kyaa!
+
+@076.0C68
+Hmm. It came out so splendidly that I\nkept it on display for three years, and\nthat was my mistake... A lesson!\n"Use gunpowder right away!"
+
+@076.0CD8
+......{FI},\nare you all right?
+
+@076.0CF6
+Hahaha.\nYou two get along very well.
+
+@076.0D1C
+What!?\nOh, no...
+
+@076.0D38
+...Just you wait...\nOnce we're back on the ship,\nI'll give you a really...
+
+@076.0D76
+Yes, yes, a really thorough science\nlesson! What a wonderful admiral, so\neager to learn!
+
+@077.000A
+What is this\ncountry?!
+
+@077.0026
+Really.\nI'd heard about it, but\nit's amazing.
+
+@077.0052
+Look at that woman's head.\nIs that hairstyle in fashion here?
+
+@077.00A0
+Never mind that, let's get something\ngood to eat! I'm starving!
+
+@077.00F0
+Hey, I'm hungry!
+
+@077.018C
+Looks like we've caught the eye of\nsome dangerous-looking people...
+
+@077.01C6
+W-what do we do...
+
+@077.01F2
+Food, food...
+
+@077.0220
+Hm?
+
+@077.02CC
+What are you saying!\nYou're the ones who bumped into us!
+
+@077.0302
+{FI}...\nI think we've picked a bad opponent...
+
+@077.033E
+Oh, a restaurant!\nI'm going to go eat!
+
+@077.0386
+Hm? Smells delicious...\nSniff sniff...
+
+@077.049A
+W-what do we do...
+
+@077.04C6
+Oh, it's all right! We have Emilio!\nWith his brute strength, he can\nsomehow... wait, where is he?\nOh, he's over there, eating something!
+
+@077.054E
+Samuel, in that case... Huh?\nHey, Samuel went into the\nrestaurant!
+
+@077.072C
+...\nW-wow...\nSo cool!!!!!
+
+@077.075A
+Y-yeah...\nThere was just a flash, and\nthey were all down...
+
+@077.07B0
+That was a feast!\nIt was all unfamiliar stuff, but\ndelicious. This is what travel is for!
+
+@077.082C
+I'm full. So satisfied.
+
+@077.088E
+Hey! How dare you show up now like\nnothing happened!
+
+@077.08B8
+...Just leave it. Forget it.
+
+@077.08E2
+Huh? Did something happen?
+
+@077.0928
+Hey! How dare you show up now like\nnothing happened!
+
+@077.0952
+...Just leave it. Forget it.
+
+@077.09BA
+Don't be...\nYou're the one who helped us.
+
+@077.0A88
+Sure, a strong guy like you is very\nwelcome. But... I can't promise you'll\never get back to Japan.
+
+@077.0B52
+Got it. I'm\n{FI} {FA}.\nNice to meet you.
+
+@078.0022
+I did it!
+
+@078.0048
+This is incredible...
+
+@078.0062
+Looks like I found it before that\nJulian guy. Lucky me!
+
+@078.00DA
+Oh, you're only getting here now!?\nSorry, but I've taken the "Silla Gold\nCrown."
+
+@078.0134
+Huh? You know me?\nWho are you?
+
+@078.015E
+I'm {FI}.\nYou were talking about the "Silla Gold\nCrown" in that Hangzhou tavern, right?\nI overheard you.
+
+@078.01BA
+That's harsh... eavesdropping on me.
+
+@078.01DE
+But thanks to that, I met you...\nI'm starting to feel like I'm the\nlucky one.
+
+@078.0254
+(What's with this guy?)
+
+@078.0274
+Say,\nyour eyes are really charming.\nDon't people tell you that?
+
+@078.02B2
+H-hey! What are you talking about!
+
+@078.02DE
+That hat is cute too.\nIt suits you perfectly.\nYou have great taste.
+
+@078.0328
+Don't tell me you're trying to hit on\nme...?
+
+@078.0366
+Hm? What else would I be doing?\nLife is love! Love is everything!
+
+@078.03AC
+What a weirdo...\nOh, forget it. You can have this\n"Silla Gold Crown."
+
+@078.03EC
+Huh?\nNow that I've met you, I don't need\nthis thing!
+
+@078.0428
+Just take it!\nHurry up and go already!
+
+@078.0456
+Ah! You're thinking of Meihua!\nYou're not just beautiful, you're\nkind too!
+
+@078.04BA
+...\n(That's not it, though.)
+
+@078.04DA
+Well then, for your sake, I'll take\nthis "Silla Gold Crown" today!\nThank you! See you!
+
+@078.054A
+What was that?\nHe's exhausting...
+
+@079.0012
+Julian is a Dutch name, isn't it?\nWere you born in the Netherlands?
+
+@079.004E
+Me?\nI was born and raised in Ming.\nI also have a Chinese name, Luo Yuli.
+
+@079.00A2
+Hmm.\nSo your adventurer grandfather\nwas Dutch?
+
+@079.00DE
+Yes. He sailed the world in his ship\nmaking maps.
+
+@079.0116
+Along the way, he met a black-haired\ngirl. She seemed fragile, and at the\ntime nobody knew who she was.
+
+@079.0170
+He searched for her homeland and\nreached China, and after that the\ntwo of them were married.
+
+@079.01C6
+And that's your grandmother.
+
+@079.01FA
+Wow, what a lovely story...
+
+@079.0214
+My parents both have black hair, but I\ninherited Grandfather's hair color.\nDoesn't that feel like fate?
+
+@079.027A
+Is your father a sailor too?
+
+@079.0298
+No, no, both my parents are stuffy\nscholars. They have nothing to do\nwith the sea.
+
+@079.02E0
+My parents wanted me to be a scholar\nor an official, but studying and\nhard work just aren't\nmy thing.
+
+@079.0342
+Yet you never spare any effort when\nit comes to chatting up girls.
+
+@079.036E
+W-well, that's a different matter.
+
+@081.000A
+Southern islands are wonderful.
+
+@081.0032
+Clear blue sky, a bright sea stretching\nforever, and the merciless sun!\nOh, I can't get enough!
+
+@081.0094
+Say, Admiral. When the Company has time\nto spare, why not leave the regional\nfleet in this area to me?
+
+@081.00E6
+Yeah, yeah, I'll think about it.
+
+@081.0106
+Really?
+
+@081.0118
+Who knows.
+
+@081.012C
+Honestly... Admiral, you're mean!
+
+@082.0020
+Me?
+
+@082.0302
+You're giving something that amazing\nto me?
+
+@082.03A4
+I see...\nThanks, I'll treasure it.
+
+@083.0030
+Yeah, right.
+
+@083.006E
+You think so?\nYou might be the only one.
+
+@083.00C8
+Hey, how long are you going to keep\neating?
+
+@083.018E
+Really? Are we really allowed to have\nit?
+
+@083.0200
+Thank you, mister!
+
+@083.0242
+......(He's still eating.)
+
+@084.00A8
+What are you doing?
+
+@084.0100
+"Something"...?
+
+@084.0158
+Did you catch the culprit?
+
+@084.01C4
+Let me see.\nHuh? What kind of seed is this?\nI've never seen one.
+
+@084.0250
+...Ugh, fine, fine.\nEmilio, let's go eat the local\nspecialty.
+
+@084.02AC
+Uh...\nYeah, okay. My treat.
+
+@086.001C
+What's wrong, Mr. Gerhard?
+
+@086.013C
+You liked it that much...\nYou never found it?
+
+@086.01DE
+That's not true.\nI'm sure someone is taking good care\nof it.
+
+@088.032E
+Even you, Yukihisa, a Japanese, don't\nknow?
+
+@088.045A
+What are you two doing!\nGrown men, fighting like\nchildren!
+
+@092.0018
+What's wrong, Gramps?
+
+@092.005A
+Christina, huh.
+
+@092.00BE
+Come on, she's your pride and joy.\nShe'll be fine. Nobody's as dependable\nas her. She's like the reincarnation of\nAthena.
+
+@092.0148
+A goddess of Greek mythology.\nIn Roman mythology, she's called\nMinerva.
+
+@092.0218
+Anyway, Christina will be\nfine.
+
+@092.02F0
+W-what's wrong?
+
+@092.044E
+Gramps...
+
+@092.04E6
+Yeah, you're right.
+

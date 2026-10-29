@@ -1,0 +1,980 @@
+@155.0008
+I hear the {FO} has recently\nmoved into these waters.
+
+@155.0042
+So it seems.\nI've also heard they're quite tough...
+
+@155.0074
+Doesn't that put Lord Escante's plan\nin danger, sir?
+
+@155.00B0
+Shh! Don't talk about that so loudly!\nVery few even among Lord Escante's\nmen know about it!
+
+@155.011C
+Heh, sorry.\nWhat I mean is, they might just\nbe in his way, right?
+
+@155.0174
+That's for Lord Escante to decide.
+
+@155.019C
+On the other hand, we could make them\nour allies against Maldonado...
+
+@155.01E8
+Either way, Lord Escante will rule\nthe New World, and then the homeland...\nOops, that's a slip.
+
+@155.0232
+...If you value your life,\nyou'll stop chattering now.
+
+@155.026C
+Yikes, scary. Still, nobody's going\nto give up these waters easily.
+
+@155.02C6
+Hmph.\nI don't know how far that\n"{FO}" lot will get.
+
+@155.02FE
+Heh, true enough.
+
+@155.031A
+...{FI}?\nYou heard that, didn't you...
+
+@155.0342
+Yeah. That was about Escante, the\nGovernor of Mexico, wasn't it?
+
+@155.0382
+Something smells awfully fishy.
+
+@155.03BE
+They mentioned some "plan"...
+
+@155.03E8
+But everyone is trying to expand\ntheir power, you know.
+
+@155.0424
+True, but still...\nsomething about a "plan"...
+
+@155.0474
+Hmm, it does sound suspicious, but I\ndon't think we should make enemies so\neasily. They haven't declared war...
+
+@155.04DC
+Don't be so naive!\nThey're the kind of people who brag\nabout that stuff. Strike first!
+
+@155.0542
+Once that bastard Escante has the whole\nNew World, it'll be too late\nto cry about it.
+
+@155.058A
+I wouldn't like Spain getting even\nmore power, but...
+
+@155.05CA
+Then it's settled.
+
+@155.05EA
+Yeah... I'll think about it.
+
+@155.0608
+To them, we're just a nuisance.\nI suppose that's natural if you want\nto conquer the New World, but...
+
+@155.0662
+So the other way around, Escante is\nin OUR way, huh!
+
+@155.06A6
+Clau... that's harsh...
+
+@155.06DA
+Well, maybe it's fate.\nWhen it's time to fight, we must fight.
+
+@155.071E
+...Sometimes you need the power to\ndefeat your enemies...
+
+@155.0770
+Escante, Maldonado, it's all the same.\nBest to hit them while we can.
+
+@155.07C0
+It looks like we have no choice...
+
+@156.0008
+By the way, what's the deal between\nEscante and that Maldonado guy?
+
+@156.0052
+The deal? They both rule the New World,\nso they probably get along fine?
+
+@156.0098
+Then what if they team up\nand come after us?\nWhat then?
+
+@156.00E0
+Hmm... We'll deal with it when it\nhappens.
+
+@156.0106
+{FI}!\nYou know we're in their way!\nIf we stay like this, we'll get crushed!
+
+@156.0160
+Shh!\nClau, {FI}!\nLook over there!
+
+@156.019C
+Tch, that Escante.\nI bet what he's after is...
+
+@156.01CC
+Without a doubt!\nYou can't trust Escante!
+
+@156.020A
+Hold on.\nWe can't pick a fight with Escante\nright now.
+
+@156.024C
+For now we cooperate and crush the\nothers, while I expand my own\nterritory. That comes first!
+
+@156.0298
+True, we wouldn't stand a chance\nagainst Escante now...
+
+@156.02C8
+Don't say it!\nDamn, it makes my blood boil.\nThat Escante bastard!
+
+@156.0312
+That was Maldonado, wasn't it?
+
+@156.0336
+Escante and Maldonado don't seem\nto get along.
+
+@156.0374
+A fight over interests, perhaps?
+
+@156.038E
+Both of them want the whole New World\nfor themselves.
+
+@156.03C0
+But I heard "for now we cooperate and\ncrush the others"...
+
+@156.0404
+Then it's certain we'll be the first\nones they go after.
+
+@156.043C
+You think so...
+
+@156.0452
+Teaming up with us Portuguese\nwouldn't benefit them.
+
+@156.0494
+If they come, we'll have to fight...
+
+@157.000C
+What do you suppose this Ritual Dagger\nis used for?
+
+@157.0040
+Hey, careful!\nIt's small, but it's still a blade!\nPut it away properly.
+
+@157.0082
+Yeah. The Sun Crest Sheath is just\nabout the same size.\nI'll put it in there...
+
+@157.00D8
+W-whoa!\nW-what's that?!\nIt's glowing like crazy!
+
+@157.0108
+S-so bright!
+
+@157.0126
+Phew... It's not bright anymore.\nWhat was that light?
+
+@157.0162
+Hey, the dagger's on the ground.
+
+@157.0180
+Oh, I was so startled\nI dropped it.
+
+@157.01AC
+Huh... There's a map on the blade...
+
+@157.01C6
+That's a map! It's got to be the map\nto the New World's Victor's Mark!
+
+@157.020C
+It looks like it!\nNow we can get the Victor's Mark!\n...But that was strange...
+
+@158.0008
+Hey, Clau. What kind of crops do you\nthink grow around here?
+
+@158.0048
+Hm? Why do you ask?
+
+@158.0060
+Well... I was thinking it'd be nice\nif Charlotte's village could have\na new trade good...
+
+@158.00AA
+...Hmm, I see...\nHow about corn?
+
+@158.00E0
+Corn, huh...\nYeah, let's go with that!
+
+@158.010C
+Well, well...\n{FI}, you're a sly one,\naren't you!
+
+@158.013C
+Wh-what?! What do you mean?
+
+@158.0156
+Heh, never mind.\nJust make sure you bring the corn\nto her.
+
+@159.0008
+{FI}\nGot a moment?
+
+@159.0026
+Arcadius... What is it?
+
+@159.0044
+You haven't been yourself lately.
+
+@159.005E
+Haven't I?\nIt's nothing...
+
+@159.007E
+It's because of Charlotte, isn't it...
+
+@159.009C
+!?
+
+@159.00A8
+You're worried about her?
+
+@159.00CA
+Sigh... I can't hide anything\nfrom you, Arcadius.
+
+@159.0100
+{FI}...
+
+@159.010C
+I keep thinking about her all the time...\nI'm full of wanting to do something\nfor her! But... but......!
+
+@159.0170
+{FI}... She told me, too, that\nshe thinks of nothing but {FI}\nevery single day.
+
+@159.01B4
+What!?
+
+@159.01C4
+I'm sorry. You came back so\ndownhearted that day that I went\nto see Charlotte.
+
+@159.022A
+If you, {FI}, felt nothing for\nCharlotte, I planned to keep this to myself.
+
+@159.0292
+...
+
+@159.029C
+Please forgive her for leaving so\nsuddenly that day.\n...She's afraid. She thinks she isn't\ngood enough for you.
+
+@159.030C
+Why?
+
+@159.031E
+She worries because you, {FI}, come\nfrom such a distinguished family.
+
+@159.035A
+That doesn't matter!\nIt means nothing to me!!
+
+@159.0382
+Perhaps not.\nBut try to think about how\nCharlotte feels.
+
+@159.03CA
+What do you mean?
+
+@159.03E0
+Don't you remember her story?\nHow she was treated in Europe must\nhave caused her terrible sorrow.
+
+@159.0442
+...You're right.
+
+@159.0458
+She isn't used to happiness. She's\nafraid of it. Thinking of losing it,\nshe can't take a step forward\nand she grows timid.
+
+@159.04CC
+...
+
+@159.04D6
+Enough of the preamble.\nNow for the message Charlotte asked\nme to give you.
+
+@159.0520
+A message?
+
+@159.052E
+...She says she was never taught\nto write. That must have been how\nshe grew up...
+
+@159.0578
+!!\nI never even thought about her not\nbeing able to write...\nI had no idea at all...
+
+@159.05CE
+...\n"{FI}, thank you for everything.\n  My village is all right now.
+
+@159.0614
+  I hope your country, {FI}, will be\n  restored as well. When it is,\n  and if you still feel the way\n  you did then...
+
+@159.0672
+  please come and visit me."\n...That is the whole message.
+
+@159.06C6
+Charlotte...!
+
+@159.06DE
+...\nWell then, I'll be going now.
+
+@159.0706
+...
+
+@159.0710
+Thank you, Eirene...
+
+@159.072E
+...Not at all.\nDo your best, {FI}.\nIt's up to you now, with Charlotte.
+
+@160.001C
+This is quite interesting.\nThe Tang Bamboo Craft is put together\nexactly as the Bamboo Craft Diagram\nshows.
+
+@160.0094
+Really? So we can take it apart and\nput it together by following that?
+
+@160.00D8
+Let's try it, then.\nLet's see, this goes first...
+
+@160.0114
+W-wait a second!\nThere's something drawn inside that big\npiece of bamboo!
+
+@160.015A
+Put this here...\nAnd then this next, maybe?
+
+@160.0188
+You look like you're having fun, Ifa.
+
+@160.01AA
+Hehe!\nThis Tang Bamboo Craft comes\napart, you know!
+
+@160.01E6
+What!\nDon't tell me... you broke it?
+
+@160.020C
+No way!\nLook at the Bamboo Craft Diagram!
+
+@160.0240
+Oh, I see.\nIf you work through it like the Bamboo\nCraft Diagram says, you can take it\napart and put it back together.
+
+@160.02A2
+Neat, huh? ...There!\nI took the whole thing apart!
+
+@160.02E2
+You're surprisingly good with your\nhands. Hey? There's something drawn\non the back of that bamboo.
+
+@160.0342
+What is that, a map?\nCould it be the map to the East Asia\nVictor's Mark?!
+
+@160.039A
+Yeah. That must be it!\nLet's go look for it right away!
+
+@160.03D0
+Wow!\nIt's a map!\nIt's the map to the Victor's Mark!
+
+@160.040A
+Amazing, Ifa, great work!\nAll right, let's go find the East Asia\nVictor's Mark!
+
+@161.000C
+(? Claudio...!?)
+
+@161.0036
+Where are you throwing?\nHere, over here!
+
+@161.0062
+Big brother, it's hard!
+
+@161.0080
+You can do it.\nCome on, one more time!\nKeep your eyes on the target...
+
+@161.00BA
+Yah!
+
+@161.00CC
+(Crack!)
+
+@161.00DC
+I-I hit it!
+
+@161.00F4
+See!\nOnce you get the knack, it's easy.\nGood job, kid.
+
+@161.0130
+Yeah! Thank you!\nNow I'll win tomorrow!
+
+@161.0166
+Yeah, go beat your friends!\nSee you!
+
+@161.0192
+Bye-bye!
+
+@161.01AA
+Oh?\nArcadius.\nWere you out shopping?
+
+@161.01E4
+No... just a walk. What were you\ndoing, Claudio?
+
+@161.0220
+Oh, I was teaching that kid\nhow to throw a ball.\nHe doesn't want to lose to his friends.
+
+@161.027C
+So you like children...\nThat's a bit of a surprise to me.
+
+@161.02B4
+You think so?\nIf I didn't like kids, I wouldn't\nhave teamed up with {FI}, would I?
+
+@161.02F2
+That's rude to the Admiral!
+
+@161.0316
+Then let's keep that between us.
+
+@161.033A
+Hehehe. Very well...
+
+@162.0008
+You are from the {FO}.\nYou may pass.
+
+@162.0028
+You who shall rule the Mediterranean.\nI grant you this.
+
+@162.0060
+Whoa, this is amazing!!
+
+@162.0086
+I wonder if the Pasha's army had it...
+
+@162.00AE
+Admiral Hayreddin\nhad this...
+
+@163.000C
+The Mediterranean Victor's Map has to\nbe this Patterned Cloth, right?
+
+@163.0064
+But no matter how long I stare, it\ndoesn't look like a map.
+
+@163.009A
+Too dark to see.\nHand me that Brass Lamp over there.
+
+@163.00E6
+Huh? Okay.
+
+@163.00F6
+Hold the lamp up to it...\nThere, now I can see better.
+
+@163.0120
+H-hey, wait!\nIf you hold it too close, the map will\nburn! ...Oh!
+
+@163.0168
+A map...
+
+@163.0188
+I never thought of using the Brass Lamp\nto reveal it.
+
+@163.01C6
+So that's how the Brass Lamp was meant\nto be used. Who would have guessed it\nwas for revealing hidden writing.
+
+@163.0224
+Y-yeah. Pretty good idea,\nwasn't it?
+
+@163.0260
+Yeah, pretty good for a coincidence.
+
+@163.0288
+Yes, pretty good for a coincidence.
+
+@163.02B2
+Ugh...
+
+@163.02BE
+All right!\nWe've got the map to the Mediterranean\nVictor's Mark! All that's left is to\nfind the Mark itself!
+
+@164.0008
+Lord {FA}.\nHis Majesty the King awaits you.
+
+@164.003E
+Ah, {FA}!\nYou defeated that Spanish fleet\nadmirably! From now on I shall devote\nall my strength to restoring our nation!
+
+@164.00AE
+Yes, Your Majesty. One of my long-held\nwishes has been fulfilled.\nI will keep striving to do honor to\nthe name of Portugal.
+
+@164.010A
+Indeed. Well said.\nYou are a benefactor of our homeland!
+
+@164.0144
+I am honored by your praise.\nHowever...
+
+@164.0172
+Ah! Yes, yes, of course.\nYou travel the world, expanding\nthe Estado.
+
+@164.01E6
+As you say, Your Majesty.\nThere is still unfinished business\nawaiting me...
+
+@164.0244
+Good. Devote yourself to it fully.\nNow, let me give you some reward.
+
+@164.028E
+It's about the Marks, isn't it?\nI have burdened you with much.\nBut you are the only one I can\nrely on.
+
+@164.02F0
+I will see it\nthrough without fail.
+
+@164.031A
+Good. I look forward to it.\nNow, let me give you some reward.
+
+@164.0360
+No, the kingdom's reconstruction must\nrequire much funding right now.\nPlease do not trouble yourself\nover me...
+
+@164.03C0
+(You idiot!\n Take what they give you!)
+
+@164.03F6
+Hmm. You are modest to the end...\nIn our present state, we truly cannot\nrepay the magnitude of your service.
+
+@164.046A
+Very well.\nI shall think of something before you\nreturn, having fulfilled your true goal.
+
+@164.04BE
+Your words are a blessing.
+
+@164.04D6
+Good.\nI should not keep you any longer.\nFarewell.
+
+@164.0512
+Yes, Your Majesty. Excuse me.
+
+@164.053C
+Aaargh! What a waste!\nHonestly, {FI}, you've\ngot no greed at all.
+
+@164.0584
+There's more important work to do\nthan collecting rewards right now.
+
+@164.05B8
+True enough...\nNow, the finishing touch on conquering\nthe Estado! Let's go, Admiral {FI}!!
+
+@165.0008
+{FI}.\nWell done in coming.
+
+@165.001E
+You summoned me?
+
+@165.003C
+It is nothing else.\nIt concerns the treasure you seek.
+
+@165.0068
+The seven Victor's Marks said to exist\naround the world. If we show them to\nthe Pope, we can negotiate for\nrecognition of the Portuguese crown.
+
+@165.00E2
+Above all, they are a treasure we\nmust have, as a symbol of rebuilding\nthe maritime nation of Portugal, so\nthat all our people may unite again.
+
+@165.0154
+Whatever happens, you must not let\nthem fall into the hands of Spain,\nwhich plots to conquer all of Europe\nand the world.
+
+@165.01B0
+Understood?
+
+@165.01C0
+Yes, Your Majesty!
+
+@166.000C
+Well, we're back in Portugal!\n{FI}!
+
+@166.003C
+Lord {FA}.\nHis Majesty the King awaits you.
+
+@166.0078
+What! An audience with the King?!\nI-I'm terribly, tremendously nervous\nnow!
+
+@166.00DA
+...{FI}.\nGot a minute?
+
+@166.00F6
+What is it, Clau?
+
+@166.0110
+I'm just not good with that kind of\natmosphere... Mind if I wait outside?
+
+@166.0158
+It's a great occasion, so I'd like you\nnext to me, Clau...\nBut yeah, if that's how you feel, okay.
+
+@166.01B6
+Right, then I'll leave the report\nto you.
+
+@166.01D8
+Got it.\nI'll come back when it's over.
+
+@166.01FC
+And make sure you grab a good reward\nwhile you're at it!
+
+@166.0224
+Well, I'm off.
+
+@166.023E
+Yeah, later.
+
+@166.0254
+Then, let us go.
+
+@166.0284
+Ah!\nThe pride of Portugal,\n{FA}!\nYou have returned!
+
+@166.02B6
+Your Majesty.\nI, {FU}, have returned\nto our homeland, Portugal.
+
+@166.02F8
+They say that if you show the Pope\nthe seven Victor's Marks you collected,\nhe will work to have the Portuguese\ncrown recognized again.
+
+@166.036E
+Truly?!
+
+@166.0388
+Yes.\nYou are the treasure of our maritime\nnation!
+
+@166.03C0
+In the name of the King of Portugal,\nI appoint you Viceroy of all the\noverseas trade domains (Estados)\nheld by our kingdom!
+
+@166.0430
+What?!\nV-Viceroy... Your Majesty?
+
+@166.045C
+(That's so cool!\n {FI}!)
+
+@166.0494
+(A Viceroy!\n Wow, that's amazing!)
+
+@166.04DA
+(Heh. Well, a post like that is only\n natural.)
+
+@166.0526
+(I don't know what it is, but it\n sounds delicious.)
+
+@166.055E
+Now, we shall announce it grandly.\nGo outside the palace and show your\nface to the people gathered in the\nplaza! Go, go!
+
+@166.05CA
+...
+
+@166.05F4
+Hey, Clau. I'm back.
+
+@166.0612
+Huh? That was quick.
+
+@166.0644
+<Eirene>\n...?\nClaudio?
+
+@166.066C
+Oh, Arca... no,\nEirene... it's you.
+
+@166.0694
+<Eirene>\nAren't you with the others?
+
+@166.06C4
+Stiff places like that just don't\nsuit me, I guess...
+
+@166.0708
+<Eirene>\nHehehe...\nMaybe not.
+
+@166.0736
+What about you? Aren't they going to\nmake you some high-ranking scholar\nor something?
+
+@166.0788
+<Eirene>\nApparently. Though I haven't produced\nany big research results.\nIs that really all right? ...For this.
+
+@166.07EE
+<Eirene>\nBut a higher rank means bigger grants.\nAs a poor researcher, that's\nwelcome news.
+
+@166.084C
+...You'll be leaving, then.
+
+@166.0864
+<Eirene>\nHm?\nWhat? I can't hear you.
+
+@166.0890
+Nothing...\nYou'll go back to Athens for your\nresearch, right?
+
+@166.08BE
+<Eirene>\nI suppose so, but...\nYou said something just now, didn't you?\nWhat did you say?
+
+@166.0912
+...
+
+@166.091C
+You just had a scholar's face again.\nOnce you leave the ship...
+
+@166.0956
+You'll go off to a totally different\nworld, I thought... Tch, I'm thinking\nthings that don't suit me at all.
+
+@166.09AC
+<Eirene>\nClaudio...
+
+@166.09CE
+Haha, I'm weird today.\nMust be the weather. Or coming to\na palace, I bet.
+
+@166.0A2A
+\nClaudio.\nWhat do you want me to do?
+
+@166.0A60
+\n\n                    What!? W-what do you mean...
+
+@166.0A90
+\n\nDo you want me to quit my research?
+
+@166.0AAE
+\n\n                    That's not what I...
+
+@166.0ADE
+\n\nThen you don't want me to go back to Athens?
+
+@166.0B0C
+\n\n                         ...
+
+@166.0B3C
+\n\nOr else...
+
+@166.0B50
+\n\n                         ...
+
+@166.0B88
+...Well?
+
+@166.0B9E
+I can't quite tell from here...
+
+@166.0BE2
+Quit pushing, you guys.
+
+@166.0C14
+I can't see well.
+
+@166.0C40
+Come on, everyone, stop it!\nMunch munch.
+
+@166.0C84
+Go, Clau! Now's the time!
+
+@166.0CBA
+Shh! Quiet! They'll spot us!
+
+@166.0CE8
+Oh! Arcadius... I mean\nEirene nodded...
+
+@166.0D3A
+Hey, hey, what happened?
+
+@166.0D60
+Is Clau blushing?\nI've never seen him like that...
+
+@166.0DA4
+Looks like he's henpecked already?\nOh, what a shame.
+
+@166.0DE8
+I can't take it, man.\nMy back is getting itchy.
+
+@166.0E50
+Says the one smirking and watching.
+
+@166.0E7A
+Says the one smirking and watching.
+
+@166.0EB0
+Oh no! Trouble!\nThey're coming this way!
+
+@166.0EE2
+Oh no! Trouble!\nThey're coming this way!
+
+@166.0F14
+O-ow, hey, wait!!\nDon't push!\n...Waaah!!
+
+@166.0F6E
+{FI}!!\nW-what are you guys doing here?!
+
+@166.0F94
+Well... the audience ended, so we came\nlooking for you. We didn't mean\nto peek, honest...
+
+@166.0FF6
+This isn't a show, you know!!
+
+@166.1032
+But come on!\nYou can't miss a scene like this.
+
+@166.106E
+I said we should stop, but...\nyou know.
+
+@166.10B0
+Honestly, you're all so rude!
+
+@166.10EC
+You were all watching together\nin the end...
+
+@166.112A
+...
+
+@166.1138
+So everyone knows by now.\nThat I'm a woman.
+
+@166.1166
+Ah! Well, um...
+
+@166.1180
+I figured it was fine now. Sorry...\nI didn't have the confidence to keep\npretending I didn't know.
+
+@166.11DA
+Hehe, that's fine. More importantly...\nI heard. Congratulations, {FI}.\nOh, I shouldn't call you so casually.
+
+@166.1244
+R-right!!\nHey, {FI}!\nAren't YOU the one who shouldn't be\nwasting time in a place like this?!
+
+@166.12A6
+Why?
+
+@166.12B8
+Why, you ask... Weren't you given\nsome huge post? Something about being\nshown off in front of a crowd...
+
+@166.131E
+Hehehe.
+
+@166.1334
+Well...
+
+@166.1344
+???
+
+@166.1352
+I turned it down.
+
+@166.137E
+What!?
+
+@166.1394
+Y-you turned it down?!
+
+@166.13B0
+Yeah. Portugal's naval commander was\nAlbuquerque all along, and it'd be\nstrange for a sailor like me to\nbecome Viceroy.
+
+@166.142A
+Wait, what?! You mean you handed it\nto Albuquerque?! He defected to Spain!
+
+@166.148C
+He didn't defect. He's a soldier, so he\njust stayed loyal to the King of Spain,\nwho was his lord at the time.
+
+@166.14F8
+Aaargh!\nYou're too nice for your own good!\nWhy do you always...!
+
+@166.153E
+...Well, maybe that's why everyone\nfollows you.
+
+@166.1584
+Mm-hmm, mm-hmm.
+
+@166.1596
+Instead, I offered to survey\nuncharted waters to develop Portugal's\nmaritime trade even further.
+
+@166.15F8
+So, expedition leader instead of Viceroy?\nHahaha!\nThat's perfect!
+
+@166.1640
+Then you still need my strength, right?
+
+@166.166A
+Of course, Clau.\nI'm counting on you.
+
+@166.1698
+You bet, leave it all to me!
+
+@166.16D4
+Uncharted waters... I'll surely find\nnew material for my research.
+
+@166.173E
+Just please, no flirting on the ship.\nI'll go berserk.
+
+@166.1782
+D-don't say stupid things!
+
+@166.17C0
+Wow!\nLooks like even more scenes we can't\nmiss!
+
+@166.1816
+Eirene looks so happy...\nMaybe I'll go back to London...
+
+@166.185E
+Well, if that's settled, we'd better\nprepare for the expedition quickly.
+
+@166.189C
+No need to rush...\neveryone must be tired, so we can\nrest first.
+
+@166.18F4
+What are you saying? If we dawdle,\nother countries' expeditions will\nbeat us to it.
+
+@166.1952
+That won't do.\nI absolutely hate losing to anyone.
+
+@166.19A8
+Yeah. First come, first served.
+
+@166.19E0
+Hehehe... Oh, that's right.\n{FI}, do you know what this is?
+
+@166.1A1C
+...What is it? A letter?
+
+@166.1A36
+That's right.\nHere, please read it.
+
+@166.1A62
+Who is it from?\n...\nOh!!!
+
+@166.1A86
+{FI}
+
+@166.1A90
+Muint obrigada\npor tudo.\n(Moo-eent oh-bree-GAH-da\n por-TOO-do)
+
+@166.1AEE
+Muint bem\nobrigada.\n(Moo-eent beng oh-bree-GAH-da)\n   Charlotte Miller
+
+@166.1B62
+{FI}\nThank you so much for everything.\nI am very well, thank you.\n         Charlotte Miller
+
+@166.1BD8
+How should I put it...\nThat's rather halting writing.
+
+@166.1C1C
+Hmm...\nWell, the meaning does come across...
+
+@166.1C66
+You idiot!!\nDon't say petty things like that!!
+
+@166.1CB4
+She wrote it with all her heart!\nThat's beyond rude!
+
+@166.1D0A
+Why don't you ever understand\na girl's heart?
+
+@166.1D3C
+Charlotte studied Portuguese and wrote\nthis with such effort, it seems.
+
+@166.1D86
+...\nCharlotte...
+
+@166.1D9E
+Heh.\nLooks like our first destination is set!
+
+@166.1DC6
+What!?\nB-but...
+
+@166.1DE0
+Don't be shy!\nCome on, hurry up and get ready!
+
+@166.1E18
+Nobody objects.\nStarting with an expedition to the New\nWorld wouldn't be bad at all.
+
+@166.1E68
+Julio...
+
+@166.1E80
+That's right, Admiral.\nNow, give your orders like always.
+
+@166.1EBA
+...Yeah!
+
+@166.1ED2
+\n\nAll right, everyone! Let's go!
+
+@166.1EF8
+\n\nYeah!!

@@ -1,0 +1,905 @@
+@290.0280
+...Let's go.
+
+@290.03A8
+Fire!
+
+@290.063A
+Shh. Hold still.
+
+@290.070A
+It's really asleep...
+
+@290.0BC6
+Run!!
+
+@291.01F8
+An eerie jungle...
+
+@291.0216
+Yes. I only hope nothing happens...
+
+@291.0244
+A cave...
+
+@291.0252
+It looks quite deep...\nBut there is no way forward but through.
+
+@291.02A0
+I'm sure this cave is a shortcut\nto our destination!
+
+@291.02D6
+Hm...
+
+@291.02E8
+Watch your step, Admiral {FI}.\nThe moss is slippery.
+
+@291.0312
+Right...
+
+@291.047E
+Fire!
+
+@291.04BA
+Tch! Quick little thing!
+
+@291.070A
+Hmph... All it'll do is add to the injured.\nWe fight hand to hand!
+
+@291.0AA6
+Hm, there's light over there...
+
+@291.0AC0
+So we can get out of the cave this way.
+
+@292.0008
+Ah, good timing.\nI've got a favor to ask of you.
+
+@292.0046
+I don't know whether you'll believe me,\nbut... a monster keeps showing up\nin the waters around here.
+
+@292.00A2
+A monster...?
+
+@292.00B6
+The fishermen call it the Demon Fish.\nIt gnaws on ships until they sink.
+
+@292.00F6
+Just this year, it has swallowed up\nship after ship.
+
+@292.0132
+I thought maybe someone like you\ncould do something about it.\nWhat do you say? Will you\ntake care of it for us?
+
+@292.01A4
+Whether I meet it or not\ncomes down to luck.
+
+@292.01D2
+Well, I'll wait patiently.\nI'm counting on you.
+
+@293.0008
+Incredible!\nYou really took it down!\nI knew you were no ordinary man!!
+
+@293.005A
+All I can do now is hope there's\nonly one of them...
+
+@293.0092
+...What did you say?
+
+@293.00A6
+N-nothing! Never mind!\nHere, take this!
+
+@293.00E0
+You received 70000 gold coins.
+
+@293.01C2
+They say that far inland from this town,\nthe ruins of an ancient kingdom still\nstand, whole, in the middle of the jungle.
+
+@293.0232
+Is that true?
+
+@293.0242
+No one has actually found them.\nIt's only a rumor, mind you.\nBut maybe you could find them.
+
+@294.015E
+...A deep forest.
+
+@294.0172
+Which is probably why no one has\nlaid eyes on it until now.
+
+@294.01BC
+Ahh, I'd love to get out of\nthis forest quickly.
+
+@294.01F2
+If these were Christians from before\nIslam took over this land...\nthen could they be descendants\nof the Byzantine Empire?
+
+@294.025E
+That was hundreds of years ago.\nI'd be glad to find even a clue\nabout the Marks.
+
+@294.02A8
+What are these bones?!
+
+@294.02C4
+Perhaps someone who came in here,\nlike us, died on this spot...
+
+@294.030A
+Shall we search the area, just in case...?
+
+@294.0334.1
+No
+
+@294.0350
+Understood. Better safe than sorry.
+
+@294.038E
+What is this smoke?\nUgh, my throat... it hurts...
+
+@294.03BE
+This smoke...!\nAdmiral {FI}, don't breathe it in!\nWe must leave this place at once!
+
+@294.0416
+Is everyone here?
+
+@294.042A
+Everyone's safe!
+
+@294.0440
+Good. ...Oh!\nAdmiral {FI}!\nAre you all right?
+
+@294.046A
+Y-yes, I'm... fine...\nMore importantly, what was that...?
+
+@294.04AA
+A smoke that harms the body.\nI had heard rumors of it,\nbut to find it here, of all places...
+
+@294.04FC
+I see... so...
+
+@294.0514
+No! The Admiral is in danger!\nEveryone, get through quickly!
+
+@294.056A
+The sailors seem to be in a panic.
+
+@294.05A0
+Hmm... A suspicious place is no place\nto linger, I suppose.\nThen let us hurry on.
+
+@294.0606
+Hmm... We might have learned the secret\nof those bones.\nIt's a bit of a shame.
+
+@294.0674
+...This must be the place.
+
+@295.0026
+You know, up close you're\nactually kind of handsome.\nLet me tell you something good.
+
+@295.0068
+Have you heard the story that there's\na hidden Christian village near here?
+
+@295.00AC
+I haven't.
+
+@295.00BC
+They say the people live in houses\ncarved out of the rock.\nIt's only a rumor, though.
+
+@296.0010
+This is...
+
+@296.0020
+Was there a rockfall, perhaps?\nWe can't possibly get through this.
+
+@296.005A
+No choice. We turn back.
+
+@296.00A2
+What is it?\nWe're going back, Charles.
+
+@296.00C4
+Let's blow it up!
+
+@296.00DC
+!?\nBlow it up?
+
+@296.00F2
+Yes, we'll blast away the rocks\nblocking the road!
+
+@296.0128
+Are you serious?\nBlasting rock this hard\ntakes a great deal of gunpowder.
+
+@296.0170
+Getting that much gunpowder\nin one go would be next to impossible.
+
+@296.01B6
+Don't worry. We can just\nmake the gunpowder ourselves.
+
+@296.01EE
+Gunpowder?\nYou can make it?
+
+@296.020A
+Admiral... have you forgotten my research?\nGet me enough sulfur and I'll\nmake it anytime.
+
+@296.0264
+I believe they sell sulfur\nin this town, too.
+
+@296.0296
+Yes, buy it at the Market\nand bring it here.
+
+@296.02C2
+All right, I'll go buy the sulfur.
+
+@297.0018
+If only Charles weren't...
+
+@297.005C
+Right, I was to buy sulfur.
+
+@297.023C
+Not nearly enough yet.
+
+@297.0280
+Still not enough.
+
+@297.02A0
+Yes, this much should do.
+
+@297.02CA
+What do we do next?
+
+@297.02E8
+Next, we need lumber\nto make charcoal.
+
+@297.0314
+Lumber...
+
+@297.0324
+They don't sell lumber in this town,\nso we'll have to get it\nsomewhere else.
+
+@298.0018
+If only Charles weren't...
+
+@298.005C
+Right, I was to buy lumber.
+
+@298.0160
+Not nearly enough yet.
+
+@298.01A4
+Still not enough.
+
+@298.01C4
+Yes, this much\nshould do.
+
+@298.01EE
+And lastly...
+
+@298.01FE
+There's more?
+
+@298.0214
+We still lack the most important item.\nSaltpeter.
+
+@298.0246
+Saltpeter?
+
+@298.025C
+It should be sold in some town\nin the Indian Ocean.
+
+@298.028C
+That's quite far...
+
+@299.0018
+If only Charles weren't...
+
+@299.005C
+Right, I was to\nbuy saltpeter.
+
+@299.026C
+Not nearly\nenough yet.
+
+@299.02AE
+Still not enough.
+
+@299.02CE
+Yes\nthis much should do.
+
+@299.0306
+It's done!
+
+@299.031A
+I'll set the charges.\nPlease take cover in town.
+
+@299.035A
+Here we go!\nThree, two, one, zero!!
+
+@300.0156
+They say even the locals\nstay away from this place...
+
+@300.0184
+There may be something here.\nLet's advance with great caution.
+
+@300.01E4
+Hm! A giant serpent!!
+
+@300.01FA
+What shall we do?\nThis won't be easy.
+
+@300.024C
+We fight.
+
+@300.025A
+Understood!\nEveryone, attack together!
+
+@300.02CE
+We beat it...
+
+@300.02E0
+Yes...
+
+@300.0302
+Whew, that was a tough one.\nGood thing we brought gunpowder.
+
+@300.0378
+Fighting here is not a wise move.
+
+@300.039E
+Understood.\nEveryone, away from this spot!\nDon't fall behind!
+
+@300.03F2
+Is everyone here?
+
+@300.0408
+Everyone's here!
+
+@300.0436
+Hm!!
+
+@300.0444
+What's wrong,\nAdmiral {FI}!
+
+@300.0460
+I seem to have sunk into a swamp...
+
+@300.047E
+What?!
+
+@300.04A4
+I'll save you now!!
+
+@300.04BC
+Uooooh!\nNgh, my strength alone isn't enough...\nYou men, lend me a hand!
+
+@300.0522
+Phew...\nAdmiral {FI}\nare you unharmed?
+
+@300.0544
+Yes... Gerhard\nthank you...
+
+@300.057C
+I'll save you now!!\nUoooooooh!
+
+@300.05AE
+Huff, huff...\nAre you all right\nAdmiral {FI}?
+
+@300.05D4
+Yes... sorry about that.\nI never expected a swamp in a place like this.
+
+@301.00C4
+That helps a lot.\nLet's go and see it right away.
+
+@302.0228
+It's a long way yet. Drink your water sparingly.
+
+@302.0254.0
+It's a terrible sandstorm.\nIf we go on like this, we may lose\nour way. What shall we do?
+
+@302.0254.1
+A terrible sandstorm...\nWe may lose our way if we go on.\nAdmiral, what shall we do?
+
+@302.0254.2
+What a terrible sandstorm!\nIf we keep going we'll get lost,\nI bet. What do we do?
+
+@302.0254.3
+It's turned into a terrible sandstorm.\nI'm worried we'll get lost if we go on...\nAdmiral, what shall we do?
+
+@302.0254.4
+That's one nasty sandstorm.\nWe might get lost if we keep going...\nShould we go on?
+
+@302.0254.5
+Hmm, a terrible sandstorm, this is.\nWe might lose our way if we go on.\nWhat will you do, hm?
+
+@302.0254.6
+It's a really big sandstorm now...\nIf we keep going we'll get lost,\nI think... What do we do?
+
+@302.0254.7
+A terrible sandstorm, I'd say.\nGoing through it is a good way to\nlose one's path. Shall we press on?
+
+@302.04CA.0
+Keep going
+
+@302.04CA.1
+Wait for it to pass
+
+@302.04F6
+This storm won't die down.\nWe keep going.
+
+@302.0528.0
+I see...\nThen let's try pressing on.
+
+@302.0528.1
+...If that's what you say, Admiral,\nthen let's go on.
+
+@302.0528.2
+Right...\nAll right, let's go on.
+
+@302.0528.3
+I see...\nAll right, let's go.
+
+@302.0528.4
+Right, got it.\nThen we move out.
+
+@302.0528.5
+I understand your thinking, Admiral.\nLet's give it a try.
+
+@302.0528.6
+Really...?\nWell, let's go on anyway.
+
+@302.0528.7
+I see, understood.\nLet us press on.
+
+@302.0682
+The sailors seem to be exhausted.\nSome of the sailors have deserted.
+
+@302.06C4
+Better to let it pass.\nLet's wait a little.
+
+@302.06FA.0
+...This sandstorm doesn't look like\nit will die down at all...\nWhat shall we do?
+
+@302.06FA.1
+...The sandstorm doesn't look like\nit will die down.\nAdmiral, what shall we do?
+
+@302.06FA.2
+...Hmm\nThe storm might not die down\neven if we wait. What should we do?
+
+@302.06FA.3
+...This sandstorm doesn't feel like\nit's going to die down at all.\nWhat shall we do?
+
+@302.06FA.4
+...\nThe storm doesn't look like it's letting up.\nAdmiral, what's the call?
+
+@302.06FA.5
+...Hmm\nNo sign of the sandstorm letting up.\nWhat will you do?
+
+@302.06FA.6
+...Hmm\nThe storm might not stop even if we\nwait. What do we do?
+
+@302.06FA.7
+...\nThis sandstorm doesn't look like it will\nlet up. What shall we do?
+
+@302.08E0.0
+Go through the storm
+
+@302.08E0.1
+Wait a little longer
+
+@302.090C
+We can't wait any longer.\nWe go through the storm.
+
+@302.0974
+Going through the storm is a bad idea.\nWe have no choice but\nto wait for it to pass.
+
+@302.09EA
+It seems to have died down.
+
+@304.002E
+Damn, I forgot it.
+
+@304.008C
+Yes, thank you.
+
+@304.00A4.7
+Well then, shall we be off?
+
+@304.0128.0
+There's a swamp. What shall we do?
+
+@304.0128.1
+A swamp ahead... What shall we do?
+
+@304.0128.2
+We ran into a swamp!\nWhat do we do?
+
+@304.0128.3
+Oh, a swamp. What shall we do?
+
+@304.0128.4
+Ran into a swamp.\nWhat's the plan?
+
+@304.0128.5
+A swamp, hm. What'll it be?
+
+@304.0128.6
+Oh no, we hit a swamp!\nWhat do we do?
+
+@304.0128.7
+Well, well, a swamp ahead!\nWhat shall we do?
+
+@304.0240.0
+Enter the swamp
+
+@304.0262
+We go into the swamp.
+
+@304.027E.0
+It's shallower than I expected.
+
+@304.027E.1
+It's shallower than I thought.
+
+@304.027E.2
+It's shallower than I expected. Good!
+
+@304.027E.3
+It's shallower than I expected. What a relief!
+
+@304.027E.4
+Shallower than I expected.
+
+@304.027E.5
+Ho, shallower than expected.
+
+@304.027E.6
+Huh? It's shallower than I thought!
+
+@304.027E.7
+Shallower than I thought, indeed.
+
+@304.0348
+That should have saved us\na good deal of distance.
+
+@304.0370
+Yes, we should arrive soon.
+
+@304.03DA
+We can't cross this swamp.\nLet's go back and take another route.
+
+@304.0444
+Looks like we took\nquite a detour.
+
+@304.046E
+Yes, but\nwe ought to be arriving soon...
+
+@305.000C
+Oh, {FI}!
+
+@305.0020
+I'm off to visit the temples today.\nWant to come along?
+
+@305.0054
+Sorry, but I'm not a Buddhist...
+
+@305.007E
+Oh, come on.\nWe're only going to look around.
+
+@305.00C0
+Is the golden temple on this map\nnear there?
+
+@305.00F8
+Golden?\nOh! You mean that temple!\nIt's not close, but...
+
+@305.0132
+Well, let's go together part of the way.\nAfter that, follow the map\nand you should get there.
+
+@306.0018
+The monk at Kinkakuji said to find\na keepsake of the Yuan emperor.
+
+@306.0060
+The keepsake of the Yuan emperor\nthe monk mentioned must be\nthis "Kublai's Sword".
+
+@307.0018
+The monk at Kinkakuji told me to find\na keepsake of the Yuan emperor.
+
+@307.005C
+We'll have to take it off\nyour equipment, won't we?
+
+@307.00A2
+Pardon me.
+
+@307.00AE
+You've come.\n...!!\nThat is surely...!!
+
+@307.00DA
+Yes. You will be all right.
+
+@307.0106
+Head far to the northeast of China,\nto a small village near the frozen sea.\nThe clan that guards the map should\nbe living there.
+
+@307.0174
+Far to the northeast of China...
+
+@307.02A6
+I will bear it in mind.
+
+@309.02B2
+Stay calm.
+
+@309.030E
+Leave it to me.\nI'll drive them off.
+
+@309.03D6
+Ngh! I let my guard down.
+
+@309.0438
+This is just a scratch.\nDon't worry.
+
+@309.0496
+Form ranks!\nWe break through in one go!
+
+@309.0544
+Are you all right?!
+
+@309.0604
+If only I hadn't lost my footing...\nI'm truly sorry.
+
+@309.0864
+I see.
+
+@309.08A8
+Those wolves are starving.\nBetter to flee. Hurry!
+
+@309.0908
+The sailors are exhausted.\nSeveral of them have deserted.
+
+@309.093C.0
+Huff, huff, huff!\nWe should be safe now.
+
+@309.093C.1
+Huff, huff, huff!\nWe should be safe now.
+
+@309.093C.2
+Huff, huff, huff!\nWe should be safe now, right?
+
+@309.093C.3
+Huff, huff, huff!\nWe're safe now, aren't we?
+
+@309.093C.4
+Huff, huff, huff!\nShould be safe from here, I'd think.
+
+@309.093C.5
+Wheeze, wheeze, wheeze!\nW-we're safe now, I'd say.
+
+@309.093C.6
+Huff, puff!\nWe're safe now, right?
+
+@309.093C.7
+Huff, huff, huff!\nWe should be safe now, I daresay.
+
+@311.028E.0
+Admiral...\nDo you hear something?
+
+@311.028E.1
+Admiral...\nDo you hear something?
+
+@311.028E.2
+Admiral...\nDo you hear something?
+
+@311.028E.3
+Admiral...\nI hear something!
+
+@311.028E.4
+Admiral...\nI hear something!
+
+@311.028E.5
+Admiral...\nDo you hear something?
+
+@311.028E.6
+Admiral...\nI hear something...
+
+@311.028E.7
+Admiral...\nDo you hear something?
+
+@311.0346.0
+Whoa, a boulder from behind!!
+
+@311.0346.1
+Whoa, behind us!!
+
+@311.0346.2
+Whoa, a huge boulder behind us!!
+
+@311.0346.3
+Eeek, behind us!!
+
+@311.0346.4
+Whoa, a boulder behind us!!
+
+@311.0346.5
+Whoa, behind us!!
+
+@311.0346.6
+B-behind us!!
+
+@311.0346.7
+A boulder is falling from behind!!
+
+@311.0406
+Waaah!
+
+@311.0418
+Everyone, run!
+
+@311.043E.0
+Go left
+
+@311.043E.1
+Go right
+
+@311.0464.0
+It's a dead end!
+
+@311.0464.1
+It's a dead end!
+
+@311.0464.2
+Waah!\nDead end!
+
+@311.0464.3
+No!\nIt's a dead end!
+
+@311.0464.4
+Dead end!
+
+@311.0464.5
+Damn!\nDead end!
+
+@311.0464.6
+It's a dead end!
+
+@311.0464.7
+It's a dead end!
+
+@311.04FE
+Dive into the bushes at the side!
+
+@311.051A.0
+Left bushes
+
+@311.051A.1
+Right bushes
+
+@311.054E
+Is everyone all right?!
+
+@311.0568
+Aye...
+
+@311.058C
+Is everyone all right?!
+
+@311.05A6
+Aye...
+
+@311.05B4.3
+Oh?
+
+@311.05DC.0
+Waaaaah!!
+
+@311.05DC.1
+Waaaaah!!
+
+@311.05DC.2
+Waaaaah!!
+
+@311.05DC.3
+Eeeeeek!!
+
+@311.05DC.4
+Waaaaah!!
+
+@311.05DC.5
+Waaaaah!!
+
+@311.05DC.6
+Waaaaah!!
+
+@311.05DC.7
+Waaaaah!!
+
+@311.0616
+What happened?!
+
+@311.062A.0
+S-snake!!
+
+@311.062A.1
+A giant snake!!
+
+@311.062A.2
+S-snake!!
+
+@311.062A.3
+There's a s-snake!!
+
+@311.062A.4
+S-snake!!
+
+@311.062A.5
+S-snake!!
+
+@311.062A.6
+S-snaaake!!
+
+@311.062A.7
+Now it's a snake!!
+
+@311.06C6
+Eeek, run!
+
+@311.06E8
+Huff, huff...
+
+@311.06FC
+I've had enough!
+
+@311.0750
+Just a little more. No whining.
+
+@311.077E.0
+Oh, it rolled down the left path!
+
+@311.077E.1
+The boulder rolled down the left path!
+
+@311.077E.2
+Lucky!\nThe boulder rolled off to the left!
+
+@311.077E.3
+The boulder went down the left path!
+
+@311.077E.4
+The boulder rolled off to the left!
+
+@311.077E.5
+Oh, it rolled down the left path!
+
+@311.077E.6
+The boulder went down the left path!
+
+@311.077E.7
+Oh, it rolled down the left path!
+
+@311.0870
+That was lucky.
+
+@311.0882
+Whew, that scared me.
+
+@312.00B8
+Oh?\nAnd where is that map?
+
+@313.01DA
+It's a desert, so the heat can't be helped.\n...Move out.
+
+@313.02D8
+Stay calm.
+
+@313.033E
+Leave it to me.\nHaaa!
+
+@313.04C6
+Leave it to me.\nI'll drive them off.
+
+@313.0648
+Ngh!!
+
+@313.06C4
+Damn, I let my guard down.
+
+@313.07EA
+Sorry.\nI'm fine now.
+
+@313.0818
+Withdraw quietly.\nDon't provoke them.
+
+@313.0AD4
+Hurry, run through!

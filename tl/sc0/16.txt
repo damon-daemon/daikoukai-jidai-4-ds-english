@@ -1,0 +1,941 @@
+@237.0008
+Heathen scum, prepare yourself!\nI, Charles Martel, will\nbeat you down!
+
+@237.0050
+Ow, ow, I give up!\nR-retreat!
+
+@237.007C
+What are those kids doing?
+
+@237.00A6
+Playing heroes, I'd say. In every country,\nchildren look up to the heroes\nof their own land.
+
+@237.00FC
+So the hero around here is Charles...\nwhat was the rest?
+
+@237.0136
+Charles Martel. He lived\nover eight hundred years ago.
+
+@237.016C
+Between Tours and Poitiers, not far\nfrom here, he drove back the Muslim army\nthat had pushed north from the\nIberian Peninsula. A splendid victory.
+
+@237.01DE
+Hmm. But plenty of people have won wars,\nright? Why is he the hero?
+
+@237.023C
+What matters is what that victory meant.
+
+@237.0262
+Had he lost, all of Europe would\nsurely have turned Muslim.\nHistory would have changed greatly.
+
+@237.02CE
+So he protected Europe's culture\nand traditions. No wonder the kids\nworship him.
+
+@237.032C
+Admiral, your own deeds so far are\nin no way inferior to those of\nCharles Martel.
+
+@237.0386
+I look forward to hearing how\nfuture generations speak of your name.
+
+@238.0008
+Ah, Admiral.
+
+@238.0022
+Oh, Manuel.
+
+@238.003A
+Out scouting the latest trends?\nYou work so hard.
+
+@238.0068
+Hahaha, not really. Just taking in\nthe sights of the town is\nquite fun in itself.
+
+@238.00BE
+I see.
+
+@238.00CE
+What brings you here, Manuel?\nSomething to do at the plaza?
+
+@238.0104
+The same as you, Admiral. Gathering\ninformation while taking a stroll.
+
+@238.0146
+By the way, Admiral, do you know of\nKing Attila of the Huns?
+
+@238.018E
+Attila?\n...Who's that?
+
+@238.01AE
+The Huns were Asian horse nomads, and\nKing Attila is said to have pressed hard\neven on the Eastern and Western\nRoman Empires.
+
+@238.021A
+Even the Roman Empire struggled with him...\nHe must have been quite a man.
+
+@238.025C
+In history, no matter how mighty an\nempire is, a stronger rival will one day\nappear. "No hegemony lasts forever,"\nas they say.
+
+@238.02E0
+I see...\nWill the {FO} ever\nconquer the seas of\nthe world...?
+
+@238.0320
+Of course.\nEverything depends on effort.
+
+@238.0348
+True.\n...But why bring this up now?
+
+@238.037C
+I just heard a tale about King Attila's\narmor over there. Though it's\nnothing more than a rumor.
+
+@238.03D8
+What kind of tale?
+
+@238.03EA
+After Attila died, someone is said to\nhave carried off his armor to the\nnorthwest...
+
+@238.0438
+"The king's armor, carried off to the\nnorthwest," huh... He threatened Rome,\nso people must have\nfeared him.
+
+@238.04A0
+Yes. Northwest of here would be\nsomewhere in Northern Europe, I suppose.
+
+@239.0008
+Hyah! Yaaah!
+
+@239.0022
+Practicing your Tao magic at this\nhour of night? You're working hard.
+
+@239.004C
+Facing someone with a sword takes\nan awful lot of courage, you know.
+
+@239.0090
+But if you fear the blade and step in\nhalfway, you only get hurt worse.\nThat's why a fearless spirit is\nso important.
+
+@239.010A
+...Oh, by the way, I heard there's a\ntraining outfit so tough that\nswords chip when they strike it.\nDo you know of it?
+
+@239.016C
+Really?
+
+@239.017A
+If I had something that handy, I could\nfight so much harder...
+
+@239.01BC
+Oops. If I rely on tools, my master\nwill scold me. "First, train yourself!"\nis what he always says.
+
+@239.021C
+Okay, back to practice!\nHah, yaaah!
+
+@240.0008
+Admiral, got a minute?
+
+@240.0024
+What is it?
+
+@240.0038
+I just heard about an animal called\nthe armadillo over there. Know it?\nApparently its hide is harder than iron.
+
+@240.00A4
+And?
+
+@240.00B4
+So, they say a shield was once made\nfrom armadillo hide. People called it\nthe "Armadillo Hide."
+
+@240.0122
+Hmm.\nSo what about that shield?
+
+@240.014E
+Come on, you're slow. A shield harder\nthan iron! Don't you want it? With a\nshield like that, we'd be a big help\nin battle.
+
+@240.01C0
+True enough.\nWhere would we find it?
+
+@240.01F6
+That's the thing...\nAll I know is that it's hidden\nsomewhere around Africa.
+
+@240.0244
+Oh, come on.\nThat's not enough to go on.
+
+@240.0270
+I know, but...
+
+@240.028A
+All right. I'll keep it in mind.\nWith any luck, we'll find it.
+
+@240.02C4
+Yeah.
+
+@241.0008
+Admiral, got a minute?
+
+@241.0024
+What is it?
+
+@241.0038
+I heard a rumor about something called\na giant tortoise. Know it?\nApparently its shell is harder\nthan iron.
+
+@241.00A8
+And?
+
+@241.00B8
+So, someone supposedly made a shield\nfrom that tortoise's shell. Everyone\ncalled it the "Tortoise Shield."
+
+@241.012A
+Huh? I've heard this before...\nDidn't you say the same thing about\nsome armadillo thing?
+
+@241.0180
+Did I? I don't really remember.
+
+@241.01A4
+Oh well.\nWhat about the shield?
+
+@241.01CC
+Don't you want it? With a shield like\nthat, we'd be a big help in battle.
+
+@241.0216
+I knew it. You said exactly the same\nthing about the armadillo thing.
+
+@241.025A
+Did I? Never mind, never mind.
+
+@241.0282
+Oh well.\nWhere would we find it?
+
+@241.02B6
+That's the thing, all I know is that\nit's hidden somewhere around\nthe Indian Ocean.
+
+@241.0300
+If that's all you know,\nwe can't search for it.
+
+@241.032E
+...I know, but
+
+@241.0348
+All right, I'll keep it in mind.\nWith any luck, we'll find it.
+
+@241.0382
+Yeah.
+
+@242.0008
+Admiral, got a minute?
+
+@242.0024
+What is it?
+
+@242.0038
+Admiral, do you think the phoenix\nreally exists?
+
+@242.0064
+No idea. But if it does, I'd love to\nsee one. What brought that on?
+
+@242.00AE
+Well, I heard there's a helmet made\nof iron forged in a phoenix's flames.\nI think they called it the "Phoenix\nBascinet."
+
+@242.011C
+So you want to get it because it'd\nhelp in battle?
+
+@242.0154
+Wow, you figured that out!
+
+@242.0174
+You said something just like this\nbefore.
+
+@242.01A6
+Did I? You've got a good memory.
+
+@242.01CA
+Anyway. Where is it? You're not going\nto say Africa or India again, are you?
+
+@242.022C
+What are you talking about? England.
+
+@242.0254
+Huh? This time the area is\nmuch smaller.
+
+@242.0288
+Ahem! I did my own research, you know.\nAt first all I could find out was\nthat it was around Northern Europe.
+
+@242.02EA
+Nice research!
+
+@242.0300
+Hehe, I know.
+
+@242.0316
+Since Samuel worked so hard,\nI won't forget about the\nPhoenix Bascinet.
+
+@242.0372
+Yeah! I hope we get it!
+
+@243.0008
+Admiral, do you know of Herophilus?
+
+@243.0034
+No? I've never heard of him.\nWho is he?
+
+@243.006C
+Herophilus was a physician of old.\nHe left behind the oldest medical\nbook in the world.
+
+@243.00BE
+Hmm, a great doctor.\nAnd?
+
+@243.00E4
+They say that book describes how\nto ease the fatigue of sailors...
+
+@243.013E
+Wow! If that's true, amazing!\nI want that book.
+
+@243.0172
+Yes, indeed.
+
+@243.0184
+How should we look for it...?\nAny leads at all?
+
+@243.01C2
+Well...\nIt was a long time ago, but I think I\nheard it was seen deep in the Mediterranean.
+
+@243.021A
+That's all?
+
+@243.022C
+...That's all.
+
+@243.0242
+Hmm. That's not enough to search with.
+
+@243.0268
+I'm sorry.
+
+@243.0280
+No, there's no need to apologize.
+
+@243.02A4
+Yes...
+
+@243.02B2
+If we want it, we just have to head\nfor the Mediterranean.
+
+@245.0008
+Admiral,\nmay I have a moment?
+
+@245.002E
+What is it?
+
+@245.003A
+Well, the other day I found an\ninteresting scrap of paper in the\nlibrary of Alexandria.
+
+@245.0088
+A scrap of paper? What kind?
+
+@245.00A0
+It described a strange chisel used by\nthe legendary sculptor Phidias of\nancient Greece when he made his works.
+
+@245.012C
+A chisel...
+
+@245.0138
+Yes. After his death, his soul is said\nto have passed into the chisel, and it\nis believed that whoever uses it shows\nmiraculous talent for sculpting.
+
+@245.01BA
+They say that chisel is buried somewhere\non the Balkan Peninsula, near Greece.\nBut it doesn't say exactly where.
+
+@245.023A
+Manuel, you're not seriously thinking\nof using that chisel to repair\nthe ship?
+
+@245.0278
+Why not? The Romans once adopted a\npolicy of making "even kings into\ntools." Kings as tools! Rather lavish,\nwouldn't you say?
+
+@245.0302
+A ship is a fine work of art too. It\ndoesn't hurt to have fine tools to\nbuild one. Well, if you get the chance,\ngive it a look.
+
+@246.0008
+...
+
+@246.0016
+What's wrong, Filippo?\nSpacing out?
+
+@246.0044
+Huh? Oh... Carlo!?\nIt really is you, Carlo!\nWhen did you get back!?
+
+@246.0090
+No... I just stopped by on business.\nMore importantly, Filippo, you'll\ndrive customers away running your\nshop with a face that blank.
+
+@246.010A
+None of your business. Still, if you're\nable to talk that rudely, it looks like\nyou've gotten back on your feet.
+
+@246.016A
+Yes, I'm finally back in action.\nI sail with these people now.
+
+@246.01B4
+Oh, customers? Sorry about that.\nI was lost in thought, remembering\na story my great-grandfather told me.
+
+@246.0218
+What kind of story?
+
+@246.022E
+About trade in the Papal States.\nIn the old days the Pope held lands\nright up near Venice.
+
+@246.0282
+I've heard of that. When the Pope's\npower was at its peak, trade\nflourished within his domain.
+
+@246.02E4
+That's right. Back then the lords\ncompeted over what and how much\nto donate to the Pope...
+
+@246.033A
+My ancestors made a fortune just moving\ngoods from the right hand to the\nleft. But now...
+
+@246.039A
+The Pope's authority has fallen, and\nbusiness with the Church has dried up\ncompletely.
+
+@246.03E2
+Right. We're back to an age where we\nhave to work hard on our own. I envy my\ngreat-grandfather's generation.
+
+@246.0456
+Come to think of it, I've heard that\nitems connected to the Pope sometimes\nturn up in areas that used to be\npapal lands.
+
+@246.04C2
+So they say. Something the Pope used\nmight bring good fortune. Ah, I'd like\nsome divine protection myself.
+
+@246.0530
+Divine protection, huh...
+
+@246.0546
+Admiral, this story may not be just\na joke. If we found something the Pope\nused, it'd be a great discovery.
+
+@247.0008.0
+Admiral, a letter from Charles\nhas arrived.
+
+@247.0008.1
+Admiral, a letter from Charles\nhas arrived for you.
+
+@247.0008.2
+Admiral, a letter came from\nCharles!
+
+@247.0008.3
+Admiral, a letter from Charles\nhas arrived!
+
+@247.0008.4
+Admiral, a letter came from\nCharles, y'know.
+
+@247.0008.5
+Hmm, Admiral, a letter has come\nfrom Charles.
+
+@247.0008.6
+Admiraaal, there's a letter\nfrom Charles!
+
+@247.0008.7
+Admiral, a letter has arrived\nfrom Charles.
+
+@247.0144
+I am in West Africa now. I heard a\nstrange story from sailors here and\nwanted to pass it on.
+
+@247.01A8
+...Not long ago, a Spanish merchant fleet\nwas attacked by pirates on its way from\nthe New World to West Africa.
+
+@247.0202
+The difference in strength was\noverwhelming. The merchants tried to flee,\nbut being slower, their destruction was\nonly a matter of time.
+
+@247.026C
+But when they reached the sea far west of\nLisbon, they heard a roar that seemed\nnot of this world.
+
+@247.02E2
+Hearing it, the sailors were somehow\nstirred and fought like lions. They were\nable to stand against the pirates\nboldly.
+
+@247.035A
+After they held out a while, the Spanish\nNavy happened to pass by. The pirates\nscattered in panic, and the merchant\nfleet barely escaped the crisis.
+
+@247.03EC
+What the sound actually was, or whether\nscience can explain it as a natural\nphenomenon, is still unknown.
+
+@247.045A
+Still, it is a rather intriguing tale.\nIt might be worth investigating.\n  Charles Jean Rochefort
+
+@247.04DE
+What a strange story.\n...Hmm, I'm really curious now.
+
+@248.0008.0
+Admiral, a letter from Jam\nhas arrived.
+
+@248.0008.1
+Admiral, a letter from Jam\nhas arrived for you.
+
+@248.0008.2
+Admiral, a letter came from\nJam!
+
+@248.0008.3
+Admiral, a letter from Jam\nhas arrived!
+
+@248.0008.4
+Admiral, a letter came from\nJam, y'know.
+
+@248.0008.5
+Hmm, Admiral, a letter has come\nfrom Jam.
+
+@248.0008.6
+Admiraaal, there's a letter\nfrom Jam!
+
+@248.0008.7
+Admiral, a letter has arrived\nfrom Jam.
+
+@248.0136
+Hey, Admiral, everybody!\nStill doing well?
+
+@248.0164
+Man, India is some place. Can't sum it\nup in a word. Oh yeah, I heard one\ninteresting rumor.
+
+@248.01E6
+It's about a statue of a sacred beast\nmade under the Gupta dynasty. Looks\nlike that statue can see\ninto the future.
+
+@248.0250
+Sounds fishy, right? But this is India.\nAnything could happen. Maybe it's\nactually true.
+
+@248.02C4
+I figured with that, I could even beat\nFernando at gambling. Too optimistic,\nmaybe?
+
+@248.032E
+But nobody sells it anywhere, and I\nhaven't met a single person who's\nseen it.
+
+@248.037E
+Admiral, if you've got time, why not\nlook for it? Even if not for gambling,\nit might come in handy somehow.
+
+@248.03FC
+Oh, gotta set sail. Hope you find\nthe treasure! Well, see ya.\n  Jam Jacques Ludoyen
+
+@248.048C
+Heh, you think that'll beat me?\nIn five hundred years, maybe.
+
+@248.04D2
+Jam's the same as ever, even in a\nletter. ...But it sounds like a really\nmysterious statue. Maybe I'll look for it.
+
+@249.0008
+Grr!\nWhat are those guys talking about!
+
+@249.003A
+Cesare, what's wrong?\nYou seem angry.
+
+@249.0072
+The sailors are chattering about\nnonsense, sir.
+
+@249.00AC
+Nonsense?
+
+@249.00C4
+Instead of working! "The Demon-Slaying\nArrow," ha! That's the name of the\nitem in question, sir.\nWhat a grand name, honestly!
+
+@249.013E
+Um, what item are you talking about?\nSlaying demons, that's...
+
+@249.017A
+The "Demon-Slaying Arrow" is a legendary\narrow an angel used to strike down\ndemons, sir, yes.
+
+@249.01D8
+They say whoever holds it becomes a\nbowman of genius, and they ask whether\nit works on cannons too. Such silly\ntalk, and they neglect the ship!
+
+@249.025C
+If they have time for that, practicing\ncannon fire would be far more\nuseful!
+
+@249.02BA
+Such a handy thing isn't just lying\naround near England! Yet they claim it's\non the Isle of Skye, or someone saw it\non Lewis.
+
+@249.0332
+They get excited over silly rumors. If\nit were that close, someone would\nsurely have it by now!
+
+@249.0398
+...\n(Let's leave him alone.)
+
+@249.03B4
+Those fellows are always like this!\nMutter mutter...\nMutter mutter...
+
+@250.0008
+Ugh!!\n...\nOw ow ow...
+
+@250.0028
+!?\nJenas? Are you all right?
+
+@250.0048
+Yes, it's nothing serious. I was\ntending the ship and caught my hand\non a fitting on the mast.
+
+@250.00AE
+Hey there.\nWhat's wrong, lad?
+
+@250.00D0
+Well... It's, um...
+
+@250.00E8
+My mate\nhurt his hand.
+
+@250.010E
+That ain't good.\nLet me take a look.
+
+@250.0144
+...Ow ow.
+
+@250.0154
+Hmm. Well, that's the kind of wound\nthat comes with being a sailor.
+
+@250.018E
+Heh heh.\nI've got just the gloves to keep\nthat from happening.
+
+@250.01CA
+Gloves?
+
+@250.01D8
+Yep! You won't find handy gloves like\nthese anywhere. Now, hold on a\nsec... Where did I put them...?
+
+@250.0246
+Huh!? Uh-oh!\nDid I drop 'em somewhere!?
+
+@250.0284
+If they're that important, isn't it\nstrange to drop them?
+
+@250.02B6
+Sorry about that. If I dropped them...\nlet's see, right! It was around\nDenmark!
+
+@250.030A
+Denmark?
+
+@250.0326
+Yep! The Jutland Peninsula, for sure!\nIt's true! Trust me!!
+
+@250.0378
+Hmm. Well, I guess I'll go look.
+
+@250.039E
+You believe me?\nAll right. If you find them,\nthey're yours.
+
+@250.03E4
+They don't fit my hands anyway, so I\nwas gonna sell 'em off. But their\neffect is guaranteed.
+
+@251.0008
+Welcome.
+
+@251.0022
+Francisca,\nyou've got customers.
+
+@251.0044
+...Yes.
+
+@251.0052
+You can't keep sniffling forever, you\nknow? Give it up already.
+
+@251.009E
+...
+
+@251.00A8
+Excuse me, is something wrong?
+
+@251.00CA
+Oh, it's nothing to do with you,\ncustomer. Please don't mind us and\nenjoy your drink.
+
+@251.0118
+?
+
+@251.0126
+...
+
+@251.0130
+You seem down...\nIs something troubling you?
+
+@251.0160
+Um...\nIf you're a sailor, you visit all sorts\nof towns around the world, right?
+
+@251.01A6
+Huh? Yeah, that's right.
+
+@251.01C4
+Then have you ever been to the New\nWorld?
+
+@251.01EE.0
+Yes
+
+@251.01EE.1
+No
+
+@251.0208
+Yes, I have. Why?
+
+@251.0226
+The New World?\nWe haven't gotten that far yet...
+
+@251.0260
+But it's a place I'd like to visit\nsomeday. So, what about the New World?
+
+@251.02A8
+Actually...\nsomeone stole a treasure that\nI cherished.
+
+@251.02E0
+What kind of treasure?
+
+@251.02F2
+It may not be worth much, but my dad\nbought it for my birthday because I\nlove roses. It's a glass ornament...
+
+@251.0362
+It looks like a real rose frozen in\nice. It's lovely. I liked it so\nmuch...
+
+@251.03BA
+That's awful!\nSo who stole it?
+
+@251.03E2
+I don't know.
+
+@251.03F6
+Then there's nothing we can do...\nHuh? So what does the New World have\nto do with it?
+
+@251.0454
+In Havana, I heard from a friend of an\nacquaintance, there's a swindler who\nsells glass crafts as jade or crystal\nat high prices.
+
+@251.04D2
+A swindler is a thief? Hmm, whether\nhe's the culprit is doubtful.
+
+@251.051A
+But if we go to Havana, we might find\na clue.
+
+@251.0562
+Hey! You'd cross the Atlantic on\nsuch a vague lead?
+
+@251.05A4
+But if he really is the culprit, we'd\nbetter hurry or it'll be too late.
+
+@251.05F6
+And if it's not connected to her case,\nwe can just call it a trip to catch\nthat swindler.
+
+@251.064C
+Good point!\nLet's catch that lowlife and teach\nhim a lesson!
+
+@251.0698
+Th-thank you!
+
+@251.06B0
+Don't thank us yet. We haven't even\nfound what was stolen.
+
+@251.06F8
+Well, now that it's decided,\nlet's get ready to set out.
+
+@252.000C
+Sir, I need you to pay up today.\nDo you remember how much your tab\nhas grown?
+
+@252.0072
+I told you, I'll pay next time!\nHave I ever once skipped out on you?
+
+@252.00BA
+You've never paid, either.
+
+@252.00E2
+Tch, fine. Here,\ntake this for the drinks.
+
+@252.0124
+What's this?
+
+@252.0140
+An amethyst ornament.
+
+@252.0158
+Oh!\nThis looks pretty expensive...\nAre you sure?
+
+@252.0192
+It's worth a lot, but consider it\ninterest. Keep it. Keep the change\ntoo! Hahaha!
+
+@252.01EA
+Wait a moment!
+
+@252.0204
+Huh?\nWho the hell are you?
+
+@252.0226
+May I take a look at that ornament?
+
+@252.024A
+What, you got a problem?\nStay out of this, kid!\n...Hey! Are you listening!
+
+@252.02BA
+Yes!\nI knew it, this is glass!\nIt must belong to that girl!
+
+@252.0300
+What? G-glass!?
+
+@252.031E
+W-what are you saying!\nT-this is the genuine...
+
+@252.0358
+Quit squirming, you cheat!\nThe owner of that ornament asked us to\nget it back! You won't fool us!
+
+@252.03C0
+Tch, caught! Time to go!\nUgh...!!
+
+@252.03FE
+You...\nI put up with you as a customer, but\nI've had it with you today!
+
+@252.0448
+Old man! Get out of my way if you\ndon't want to get hurt!
+
+@252.0480
+I deal with rowdy sailors every day!\nHow could I run this place without\nconfidence in my fists!
+
+@252.04E0
+Guh!!
+
+@252.04F2
+How dare you pull a dirty trick in\nmy tavern!
+
+@252.0528
+Ugh!
+
+@252.0536
+Eek!\nM-mercy, please!
+
+@252.055E
+W-wow...
+
+@252.0572
+D-damn it!\nYou'll regret this!!
+
+@252.0596
+Hey, you bastard!\nTch, he got away.
+
+@252.05C0
+Thanks, you saved me. I almost fell\nfor it completely. Oh right,\nthis is what you came for, isn't it?
+
+@252.063E
+Oh, yes!
+
+@252.0650
+Return it to its real owner. That guy\nsurely has other crimes too. Next time I\nsee him, I'll hand him to the\ngovernor's office!
+
+@253.000C
+Oh, welcome!
+
+@253.002A
+Is this your stolen rose ornament?
+
+@253.0050
+Oh!?\nYou found it!!\nThank you!!
+
+@253.0088
+You handed over the Frozen Rose.
+
+@253.00BC
+I thought it was hopeless, but you\nreally found it...\nIt's all thanks to you!
+
+@253.0108
+I'm glad you're happy.\nWell then.
+
+@253.0144
+Oh, wait.
+
+@253.0158
+You're exploring all over the world,\naren't you?
+
+@253.018E
+There's a wooden church on the edge of\ntown. Such buildings are rare in\nEurope. Please visit it if you like.
+
+@253.01F2
+Thanks.\nWe'll go take a look.
+
+@253.0222
+Thank you so much!\nPlease come again!
+
+@254.0010
+Admiral!
+
+@254.001E
+What is it?
+
+@254.0034
+Take a look at this!\nWhat a magnificent figurehead!
+
+@254.0062
+You did well to find it.
+
+@254.0080
+Oh, Father.
+
+@254.0094
+It has quite an atmosphere.\nIs there a story behind it?
+
+@254.00CC
+No story at all.\nExcept...
+
+@254.00F0
+Except?
+
+@254.00FE
+Only someone the statue itself\nlikes can take it away.
+
+@254.014A
+Several people have tried to take it,\nbut most couldn't carry it off and\nwent home injured.
+
+@254.01A6
+And when someone who took it home dies,\nit returns to this church before\nanyone knows.
+
+@254.01F4
+Wow... Is that so?\nHow mysterious...
+
+@254.0220
+Would you like to try as well?
+
+@254.0244
+Ha, no thanks!\nI don't want such a strange thing!\nRight, Admiral?
+
+@254.028E
+Hmm......
+
+@254.02A0
+Y-you can't be serious, Admiral!
+
+@254.02BA.0
+Let's try it
+
+@254.02BA.1
+Let's pass
+
+@254.02E4
+All right, everyone, lend a hand!
+
+@254.0304
+I said stop!
+
+@254.0324
+Julio, you can go back ahead of us.
+
+@254.034E
+I'll help!\nI just have to help too, right?\nHonestly!
+
+@254.0388
+Heave-ho! Heave-ho! Heave-ho!
+
+@254.03DE
+Waaah!
+
+@254.0406
+Run!
+
+@254.0426
+It seems you were not qualified.
+
+@254.0462
+Ow ow ow...
+
+@254.0484
+It seems the statue has accepted\nyou.
+
+@254.04B4
+We were just lucky.
+
+@254.04D2
+No need to be modest.
+
+@254.04F8
+I'm not being modest.\nI really think we were just lucky.
+
+@254.053C
+In any case, that is good.\nMay God's blessing be with you.
+
+@254.0596
+{FI}'s Spirit\nwent up by 1!
+
+@254.05CA
+That is the wise choice.
+
+@254.05E4
+Right!\nI thought you'd say we'd take it,\nand I panicked!
+
+@254.0628
+Then may God's blessing be\nwith you.

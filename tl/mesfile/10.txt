@@ -1,0 +1,749 @@
+@2500
+Admiral, if you take that,\nI won't be able to do my job.
+
+@2501
+Admiral, if you take that,\nI can't do my job.
+
+@2502
+If you take that,\nI can't do my job.
+
+@2503
+Hm? If you take that,\nI won't be able to do my job.
+
+@2504
+If you take that, Admiral,\nI can't do my job!
+
+@2505
+It doesn't look like we need to use that now.
+
+@2506
+Don't you think we don't need to use it now?
+
+@2507
+It seems we need not use it now.
+
+@2508
+Doesn't look like we need it now, though.
+
+@2509
+Gave the sailors\n%s.
+
+@2510
+Gave the sailors\n%s.
+
+@2511
+Gave the sailors\n%s.
+
+@2512
+Nobody knows how to use it.
+
+@2513
+How do you use it?\nNobody seems to know.
+
+@2514
+What's that?\nNobody seems to know\nhow to use it.
+
+@2515
+How do you use it?\nNobody seems to know.
+
+@2516
+Oh Lord!\nPlease calm your wrath!
+
+@2517
+Oh God!\nPlease be calm!
+
+@2518
+Oh Lord!\nPray calm your wrath!
+
+@2519
+Oh God!\nPlease don't be angry!
+
+@2520
+The cat\ngot rid of the rats.
+
+@2521
+The cat got rid of the rats!
+
+@2522
+The cat got rid of the rats!
+
+@2523
+The cat took care of the rats!
+
+@2524
+If we dismiss all the sailors,\nthe ship can't move!
+
+@2525
+Admiral!\nIf you fire all the sailors,\nthe ship can't move!
+
+@2526
+Admiral!\nIf you dismiss all the sailors,\nwe can't move the ship!
+
+@2527
+Hey now,\nif you dismiss all the sailors,\nthe ship won't move.
+
+@2528
+If you dismiss all the sailors,\nwho'll sail the ship?\nI can't do it alone!
+
+@2529
+Oops...\nI can't do my job without this.
+
+@2530
+I can't do my job\nwithout this.
+
+@2531
+...Oh, right.\nI can't do my job\nwithout this.
+
+@2532
+I can't do my job\nwithout this.
+
+@2533
+Spotted a fleet of\n%s!\nMoving to attack!
+
+@2534
+Spotted a fleet of\n%s!\nMoving to attack!
+
+@2535
+Spotted a fleet of\n%s!\nAttack them!
+
+@2536
+Spotted a fleet of\n%s!\nLet's attack!
+
+@2537
+A fleet of\n%s\nis attacking us!
+
+@2538
+A fleet of\n%s\nis attacking us!
+
+@2539
+A fleet of\n%s\nis attacking us!
+
+@2540
+A fleet of\n%s\nis attacking us!
+
+@2541
+We defeated the\n%s/%s fleet!\nVictory is ours!
+
+@2542
+We defeated the\n%s/%s fleet.\nVictory is ours.
+
+@2543
+We beat the\n%s/%s fleet!\nWe won, I think!
+
+@2544
+We defeated the\n%s/%s fleet!\nVictory is ours!
+
+@2545
+Sank the\n%s/%s fleet!\nVictory is ours!
+
+@2546
+We beat the\n%s/%s fleet!\nWe won!
+
+@2547
+We beat the\n%s/%s fleet!\nWe won!
+
+@2548
+The %s/%s\nfleet fled!
+
+@2549
+The %s/%s\nfleet fled.
+
+@2550
+The %s/%s\nfleet fled!
+
+@2551
+The %s/%s\nfleet fled!
+
+@2552
+The %s/%s\nfleet ran away!
+
+@2553
+We were defeated by the\n%s/%s\nfleet...
+
+@2554
+We got beaten by the\n%s/%s\nfleet...
+
+@2555
+We were defeated by the\n%s/%s\nfleet...
+
+@2556
+We got beaten by the\n%s/%s\nfleet...
+
+@2557
+We were beaten by the\n%s/%s\nfleet...
+
+@2558
+The %s/%s\nfleet beat us...
+
+@2559
+The %s/%s fleet was tougher\nthan expected, so\nwe retreated...
+
+@2560
+The %s/%s fleet was tougher\nthan expected, so\nwe retreated...
+
+@2561
+The %s/%s fleet was very tough,\nso our fleet retreated...
+
+@2562
+The %s/%s fleet was tougher\nthan expected, so\nwe retreated...
+
+@2563
+The %s/%s fleet was tougher\nthan expected, so\nwe retreated...
+
+@2564
+The %s/%s fleet was tougher\nthan we thought, so\nwe ran away...
+
+@2565
+I'm sorry.\nWe took a loss of\n%s gold coins.
+
+@2566
+I'm so sorry.\nWe took a loss of\n%s gold coins.
+
+@2567
+I'm so sorry.\nWe took a loss of\n%s gold coins.
+
+@2568
+Sorry about this.\nWe took a loss of\n%s gold coins.
+
+@2569
+Sorry about that.\nWe took a loss of\n%s gold coins.
+
+@2570
+I'm sorry!\nWe lost\n%s gold coins.
+
+@2571
+We made a profit of\n%s gold coins.
+
+@2572
+We made a profit of\n%s gold coins.
+
+@2573
+We made a profit of\n%s gold coins.
+
+@2574
+We made\n%s gold coins!\nHeh heh!
+
+@2575
+We don't have enough funds\nto settle the loss, so it will be\ncarried over to next month's expenses.
+
+@2576
+We don't have enough money to settle the loss,\nso it will go on next month's expenses.
+
+@2577
+We don't have the money to settle the loss,\nso it goes on next month's expenses.
+
+@2578
+We lack the funds to settle the loss.\nShall we carry it over to\nnext month's expenses?
+
+@2579
+We don't have the money to cover the loss.\nI'll put it on next month's bill.
+
+@2580
+The town of %s\nhas surrendered!
+
+@2581
+We made the town of %s\nsurrender!
+
+@2582
+The town of %s\nhas surrendered.
+
+@2583
+The town of %s\ngave up!
+
+@2584
+The town of %s\nhas surrendered!
+
+@2585
+The town of %s\nis firing on us!
+
+@2586
+The town of %s\nis firing on us!
+
+@2587
+The town of %s\nis firing on us!
+
+@2588
+The town of %s\nis shooting cannons at us!
+
+@2589
+Sank enemy\n%s!
+
+@2590
+Sank enemy\n%s.
+
+@2591
+Sank enemy\n%s!
+
+@2592
+%s\nwas sunk...
+
+@2593
+%s\nwent down...
+
+@2594
+Captured enemy\n%s!
+
+@2595
+Captured enemy\n%s.
+
+@2596
+Captured enemy\n%s!
+
+@2597
+%s\nwas captured...
+
+@2598
+%s\ngot captured...
+
+@2599
+We seized spoils worth\n%s gold coins!
+
+@2600
+We have seized spoils worth\n%s gold coins.
+
+@2601
+We took spoils worth\n%s gold coins!
+
+@2602
+We took spoils worth\n%s gold coins!
+
+@2603
+We grabbed spoils worth\n%s gold coins!
+
+@2604
+We grabbed spoils worth\n%s gold coins!
+
+@2605
+We took spoils worth\n%s gold coins!
+
+@2606
+We have seized spoils worth\n%s gold coins!
+
+@2607
+Beginning the attack\non the town of %s!
+
+@2608
+Beginning the attack\non the town of %s.
+
+@2609
+Attacking the\ntown of %s!
+
+@2610
+Attacking the\ntown of %s.
+
+@2611
+Attacking the\ntown of %s!
+
+@2612
+Attacking the\ntown of %s!
+
+@2613
+We're attacking the\ntown of %s now!
+
+@2614
+Now then,\nbeginning the attack on\nthe town of %s.
+
+@2615
+At %s,\nwe spotted\npirate %s!
+
+@2616
+At %s,\nwe found\npirate %s!
+
+@2617
+At %s,\nwe spotted\npirate %s!
+
+@2618
+At %s,\nwe spotted\npirate %s!
+
+@2619
+Hey, at %s\nthere's pirate\n%s!
+
+@2620
+At %s,\nwe spotted\npirate %s!
+
+@2621
+We got information on\npirate %s.
+
+@2622
+We got information on\npirate %s.
+
+@2623
+We got information on\npirate %s.
+
+@2624
+We got information on\npirate %s.
+
+@2625
+Ho ho ho!\nWe got information on\npirate %s.
+
+@2626
+We got information on\npirate %s!
+
+@2627
+That's...!\nAt %s,\npirate %s!\nThey're attacking us!
+
+@2628
+Hm! At %s,\npirate %s!\nThey're attacking us!
+
+@2629
+Oh! They attacked from %s!\nIt's pirate %s!\n
+
+@2630
+At %s,\npirate %s\nappeared! They're attacking us!
+
+@2631
+We met\npirate %s!\nEngaging!
+
+@2632
+Met\npirate %s!\nEngaging.
+
+@2633
+There's\npirate %s!\nLet's fight!
+
+@2634
+We were attacked by\npirate %s!\nEngaging!
+
+@2635
+Ran into\npirate %s!\nEngaging!
+
+@2636
+We met\npirate %s!\nLet's fight!
+
+@2637
+We ran into\npirate %s!\nLet's fight!
+
+@2638
+Victory is ours!
+
+@2639
+Victory is ours.
+
+@2640
+We won!
+
+@2641
+We won!
+
+@2642
+We won!
+
+@2643
+We won!
+
+@2644
+We won!
+
+@2645
+Our fleet has been defeated...
+
+@2646
+Our fleet\ngot beaten...
+
+@2647
+Our fleet\nwas defeated...
+
+@2648
+Our fleet\ngot beaten...
+
+@2649
+Our fleet\nwas beaten...
+
+@2650
+Our fleet\ngot beaten...
+
+@2651
+We retreated...
+
+@2652
+Our fleet\nretreated...
+
+@2653
+Our fleet retreated...
+
+@2654
+Our fleet retreated...
+
+@2655
+Our fleet retreated...
+
+@2656
+Our fleet\nran away...
+
+@2657
+We'll put in at a nearby port\nand wait for orders.
+
+@2658
+For now,\nwe'll put in at a nearby port.
+
+@2659
+For now,\nwe'll put in at a nearby port.
+
+@2660
+For now,\nwe'll put in at a nearby port.
+
+@2661
+Can't be helped.\nWe'll put in at a nearby port.
+
+@2662
+We'll put in at a nearby port.
+
+@2663
+%s\nhas sunk!
+
+@2664
+%s\nsunk!!
+
+@2665
+%s\nhas sunk!
+
+@2666
+%s\nhas sunk!
+
+@2667
+%s\nhas sunk!
+
+@2668
+%s\nsank!
+
+@2669
+%s\nhas sunk!
+
+@2670
+%s\nhas no sailors!
+
+@2671
+%s\nhas no sailors!
+
+@2672
+%s\nhas no sailors at all!
+
+@2673
+%s\nhas no sailors at all!
+
+@2674
+%s\nhas no sailors at all!
+
+@2675
+%s\nhas no sailors!
+
+@2676
+%s\nhas no sailors!
+
+@2677
+Are you sure?\nI'll discard\n%s.
+
+@2678
+It can't be helped...\nThen I'll discard\n%s.
+
+@2679
+Do you really want\nto throw away\n%s?
+
+@2680
+So you're throwing away\n%s,\nright?
+
+@2681
+It can't be helped...\nThen we'll discard\n%s.
+
+@2682
+So you're throwing away\n%s.\nIs that okay?
+
+@2683
+The flagship was hit!\nRetreating to\n%s!
+
+@2684
+The flagship was hit!\nRetreating to\n%s!
+
+@2685
+The flagship was hit!\nRetreating to\n%s!
+
+@2686
+The flagship was hit!\nRetreating to\n%s!
+
+@2687
+The flagship was hit!\nRetreating to\n%s!
+
+@2688
+The flagship was hit!\nRetreating to\n%s!
+
+@2689
+The flagship was hit!\nLet's retreat to\n%s!
+
+@2690
+...I can't let it end here.\nI will definitely\navenge this defeat!
+
+@2691
+Damn!\nI can't let it end here.\nI will have my revenge for this!
+
+@2692
+Damn it!\nBut I won't go down for nothing!
+
+@2693
+We lost...\n...Just you wait!
+
+@2694
+I won't die in a place like this!\nI'll pay you back for this!
+
+@2695
+Damn!\nI can't let it end here!\nI'll have my revenge for this!
+
+@2696
+...I won't end here!\nI'll make you pay!
+
+@2697
+I will avenge the Leader's\nregret.
+
+@2698
+I will carry on\nthe Leader's will!
+
+@2699
+I'll avenge the Leader!
+
+@2700
+I will avenge the Leader's\nregret!
+
+@2701
+I'll avenge the Leader's\nregret myself!
+
+@2702
+I'll avenge the Leader's\nregret myself!
+
+@2703
+I will avenge the Leader's\nregret!
+
+@2704
+Well, this is a problem.\nWhat should I do\nfrom here...
+
+@2705
+Am I going to rot away\nlike this...?\n...No, there must still be a place for me.
+
+@2706
+Aw, we lost.\nI'd better find a new employer fast.
+
+@2707
+What a mess.\nWhat should I do...
+
+@2708
+Tch, at this rate\nI'll starve.\nNow what...
+
+@2709
+Hmm...\nIs there anyone out there\nwho needs me?
+
+@2710
+This is a fine mess.\nI must think about my future...
+
+@2711
+A personal letter\nfrom %s?
+
+@2712
+A personal letter\nfrom %s, you say?
+
+@2713
+A personal letter\nfrom %s?
+
+@2714
+%s sent\na personal letter?
+
+@2715
+We have no reason to accept\nsuch a thing.\nSend it back!
+
+@2716
+We have no reason to accept\nsuch a thing.\nSend it back!
+
+@2717
+No reason to accept\nthat.\nSend it back.
+
+@2718
+What are they thinking?\nSend that back to them.
+
+@2719
+Hm. I'll accept it.
+
+@2720
+Then I'll accept it.
+
+@2721
+Hmm...\nWell, I'll accept it.
+
+@2722
+I'll accept it.
+
+@2723
+Hm. A pact?
+
+@2724
+A pact...
+
+@2725
+A pact...
+
+@2726
+A pact, huh...
+
+@2727
+Very well. Let's use this chance\nto strike\n%s.
+
+@2728
+Hm... It's not a bad chance\nto strike\n%s.
+
+@2729
+Right. It wouldn't be bad to\nstrike %s\nat this chance.
+
+@2730
+All right. Let's use this chance\nto strike\n%s.
+
+@2731
+Right. Striking\n%s\nat this chance isn't bad.
+
+@2732
+Becoming hostile to\n%s\nnow is unwise. Refuse them somehow.
+
+@2733
+Becoming hostile to\n%s\nnow is bad... Turn them down somehow.
+
+@2734
+Becoming hostile to\n%s\nnow is bad... Turn them down for me.
+
+@2735
+Becoming hostile to\n%s\nnow is not desirable... Refuse them.
+
+@2736
+They're breaking the pact!\nDamn %s...\nWhat are they thinking?
+
+@2737
+Breaking the pact...!?\nThat %s...\nWhat are they thinking?
+
+@2738
+Breaking the pact...!?\nThat %s...\nWhat are they thinking!?
+
+@2739
+Breaking the pact......!?\n%s...\nWhat are they thinking!?
+
+@2740
+What! They're breaking the pact!\nGrr, damn %s...\nWhat are they thinking?
+
+@2741
+They want a truce?
+
+@2742
+A truce?
+
+@2743
+They want a truce?
+
+@2744
+A truce, you say?
+
+@2745
+...Very well. We have no wish for\npointless fighting either.
+
+@2746
+Fine. We don't want pointless\nfighting either.
+
+@2747
+...Fine. We don't want pointless\nfighting either.
+
+@2748
+Fine. Fighting for nothing\nwon't do us any good.
+
+@2749
+How dare they!\nTell them to wash their necks and wait!

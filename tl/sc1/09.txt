@@ -1,0 +1,158 @@
+@314.0020
+Say, {FI}, have you heard of the\n"Goryeo Incense Burner"?\nIt's supposedly somewhere in East Asia.
+
+@316.02CE
+Let's just push on for now.
+
+@316.03D0
+We'll cut through the trees if we have to.
+
+@316.0504
+We'll look for a way around.
+
+@316.062C
+It's too dangerous to move like this.\nWe'll wait for the fog to clear.
+
+@316.074C
+It seems to have cleared.\nWe move out.
+
+@317.0246
+Phew. It's humid here.\nI'm worried about the men's exhaustion...
+
+@317.02D4
+It's darker than I expected...
+
+@317.0324
+Never mind. Keep going.
+
+@317.034E
+?\nThis feeling under my hand...
+
+@317.036A
+Admiral! A giant snake!\nAh! One of the men!!
+
+@317.03AE
+Waaah! An Indian python!!\n(I think?)
+
+@317.03E4
+Damn! Everyone, fall back!
+
+@317.0440
+...Where are we?
+
+@317.045A.5
+Where?!\n...Hmm.\nIt seems we've come out\nnear the ruins.
+
+@317.0616
+All right. Then I'll light a fire...
+
+@317.063E
+Ugh!\nBats?!\nThere's a huge swarm of them...
+
+@317.0754
+Ignore them.\nKeep moving forward.
+
+@318.0252
+Then we should return to port.
+
+@318.036A
+H-huh?
+
+@318.038C
+You are...\nRafael of the Castor Company?\nWhat are you doing here?
+
+@318.03CE
+...Who's that?
+
+@318.03EA
+This person asked me to come look\nfor the ruins.\nI got lost along the way...
+
+@318.0438
+So you were among the "anyone\nwho'd go" too, is that it?
+
+@318.046E
+I apologize.\nSince none of you sent word, I finally\ndecided to come along myself.
+
+@318.04D2
+No, it's my fault for being such a\nuseless guide...
+
+@318.0502
+Well, fine.\nWe can search together, then.
+
+@318.053E
+You're right.\nLet's look together.
+
+@318.0666
+Coming.
+
+@319.0116
+Who knows.
+
+@320.0038
+Sweden, in northern Europe.
+
+@320.0056
+?\nHmm, never heard of it.\nYou must have come from very far away.
+
+@322.0008.0
+Then I'll put the survey party ashore.
+
+@322.0008.1
+Then I'll put the survey party ashore.
+
+@322.0008.2
+Putting the survey party ashore now!
+
+@322.0008.3
+I'll put the survey party ashore now.
+
+@322.0008.4
+Putting the survey party ashore, sir.
+
+@322.0008.5
+Hmm, putting the survey party ashore now.
+
+@322.0008.6
+Dropping off the survey paaarty!
+
+@322.0008.7
+Then I shall put the survey party ashore.
+
+@322.010C
+You handed over all your gold\nas their starting funds.
+
+@322.013C
+You handed over 1000 gold coins\nas their starting funds.
+
+@322.017C
+We will begin the survey now.\nPlease report to the Sofala Guild\nfor us.
+
+@324.0046
+You know of him?
+
+@324.0116
+Did that monk have medical knowledge?
+
+@324.02AA
+...What is it, Charles?!
+
+@324.02CA
+A little while ago, I heard a rumor\nthat a new experimental material had\nbeen discovered in the New World!
+
+@324.031C
+I had worked out that to obtain it,\nI would need this "Alchemy Book"...\nbut no further than that...
+
+@324.03E4
+...Sorry, but I have no time to\nlisten to explanations right now.
+
+@324.0418
+So where is that monk now?
+
+@324.066E
+...I promise.\nI will find it, no matter what.
+
+@324.06AC
+Of course!\nI'll investigate it thoroughly,\nI assure you!
+
+@324.06F0
+...All right, all right.\nIf you find a new ore, I'll make you\nregional fleet admiral. Research all you like.

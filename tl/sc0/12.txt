@@ -1,0 +1,998 @@
+@173.000A
+Admiral!! Terrible news!!\nThe ship! Our ship is gone!!
+
+@173.0040
+Mmnh, mumble... What is it?\nIt's the crack of dawn...
+
+@173.006C
+Did I hear "no ship"...?\nNo way...
+
+@173.00B0
+But if it's true,\nthis is serious...
+
+@173.00D8
+It's true!\nPlease come to the harbor right now!
+
+@173.010C
+Huh?! No way!!\nIt's gone! It's really gone!
+
+@173.013C
+W-what do we do?!
+
+@173.016C
+Oh my.\nIt really is gone.
+
+@173.018E
+What the hell happened?!
+
+@173.01A8
+Hey! Admiral!!
+
+@173.01CA
+It's awful!\nThis morning I saw some skinny young guy\ntinkering with your ship all by himself...
+
+@173.0220
+And then he sailed off!!
+
+@173.0240
+Hey, hey!!\n"Sailed off" is not an answer!
+
+@173.0288
+My, my...\nWhat a remarkable person...
+
+@173.02B6
+Don't be impressed!\nThis is no time to be so\nlaid-back!
+
+@173.0300
+I never thought he'd actually sail off.\nHe was alone, so I just assumed\nit was some kind of inspection.
+
+@173.035E
+Anyone would think that...\nIt's not the Harbor Boss's fault.
+
+@173.039E
+Still, who sails off alone like that?\nWhat kind of person is he...?
+
+@173.03DE
+Quit being so carefree and\nlet's gather information in town!\nI'll catch that ship thief!
+
+@174.0008
+Looks like he hasn't come back yet.
+
+@175.0008
+Looks like he hasn't come back yet.
+
+@176.0008
+Admiral, Admiral!\nThat ship is back!!!
+
+@176.0042
+What?! Really?!
+
+@176.0062
+Look! That's the one. No mistake!
+
+@176.009E
+Yeeehaw! The sea is the best!\nSo wide! So huge!
+
+@176.00E8
+Phew... What a fun morning!\nAnother fresh, fine day, yahoo!
+
+@176.012A
+...It's changed more than I expected...
+
+@176.014C
+Hey, you!\nQuit riding other people's ships\nwithout asking!
+
+@176.0188
+Huh? What are you talking about?\nI found it lying around!
+
+@176.01BA
+...Ships don't just lie around\nanywhere, you idiot!
+
+@176.01EC
+It was lying in the harbor as I walked by!\nIt looked so lonely, abandoned there!\nIt's the truth, so what can I do?
+
+@176.024C
+So the kind-hearted Jam here\npicked it up, that's all!\nJam, spelled J-A-M, got it?\nYahoo!
+
+@176.02B0
+You picked it up, so you rode it?\nBut how did you sail it?\nYou did it all by yourself, right?
+
+@176.0306
+You do this, you do that...\nWell, somehow, that's how! Yahoo!
+
+@176.0344
+...Amazing...
+
+@176.0358
+Listen, you!\nShips move on water, you know?\nWhat if it had sunk?!
+
+@176.03AE
+Tsk, tsk, tsk!\nAll right, I'll teach you a famous saying.\nListen up!
+
+@176.03F4
+"Where there's a will, there's a way!" Yahoo!\nI'm cool with it, so it's all good!
+
+@176.044E
+Great, a nutcase showed up.
+
+@176.0472
+"Where there's a will..." Honestly...
+
+@176.0494
+It's all about me, so it's good!\n"Life is thick and short!"\n(Jinsei kore gokubuto gekitan!)
+
+@176.04EA
+Staring at your feet,\n"living thin and long"?!\nWhat a drag!\nNo way I'm doing that!
+
+@176.0540
+What a piece of work...\n{FI}, what now?\nHand him over to the guards?
+
+@176.057C
+No way, Clau!\nLet's make him one of us!
+
+@176.05AE
+Come on, {FI}.\nDid the idiocy rub off on you too?
+
+@176.05E0
+But he's so amazing he can\nsail a ship all by himself.\nYou're Jam... right?
+
+@176.0632
+Want to join my ship?
+
+@176.064A
+Hmm. To go or not to go...\nWhat to do... Just a moment!\nHold on!\nI'll think it over in two seconds!
+
+@176.06B6
+All right!
+
+@176.06C8
+Have you decided?
+
+@176.06DC
+Yep, decided. I'm not going!\nSee ya!\nHave a good voyage!
+
+@176.071E
+What?! Wait, wait a second!
+
+@176.0748
+Ha, just the reaction I expected!\nMerci! I'm kidding!!
+
+@176.0788
+Kidding?!
+
+@176.079A
+Yeah, take me with you!\nLet me introduce myself properly!\nI'm Jam Jacques Ludoyen!\nYahoo!
+
+@177.0008
+So this is Alexandria...
+
+@177.002E
+It's quite a lively place.
+
+@177.004E
+Oh?\nThat man is heading our way.
+
+@177.0084
+Th-this is!?
+
+@177.009C
+What is it?
+
+@177.00B0
+Th-this ship!?\nThere's no mistake, sir!
+
+@177.00E4
+It's changed here and there, but...\n...I still see her old self!\nOh, my beloved "Elysion"!
+
+@177.014A
+Huh?\nHer "old self"? A ship?
+
+@177.0168
+Um, is something wrong with this ship?
+
+@177.0190
+Forgive me.\nI am Cesare Toni.\nI was this ship's previous owner...
+
+@177.01E2
+One day pirates attacked us.\nI escaped with my life,\nbut they took the ship.
+
+@177.0232
+What they took was my\nbeloved "Elysion"!\nHow I grieved and wept...
+
+@177.0288
+Then I heard a rumor she'd been abandoned,\nand I searched day and night!\nI believed we would meet again!
+
+@177.02F8
+And so it is!\nThis ship was mine!\nOf course, I wouldn't ask you\nto give her back.
+
+@177.0354
+I only ask this, sir!\nPlease take me along!\nLet me sail with the "Elysion" again!
+
+@177.03BA
+Oh, the ship's "previous" owner...\nOh, that's right!!\nThen I have so many things\nto ask you!
+
+@177.0426
+I just can't figure it out. This ship\nmust have some mechanism that's\nin no book, doesn't it?
+
+@177.048A
+Oh! You noticed that!\nI can see you know ships well, too!
+
+@177.04D8
+Well, not that much...\nCome on, over here!\nTell me everything!
+
+@177.0524
+Of course!\nGladly!
+
+@177.054A
+Oh, I haven't introduced myself...\nI'm Jenas Passer.
+
+@177.0582
+Cesare Toni, at your service.
+
+@177.05A6
+...Here, for example.\nThis looks odd.\nIs there a mechanism here too?
+
+@177.05FA
+Oh, you noticed this one?\nWhat is it, you ask...
+
+@177.0638
+It's the secret spot for attaching\n"extra armor"!
+
+@177.066E
+You "click!" this little\n"bump" right here!
+
+@177.06B6
+Then...
+
+@177.06C8
+...Then? Oh, oooh!!
+
+@177.06F6
+You can now attach new extra armor!
+
+@177.0732
+A-a-amazing!!\nCould it work on other ships too?
+
+@177.077E
+Of course it could!!
+
+@177.079C
+Incredible!!\nMarvelous!!\nCome now, next let's go further in...
+
+@177.07E6
+Hey! Jenas!
+
+@177.0810
+...Aw, there he goes...
+
+@177.0830
+Oh boy.\nHe just decided on his own.\nDoes that mean he's joining us?
+
+@177.088C
+Ah, yes. Admiral,\nwould you care to hear my opinion\non choosing a ship?
+
+@177.08E6.0
+Listen
+
+@177.08E6.1
+Don't listen
+
+@177.0908
+I see, I stand corrected!\nYou have your own principles!\nHow splendid, sir!
+
+@177.0974
+I shall now begin preparing to\nset sail. See you soon!
+
+@177.09B6
+Ahem, then...
+
+@177.09CA
+While you're just adding contract ports\nand widening your routes, you don't need\nto buy ships. With a 1% contract, you can\nonly buy one to five trade goods anyway.
+
+@177.0A50
+Once your share grows and you can\nbuy plenty of trade goods,\nthen it's time to buy a ship.
+
+@177.0AA6
+The first things to consider\nare the ship's size and price.
+
+@177.0ADE
+If you don't choose a ship to suit your\nshare and funds, you can't fill the hold\nwith goods, and you'll just end up\nneeding more sailors.
+
+@177.0B60
+Price tells you a ship's size.\nUnder 5,000 is a small ship, 10,000 to 20,000\nis medium, and over 50,000\nis a large ship.
+
+@177.0BDC
+Small ships are very cheap, so even\nwithout spare funds you can easily\nincrease the cargo your fleet can carry.
+
+@177.0C40
+After trading for a while, once you\nhave some funds to spare,\nswitch to a medium ship.
+
+@177.0C8C
+Medium ships come with two or three\nmasts. Three masts are faster, of\ncourse, but they need many more\nsailhands.
+
+@177.0D0E
+With refitting, you can have up to five\ncargo holds. If you don't plan to fight\nfor a while, you don't need marine\nquarters or batteries.
+
+@177.0D86
+To open routes to far-off ports on\nocean voyages, increase your supply holds\nand you can sail quite far.
+
+@177.0DEC
+If you're going to take on another\nfaction, you will need a large ship.
+
+@177.0E36
+At the very least, your flagship needs\nmarine quarters and armed batteries,\nor you'll hardly win any\nnaval battles.
+
+@177.0EA6
+...After that, it depends on your funds.\nTwo medium ships are cheaper than one\nlarge one, and carry more\ntrade goods.
+
+@177.0F12
+You'll swap up to a large ship someday,\nbut if you plan to form a local fleet,\nyou might keep the old medium ship\ninstead of selling it.
+
+@177.0F96
+That is all my opinion. Now I\nshall begin preparing to set sail.\nSee you soon!
+
+@178.0022
+Now that you've come here,\nyou're taking my challenge.
+
+@178.005E
+Oh, a new face. How about\nbetting on a drink?\nIt's just a simple game.
+
+@178.00B4
+Here are some coins.\nWe take turns picking up\none to three coins as we like.
+
+@178.010C
+Whoever takes the last coin loses.\nSimple, right?\nAll right, here we go.
+
+@178.0164.0
+Accept
+
+@178.0164.1
+Decline
+
+@178.01A8
+Sorry, you're paying again.\nThen I'll take it.\n...Ahh, delicious.
+
+@178.0202
+I told you, {FI}.\nThe winning trick is to leave a multiple\nof four plus one coin each turn.
+
+@178.026C
+Right. That was a bit of a mistake...
+
+@178.029A
+Heh. If we meet again, I'll\nplay you again. Thanks, see ya.
+
+@178.02E2
+...No luck for you.\nI'll take that drink, then.
+
+@178.0328
+Hey, {FI}!\nI'm so frustrated!\nLet's play again!
+
+@178.036C
+Wait, Clau. This guy looks\nlike a strong gambler...
+
+@178.03B0
+I'm confident.\nBut gambling isn't only about luck.
+
+@178.03E6
+Not only luck...?\nOh!! Could it be...?
+
+@178.0414
+Jenas, what's wrong?
+
+@178.0434
+{FI}, listen.\nThere might be a sure way\nto win this game!
+
+@178.047A
+Huh? Really?
+
+@178.0492
+Yes. To make the other player take\nthe last coin, leave a multiple of four\ncoins plus that one.
+
+@178.04F2
+Hmm, let's see...\nI don't really get it?
+
+@178.051A
+Can you explain it\nmore simply?
+
+@178.0548
+...Honestly. Listen. Say there are\nfive coins left and your opponent\ntakes one. What do you do?
+
+@178.05A8
+Four are left, so I take three.
+
+@178.05CE
+And if the opponent takes two\nfrom the same five?
+
+@178.060A
+Then I take two... I see! If I always\nleave five, then no matter how many\nthey take next, I win!
+
+@178.0676
+Exactly.
+
+@178.068E
+I see. So even with nine left,\nit's 1+4+4, so whatever they take,\nI take enough to leave five and win!
+
+@178.070C
+As expected of our Leader,\nyou catch on fast.
+
+@178.0730
+Hey, hey.\nI have no idea what you're talking about.
+
+@178.0762
+Was that a bit\ntoo hard for you, Clau...
+
+@178.078E
+Shut up!\nYou two figuring it out on your own\nbugs me!
+
+@178.07D0
+...Free drinks really are the best.\nCome back whenever you want a game.\nI'll play you again.
+
+@178.0844
+Tch, you got me.\nFirst loss in a long time. Here.
+
+@178.0898
+No, I'm fine for now. By the way,\nyou said "in a long time." Are you\nreally that confident\nin gambling?
+
+@178.0906
+Sure am. In gambling, what matters\nis insight and luck.
+
+@178.093C
+I have both of those.\nI was practically born to gamble.
+
+@178.098C
+I don't know about the luck,\nbut do you really have insight?
+
+@178.09C8
+You shouldn't judge people by looks.
+
+@178.09F0
+For example...\nSee that couple over there?\nWe can't hear them, but what do you\nthink they're talking about?
+
+@178.0A46
+Well, aren't they\nsaying sweet things to each other?
+
+@178.0A76
+Come on, that's elementary.\nThat couple is\nbreaking up.
+
+@178.0AC2
+?
+
+@178.0ACC
+Just watch.
+
+@178.0AE2
+I've been listening this whole time...\nI just can't keep up with the way you\nthink anymore!\nYou're way too selfish!
+
+@178.0B4C
+That's what you think. But I think\nyou're the selfish one.
+
+@178.0B94
+Oh really? Then it seems\nwe'd better not see each other again.
+
+@178.0BD2
+If we both think so,\nthis is the end for us.
+
+@178.0C0A
+...
+
+@178.0C14
+See? Told you.
+
+@178.0C34
+Amazing... How did you know?
+
+@178.0C4C
+That woman was clenching her fist under\nthe table. She was holding back her anger.\nThat's not how lovers talk.
+
+@178.0CA6
+And the man never once looked at her.\nWould a man who loves a woman\nsit facing her like that?
+
+@178.0D04
+Amazing, that's amazing!\nYou saw all that!
+
+@178.0D36
+Yep. With this insight,\nI can read my opponent's hand.
+
+@178.0D72
+Add my good luck,\nand I win.
+
+@178.0D98
+Hey, come aboard my ship!\nIt's a waste of such talent!
+
+@178.0DD4
+Whoa, that's sudden.
+
+@178.0DFC
+...Well, I've got time to burn.\nI'll toss this coin. If it lands heads,\nI'll join you.
+
+@178.0E5E
+Forget the drink, just join us!
+
+@178.0E86
+That again?\n...All right, let me ask\nthis coin once more.
+
+@178.0EFC
+Heh. I can't entrust my life to\nan unlucky guy.\nSo long.
+
+@178.0F56
+Heh, it's settled.\nI'll bet my life on you!
+
+@178.0F8C
+The name's Fernando Dias!\nThis is "luck" too!
+
+@178.0FCA
+Nice to meet you.
+
+@178.0FF2
+Tch, business is dull lately.
+
+@179.0008
+Hmm. This ship is quite well\nmaintained...
+
+@179.0040
+But there's still room to improve.\nFor example...
+
+@179.007A
+???\nIs something wrong with this ship?
+
+@179.00AC
+May we help you with our ship?
+
+@179.00D4
+Hmm. Are you the owner?\nAh, what a lively,\nfine ship.
+
+@179.0120
+(Huh... What an interesting way\n to put it...)
+
+@179.0158
+Never neglect her upkeep.\nIf you cherish her, she'll work\nhard in return. A ship is a living thing.
+
+@179.01C8
+...
+
+@179.01D2
+Oh dear, I spoke out of turn.\nThis is just my own belief,\nso forgive me if I offended you.\nWell, farewell.
+
+@179.0240
+W-wait a moment, please.
+
+@179.0264
+What is it?
+
+@179.027E
+Um...\nYou seem so attached to ships,\nI'm curious about you...
+
+@179.02CA
+Seeing a ship brings back old days...\n...My name is Manuel.\nI was a mate once, you know.
+
+@179.0328
+I see...
+
+@179.033C
+{FI}...\nThere are hardly any people who\nlove ships this much.\nIf someone like him came aboard...
+
+@179.038E
+You're right. With someone like him\ncaring for our ship, I'd feel safe.\nI agree.
+
+@179.03DC
+Then... Mr. Manuel,\nwould you join us?\nWe'd like you to sail with us.
+
+@179.0432
+To sea once more, hm...\nOh, your passion for the sea\nresonates strongly within me...
+
+@179.0488
+You'll accept?!
+
+@179.04AC
+That thrill of a ship's pulse\nstirring the soul... Ah, no, it's been\nso long since I sailed. I got excited.
+
+@179.050C
+Thank you for the wonderful offer.\nI'll gladly do it.
+
+@179.0550
+Now then, Admiral, shall I give you\nsome advice on refitting\nthe flagship's stations?
+
+@179.05AC.0
+Yes, please
+
+@179.05AC.1
+No, thanks
+
+@179.05D0
+Very well... Let me explain the\nstations especially for ocean voyages.
+
+@179.0624
+Put someone persuasive in the First Mate\nCabin and the Chapel, and it eases\nthe sailors' discontent.
+
+@179.0686
+Whoever runs the Galley and the Animal Pen\nwill cut your fleet's water\nand food consumption.
+
+@179.06DA
+With a ship's doctor in the Sickbay, your\nmates' and sailors' fatigue, disease,\nand injuries will heal.
+
+@179.072A
+Also, mates who are sick or injured\nrecover faster if you put them in a\nCabin or Rec Room.
+
+@179.078A
+A shipwright like me repairs a damaged\nship in the Lumber room during voyages.\nAt the Shipyard I help with\nrefits and repairs too.
+
+@179.07F8
+That was a rushed explanation...\nHow was it, was it helpful?
+
+@179.0832
+The fleet's fate depends on your command.\nNever neglect refitting your ships.\nDo it carefully.
+
+@179.0894
+I see.\nThen I leave it to you.
+
+@180.0008
+Hey, Admiral.\nWant to hear my sailing ship lecture?
+
+@180.0040
+Huh?
+
+@180.004C
+Business has been so slow lately,\nI've got nothing to do.\nDo me a favor, would you?
+
+@180.0098.0
+Please teach me
+
+@180.0098.1
+No, thanks
+
+@180.00C6
+Please don't underestimate us.
+
+@180.00F4
+Hmm hmm, quite right.
+
+@180.0122
+As for ships, there's no need\nto ask us at this point.
+
+@180.015A
+Oh well, can't be helped.\nYou two look like you know ships.\nI'll wait for a greener customer.
+
+@180.01BC
+Yeah, yeah, good attitude.\nYou'll go far.
+
+@180.01F0
+Now, this is a sailing ship, so\nthe sails are her lifeblood.
+
+@180.0220
+All right. First, the difference\nbetween square sails and triangular sails.
+
+@180.025A
+Square sails, "square rig" to the pros,\nare a kind of crosswise sail, set across\nthe ship's direction.
+
+@180.02B8
+Being crosswise, they can't be turned\nlengthwise. So they're strong with a\ntailwind, but can't take the best angle\nagainst a headwind.
+
+@180.0334
+Triangular sails, "lateen sails" to the\nexperts, are the opposite of square sails:\nthey're set lengthwise and can't be\nturned crosswise to the ship.
+
+@180.03B0
+That's why they take a perfect angle\nin a headwind but don't get much speed\nwith a tailwind.\n...Following so far?
+
+@180.0432
+Next, the sails you can add on.
+
+@180.045C
+The upper sail is properly called the\n"topsail," a small crosswise sail set\nabove each mast.
+
+@180.04BA
+The diagonal sail is the "staysail," a\nsmall lengthwise sail set in front of each\nmast. It can't go in front of a lateen\nsail, since lengthwise sails would overlap.
+
+@180.053A
+The bow sail, if you're a man of the sea,\nyou call a "spritsail." It's a crosswise\nsail on the bowsprit. Small ships can't\nmount one.
+
+@180.05BC
+The stern sail is also called a "jigger\nspanker." It's a lengthwise sail, like\nadding one more small mast, so only large\nships can mount it.
+
+@180.063A
+Now, did you know ships with two or more\nmasts go faster with a slightly angled\nwind than a straight tailwind?
+
+@180.06A2
+You there, do you know why?
+
+@180.06CC
+...Hmm. Because the masts are\nlined up front to back.
+
+@180.06FE
+Right. With a wind from dead astern,\nonly the rear mast catches the wind,\nand the front masts are useless.
+
+@180.076A
+It's fastest when the wind comes from\nthe rear at an angle. Of course, you've\ngot to match the sail angle too.
+
+@180.07CC
+I see!
+
+@180.07F2
+Oh, I never paid it much attention!\nSo that's the reason!
+
+@180.0844
+Thanks for humoring me.\nNow, back to work.
+
+@181.0008
+Hey, {FI}.\nI feel like somebody's been\nwatching us for a while.
+
+@181.004E
+Huh? You think?
+
+@181.0066
+I've got a bad feeling about this...\nLet's get back to the ship early today.
+
+@181.00B4
+!\nHey, did you just say "ship"?\nAre you guys sailors?
+
+@181.00FE
+Whoa!! What's with this kid?!
+
+@181.0124
+Whoa! Y-yes,\nwe sail on a ship.\nWhy do you ask?
+
+@181.0172
+Lucky!!\nHey, hey, take me on your ship!\nI'm in a real bind!
+
+@181.01D0
+...You can't just say that all of a sudden.
+
+@181.01F6
+I ran away from my master.\nIf he finds me, I'm in trouble.\nSo please! Come on, let's go!
+
+@181.025E
+Hey! Don't be so selfish.\nThis has nothing to do with us.
+
+@181.0296
+...Sorry. We can't take someone\naboard just for fun.
+
+@181.02D4
+Just for fun?! Honestly, you guys!\nYou think I'm a kid and you're\nlooking down on me, don't you!
+
+@181.032A
+I'm serious!\nI really want to be a sailor,\nI'm telling you!
+
+@181.0374
+Then why do you want to go to sea?
+
+@181.0398
+Well, I want to see the world!
+
+@181.03C4
+I'll train as I travel to all kinds of\ncountries and get way, way stronger,\nand I'll show my master for sure!
+
+@181.042E
+Get stronger?\nWhat are you training in?
+
+@181.045E
+Heh. Tao magic!
+
+@181.0476
+Tao magic???
+
+@181.0488
+Look, I understand how you feel.\nBut I told you, we're not sailing\njust for fun either.
+
+@181.04F2
+Life on a ship isn't as easy as you\nthink, and even if you hate it, you can't\nget off partway.
+
+@181.055E
+That's nothing!\nI've been toughened up by training.\nI can do any job on a ship!
+
+@181.05B6
+But...
+
+@181.05C6
+Hmph. You don't believe me.\nThen if I beat this guy,\ntake me along. Deal?
+
+@181.062C
+Huh? You want to fight me?\nThat's going to be pretty rough on you.
+
+@181.0672
+Here I come!\nBrace yourself!
+
+@181.0698
+Can't be helped...\nDon't blame me if you get hurt.
+
+@181.06CC
+...Haaah!!!!!
+
+@181.06EA
+?
+
+@181.06F4
+(Did she do something?)
+
+@181.0710
+Opening!
+
+@181.072C
+Ugh... What was that?
+
+@181.0748
+See that!\nThat's my "Binding Spell"!
+
+@181.0770
+...W-wow!
+
+@181.0788
+Wait! That wasn't magic or anything!\nYou just caught me off guard!
+
+@181.07CC
+Still, to get that close to Clau,\nshe's pretty good.
+
+@181.0820
+What are you admiring?!\nThis is ridiculous, let's go!
+
+@181.0852
+Hey!\nAren't you taking me along?
+
+@181.087C
+Uh... um...
+
+@181.088E
+Come on!\nMove it, {FI}!
+
+@181.08B0
+All right, all right. Don't drag my arm.\nHonestly, you're so short-tempered...
+
+@182.0008
+Man, we had a rough time earlier.\nMy bad feeling came true.
+
+@182.0054
+Hehe. I followed you!
+
+@182.0076
+Wh-what?! How did you do that?!
+
+@182.009A
+Ta-da! That's Tao magic too!
+
+@182.00BC
+Amazing!\nI didn't notice at all!
+
+@182.00E6
+With this many people around,\nit's no wonder we didn't notice!
+
+@182.0124
+Heh heh, sore loser, huh?
+
+@182.014C
+Shut up!
+
+@182.0174
+You're mad because a little girl\nplayed you like that. Hohoho.
+
+@182.01B8
+What was that, old man?!
+
+@182.01D4
+Hey, did you think about my offer?
+
+@182.01F8
+...Are you really going to sea?
+
+@182.021C
+Of course!
+
+@182.0244
+Her resolve seems firm.
+
+@182.0264
+...I once wished the people around me\nwould see me as a full-fledged adult too.
+
+@182.02B4
+All right. Let's go together!\nUm... what's your name?
+
+@182.02E4
+I'm Ifa!
+
+@183.0010
+...Sir...
+
+@183.0020
+...
+
+@183.002A
+...Sir {FI}...
+
+@183.003A
+...Huh?
+
+@183.004A
+Forgive my sudden intrusion.\nI am not a suspicious person.
+
+@183.007E
+Pleased to make your acquaintance.\nI am Sanghyun, Ifa's senior\nfellow student.
+
+@183.00CC
+I heard you will be taking Ifa in,\nand came to offer a word of greeting.
+
+@183.012A
+Ifa's...?
+
+@183.013E
+It is shameful to admit, but Ifa grew\nup so unruly entirely because of my\nlack of guidance.
+
+@183.01B0
+To escape training, she left the mountain\nwithout her master's leave, and even left\nthe country. That is utterly unforgivable.
+
+@183.021C
+She may not realize it, but people of\nour country are forbidden to leave it.
+
+@183.0274
+Are you...\nhere to take Ifa back?
+
+@183.02A6
+I would, but... that is impossible.\nThe crime of defying the national ban is\nserious, and Ifa has been expelled\nfrom our dojo.
+
+@183.0312
+I am already someone with no\nbond to her...
+
+@183.0344
+Yet Ifa and I were raised from\nchildhood like true brother and sister.
+
+@183.0388
+She is such an immature girl.\nI fear she may embarrass herself\nin front of others.
+
+@183.03DC
+I know it is a selfish request,\nbut please guide Ifa so she does not\nstray from the path of a decent person.
+
+@183.044A
+And, if possible... that she keeps up\nher training even off the mountain, and\nheeds her master's instructions...
+
+@183.04B2
+Please take good care\nof Ifa.
+
+@183.04E8
+Was that... a dream?\nIt felt oddly real for a dream...
+
+@183.052A
+Good morning!!!\nHey, let's set out already...
+
+@183.055E
+!!!
+
+@183.056C
+What's wrong?
+
+@183.0580
+I sense my senior's presence...!
+
+@183.059E
+Your senior?!\nBy any chance is he named Sanghyun?
+
+@183.05D4
+How do you know that?! Where is he?
+
+@183.05FA
+No, someone who said he was your senior\nappeared in my dream a moment ago,\nand his name was\nSanghyun...
+
+@183.0662
+A dream?
+
+@183.066E
+...Brother Sanghyun...
+
+@183.068A
+I see...\nHe can't leave the mountain, so he used\nmagic to come to me...
+
+@183.06D6
+Magic?\nThat was magic too?
+
+@183.06F6
+Come to think of it, he said even off the\nmountain you should keep your master's\ninstructions. He worries about you a lot.
+
+@183.0752
+Oh, Brother...\nHeh.\nYou worry about everything, as always.
+
+@183.078E
+...\nWhat's wrong?
+
+@183.07A4
+I'll work hard at my training!\nI'd feel bad letting Brother Sanghyun\ndown!
+
+@183.07F8
+Training is fine, but you'd better\nalso work on the ship. I need you to.
+
+@183.0836
+No problem! Leave it to me!

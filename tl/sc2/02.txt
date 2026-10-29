@@ -1,0 +1,935 @@
+@044.000A
+Africa and India are practically\nin the {FO}'s hands now.
+
+@044.003A
+And I've learned how to trade with the\n"new trade goods," too...\nNow that we've grown this big...
+
+@044.00AC
+We'll spread these "new trade goods"\nacross the Mediterranean and make a\nfortune!
+
+@044.00E2
+Now's our chance to go back to the\nMediterranean and take on Hayreddin!\nThis time... I'm going to beat him!
+
+@044.0152
+The famous "Pirate King," huh...\nI can't wait.
+
+@044.0190
+The {FO} as it stands now\nshould be a match for\nHayreddin's clan.
+
+@044.01E8
+Let's go to the Mediterranean!\nWe'll spread these "new trade goods"\nthere!
+
+@044.022C
+Yeah, let's go back to the Mediterranean!\nLet's take on Hayreddin!
+
+@044.027A
+The famous "Pirate King," huh...\nI can't wait.
+
+@044.02B8
+The {FO} as it stands now\nshould be a match for\nHayreddin's clan.
+
+@044.0300
+...Y-yeah.
+
+@044.0314
+Huh? What's wrong? I was sure the\nusual {FI} would jump\nright on it.
+
+@044.035E
+Oh, n-nothing... You know, Kamil,\nyou've changed lately...
+
+@044.039C
+(He's gotten stronger somehow...\nMore manly, I guess you'd say.)
+
+@044.03E2
+Have I? I feel the same...\nAnyway, where are we headed?\nDo you want to go somewhere else?
+
+@044.042E
+No, we're going to the Mediterranean!
+
+@045.002C
+Hayreddin, crushed, of all people...\nI heard that as the "Pirate King" he\nhad ties to the Ottoman Empire and all\nsorts of other powers...
+
+@045.00A8
+It seems the "Pirate King" faction has\nvanished from the Mediterranean.
+
+@045.00E0
+Rumor has it they had ties to the\nOttoman Empire, though...
+
+@045.0128
+Their methods were just too old.\nThat brute-force style doesn't work\nagainst us anymore.
+
+@045.018A
+Their methods were already out of date,\nright?
+
+@045.01BA
+I bet this is a kind of "transitional\nperiod" for trade.
+
+@045.01F8
+I think things will keep changing.\nAnd anyone who clings to the old ways\nwill be weeded out, one by one...
+
+@045.026E
+Exactly, Kamil. Always grasping the\nsituation of the present, or rather\none step ahead, is the road to success.
+
+@045.02DC
+That's right. You can't afford to cling\nto old customs.
+
+@045.031E
+{FI}!\nWe have to work hard and\nmake the {FO} even bigger!
+
+@045.034C
+Y-yeah...\n(When did Kamil start making such\na manly face?)
+
+@045.03E2
+To think you made Hayreddin's army\nyour vassals... I'm amazed!
+
+@045.042A
+To think you cornered Hayreddin\nthis far...
+
+@045.0464
+I have a new respect for you,\n{FI}.
+
+@045.0486
+I can't believe we managed to bring\nHayreddin's army under us.
+
+@045.04D6
+This wasn't just luck. Luck alone\ncouldn't take that guy down. This is\nwhat the {FO} is really made of.
+
+@045.052C
+Honestly, I can hardly believe it\neither... But everyone lent us a hand,\nthat's why. The "Pirate King" actually\nsubmitted to us!
+
+@045.05C4
+It's because you're the Admiral that\neveryone pulled together and got this\nfar!
+
+@045.0614
+Isn't it because you're {FI}\nthat everyone lent a hand?
+
+@045.0656
+You've gained that much personal\ncharm.
+
+@045.0690
+It's because you're {FI} that\neveryone lent a hand.
+
+@045.06C6
+Oh, stop it.\nYou're making me blush...
+
+@045.06F6
+Admiral, we found this lying\naround the harbor.
+
+@045.0728
+Hm...\nMaybe it's some kind of map...?
+
+@046.002A
+That mighty power... the Pasha Army\nhas fallen too...
+
+@046.005C
+Looks like the Pasha Army has been\ndestroyed. They say it used to be\nincredibly powerful, but I guess that's\njust the way of the times.
+
+@046.00D8
+Admiral, we found this!
+
+@046.00F6
+{FI}, look at this.
+
+@046.0126
+So the Pasha Army is under the\n{FO} now...
+
+@046.015C
+I never imagined they were stronger\nthan Hayreddin.
+
+@046.01AE
+Admiral, one of Pasha's men\nsent us this.
+
+@046.01EC
+{FI}\nOne of Pasha's men sent this\nover for you.
+
+@046.022C
+What is it?
+
+@046.024C
+Looks like one of Pasha's treasures.
+
+@046.0272
+It must be one of Pasha's treasures.\nI'm not sure, but it looks like an\nexpensive suit of armor.
+
+@046.02CE
+Whoa, it's armor! Awesome!
+
+@046.0302
+Wow!\nThis is... a valuable treasure!
+
+@047.0014
+Pardon me, but would you be\nMs. {FI} {FA}\nand her companions?
+
+@047.0058
+Nope. Jam and his merry band of\nfriends.
+
+@047.0084
+O-ow!
+
+@047.00A0
+Yes, that's us...
+
+@047.00BA
+I have a good proposition for you.\nWould you come to the Tavern\nin Batavia?
+
+@047.0108
+A good proposition?
+
+@047.0118
+I'll explain the details later.\nI'll be waiting for you, then.
+
+@047.0148
+Kamil, what do you think...?
+
+@047.0164
+It sure sounds suspicious...\nI'm not really in favor, but...\nI'll leave it up to you, {FI}.
+
+@048.000C
+Well, well!\nMs. {FI}!\nI've been waiting for you.\nThis way, please!
+
+@048.005E
+Come in, everyone, please, please!\nAnd you, too... Oh?
+
+@048.0096
+Hm? Me?\nIs there something on my face?
+
+@048.00C2
+N-no, it's nothing.
+
+@048.00EC
+So, what's this good proposition?\nIf you called us all the way out here\nfor something boring, I won't forgive\nyou!
+
+@048.015A
+Don't worry.\nIt's a business opportunity for both of us.
+
+@048.0190
+I am a messenger for Mr. Anthony von\nCoen, Leader of the Coen Company.
+
+@048.01D6
+!!\n(W-what... Coen?!)
+
+@048.01FC
+Hm, what's wrong, Kamil?\nYour hands are shaking. Not feeling\nwell? Are you cold?
+
+@048.0244
+N-no. It's nothing...\nSorry. Please go on.
+
+@048.0280
+Yes. My master, Mr. Coen, has heard of\nthe exploits of Ms. {FI}, a fellow Dutch\nperson, and is greatly interested in\nyou.
+
+@048.02E2
+Oh.\nThanks, I guess...
+
+@048.0312
+Our fame has spread this far, huh!
+
+@048.034C
+Now, here in Southeast Asia, a wicked\nfirm called the Pereira Company is\nrunning wild, and the locals are\nsuffering terribly.
+
+@048.03B8
+Mr. Coen is troubled by this and wants\nto drive the Pereira Company out of\nthese waters, but it has been rather\ndifficult. And so...
+
+@048.0432
+We would like the renowned Ms. {FI} to\nhelp us crush Pereira.\nIn short, I have come to propose\nan alliance.
+
+@048.0498
+As a token of friendship, I have\n5000 gold ready for you right here.\nWhat do you say?
+
+@048.04F2
+{FI}, let's go!\nDon't make an alliance!
+
+@048.0520
+Hey, what's gotten into you? With an\nalliance we can trade safely around\nhere, and look, they're even giving us\na reward.
+
+@048.058E
+Besides, if Pereira really is doing bad\nthings, sooner or later they'd turn on\nus anyway...
+
+@048.05EC
+And if we take them down, we'd be\nhelping the people of Southeast Asia,\nright? It's a great deal!
+
+@048.065E
+She's right.\nThese are good terms.
+
+@048.068C
+Quite so, quite so.
+
+@048.06AE
+It's just no good! {FI}, turn\nthem down!
+
+@048.06EC
+What's with you, Kamil?!\nThis isn't like you!
+
+@048.071E
+Kamil, was it...?\nCould it be... you have some\nconnection to the Pereira Company?
+
+@048.0774
+W-what?!
+
+@048.079C
+Mamma mia! That's ridiculous!
+
+@048.07DA
+Not Kamil! Impossible!
+
+@048.07FE
+Then why are you so set against\nthis deal? I'd like you to explain.
+
+@048.084C
+W-well...
+
+@048.0860
+Can't you explain? Then I'm afraid\nyou can't blame us for suspecting\nsome connection.
+
+@048.08C4
+H-hey, don't just stand there.\nSay something!
+
+@048.090A
+Kamil...
+
+@048.091E
+K-Kamil... It's not true, is it?\nYou have nothing to do with Pereira,\nright?
+
+@048.0962
+Not you too, {FI}!\nOf course I have nothing to do\nwith them!
+
+@048.098E
+Then you have no objection to forming\nthis alliance?
+
+@048.09C4
+That's... No, we can't.
+
+@048.09DC
+Kamil, you've been acting strange\nthis whole time! What is wrong\nwith you?!
+
+@048.0A20
+I'm the same as always! Please,\n{FI}!\nJust turn this offer down!
+
+@048.0A64
+So there really is a connection to the\nPereira Company... Ms. {FI},\nyou shouldn't trust such a person...
+
+@048.0ABA
+Kamil...
+
+@048.0ADE
+Kamil... what's the matter?\nExplain yourself.
+
+@048.0B1C
+It's not true that you have a\n"connection," is it?
+
+@048.0B4E
+{FI}...!\nI... I... Goodbye!
+
+@048.0B76
+!? Kamil!!\nHey, where do you think you're going?!
+
+@048.0BC0
+Kamil, wait! Wait, I say!
+
+@048.0BFA
+Hey! Don't do anything rash!
+
+@048.0C22
+Ms. {FI}.
+
+@048.0C30
+What do you want?!\nHey, let go of me!\nI said let go!
+
+@048.0C72
+That man seems to be hiding\nsomething. Why not watch him for a\nwhile and find out the truth?
+
+@048.0CEE
+More importantly, please,\nsign here.\nCome, Ms. {FI}.
+
+@048.0D28
+Y-yes...\nKamil, what's wrong with you...?
+
+@048.0D6A
+Kamil... you...
+
+@049.0010
+Mr. Coen.\nThe alliance with the {FO}\nis concluded.
+
+@049.003C
+Good work.\nAt last we can bring Pereira down...
+
+@049.0072
+And also, Master Marinus...
+
+@049.0092
+Marinus! Are you certain?\nIt wasn't someone else?
+
+@049.00CA
+Yes. When I heard the name Kamil, I\nthought it might be him, but that face\nis unmistakable.
+
+@049.013A
+Kamil... He's still using a girl's name?\nAnd how did he seem?
+
+@049.0180
+Master Marinus was against the alliance.\nI was on pins and needles several\ntimes along the way.
+
+@049.01E8
+Marinus... So he intends to defy me\nto the very end.
+
+@049.0224
+But there is no need to worry.\nThe talks went off without a hitch,\nand I have already taken measures.
+
+@049.027C
+Master Marinus will never be able\nto return to the {FO}\nagain.
+
+@049.02BC
+Hm... I see.\nThen he can do nothing...
+
+@050.000A
+Ms. {FI}.\nIt has been a while.
+
+@050.002A
+Oh, Mr. Coen's messenger.
+
+@050.004E
+Mr. Coen wishes for an alliance\nwith you, Ms. {FI}.
+
+@050.0080
+Please say you will accept...
+
+@050.009E
+All right...
+
+@050.00B2
+Thank you very much.\nMr. Coen hopes to continue\nto rely on your cooperation,\nMs. {FI}.
+
+@051.000C
+Ms. {FI}.\nIt has been some time.
+
+@051.0026
+Oh, you're from Coen's...
+
+@051.0048
+What became of that man, Kamil,\nafterward?
+
+@051.0084
+...That was the last I saw of him.
+
+@051.009C
+So he did have some connection to\nPereira after all...
+
+@051.00DC
+...Stop talking about that.\nMore importantly, don't you have\nbusiness with me?
+
+@051.011E
+My apologies.\nMr. Coen is deeply grateful to\nyou, Ms. {FI}.
+
+@051.0166
+You came all this way just to say that?\nYou must have a lot of free time.
+
+@051.01A4
+Well, well. Still as impatient as ever...\nor rather, you are someone who values\ntime, aren't you?
+
+@051.01FC
+Then let me get right to the point.\nHave you heard of the "Li Clan,"\nwho control China?
+
+@051.0280
+Yeah, I've heard\nof them, a little.
+
+@051.02AA
+Who are they? Never heard of them.
+
+@051.02CC
+They are pirates who rule China's\nunderworld. Drugs, the slave trade...\nthere is no evil they will not commit.
+
+@051.033A
+There's someone else besides Pereira\nlike that?!
+
+@051.0372
+Mr. Coen grieves over their wicked\ndeeds. That is why he is working to\nunify Southeast Asia as quickly as\npossible.
+
+@051.03E6
+Mr. Coen plans to expand into China to\nfree the people oppressed by them.
+
+@051.0440
+Hmm. Well, sounds fine to me.\nStill, bad guys really are\neverywhere, aren't they?
+
+@051.049A
+Indeed.\nLi in particular is a vile villain.\nMs. {FI}, when you expand into East\nAsia, please be very careful of the\n"Li Clan."
+
+@051.0502
+Got it, I'll be careful.\nThanks.
+
+@051.052A
+Then, if you will excuse me.
+
+@051.0564
+Tch, I just don't like that guy...
+
+@052.000A
+So this is the biggest port in China!\nEveryone, unload the cargo, quickly!
+
+@052.0076
+Who goes there! Admiral!
+
+@052.0096
+Hm, who's there?!\nBe careful, Lady {FI}!
+
+@052.00BC
+<Assassin>\nDie!
+
+@052.00EE
+<Assassin>\nTch!
+
+@052.0136
+Admiral, are you all right?
+
+@052.015A
+Lady {FI}.\nAre you hurt?
+
+@052.0174
+What was that...? Ow... Ah, I'm\nbleeding! Huh? Something's fallen\nhere...
+
+@052.01C4
+Th-this is the mark of the "Li Clan"!?\nThe Li Clan is after me...?
+
+@052.021A
+Mamma mia!\nThis is bad!
+
+@052.025E
+Some terrible folk have\nstarted hunting us, hmm...
+
+@053.000A
+<Mysterious Woman>\nAre you {FI}?
+
+@053.0042
+Who is this woman...?\nWhat an overwhelming presence...
+
+@053.007C
+I am... Who are you?
+
+@053.00A0
+<Mysterious Woman>\n...Before I give my name, there's\nsomething I want to ask.\nPlease answer my question.
+
+@053.00F6
+A question...?
+
+@053.0106
+<Mysterious Woman>\nWhy are you expanding your trade\ndomain?
+
+@053.014E
+Why do we trade...?
+
+@053.016C
+Why? I'm a merchant, that's all. I\ntraded here and there, and it just ended\nup this way. There's no special\nreason.
+
+@053.01DA
+<Mysterious Woman>\nAnswer seriously! Your answer is more\nimportant than you think!
+
+@053.0238
+...Fine.\nThe reason I'm expanding our trade\ndomain is...
+
+@053.026E
+I want money. I want to save up a\nlot of it... and make people in need\nall over the world happy.
+
+@053.02CC
+<Mysterious Woman>\nAll over the world...?\nAre you serious?
+
+@053.030E
+Totally serious!\n...That's why I didn't want to say it!\nBelieve me or not, this is my\ngoal!
+
+@053.036C
+<Mysterious Woman>\nI see... Even so, in this world today,\nmost of the people on earth are in need.
+
+@053.03C0
+<Mysterious Woman>\nDon't you think it's rather reckless to\ntry to save every one of them?
+
+@053.041A
+Do you? I don't think so.\nDreams come true if you wish for them!\nI believe I can do it!
+
+@053.047E
+<Mysterious Woman>\n...
+
+@053.0492
+<Mysterious Woman>\nHeh, heehee...
+
+@053.04B2
+Hey! It's rude to laugh!
+
+@053.04D8
+<Mysterious Woman>\n...Forgive me. I never dreamed you\nwere thinking such a thing.
+
+@053.0548
+<Mysterious Woman>\nDepending on your answer, I had come\nintending to defeat you.\nBut it seems that won't be necessary.
+
+@053.05A2
+...Defeat me?\nWhat do you mean...?
+
+@053.05CE
+<Mysterious Woman>\nIf you want to hear more, come to the\nTavern in Hangzhou.
+
+@053.0628
+Just who was that woman...?
+
+@053.065C
+{FI}\nShall we go? Personally, I'd like\nto go hear what that woman has\nto say.
+
+@054.0010
+Mr. Coen.
+
+@054.0020
+What is it?
+
+@054.002C
+It concerns {FI} {FA}.\nShe has made contact with someone from\nthe Li Clan and seems to be growing\nsuspicious of you.
+
+@054.0088
+She also seems to be quietly\nsniffing around about your son.
+
+@054.00C6
+I see... So that girl ends here.\nShe still has some use, but it can't be\nhelped. Well, she was far more useful\nthan I expected.
+
+@054.0134
+Indeed.\nThen, following the plan we made...
+
+@054.0166
+Yes. Have a fleet disguised as Li ships\nattack her. Our fleet will wait\nnearby.
+
+@054.01BC
+If the disguised fleet wins, we gain the\njustification to strike the Li Clan,\nclaiming to avenge the {FO}, our\nallies...
+
+@054.0222
+If the little girl happens to survive,\nwe will crush her weakened fleet and\nlet her take an unlucky stray shot.
+
+@054.0288
+Once that girl is gone, no evidence\nwill remain. As always, a magnificent\nscheme...
+
+@054.02E0
+Spare me the flattery.\nI'm counting on you.
+
+@055.0010
+Mr. Coen, we have a grave situation.
+
+@055.0034
+What is it?
+
+@055.0050
+The Li Clan has been destroyed.
+
+@055.0074
+What?! Is that true?
+
+@055.00AA
+The Li Clan has surrendered to\nthe {FO}!
+
+@055.00D8
+What?! Is that true?\nThat girl is more capable than\nI thought.
+
+@055.0118
+This is unexpected.\nNow that plan is useless...
+
+@055.014C
+Hm.\nShe is no longer of any use...\nCrush her at once.
+
+@055.0194
+But be careful.\nThat girl is no pushover...
+
+@055.01C2
+Understood.
+
+@056.000A
+Admiral, a letter from Coen.
+
+@056.002A
+A letter?\nHuh? A "Declaration of War"?
+
+@056.0060
+...So what Maria told me\nwas true.
+
+@056.00B4
+So he's finally shown his true colors...\nThat bastard...
+
+@056.00F8
+Coen uses me as much as he likes, then\ndiscards me when I'm no longer needed.\nThat story...
+
+@056.014E
+And without knowing it, I destroyed\nthe Li Clan... I'm sorry...
+
+@057.001A
+The Li Clan...\nThey were so tightly united, and really\nstrong.
+
+@057.004A
+Is this the area the Li Clan\nused to sweep over?
+
+@057.0088
+I heard a woman was in charge, so I was\ncurious about her... Too bad I never\ngot to meet her.
+
+@057.00FA
+Admiral, we found this in a hidden room\nin the Li Clan's mansion.
+
+@057.014C
+Admiral, one of the Li Clan's men\nsaid this was for you...
+
+@057.0194
+It looks like some kind of blueprint...
+
+@058.000C
+Admiral, a letter has arrived\nfrom the Clifford Army.
+
+@058.0046
+A letter? I wonder what it's about.
+
+@058.0068
+Dear {FI},\nPlease come to the New World at once.\n          James Clifford
+
+@058.00B8
+To the New World...?
+
+@059.000A
+That's what you get for relying on brute\nforce. Did they really think such an\noutdated strategy would work?
+
+@059.0090
+Around here, that leaves the Escante\nArmy. But they're a big power, and\nprobably not as old-fashioned as\nMaldonado was...
+
+@059.0100
+Around here there's just one more power\nleft. Rumor says they're bigger than\nthe Maldonado Army.
+
+@059.0156
+I'd better be careful.
+
+@060.001C
+So Maldonado has fallen...
+
+@060.003E
+And I hear this {FO}\nhas recently been\nmoving into this area.
+
+@060.0082
+To think Maldonado would be beaten...\nThe {FO}, huh?\nThey're doing better than expected.
+
+@060.00DC
+With Clifford gone, I thought the\n"Independence Plan" would be easy...
+
+@060.011E
+I thought that if I used Maldonado and\nstruck down Clifford, the\n"Independence Plan" would be easy...
+
+@060.0176
+It's come to this.\nWe must bring everything we have\nto bear against the {FO}.
+
+@061.000A
+That's far enough.
+
+@061.002E
+Ugh, what are you doing!\nLet go of me!
+
+@061.0056
+Ugh, what are you doing! Let go!\nAh! You're...!!
+
+@061.00A2
+What is the meaning of this?!
+
+@061.00C6
+Whaaat?! Mr. Clifford?!\nWhat's going on?
+
+@061.00FE
+The ones who got in my way have\nfinally kicked the bucket.
+
+@061.0132
+{FI}\nYou helped me out quite a bit, too.\nFirst of all, thank you.
+
+@061.0178
+It pains me to ask you for this on top\nof that...
+
+@061.01B4
+I want you to hand over the Victor's\nMarks you've collected so far. If you do,\nI'll guarantee this one's life.
+
+@061.0208
+What are you thinking?!\nTaking a hostage is despicable!
+
+@061.024E
+What is this?! This isn't like you!
+
+@061.029C
+We were bound by an "alliance," weren't\nwe? We worked together all this time!
+
+@061.02F6
+That's in the past.
+
+@061.0314
+We have an "alliance," remember? You've\ngot some nerve pointing a sword at an\nally!
+
+@061.036E
+As of now, it's dissolved.
+
+@061.038A
+Don't tell me you planned this\nfrom the start...?
+
+@061.03B2
+Sorry. That's how it is.
+
+@061.03E4
+We were all fooled, weren't we...
+
+@061.0414
+How awful...
+
+@061.0424
+I was interested in the Victor's Marks,\ntoo.
+
+@061.044C
+But I have a mission from the royal\nfamily to keep watch on Spain. I can't\nmove around freely.
+
+@061.04AC
+So I needed someone else to collect the\nVictor's Marks for me. You were\nperfect for the job.
+
+@061.0518
+That's not something a human being\ndoes! Using people like that!
+
+@061.055A
+To use me up this thoroughly...\nClifford...! I won't forgive you!
+
+@061.05AA
+I remember what you said when we made\nthe alliance. Do you think my conscience\ndidn't bother me? But I had no choice.
+
+@061.062E
+Don't talk about conscience!\nWhy would you do this...
+
+@061.0656
+{FI}\nMy dream is probably the same as\nyours. Please understand.
+
+@061.0688
+Your dream is the same as mine?\nDon't make me laugh!
+
+@061.06C2
+You're going to play coy now, after\ncoming this far? You want the Victor's\nMarks too, to conquer every sea in the\nworld, don't you?
+
+@061.0732
+No! I'm not like you!
+
+@061.0752
+I want to help people in need around\nthe world... Never mind, I won't tell\nyou. I'm sure you could never\nunderstand my dream.
+
+@061.07CA
+So it's not the same as mine.\nThat's a shame. But I'll\nstill take the Victor's Marks.
+
+@061.081A
+I don't want to kill your friends. I\ndon't want to be that much of a villain.\nSo... won't you just hand them over?
+
+@061.0880
+...All right.
+
+@061.08A8
+{FI}!\nNo! Don't give them to him!!
+
+@061.08CE
+But!\nYour life is more important, Kamil!
+
+@061.0900
+A wise choice.\nI'll gratefully accept them.
+
+@061.0950
+Thales' Paper Map was taken!
+
+@061.098C
+Hunter God Ur's Bow was taken!
+
+@061.09D8
+Periander's Stone Map was taken!
+
+@061.0A1A
+Aksum King's Seal was taken!
+
+@061.0A66
+Solon's Leaf Map was taken!
+
+@061.0AA0
+The Rig Veda was taken!
+
+@061.0AEA
+Cleobulus' Cloth Map was taken!
+
+@061.0B2A
+Cambyses' Crown was taken!
+
+@061.0B74
+Chilon's Bamboo Map was taken!
+
+@061.0BB0
+Shihuangdi's Lamp was taken!
+
+@061.0C18
+Bias' Coin Map was taken!
+
+@061.0C58
+Kediri Eternal Amulet was taken!
+
+@061.0CAA
+Pittacus' Blade Map was taken!
+
+@061.0CE8
+Crystal Skull was taken!
+
+@062.0026
+Escante... Even Spain's elite navy has\nbeen wiped out...
+
+@062.0060
+There was a soldier named Escante\nsweeping through the Veracruz area,\nbut it looks like he's been crushed...
+
+@062.00CE
+That's the end of Escante...\nThey were really tough opponents.
+
+@062.011C
+It scares me to think of someone like\nthat building an independent state.\nConflict everywhere, and the people\nof the region suffering...
+
+@062.01AA
+Admiral, we found this in the study of\nEscante's mansion.
+
+@062.01E4
+Hey, {FI}!\nThis was apparently in the study of\nEscante's mansion.
+
+@062.0250
+Come to think of it, one of Escante's\nmen brought this after the vassal\nagreement was signed.
+
+@062.02A4
+Come to think of it, one of Escante's\nmen brought this when the vassal\nagreement was signed.
+
+@062.02FE
+A sword sheath?\nCould this be related to the\nVictor's Marks too?
+
+@063.000E
+This "Ritual Dagger" would fit the "Sun\nCrest Sheath" perfectly, wouldn't it?\nCan I try putting it in?
+
+@063.0072
+Good idea.\nBut we don't know what'll happen. It\ncould be a dangerous gamble.
+
+@063.00BC
+Wait a second.\nIt might be trapped...
+
+@063.00F2
+Honestly, you worry too much. It won't\nbe. I just slide the dagger into the\nsheath, see?\n...Eek!
+
+@063.0160
+Whoa, what is this light!
+
+@063.0182
+Whoa! What is this light!?
+
+@063.01A4
+It's blinding!\nWhat's going on?!
+
+@063.01E8
+Phew... Looks like it's okay now.\nBut what is this?
+
+@063.0222
+It's a map, right?\nWhy would a sword give us a map???
+
+@063.024E
+No idea at all... But this is probably\na map to the New World's Victor's Mark,\nright?
+
+@063.02A6
+I g-guess so?\nIt's weird, but I'm glad we found it...\nright?
+
+@063.02FA
+Phew... Looks like it's okay now.\nBut what is this?
+
+@063.0332
+It's a map, right?\nWhy would a sword give us a map???
+
+@063.035E
+Don't ask me, I have no idea.\nBut is this a map to the New World's\nVictor's Mark?
+
+@063.03AA
+I g-guess so?\nIt's weird, but I'm glad we found it...\nright?

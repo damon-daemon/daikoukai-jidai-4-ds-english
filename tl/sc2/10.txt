@@ -1,0 +1,902 @@
+@199.0008
+By the way...\nWho's the old guy in this portrait?
+
+@199.003A
+That's a man named Rocco Alemquer.
+
+@199.0068
+Hmm. Is he famous?
+
+@199.0086
+Yeah. Among navigators, he's\nprobably pretty well known.
+
+@199.00C2
+What are you two whispering about\nin front of some old man's painting?!\nI'm going on ahead!
+
+@199.0116
+Sorry, coming now.
+
+@199.012E
+Yep, coming right up, Fatty!
+
+@199.0150
+Samuel!\nI'm gonna wallop you!!
+
+@199.0178
+Bang! Crack!\nClatter! Crash!
+
+@199.01A6
+{FI}!\nStop throwing things! Ow!
+
+@199.01CE
+Where are you throwing?\nI'm over here!
+
+@199.01FA
+Get back here!!
+
+@199.0216
+Sigh. I'm always the one who\ncleans up.
+
+@199.0242
+Hm! What's this?
+
+@199.025E
+What an old-looking book.
+
+@199.027C
+Kamil! What are you doing? Let's go!
+
+@199.02A4
+Huh, where's Samuel?
+
+@199.02C2
+Like I'd know where that guy is!
+
+@199.02E4
+(He got away again.\n Samuel really is quick.)
+
+@199.032A
+What?!
+
+@199.0338
+N-nothing.
+
+@199.0350
+Hmph!\nStop grinning!
+
+@199.0370
+S-sorry. Oh, right, here, this.
+
+@199.0396
+What's this?\nA present?
+
+@199.03B4
+N-no, that's not it...
+
+@199.03D6
+It looks old, but Kamil giving\nme a present? That's rare!
+
+@199.041E
+That's not it...
+
+@199.0436
+Thanks.
+
+@199.0446
+Oh... Yeah.
+
+@199.0458
+Let's go!
+
+@199.0466
+(Is this okay...?)
+
+@201.0030
+Really?\nThey seem fine to me still.
+
+@201.00CE
+Oh, really!\nOf course you'll swap it for free,\nright?
+
+@201.03B8
+Yeah. Thanks!
+
+@201.049C
+It's a perfectly good rope.\nNo need to rush and replace it.
+
+@202.0092
+Wh-what?
+
+@202.00CC
+What is going on?!
+
+@202.0106
+Somebody just shoved this at me...
+
+@202.0146
+A book...?
+
+@202.01AC
+Huh? But...
+
+@202.0216
+...So that was what you were after.
+
+@203.004A
+...Is there a bug?
+
+@203.008A
+You're right.
+
+@203.0100
+This is medicine?
+
+@203.01A0
+Is it really all right to take\nsomething this valuable?
+
+@203.028C
+I know. Sell it to me\nfor 1000 gold.
+
+@204.0104
+Jam!\nWhere have you been?!
+
+@204.015A
+What's that? Where did you get it?
+
+@204.023C
+Well, as long as you didn't steal it.\nWe're leaving soon, so hurry\nand get ready.
+
+@205.00AA
+It's a parrot!
+
+@205.01A2
+Finally caught you!
+
+@205.020A
+Pfft! Hahaha!\nYou got caught and you sound like\na sore loser!
+
+@206.005C
+Huh, what is it?\nOh, earrings.
+
+@206.010C
+Really?\nThey don't look like anything\nspecial to me.
+
+@206.01C0
+Dancing? No thanks.\nChristina, what about you?
+
+@206.039E
+So, how much?
+
+@207.0084
+It's not food with the name\n"Weapon," is it? ...Just kidding.\nSo, what's this weapon called?
+
+@207.0102
+Great name. It must be a hulking\nweapon. You're probably the only one\nwho could use it.\nSo where is it?
+
+@207.01C4
+Hmm.\nWell, I'll look for it if I feel like it.
+
+@207.0202
+I said if I feel like it.
+
+@207.023C
+And I haven't decided to give\nit to you, you know.
+
+@209.0446
+...Hmm, sounds interesting.\nMaybe I'll look for it.
+
+@210.00F6
+A sword with a faint red color...
+
+@210.0194
+I get why it's creepy, but...\nit feels like a waste.
+
+@210.0212
+If he doesn't want it, he should just\nsell it. Did you ask where he put it?
+
+@211.0192
+Christina!\nWhat are you doing?
+
+@211.01E8
+Really?\nI wish I'd seen them too.
+
+@212.0040.0
+I do
+
+@212.0040.1
+I don't
+
+@213.0020
+Me?
+
+@213.0058
+What do you mean, what?
+
+@213.02B6
+Oh, come on, old man.\nI'm just a merchant.
+
+@213.02F8
+That's right.\n{FI}, the "Victor" the emperor\nforetold 300 years ago? No way.
+
+@214.042A
+Judas's sword, huh? Not judging it\njust because it belonged to a traitor,\nthat's so like Jenas.
+
+@215.00F0
+That's me.\nSomething you need from me?
+
+@215.0150
+We get something out of it too,\nso no need to thank me.\nSo, what is it?
+
+@215.01DA
+What kind?
+
+@215.0236
+The Demon King? And?
+
+@215.0350
+A weapon of the Demon King, huh...\nWell, it sounds strong,\nso maybe I'll look for it.
+
+@216.008C
+What's wrong?\nWho are you?
+
+@216.019C
+Avalon?\nI don't know any place like that.
+
+@216.01D6
+I don't either...\nLet's ask around at the Tavern.
+
+@216.020C
+Let's hit the Tavern\nand gather some information.
+
+@218.0042
+A wonderful weapon? If you put it\nthat way, it must really be something.\nWhat's it called?
+
+@218.0112
+Who's Ares? I don't really get it,\nbut if it's his spear, it must be great?\nWhere can I get that spear?
+
+@218.01E0
+What's that supposed to mean?\nSo where is it, exactly?
+
+@218.026E
+(Hm, so he's interested.\n That's kind of surprising...)
+
+@218.02FC
+Yes. Weapons just don't\nseem like your thing.
+
+@218.0408
+...Is that so?\nI don't really get it.
+
+@221.0044
+What do you mean?\nIs there something about this town?
+
+@221.02E2
+Saladin? Who's that?
+
+@221.03DA
+Strong and a good person too...!\nWow! So cool!
+
+@222.0014
+Huh, Gerhard?\nWhy are you staring at the sunset?
+
+@222.00BA
+Hmm. Do I know him too?
+
+@222.011E
+What was so great about him?
+
+@222.031C
+Every country has heroes who\nstand head and shoulders above\neveryone else, huh.
+
+@222.0356
+Yes.\nEven an island nation is not to be\nunderestimated.
+
+@222.0380
+Heh.\nGerhard really is weak to this stuff.\n(He looks scary, but he's pure at heart.)
+
+@222.03D6
+...Into the strait,\nglittering armor and all... huh.
+
+@223.0440
+So Ian is interested in Asian\nhistory too.
+
+@223.04F6
+Hmm. It's complicated.
+
+@225.007C
+What are those kids doing?
+
+@225.00F8
+So the hero around here is some\nCharles-something.
+
+@225.01D6
+Being a hero just because you won a\nwar? Isn't that a bit simplistic?\nSo military. I don't like it.
+
+@225.02CA
+So he protected European culture and\ntraditions? Then no wonder the kids\nlook up to him.
+
+@226.0022
+Oh, it's Manuel.
+
+@226.006C
+I'm taking a breather.
+
+@226.0094
+What about you, old man?\nHave business in the plaza?
+
+@226.015A
+Who's that?
+
+@226.01DA
+Hmm. I don't really get it.\nIf he was stronger than the Roman\nEmpire, is he stronger than me?
+
+@226.02C0
+I'm\nalways invincible!
+
+@226.030C
+Yeah, yeah. I'll do it.\n...So why did we get on this topic?
+
+@226.03AA
+Hmm. And?
+
+@226.0410
+Valuable things always get carried\noff somewhere, huh.
+
+@227.0022
+Yawn... Huh, Ifa?\nOh, you were training.
+
+@227.0176
+A training outfit? One made of cloth?\nNot armor?\nReally?
+
+@228.0024
+Huh, what is it?
+
+@228.0120
+So what about it?
+
+@228.01B0
+I see!\nSo where is it?
+
+@228.022A
+Huh?\nWith only that to go on,\nI can't really search for it.
+
+@228.028A
+Don't be down, I'll remember it.\nIf we're lucky, we'll get it.
+
+@229.0024
+Huh, what is it?
+
+@229.0128
+I've heard that somewhere...\nDidn't you say the same thing\nabout the armadillo thing?
+
+@229.01A0
+Well, whatever.\nWhat about that shield?
+
+@229.0216
+You said the exact same thing\nabout the armadillo thing.
+
+@229.0282
+Well, whatever.\nSo where do I go to get it?
+
+@229.0304
+Then there's nothing we can do.
+
+@229.0344
+Don't be down, I'll remember it.\nIf we're lucky, we'll get it.
+
+@230.0024
+Huh, what is it?
+
+@230.0064
+A phoenix, huh. If there is one,\nI'd like to see it once.\nBut what's with the sudden question?
+
+@230.011C
+You're not saying we should get it\nbecause it'd be useful in battle,\nare you?
+
+@230.0188
+You said something similar before,\nand don't you remember?
+
+@230.01EA
+You're forgetful. So where is it this\ntime? You're not going to say Africa\nor India again, are you?
+
+@230.0280
+Oh.\nThat's a lot narrower this time.
+
+@230.0310
+Nice! Good research!
+
+@230.034C
+Then I won't forget about the\nPhoenix Bascinet either.\nI'll find it someday.
+
+@231.0034
+No idea.\nWho's that? What about him?
+
+@231.00B6
+Hm?
+
+@231.0120
+Wow!\nIf it's really in there,\nwe absolutely want it!
+
+@231.0174
+But where is that book?\nDo you know anything?
+
+@231.0204
+And?
+
+@231.022C
+Hmm.\nThen we can't tell.
+
+@231.0264
+Aw, don't apologize.
+
+@231.028C
+So if we want that book,\nwe have to go to the Mediterranean.
+
+@233.0130
+A "chisel"... That's the blade you\nuse with a hammer to carve\nwood or stone, right?
+
+@233.0270
+Manuel,\nyou're going to use that chisel\nto fix the ship?
+
+@235.04DE
+That's kind of creepy...\nWhoever made that voice isn't\na monster, are they?
+
+@236.04D2
+Honestly, what did he go there for?\n...But it's kind of an interesting story.\nMight be worth remembering.
+
+@237.003A
+Cesare, why are you angry?
+
+@237.012E
+I don't really follow, but\nwhat is it?
+
+@237.0382
+...\n(I can't deal with this.)
+
+@238.0028
+Jenas?\nOh, what happened?
+
+@238.00EC
+My crewmate\nseems to have hurt his hand.
+
+@238.0286
+Hey!\nDo you really have them?
+
+@238.036E
+Got it. We'll look for them.
+
+@239.00A8
+?\nWhat's wrong?
+
+@239.0124
+...You seem down.\nHey, are you in some kind of trouble?
+
+@239.0198
+Yeah, we do.
+
+@239.01F0
+Sure have. Why do you ask?
+
+@239.024E
+Well, we'll get there someday.\nBut why do you ask?
+
+@239.0398
+Stolen? By whom?
+
+@239.03C8
+Then we can't even look for the thief...\nSo what was that about the New World\na moment ago?
+
+@239.0422
+In Havana, I heard from a friend of\na friend that there's a swindler who\nsells glass craft as jade or crystal\nat high prices.
+
+@239.049E
+A swindler, huh.\nHmm, I'm not so sure that man is\nthe thief...
+
+@239.04E4
+But she's in trouble.\nIt might not be connected, but\nshould we go to Havana anyway?
+
+@239.0542
+Maybe we'll find something out there.
+
+@239.056A
+Right.\nIf that's our only lead,\nwe don't have a choice.
+
+@239.05A4
+If that man is the thief, he might sell\nit to someone right away, you know.\nAnyway, let's hurry.
+
+@239.0616
+Wait for us!\nWe'll definitely find it!
+
+@240.000C
+Sir, today you really have to pay up.\nDo you even remember how big your\ntab has gotten?
+
+@240.00E4
+Tch, can't be helped.\nHere, take this for the drinks.
+
+@240.01EE
+Hold it right there!
+
+@240.0230
+You think you can pass off a fake\nlike that on us? Not a chance!
+
+@240.0266
+Wh-what, damn you!\nDon't get in my way!\nKid, stay out of this!
+
+@240.02AC
+I know all about it!\nDon't be fooled, mister!\nIt's glass!
+
+@240.0356
+Still playing dumb?\nThe real owner of that ornament\nasked me to find it!\nYou're not getting away with this!
+
+@240.047C
+I deal with rowdy sailors every\nsingle day! Without confidence in my\nfists, I couldn't do this job!
+
+@240.0532
+Eek! P-please, have mercy!
+
+@240.0570
+Wow... He's strong.
+
+@241.002A
+Look, I got it back!
+
+@241.0106
+Easy as pie.\nSee you!
+
+@241.01E0
+Sounds fun!\nYeah, we'll go!
+
+@242.0092
+This statue has real presence.\nDoes it have some story behind it?
+
+@242.01F0
+Hmm.\nWhat a strange statue.
+
+@242.02D2
+All right! Everybody, lend a hand!
+
+@242.0314
+Leave this to us.\nYou can head back first.
+
+@242.0402
+Run for it!
+
+@242.04F8
+No, we were just really lucky.
+
+@243.005A
+Golden sand?
+
+@245.0034
+Nope.
+
+@245.009A
+Yeah. Thanks!
+
+@247.002E
+Across the Indian Ocean, far to the\neast of here, there's a village\ncalled Levuka. I want you to send\na survey party there.
+
+@247.00A8
+A survey party?
+
+@247.0122
+Across the Indian Ocean to the east...\nthat's south of Southeast Asia?!\nThat's so far away...
+
+@248.0018
+Let's see...\nLevuka is somewhere in the south of\nSoutheast Asia, right?
+
+@248.0066
+What happened with the survey of\nLevuka? It's far to the east of here,\nacross the Indian Ocean.
+
+@249.0008
+Thank you.\nHere are the expenses and your reward.\nTake it.
+
+@250.002A
+About this statue.\nDoesn't it feel kind of strange?\nI can sense something like warmth\nfrom it.
+
+@250.015C
+Do you know it?\nIs it a famous statue?
+
+@250.027E
+It's such a wonderful figurehead.\nLeaving it on land would be a sin.\nRight?
+
+@250.03D0
+Hey, what's wrong?\nHurry up and grab that side.
+
+@250.041A
+Are you sleepwalking?
+
+@250.0538
+Let's head back.
+
+@251.013C
+Easy, easy!\nHere's the answer!
+
+@251.02CC
+Huh? That's odd...\n...Not the time to be saying that!\nWe have to run!\nEveryone, back to town for today!
+
+@251.0360
+Easy, easy!\nHere's the answer!
+
+@251.04F2
+Huh? That's odd...\n...Not the time to be saying that!\nWe have to run! Everyone,\nback to town for today!
+
+@251.0584
+Even when the ice melts, the water\nlevel stays the same.\nThe answer is the "right stone"!
+
+@251.060E
+Huh, where?
+
+@251.07D8
+Y-yeah.\nIt's a little creepy, but...
+
+@251.08D0
+Everybody run!!
+
+@255.0008
+Hey, you. If you're free,\nhelp me find someone.\nAt least hear me out.
+
+@255.0066
+He's an Englishman named Jacques Blum.\nHe headed to Sao Jorge in Africa and\nhasn't been heard from in a long time.
+
+@255.00E2
+If you find him, I want you to bring\nhim back. I'll wait as long as it takes.\nPlease.
+
+@256.0034
+Hey, mister.\nDo you know a man named\nJacques Blum?
+
+@256.006C
+Jacques... who?
+
+@256.008A
+Jacques Blum.\nAn Englishman.
+
+@256.00C2
+You looking for Jacques?
+
+@256.00EE
+You know him?!
+
+@256.0104
+Know him? Well...
+
+@256.011C
+Need something from me?
+
+@256.0134
+What?! You're him?
+
+@256.0150
+Yeah, I'm Jacques Blum.
+
+@256.0178
+Lucky!\nThe Hamburg Guild is looking\nfor you.
+
+@256.01BA
+Oh, is that so? Sorry about that.\nGive me a lift, would you?
+
+@257.0014
+Oh, it's Jacques!\nWe looked everywhere for you!
+
+@257.0046
+Sorry about that.
+
+@257.0150
+By the way, I hear you've been\nlooking for ruins and churches in\nvarious towns?
+
+@258.0018
+We have to go to Sao Jorge\nand find a man named Jacques.
+
+@258.005E
+Jacques headed to Sao Jorge in Africa\nand hasn't been heard from\nin a long time.
+
+@259.0008
+I have a favor to ask of you.
+
+@259.003A
+I want you to find a Portuguese\nadventurer named Julien Vermeer.
+
+@259.008A
+His last letter said he was heading\nto Copenhagen, and then he vanished\nwithout a trace.\nSo, I'm counting on you.
+
+@260.0034
+Mister, do you know a Portuguese\nadventurer named Julien Vermeer?
+
+@260.008C
+Oh, him? He's right over there.
+
+@260.00B4
+This town is great... *hic*!\nThe drink is good, the food is good...\n*hic*!
+
+@260.00FC
+That's him?\nHe's just a drunk.\nIs he really an adventurer?
+
+@260.014C
+Hey, are you okay?\nThe Seville Guild is looking for you.
+
+@260.01A4
+Hic, Seville?\nI'm not going back to that crowded\ntown. ...*hic*!\nTell them that... *hic*!
+
+@260.0218
+Oh, that's a problem.\nWell, can't be helped.\nI'll tell them just that.
+
+@261.0008
+Mister, I found that adventurer,\nJulien...
+
+@261.0042
+I see. Where is he?
+
+@261.0062
+In a Copenhagen tavern.\nBut he says he doesn't want to go back\nto Seville.
+
+@261.00BC
+No, knowing where he is is enough.\nThanks for your trouble.\nTake this.
+
+@261.0114
+Is it okay to accept this?
+
+@261.0138
+Of course.\nMaking you work for free would\nhurt our reputation.
+
+@261.0180
+You received 9800 gold coins.
+
+@261.01F6
+Your share in Seville\nwent up a little!
+
+@261.026A
+Your share in Seville\nwent up a little!
+
+@261.02B6
+By the way, have you folks ever\nmade the pilgrimage to Santiago\nCathedral?
+
+@261.0302
+If you've come all the way to Spain,\nyou ought to go at least once.
+
+@262.0018
+We have to go to Copenhagen\nand find a man named Julien.
+
+@262.005C
+Julien apparently headed to\nCopenhagen in the North Sea.
+
+@263.0008
+I'm counting on your good looks.\nI have a favor to ask.
+
+@263.0032
+Huh? Me?
+
+@263.0048
+I want you to find a Spanish spy named\nPeralonso Aguirre. He's said to be\noperating around Southeast Asia.
+
+@263.00B6
+Hehe. You've got a good eye for my\nbeauty, but what does that man\nhave to do with me?
+
+@263.0118
+...You'll see when you meet him.
+
+@264.0010
+Tch, what a place. Not a single\npretty girl in this tavern.
+
+@264.0058
+Hello!\nI'd like to ask you something.
+
+@264.0086
+Oh, there is a girl here!\nOld man, you should've said so\nearlier.
+
+@264.00C6
+Come over here, girl.\nPour me a drink.
+
+@264.00F8
+...\nHey, Master, do you know a man\nnamed Peralonso Aguirre?
+
+@264.013C
+Peralonso Aguirre?\nHey, girl!\nYou're looking at him!
+
+@264.018E
+What, it's you?!
+
+@264.01AA
+Well, I've still got it.\nA cute girl like you coming all this\nway just to see me.
+
+@264.020A
+So, girl, what's your name?\nWhere are you from? What type do\nyou like? What do you want with me?
+
+@264.0258
+(Ugh, so familiar!\n I want to knock this shallow guy\n flying...\n But I have to hold back here.)
+
+@264.02CA
+(Smile)\nWell, if you come with me as far as\nBasra, I'll tell you everything.
+
+@264.0326
+Sure, I'll follow you anywhere!
+
+@265.000E
+H-hey, girl, this is...
+
+@265.0030
+You're back, Peralonso Aguirre.\nGetting caught with a goofy grin on\nyour face. You're no spy.
+
+@265.008E
+Well, {FI}! I bet he came along\nreal easy for you, didn't he?\nHahaha!
+
+@265.00DE
+This is your reward.\nKeep polishing that beauty of yours.
+
+@265.011C
+I-I blew it...
+
+@265.0134
+You received 21000 gold coins.
+
+@266.0018
+That spy, Peralonso something,\nis in Southeast Asia, right?
+
+@266.0064
+I hear Peralonso is operating\nin Brunei.
+
+@267.0008
+Hey, you've got a good look about you.\nCould you do me a favor?
+
+@267.004E
+I need you to track down a Dutch\nnoble named Ulysse Huygens.
+
+@267.009C
+He was scheming with foreigners, but\nit got out ahead of time, so he stole\na ship and ran.
+
+@267.00EA
+He was apparently hiding out around\nManila, but we've lost his trail.\nSo, I'm counting on you.
+
+@268.0008
+Oh, if it isn't Ulysse the ship thief!\nYou got caught at last.
+
+@268.0040
+Hmph, yes, I was caught.\nBut still... Calling a nobleman like\nme a "ship thief" is rude!
+
+@268.009C
+He's still saying that. So persistent.
+
+@268.00BE
+He turned out to be a pathetic catch...\nBut I'm glad a foreign guild didn't\nsnatch him. They'd use him for\nnothing more than being a noble.
+
+@268.013E
+Here's your reward. Take it with you.
+
+@268.0164
+You received 33000 gold coins.
+
+@268.01D4
+Your share in Batavia\nwent up a little!
+
+@268.021E
+By the way, have you heard the rumor\nabout a statue of a devil?
+
+@268.025C
+A devil statue?
+
+@268.026E
+They say it's sealed in the ruins of\nthis town. Whether it's true or not,\nsee for yourself.
+
+@269.0018
+Ulysse the ship thief's fleet is\nin Southeast Asia, right?
+
+@269.005C
+Ulysse the ship thief is apparently\nhiding in Southeast Asia.
+
+@272.0018
+I have to hurry and defeat that\noutlaw, Plett.
+
+@273.0032
+Out of nowhere, I'm trusted.\nWhat is it?
+
+@275.0018
+I'm supposed to find the fleet of that\nbounty target Jacob, right?
+
+@276.0008
+Hey, you.\nIf you're confident in your skills,\nI want you to take out a bounty target.
+
+@276.0056
+Lately an Italian bastard named\nGabriel Carducci has been casually\ntrading in violation of the pact,\ngetting in our way.
+
+@276.00D4
+On top of that, he has a fleet the\nguards can't touch. I'll give you an\nadvance, so prepare carefully.
+
+@276.014C
+You received 12000 gold coins.

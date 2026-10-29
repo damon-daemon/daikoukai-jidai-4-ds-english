@@ -1,0 +1,908 @@
+@000.000E
+So this is the Mark of Africa...!
+
+@000.003A
+We finally did it!
+
+@000.0064
+But we have to collect seven\nof these things?
+
+@000.009E
+Seven of them, yes. That is the task.
+
+@000.00C4
+Which waters should we search for\nthe next Mark?
+
+@000.00EC
+An adventurer only moves forward, right?\nLet's keep heading east!
+
+@000.0146
+On to the Indian Ocean, then!
+
+@000.0166
+The Indian Ocean...\nAll right, let's go!
+
+@001.000E
+Wow, it's amazing!\nA little scary, though.
+
+@001.0038
+Y-yeah, it's kind of\ncreepy...
+
+@001.005E
+Huh? Clau, are you scared?
+
+@001.0082
+S-shut up! Put it away already!\nDon't leave a creepy thing like that\nlying around!
+
+@001.00DE
+Heh. Hmm. Interesting.
+
+@001.010C
+I thought you weren't afraid of anything?
+
+@001.0148
+Hmm. So even Claudio\nhas something he can't stand.
+
+@001.0186
+What are you talking about?\nI'm not scared of anything.
+
+@001.01B2
+Then maybe\nwe should put it in Clau's cabin?
+
+@001.01EA
+!!\nP-please, anything but that!\nI'll even work hard from now on!!
+
+@001.024C
+Hmm. This could come in handy.
+
+@001.0270
+Haha. Just kidding. I'll put it away.\nNow, on to the next waters!\nClau, I'm counting on you!!
+
+@001.02CC
+Y-yeah! Leave it to me...!\nPhew. That was close...
+
+@002.0008
+All right, I've got the Mark of East Asia.\nNow I have to take it to\nAdmiral Pereira.
+
+@003.000C
+So this is... this is the cursed\nblade Muramasa...
+
+@003.0030
+Hmm...\nIt gives off an eerie light, as if\nit would draw you right in.
+
+@004.000C
+Oh, indeed!\nThe same dull gleam it had\nwhen I let it go.
+
+@004.004E
+To think no one ever picked it up...
+
+@005.0008
+Admiral!!\nWe've spotted Espinosa's fleet!!
+
+@005.003E
+Oh! That's them!\nThe ones who've been prowling Africa\nlately, working with Silveira!
+
+@005.00AE
+Hmph.\nT-they've got a decent number.
+
+@005.00D2
+This may be a bit of a struggle...
+
+@005.00F6
+Can we handle this on our own...?
+
+@005.0114
+Ah!\nAdmiral, Silveira's fleet is behind us!!
+
+@005.0148
+Phew.\nAdmiral Fernan came after all.
+
+@005.0174
+That'll do it. We can manage now.
+
+@005.0192
+We won't know until we try, though.
+
+@005.01B6
+Well then, {FI}.\nDo fight hard, for my sake too.\nHahaha!
+
+@005.01FA
+All right. I'm counting on everyone!\nLet's go!
+
+@005.0228
+Aye!
+
+@006.0018
+So you are the famous\nAdmiral {FA}.\nTo think we would fight like this...
+
+@006.005E
+So this is\nAdmiral Abrahan Uddin...
+
+@006.0090
+To think we would end up fighting you...
+
+@006.00B4
+Admiral Uddin...
+
+@006.00D2
+Whoever my opponent is, I won't hold back.\nHere I come!
+
+@006.0108
+!
+
+@007.0008
+!!
+
+@007.0020
+Tch! So that's Coen's fleet!\nLook at all that firepower!
+
+@007.0058
+This is going to be a tough fight...
+
+@007.0092
+...Here they come.
+
+@007.00A2
+Oh!\nGovernor Pereira!
+
+@007.00BE
+You again?! I'd prefer that\nthird parties stay out of this!
+
+@007.010A
+...
+
+@007.0114
+...\nAdmiral Pereira...
+
+@007.012C
+Old man...
+
+@007.013E
+Damn it!\nEnough! I'll send the lot of you\nto the bottom of the sea!
+
+@007.0184
+...Stay close behind me.
+
+@007.01A0
+Y-yes, sir!
+
+@008.000A
+I won't let you have the Spice Islands!
+
+@008.0038
+Well, shall we get started?\nLet's go, Admiral {FA}!
+
+@008.0062
+Yes, sir!
+
+@009.0016
+Gwahahaha! I'll turn these barbarian\ntubs into sea scum!\nGahahaha!!
+
+@009.006A
+The Ironclad is invincible!
+
+@009.0090
+Is that one... a nimble ship too?
+
+@009.00C4
+Incredible...\nI never knew a ship like this existed...
+
+@009.00EE
+Hey, hey, nobody told me they\nhad a warship armored in iron!!
+
+@009.013A
+Maybe it's one of the\n"many types of ships" Xian\nmentioned?
+
+@009.017E
+Is this the time to be so calm?\nOh, talking won't get us anywhere!\nBrace yourselves, here we go!
+
+@009.01EE
+H-hey, wait! Clau!\nIf we just attack them, no one will\nknow which of us is the pirate...
+
+@010.000C
+All right, the showdown with Valdes!\nEveryone, I'm counting on you!
+
+@010.0058
+Are you ready?
+
+@010.008A
+Heh, anytime!\nCome at us from anywhere!
+
+@010.00BE
+Yeah! Let's do this!
+
+@010.00EE
+Leave it to me!
+
+@010.0108
+Oh, so that's the Portuguese fleet.\nDefying the Spanish Empire now,\nof all times. Fearless, these\nwhelps.
+
+@010.0176
+We'll teach them a lesson.\nAll ships, battle stations!
+
+@010.01A4
+Yes, sir! All ships, battle stations!!
+
+@010.01C8
+...
+
+@010.01D4
+Form the line of battle!
+
+@010.01EC
+Enemy ahead: the Portuguese rebels!\nCharge---!!
+
+@011.0008
+Boy! Defying Pedro de Valdes was\nreckless, foolish, and insolent!!\nRealize it with your death\nand atone!!
+
+@011.00A0
+Albuquerque!\nYou lead the vanguard!
+
+@011.00CA
+...Yes, sir.
+
+@012.000E
+Look over there!\nThat fleet is the {FO}\nthat's been trampling our turf!
+
+@012.0056
+Ooooh!
+
+@012.0068
+All hands, battle stations!\nSnake, take command!
+
+@012.0096
+Aye.
+
+@012.00A4
+Angel!\nTake us to the enemy's starboard rear!
+
+@012.00CA
+Yeaaah!\nYou got it, boss!!!
+
+@012.00FA
+Dandy!\nIs the cannon fire ready?
+
+@012.011E
+All set.
+
+@012.0134
+...Heh, this is thrilling.\nListen up, you dogs!!!
+
+@012.016E
+Today we find out who deserves to rule\nthese seas, me or the\n{FO}!
+
+@012.01C8
+Ooooh!!!
+
+@012.01DE
+A... a lady pirate!?
+
+@012.01F4
+I never knew there was a pirate like that.
+
+@012.0220
+We have to fight either way.
+
+@012.0240
+We can't afford to lose!\nEveryone, get ready for battle!
+
+@013.0048
+Found you at last!\nThis time we settle it!
+
+@013.007C
+Ooooh!
+
+@013.0092
+You never learn. Back again, are you?\n{FO}!\nThis time you'll be sea scum!
+
+@014.0008
+Found you!\nYou're the one who stole from the Guild\nand fled the country, right?
+
+@014.004E
+I don't know what you're talking about.\nOut of my way.
+
+@014.0078
+Playing dumb won't help.\nListen, you're being sent back to\nHamburg. Prepare yourself!
+
+@015.0008
+There you are!\nYou must be the traitor,\nJulien Vermeer!
+
+@015.004A
+Hic! Hic!\n...So what if I am?
+
+@015.0072
+Betraying your homeland... Aren't you\nashamed to call yourself Portuguese?
+
+@015.00BA
+*Gulp gulp* ...Pwah! Hmph!\nWhat's a homeland? It's got nothing to\ndo with making money! Get in the way\nof my work and you'll regret it!
+
+@016.0008
+So you're Plett Perrault.\nYou scoundrel!!
+
+@016.0038
+What's with you?! So high and mighty.\nYou can't tell me you've never\ncommitted a crime in your whole life!
+
+@016.009E
+What a shameless scoundrel!\nThis guy is rotten to the core.\nAll right, no mercy from us either!
+
+@017.0008
+Peralonso Aguirre.\nYou're under arrest on suspicion of\nespionage. To the Malacca Guild with you!
+
+@017.005C
+Heh, only a beautiful young girl\ncan catch the likes of me.
+
+@018.0008
+Eeeek! Who are youuu?\nDo you want to dieee?
+
+@018.0044
+...\nMaybe I shouldn't bother with this one.
+
+@018.006A
+Ooki-kiii! I'll sink you!\nI'll sink you! I'll sink you!
+
+@019.0008
+You must be Zaganos Bey.\nIt's a powerful fleet, no doubt.\nBut we're not about to lose, either.
+
+@019.0060
+Gwahahaha! Big words!\nLittle do you know they'll be\nyour last!
+
+@020.0008
+A-Admiral!\nPirates have appeared!
+
+@020.0040
+P-pirates again!?
+
+@020.0072
+One thing after another, busy as ever...
+
+@020.00AE
+Eeek!!\nI hate pirates!
+
+@020.00DC
+Hahaha!\nThe enemy admiral's just a green kid!\nThis is a perfect mark!
+
+@020.0130
+Why, you...!!
+
+@020.0142
+If I keep running away, I'll never\ngrow into a real man...
+
+@020.0188
+All right, everyone!\nBattle stations!
+
+@020.01AC
+Yeah, I've been waiting for this!\nTime for the great me to show\nwhat I can do!
+
+@020.01FE
+{FI}, the enemy has gathered quite\na few ships too! Don't forget to\nput the crew in their battle\npositions!
+
+@021.0008
+...So you've earned your fame around the\nworld. It seems we'll have to\nbe the ones to finish you.
+
+@021.0066
+Defying Pedro de Valdes was reckless,\nfoolish, and insolent!! Realize it\nwith your death and atone!!
+
+@021.0104
+Albuquerque!\nYou lead the vanguard!
+
+@021.012E
+...Yes, sir.
+
+@022.0020
+...This...\nwas for the best...
+
+@022.0040
+...Admiral Albuquerque...
+
+@022.0066
+We did it!\nWe beat Valdes!
+
+@022.00A6
+Hey, {FI}!\nWe did it!!\nPortugal is safe now!?
+
+@022.00E4
+Let's report to the king in Lisbon\nand get a nice big reward!
+
+@022.0124
+Spain's grip will surely weaken now!\nThe day Portugal's royal power\nreturns must be near!
+
+@022.0184
+Why not report our victory to the king\nin Lisbon? I'm sure he'll be\ndelighted.
+
+@022.01DE
+Yeah, good idea!\nWe're bound to get a big reward!
+
+@023.000C
+What strength...\nCan we really win...?
+
+@023.003C
+Let's regroup and pull back...\nWe'll have to think of something...
+
+@024.000A
+...Damn it! I lost!\nWhat rotten luck!
+
+@024.0042
+Vels!
+
+@024.0054
+G-Gerhard...!
+
+@024.0070
+Blinded by greed, you went back to piracy...\nYou fool!
+
+@024.00A6
+Another one of your lectures?!\nI'm sick of it! Stop it!
+
+@024.00E6
+Sick of it, you say!?
+
+@024.0100
+Of course! "Discipline and thrift"?\nYou can't enjoy life with\njunk like that!
+
+@024.0152
+...That is why I call you a fool!
+
+@024.017A
+What!
+
+@024.0188
+You may not realize it, but your skill\nas a sailor has already surpassed\nmine.
+
+@024.01DC
+Then there's no way I could lose to you!
+
+@024.020A
+That is your shallowness!\nGreed has stained your heart, and\nyou don't see it dulls your skill!
+
+@024.0262
+My heart is stained!?
+
+@024.0280
+I taught you when we first met!\nStrength is skill, and more than power,\nit is "heart"!
+
+@024.02CA
+That is why I valued "discipline and thrift"\nand trained your "heart."\nWhy can't you understand that!
+
+@024.0328
+I told you I can't stand it!\nYou're a lion, sure, but\nan old, outdated lion!
+
+@024.038C
+I take what I want by force\nand crush whoever gets in my way!\nAs long as every day is fun,\nthat's all I need!
+
+@024.03F0
+I was a fool to try to persuade you.\nFine, you are no disciple of mine!\nBe gone!
+
+@024.0454
+Yeah, I never once remember being\nyour disciple anyway!\nNext time won't go like this!
+
+@024.04BA
+Tch......
+
+@024.04CA
+Gerhard...
+
+@024.04DE
+I have shown you something shameful.\nI meant to kill him,\nbut I couldn't.
+
+@024.0534
+Even so, he is my former pupil...\nForgive me...
+
+@024.056A
+No, don't worry about it.
+
+@024.058C
+And Mr. Gerhard, your words,\n"Strength is skill, and more than power,\nit is heart"... I think they're right.
+
+@024.05E2
+Thank you.\nHearing you say that is a relief...
+
+@025.000C
+We won.
+
+@025.001C
+Heh, easy as breakfast!
+
+@025.0036
+...Men have scattered into the sea.\nOr should I say, they've returned\nto the mother sea...
+
+@025.008C
+Mr. Manuel...?
+
+@025.00A4
+Let us comfort the spirits\nof those who have scattered.
+
+@025.00D6
+???
+
+@025.00E4
+"The sea and a mother are alike\n The endless ripples feel familiar,\n as if calling back the heartbeat\n of a mother now far away
+
+@025.0152
+ The sea and a mother are alike\n In foreign lands, they say, the same\n sound and the same letters\n can name them both
+
+@025.01AE
+ The sea and a mother are alike\n As long as we live\n both are there, within a bond\n that never fades"
+
+@025.021A
+Mr. Manuel... you're a poet.\nThat's a beautiful poem.\nMay I set it to music someday?
+
+@025.026C
+Yeah, really.\nI thought you were just a ship-loving\nold guy, but that's some talent.
+
+@025.02B0
+......The sea accepts everything.\nWe should aspire to be the same.
+
+@025.02F6
+......
+
+@026.000A
+Damn, I lost again...\nBut next time, I'll... Huh!
+
+@026.0046
+Sorry, but\nthere is no "next time" for you.
+
+@026.0070
+Heh heh heh.
+
+@026.0084
+What did you say!? Say that again!
+
+@026.00B0
+Huh? Didn't you hear me?
+
+@026.00D2
+Nobody here is going to listen to\nanything you say anymore!
+
+@026.011A
+...Damn it!\nYou betrayed me!!
+
+@026.0148
+Hey, {FI}!\nSomething's going on over there!
+
+@026.0176
+It looks like that lady pirate is surrounded...
+
+@026.019C
+An internal fight?\nHey, let's get closer and take a look.
+
+@026.01D0
+We keep losing and our gold isn't\ngrowing at all. You'll have to take\nresponsibility for that.
+
+@026.0232
+Responsibility...
+
+@026.0244
+And why in the world do you keep\nchasing the {FO}\nanyway?
+
+@026.0276
+Heh, you've got a reason you can't\ntell anyone, don't you?!
+
+@026.02A8
+!!!
+
+@026.02B6
+Your scheme is just\nto get the Bloodstained Shamshir\nback from the {FO}.\nIt's your father's keepsake, after all!
+
+@026.031C
+That's... I didn't mean...
+
+@026.033E
+You've been useless lately.\nNobody's crazy enough to follow a boss\nwho can't earn. Prepare yourself!
+
+@026.03A2
+Did you hear that!\n{FI}!\nThat woman is going to be killed!
+
+@026.03DA
+I'll go.
+
+@026.03EA
+A-Al...
+
+@026.03FC
+What the? Outsiders, stay out of it!
+
+@026.0424
+...Don't get above yourself, underling.
+
+@026.0440
+This has nothing to do with you!\n...Might as well, take out Aziza\nand this one together!
+
+@026.0494
+Lord Al, I will lend you aid.
+
+@026.04B0
+I'm in too!\nMen who can only rely on numbers\nare the worst!
+
+@026.04E8
+Don't forget about me!
+
+@026.0506
+...Pirates!\nCome on, let's do this!
+
+@026.0530
+Why...? Why are you fighting\nfor me...\nYou were enemies a moment ago...
+
+@026.058A
+D-damn, this isn't going well!
+
+@026.05B2
+Wait!
+
+@026.05C2
+{FI} {FA}...
+
+@026.05D2
+...Do you have business with this woman too?
+
+@026.05FA
+Yes.\nBut let's settle it by talking.
+
+@026.0628
+{FI}!\nThat won't work on these guys!
+
+@026.0654
+It's all right, Clau.\nDo you think they can beat us?
+
+@026.0688
+Of course not.
+
+@026.06A0
+Then it's all right.\nWe don't have any other option.
+
+@026.06CE
+Damn it...\nFine, we'll at least hear you out.
+
+@026.06F8
+You don't want to sail on the same ship\nwith Aziza anymore,\nis that right?
+
+@026.074A
+Nobody on this ship wants to follow\nthis woman.
+
+@026.0782
+...
+
+@026.078C
+Then...
+
+@026.079E
+H-hey, {FI}!\nY-you're not going to hire\nthese thugs, are you!?
+
+@026.07DE
+Come on, Clau.\nI meant Aziza would be\ncoming with us.
+
+@026.0824
+!!!
+
+@026.0832
+...That's fine with us, but she put\nus through hell. We'll need\ncompensation for the trouble.
+
+@026.088A
+You want money!?
+
+@026.08A2
+...How much do you need?
+
+@026.08C2
+Let's settle for 1,000,000 gold.
+
+@026.08F0
+That should satisfy you.\nNow, Aziza, please come this way.
+
+@026.092C
+But...
+
+@026.093A
+We're done here. See ya!
+
+@026.0966
+I never thought my own crew would\nbetray me. I've fallen far...\nBut more to the point, why did you\nhelp me?
+
+@026.09CC
+In that situation...
+
+@026.09E6
+We couldn't just not help her.
+
+@026.0A0A
+Besides, you let us escape at the Basra\nTavern. ...I've been wondering,\nmay I ask why you became a pirate?
+
+@026.0A80
+...My father was a pirate.\nI'm a pirate's daughter.
+
+@026.0AB0
+Those pirates were all my father's\nmen. Since I was a kid, I learned\nswordplay and piracy by watching.
+
+@026.0B20
+And your father...?
+
+@026.0B36
+He died in an accident. He had that\nsword. It vanished along with him...
+
+@026.0B92
+That sword is\nthe "Bloodstained Shamshir"...
+
+@026.0BBE
+So that's what you meant when you told\nme I had "a fine sword."
+
+@026.0C00
+I wanted to become a great pirate\nlike my father.\nI imitated everything he did...
+
+@026.0C58
+So when I learned you had this sword,\nI had to have it.\nIf I did, then...
+
+@026.0CC0
+...
+
+@026.0CCA
+If I did, I'd be closer to my father...\nHeh, but you know...
+
+@026.0D0E
+I realized I wanted my father's keepsake\nmore than I wanted to become\na great pirate...
+
+@026.0D70
+No wonder they abandoned me. I was\nchasing something that earns no money.\nI can't blame my crew for being angry.
+
+@026.0DD6
+...Do you still have regrets about piracy?
+
+@026.0DF8
+What I was chasing wasn't piracy,\nbut my father.\nI'm going to quit it for good.
+
+@026.0E52
+Then come with us.\nYou're better suited to living at sea\nthan on land, aren't you?
+
+@026.0EA4
+Me, with you...?\nAre you sure...?
+
+@026.0ED0
+Of course!
+
+@026.0EE2
+Thanks...\nI'll work as hard as I can.\nYou did save my life, after all.
+
+@026.0F28
+And just call me\nAziza.
+
+@026.0F5A
+She says you saved her life.\n{FI}.
+
+@026.0F72
+Oh, stop, that's an exaggeration!\nWe owe each other, if anything.\nAnyway, glad to have you, Aziza!
+
+@027.0024
+We're pulling out for today!\nNext time we settle this!
+
+@027.0062
+...Is she coming back?
+
+@027.0080
+I guess we drove them off...
+
+@027.009C
+Tsk.\nI'll back off for now, but\nnext time I won't go easy on you!
+
+@027.00E2
+...Remember this.\nMy name is Aziza Nurennahar!
+
+@027.011C
+Yeah, and don't come back!
+
+@027.013C
+A woman pirate chief, huh...\nShe had a different feel from\nthe other pirates...
+
+@028.001C
+Well! Will you bow before me!?
+
+@028.0048
+Ugh...\nNext time will be different!\nEveryone, retreat!
+
+@028.0084
+Tucking your tail and running. Coward!
+
+@028.00B2
+They got away!
+
+@028.00C4
+This is bad! We'd better run, fast!
+
+@028.00E8
+I underestimated her...\nShe's much stronger than I thought.
+
+@028.0118
+Did you think you could beat me?\nNext time we meet, be ready to die!
+
+@029.0012
+Got you!
+
+@029.0026
+Ow ow ow! O-okay, I give up!\nI'll go to Hamburg or anywhere!\nJust spare my life!
+
+@030.0012
+We're taking you to the Sao Jorge Guild.\nHold him down!
+
+@030.0054
+Damn you! Don't touch me!\nDamn... mmph!
+
+@031.0012
+All right, got him!\nTake him to Hangzhou!
+
+@031.0044
+Ow ow ow!\nI'm sorry, I mean it...
+
+@032.0012
+Now, behave yourself\nuntil we reach Malacca.
+
+@032.0040
+S-strong...
+
+@033.0012
+Eeek! Nooo!\nI'll curse you! I'll curse you!\nI'll curse you!
+
+@033.005E
+...Let's go to Veracruz\nand drop him off right away.
+
+@034.0012
+Y-you...\nJust kill me already!
+
+@034.0036
+Not so fast. There are people in Genoa\nwho hate you far more than I do,\nand they're waiting for you.
+
+@036.0008
+Admiral!\nI see what looks like enemy ships!
+
+@036.004C
+What could that fleet be?
+
+@036.0070
+Pirates?
+
+@036.0080
+I hope it doesn't turn into\ntrouble.
+
+@036.00BE
+If they're pirates, a fight is unavoidable.
+
+@036.00EE
+Hm!? Those are Algiers pirates...\nCould it be... him?
+
+@036.0122
+Algiers pirates?
+
+@036.0138
+That's what we call those who\nrampage around Algiers, using the\nNorth African coast as their base.
+
+@036.0196
+So they are pirates!
+
+@036.01B2
+Ugh, a trial right off the bat!
+
+@036.01D4
+And what's more... I knew it!\nThat's Hayreddin Barbarossa!
+
+@036.0210
+Is he strong?
+
+@036.0226
+Even among the Algiers pirates,\nthe Hayreddin Clan stands apart!\nTremendously strong, and merciless...!
+
+@036.028E
+Hey, hey, you're kidding me!?
+
+@036.02AC
+They say even the Ottoman Turks, the\nstrongest power in the Mediterranean\ntoday, have a hand in their activity.
+
+@036.02FE
+So these guys guard the entrance\nand the boss sits at the far end\nof the Mediterranean!
+
+@036.034E
+To trade in the Mediterranean, we must\nsomehow deal with the one who controls\nGibraltar...
+
+@036.03C4
+Phew. The road ahead looks rough.
+
+@036.03E4
+More importantly, right now we have to\nsomehow get through this situation.
+
+@036.041E
+Get through, you say... but how?

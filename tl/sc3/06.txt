@@ -1,0 +1,905 @@
+@227.0008
+Oh, Sis {FI}!\nSo, w-what about Plett...?
+
+@227.003C
+He was at the Tavern in Ternate.\nOnce I found him, he gave up\nquite easily.
+
+@227.0082
+I-I see. Much obliged.\nUm, this is a measly amount and it may\nbe rude, but here's your reward...
+
+@228.0018
+I was supposed to find this\nPlett person in Indonesia.
+
+@228.005C
+All we know is that he's hiding\nsomewhere around Indonesia...
+
+@230.00B6
+(What an arrogant man.)
+
+@230.00CE
+Sorry to interrupt, but have you\nheard the name Jean Ramusio\naround here?
+
+@230.020A
+...You're badly mistaken.\nThe Sofala Guild put out a request.\nI'm taking you in for smuggling.
+
+@230.0380
+...How unseemly.\nNow, prepare yourself.\nYou're coming with me to the Sofala Guild.
+
+@232.0018
+I was supposed to catch that Jean\nsomebody in India, wasn't I?
+
+@233.0032
+...What is it?
+
+@233.00B4
+Sounds like a job that suits a woman\nbetter.
+
+@234.0058
+Barkeep,\nI'd like to ask you something.
+
+@234.00FC
+...\nBarkeep, I'm looking for a man\nnamed Peralonso Aguirre.
+
+@234.0194
+Oh, it's you.
+
+@234.025A
+(I see. No wonder they wanted\na woman for this...)
+
+@234.028E
+My, you're impatient.\nWhy don't we change places and talk\nslowly? How about the town of Basra?
+
+@236.0018
+I was supposed to catch that Peralonso\nsomebody in Southeast Asia.
+
+@238.009C
+...Once it comes to this,\nit's a bit pathetic.
+
+@240.0032
+...If it's something I can do.
+
+@242.0018
+I need to find Jacob's fleet,\nthe one with the bounty.
+
+@245.0018
+I need to find Gabriel's fleet\nin the New World.
+
+@247.0052
+Then, if you'll excuse me.
+
+@247.01E8
+A picture map... I'd like to see it.\nDo you know where it is?
+
+@248.0018
+I was supposed to defeat the pirate\nWilliam, wasn't I?
+
+@250.003A
+Putting on a tough act is unbecoming.
+
+@251.0018
+I was supposed to defeat Hernan,\nthe Mediterranean pirate.
+
+@252.0280
+Shall we go?
+
+@252.0640
+...Just a little more patience.
+
+@252.0712
+He's asleep...
+
+@254.0008
+I've got a job for you.\nThe mates I've hired are suffering\nfrom terrible scurvy.
+
+@254.0064
+You folks sail all over the world, so\nI figured you might know a good\nremedy.
+
+@254.00B6
+They say a mysterious medicine that\ncures scurvy in one dose is hidden\nsomewhere near Africa. Know anything?
+
+@254.012E
+Hmm...
+
+@254.013C
+I see.\nI'd like you to find it somehow.\nOf course, a loan is all I need.
+
+@254.018C
+All right. Let's see if I can find it.
+
+@254.01B0
+Oh, thank you!\nI owe you one!
+
+@254.01EA
+Oh, in that case...\nI think this is it.
+
+@254.021A
+Oh, you had it already!\nAs expected of Sis {FA}!
+
+@254.0256
+Sorry to ask, but could you lend it\nto me for a while? Until my mates\nare all back on their feet...\nLet's say a month.
+
+@254.02C8
+Yes, that's fine.
+
+@254.02DE
+Oh, I knew my eyes\nwouldn't fail me!
+
+@254.0318
+You lent the Lime Drops.
+
+@254.0336
+Then I'll thank you properly in a\nmonth. Don't forget to come pick it\nup. Thanks!
+
+@255.0008
+Is this what you meant?
+
+@255.0026
+Oh, you found it!\nAs expected of Sis {FA}!
+
+@255.0068
+Sorry about this. I'll borrow it for\na month or so, until my mates are\nall back on their feet.
+
+@255.00BE
+Yes, that's fine.
+
+@255.00DE
+You lent the Lime Drops.
+
+@255.00FC
+Then I'll thank you properly in a\nmonth. Don't forget to come pick it\nup. Thanks!
+
+@256.0018
+...Where would a cure for scurvy be,\nI wonder?
+
+@256.004C
+So the cure for scurvy is these\n"Lime Drops." I'd better get them to\nthe London Guild quickly...
+
+@257.0008
+It's about time I got the "Lime Drops"\nI lent the London Guild back.
+
+@258.0008
+Hey, you. You saved us!\nEveryone's perfectly healthy\nthanks to you.
+
+@258.00F8
+By the way, are there any famous\nruins in this town?
+
+@258.012A
+Ah, they're a bit far from London,\nbut with a map you can get there\neasily. Lately, though, some odd\nfolks have been hanging around there.
+
+@258.019A
+Odd?
+
+@258.01A8
+They drove out the ruins' caretaker\nand are holding some creepy ritual.\nThe neighbors are fed up with it.
+
+@258.020C
+Hoho.\nAnd where is this map of yours?
+
+@258.0230
+Those folks bought up the maps, so\nyou can't get one in this town.\nMaybe other towns sell them.
+
+@259.01F8
+...It's very humid here.\nIt's muggy.
+
+@259.0224
+Hmm, must be the jungle...\nAdmiral, fierce beasts may be lurking\nin places like this.\nWe must choose our path carefully.
+
+@259.0298
+A cave.\nThis looks quite deep...
+
+@259.02BC
+Hmm, it seems we have to get\nthrough this.
+
+@259.02E6
+...Right. Let's go.
+
+@259.0466
+! Somebody shoot!
+
+@259.04B0
+Tch! It's fast!
+
+@259.06F8
+The injured just keep piling up.\n...Switch to melee!
+
+@259.0A9E
+Hm... {FI},\nI see light over there.
+
+@259.0AC2
+We should be able to get out of\nthe cave now...
+
+@260.0008
+Hey there,\nSis {FI}.\nYou're from China, so you know about\nshark fin, right?
+
+@260.0050
+?\nYes.
+
+@260.005E
+The lord of Malacca says he wants to\ntry it once. But shark fin is a rare\ndelicacy, isn't it? I'd like to know if\nI can get my hands on any.
+
+@260.00D8
+Well... I think that's difficult.\nEven in China it's only used in palace\ncuisine. I've never eaten it myself.
+
+@260.0132
+As I thought...\nI figured so.
+
+@260.0158
+If I come across some somewhere,\nI'll buy it for you.\nNo promises, though.
+
+@260.019E
+Oh, thank you!
+
+@260.01B8
+And if you really can't get it,\nthen introduce me to some delicacy\nhe's never seen before.
+
+@260.0210
+A delicacy he's never seen? ...That's a\ntough order. Hasn't he already eaten\neverything in the world?
+
+@260.026A
+Yeah. That man's appetite...\nOops, loose lips sink ships.\nAnyway, I'm counting on you.
+
+@261.0008
+I got what you asked for.\nHere, shark fin.
+
+@261.003C
+Really?!\nWow, it's the real thing!
+
+@261.0066
+I'm sure it'll be a little easier to\nstock from now on.
+
+@261.00A2
+Mmm, as expected of you, Sis!\nAll right, I'll be generous\nwith the reward!
+
+@261.00E8
+You received 50000 gold coins!
+
+@261.01A2
+Let me tell you an interesting story\nas thanks.
+
+@261.0230
+An ancient kingdom... That's a bit\nhard to believe.
+
+@262.0008
+Oh, Sis!\nHow was the shark fin?
+
+@262.0032
+Sadly, I couldn't find any.\nBut I got something rare.\nI think it's worth a try.
+
+@262.0096
+What's this?\n...D-delicious!
+
+@262.00BC
+Isn't it?
+
+@262.00CE
+With this, I can serve it with\nconfidence! You're really something,\nSis! Please accept my thanks!
+
+@262.01EE
+Let me tell you an interesting story\nas thanks.
+
+@262.027C
+That's a bit hard to believe...
+
+@263.000C.0
+Admiral,\nplease come over here!
+
+@263.000C.1
+Admiral,\nplease come over here!
+
+@263.000C.2
+Admiral,\ncome over here!
+
+@263.000C.3
+Admiral,\ncome over here!
+
+@263.000C.4
+Admiral,\nget over here!
+
+@263.000C.5
+Admiral,\ncome and see this!
+
+@263.000C.6
+Admiraaal,\ncome over here!
+
+@263.000C.7
+Admiral,\nplease come over here, sir!
+
+@263.00E6
+I'll dig it up!
+
+@263.0108
+These look like coins from a very\nold age.
+
+@264.0230
+Xian, are you ready?
+
+@264.0248
+I'm fine. All set.
+
+@264.027A
+Admiral, let's proceed with caution...
+
+@264.02A6
+A dead end...
+
+@264.02CC.0
+Break through
+
+@264.02CC.1
+Investigate
+
+@264.02EC.0
+According to the map...\nwe're meant to break through here, but...
+
+@264.02EC.1
+According to the map,\nwe seem to go straight on...
+
+@264.02EC.2
+The map says we break through\nhere, you know...
+
+@264.02EC.3
+According to the map,\nwe're supposed to break through\nhere, it seems...
+
+@264.02EC.4
+From what I see on the map,\nwe break through here.
+
+@264.02EC.5
+Hmm. According to the map,\nwe're meant to go through here.
+
+@264.02EC.6
+Um, the map says we have to\ngo over here, I think.
+
+@264.02EC.7
+According to the map...\nwe are to break through here.
+
+@264.0484
+Then let's go!\nEveryone, don't get separated!
+
+@264.04C8
+Some sailors seem to have deserted.
+
+@264.0504
+Oh?\nThere's a path here.
+
+@264.0522
+The trees hid it from view...\n{FI},\ngood eye. Let's go on from here.
+
+@264.0586
+Here it is...\nWhat a magnificent view.
+
+@266.0008
+Oh, sorry to have called you all\nthe way here.
+
+@266.0038
+Lately the carriers I hire have been\nslow, and it's a headache. They ask\nfor high pay, but just take forever.
+
+@266.00A0
+Why not fire such lazy carriers?
+
+@266.00D8
+The carriers around here are in\ncahoots. Whoever I ask, they all say\nthe same thing: it takes that many\ndays, no way around it.
+
+@266.0154
+That's vicious bid-rigging.
+
+@266.0168
+So I want to ask you something.\nThose guys take over two months for\nthe round trip from Istanbul to Ceuta.
+
+@266.01D8
+Two months? That's terrible.
+
+@266.01F8
+Right?\nSo I want you to show us a round\ntrip in 30 days.
+
+@266.0236
+30 days?\nDoesn't it usually take about 40?
+
+@266.0270
+Yeah, I'd like to tell the carriers to\ndo it in 40, but to do that, I have to\nshow it can be done in about 30, or\nthey won't take me seriously.
+
+@266.02FC
+I see...\nUnderstood.
+
+@266.031A
+Until this succeeds, we'll keep\nrunning at a loss. I'm counting on you.
+
+@267.0156
+What a creepy forest...
+
+@267.016E
+We must proceed with caution.
+
+@267.01B8
+A giant snake...
+
+@267.01C6
+What will it be,\n{FI}?\nFight...?
+
+@267.0202
+It can't be helped. We have no choice\nbut to defeat it.
+
+@267.022A
+...Indeed.\nEveryone, stay alert!
+
+@267.028C
+We couldn't finish it off, but with\nthat wound it won't attack for a while...
+
+@267.0308
+...Let's flee.\nI don't want a pointless fight.
+
+@267.0336
+Yes, so it is.
+
+@267.0358
+Everyone seems to have escaped safely.
+
+@267.03A6
+Oh, this is...!!
+
+@267.03BE
+{FI}, are you all right?!
+
+@267.03D4
+Ugh... It's like a bottomless swamp.\nEveryone, be careful!
+
+@267.040A
+Good heavens!
+
+@267.042E
+Wait a moment, I'll help you now!
+
+@267.0454
+Nngh!\nI can't do it alone...\nYou lot, lend a hand!
+
+@267.04B4
+Phew... {FI},\nare you all right?
+
+@267.04D0
+Yes. Xian,\nthank you. You saved me.
+
+@267.050E
+I'll help you now!!\nNuooooooh!
+
+@267.0546
+Phew...\nAre you all right, {FI}?
+
+@267.0562
+Yes... thank you. I'm fine now.\nBut who'd have thought there'd be a\nswamp in a place like this...
+
+@268.00C4
+I'd love to see that.\nThank you so much.
+
+@269.0228
+It's a long way. Drink your water\nlittle by little.
+
+@269.025E
+Waaah! Quicksand!
+
+@269.0280.0
+Pull myself out
+
+@269.0280.1
+Call everyone for help
+
+@269.02B4
+Hang on!\nCome on, grab me!
+
+@269.02E4.0
+Oh no, Admiral!\nEveryone, help the Admiral!
+
+@269.02E4.1
+Oh no, Admiral!\nEveryone, help the Admiral!
+
+@269.02E4.2
+Oh no, Admiral!\nEveryone, help the Admiral!
+
+@269.02E4.3
+Oh no, Admiral!\nEveryone, help the Admiral!
+
+@269.02E4.4
+Oh no, Admiral!\nEveryone, save the Admiral!
+
+@269.02E4.5
+Oh, Admiral!\nEveryone, help the Admiral now!
+
+@269.02E4.6
+Admiraaal!\nEveryone, help the Admiral!
+
+@269.02E4.7
+Oh, Admiral!\nEveryone, let us help the Admiral!
+
+@269.03FA
+{FI} is\na little tired.
+
+@269.041A
+Pull him up!\nEveryone, lend a hand!
+
+@269.0450.0
+Now, grab on!
+
+@269.0450.1
+Now, grab on!
+
+@269.0450.2
+Now, grab on!
+
+@269.0450.3
+Now, grab on!
+
+@269.0450.4
+Now, grab hold!
+
+@269.0450.5
+Now, grab hold, you hear!
+
+@269.0450.6
+Now, grab on!
+
+@269.0450.7
+Now, grab on, sir!
+
+@271.0008
+Is there anyone among you who knows\nshipbuilding and gunnery?
+
+@271.0056
+If I can be of help,\nwhat is it?
+
+@271.0094
+Oh, is it my turn to shine?
+
+@271.00CE
+Yes, yes, yes!\nYou called for me, did you not, sir?
+
+@271.0116
+Leave the cannons to me.
+
+@271.0140
+What do you mean?
+
+@271.015C
+Do you know the carronade? It's a new\ncannon recently invented in Europe,\nwith long range and great power.
+
+@271.01D8
+If it spreads widely, it might change\nfleet battles entirely.
+
+@271.023A
+Our Islamic fleets excel at boarding\nbattles, but against European\ngunnery warships we wouldn't stand\na chance.
+
+@271.02B0
+I'm researching ship armor to counter\nthis.
+
+@271.02E6
+I thought I'd hear from experts on\nvarious ships and on gunnery.
+
+@271.0356
+I know a little about ships...
+
+@271.0394
+Hmm.\nI can advise on shipbuilding.\nHowever...
+
+@271.03EA
+I haven't studied\ngunnery enough, sir.
+
+@271.041A
+Leave gunnery to me.
+
+@271.044A
+Then I'll advise on shipbuilding.
+
+@271.0496
+Don't forget about me\nfor shipbuilding.
+
+@271.04DA
+If it's about ships, please ask me\nanything, sir.
+
+@271.0566
+Sadly, nobody with us knows European\nshipbuilding or gunnery right now.
+
+@271.05B4
+Sadly, nobody with us knows European\nshipbuilding right now.
+
+@271.0624
+I see.\nIf you find someone, bring them by.\nI'll wait patiently.
+
+@271.0674
+First, the barrel looks like this,\nthe powder explodes here,\nand the force passes to the shell...
+
+@271.06DE
+If we build the hull at this angle,\nwe can disperse the force of the\nshelling.
+
+@271.0720
+...I see.\nSo this is the damage we'd take from\nthis cannon.
+
+@271.0784
+With this material, it surely won't\nbreak easily, sir!
+
+@271.07DA
+Adding armor here and around here\nwould be the most effective.
+
+@271.0830
+Oh!\nIt's done!\nWe'll give those guys a shock!
+
+@271.086C
+Oh, right!\nTell the old man at the Guild!\nTell him we finally did it!
+
+@272.0010
+Oh! You brought them!
+
+@272.0038
+Yes, leave gunnery to me!
+
+@272.0074
+Then I'll advise on shipbuilding.
+
+@272.00B8
+Don't forget about me for shipbuilding.
+
+@272.00F2
+If it's about ships, please ask me\nanything, sir.
+
+@272.0136
+Um, the barrel looks like this,\nthe powder explodes here,\nand the force passes to the shell...
+
+@272.019C
+If we build the hull at this angle,\nwe can disperse the force of the\nshelling.
+
+@272.01DE
+...I see.\nSo this is the damage we'd take from\nthis cannon.
+
+@272.0242
+With this material, it surely won't\nbreak easily, sir!
+
+@272.0298
+Adding armor here and around here\nis the most effective.
+
+@272.02EE
+Oh!\nIt's done!\nWe'll give those guys a shock!
+
+@272.032A
+Oh, right!\nTell the old man at the Guild!\nTell him we finally did it!
+
+@273.0008
+What?\nIt's finally done?!
+
+@273.0036
+Lately my carriers keep getting sunk\nby pirates, and it's been a headache.\nThey're hopeless.
+
+@273.00A2
+This should improve things a little.\nYes, yes, thanks to you.
+
+@273.00EC
+Let me thank you on behalf of the old\nman at the Shipyard.
+
+@273.012A
+...?\nWhat's this?
+
+@273.013E
+They say it was made in unbelievably\nancient times. It's not much use, but\nit's rare, isn't it?
+
+@273.01B0
+It is.\nThank you, I'll take it.
+
+@274.002E
+I forgot. I need to prepare.
+
+@274.009C
+Yes, thank you.
+
+@274.00B4.6
+Okay, let's go!
+
+@274.014E.0
+I feel like we've passed this place\nbefore. Are we going around in\ncircles...?
+
+@274.014E.1
+This place... I feel like we keep\npassing the same spot over and over...
+
+@274.014E.2
+Huh? That's weird. It feels like\nwe've been going in circles around\nthe same place for a while now.
+
+@274.014E.3
+Oh? Haven't we been here before?
+
+@274.014E.4
+Strange. I feel like we keep\nwalking past the same spot.
+
+@274.014E.5
+I feel like we've passed this road\nbefore...
+
+@274.014E.6
+Hey, didn't we already\ngo down this road?
+
+@274.014E.7
+Hmm. It seems we keep taking\nthe same road over and over...
+
+@274.0346
+Did we lose our way?
+
+@274.0360.0
+Trust the compass
+
+@274.0360.1
+Trust my instinct
+
+@274.0386
+Let's trust the compass.
+
+@274.03A0
+Is that wise?\nI've heard there are places where\ncompasses don't work.
+
+@274.03E4
+Judging by the sun's position at noon,\nwe should be fine.
+
+@274.0416
+Hmm, I see.
+
+@274.043A
+I've heard there are places where\ncompasses don't work.\nLet's trust our instincts here.
+
+@274.04A6
+What?! Seriously?!\nThat's so sloppy...
+
+@274.04D6
+You're one to talk.
+
+@274.0500
+One day has passed.
+
+@274.0518
+I've never seen a fork like this.
+
+@274.053C
+Phew...\nWe're finally about to get through.
+
+@275.000C
+Oh, {FI}!\nIt's terrible!
+
+@275.003E
+A wounded man just\nran in here...
+
+@275.006E
+Hey, girl! Don't go telling\npeople about me!\nOw, ow, ow!
+
+@275.00B8
+No! Stay still!
+
+@275.00DC
+That's a bad wound.
+
+@275.00EE
+Damn it!
+
+@275.0102
+You should rest. I'll bring the ship's\ndoctor, so wait here.
+
+@275.0150
+Looks like he's past the worst.
+
+@275.0172
+Sorry...
+
+@275.0184
+That's a knife wound.\nIf you don't mind, tell me what happened.
+
+@275.01CA
+...I used to be a member of a\nsmuggling ring around here.
+
+@275.0200
+Oh my!
+
+@275.020E
+Smugglers?
+
+@275.021E
+Yeah. I was in on the dirty work of\nthe Nanban foreigners, secretly selling\nweapons and armor behind the local\nlords' backs.
+
+@275.0292
+Then you were their liaison in Japan,\nI suppose?
+
+@275.02D2
+Heh, that's right.\nI'm the one who ran guns and such\nto the wokou.
+
+@275.031C
+But when I was in Nagasaki, I happened\nto hear a padre's sermon, which\nwasn't like me at all.
+
+@275.036C
+At first I was half mocking it, but as\nI listened, I got sick of this line of\nwork.
+
+@275.03C2
+So I tried to leave the ring, and this\nis how it went. No matter how far I\nrun, they keep coming after me.
+
+@275.0416
+In the end, once you're dirty, you can\nnever go straight again until you die.
+
+@275.045C
+...That's not true.\nThere must be an honest way to work.\nBut still...
+
+@275.049E
+The only way they'd hunt you like\nthis is if you know their secrets.
+
+@275.04F4
+Secrets?\nHmm... no, surely not.
+
+@275.0518
+Does something come to mind?
+
+@275.0532
+But... would this even be an important\nsecret to them...?
+
+@275.057E
+Tell me.
+
+@275.0590
+I overheard the ring's boss talking\nwith his men.
+
+@275.05CC
+A group of missionaries is coming\nfrom Portugal soon. Something about\nan audience with the Ming emperor...
+
+@275.0626
+...\nWhen is that?\nWhich port are they coming to?
+
+@275.0658
+Dunno... The boss was awfully tight-\nlipped about this one. He kept telling\ncrude types like me to stay away\nfrom the party.
+
+@275.06D0
+Maybe he knew I'm weak to a padre's\nsermon?
+
+@275.070A
+...That bothers me.\nIs there anyone who knows more\nabout it?
+
+@275.074A
+...The informant in the Macau Tavern\nmight have heard something.
+
+@275.078A
+The Macau Tavern, you say?\nI'll go and see.
+
+@275.07B6
+Hey, take me along.
+
+@275.07DA
+What are you saying?!\nYou plan to board a ship in that state?!
+
+@275.0812
+State or no state, I'd say it's safer\nthan staying in this town.\nRight, Admiral, you formidable woman?
+
+@275.0866
+Maybe so.\nCome along if you like.
+
+@276.0010
+Old man, is he here?
+
+@276.002E
+...Wait here.
+
+@276.0040
+Oh, it's you.\nWhat's up?
+
+@276.0060
+So you're the informant.\nI want to know about the group of\nmissionaries coming from Portugal.
+
+@276.00B4
+Huh?\nWho's this woman?
+
+@276.00D6
+My new boss.
+
+@276.00EE
+No information is free.\nCan you pay 1000 gold coins?
+
+@276.012A
+Fine.
+
+@276.0142
+All right, I'll tell you. The fleet\narrives tomorrow.\nThe place is this very Macau.
+
+@276.0186
+Hey, is that really true?
+
+@276.01A2
+If I were lying, I'd pick something\nyou can't check before I get away,\nlike "a week from now" or "Hangzhou."
+
+@276.01FC
+Okay, got it.\nThanks.
+
+@276.021E
+Anyway, I'll try to get close to that\ngroup. I need to find out why the\nboss said not to meet them.

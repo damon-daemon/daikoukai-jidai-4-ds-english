@@ -1,0 +1,1067 @@
+@076.0016
+Oh! Admiral Hayreddin!
+
+@076.0038
+...You've grown, {FI}.\nThe Pasha's Ottoman fleet is\nincredibly strong, but with you\nand your crew...
+
+@076.0092
+Y-yes, sir!\n(...Whoops, careful!)\nYes, of course!
+
+@076.00CE
+If you manage to defeat the Pasha's fleet,\ngo to Alexandria and meet the priest.
+
+@076.011C
+A priest in Alexandria...?\nUnderstood. I'll remember it.
+
+@076.0154
+Whatever you do, don't let your guard down.
+
+@076.0172
+You bet! Thanks,\nold man!
+
+@076.019C
+Heh...\nFarewell, then.
+
+@076.01B6
+Goodbye...\nAdmiral Hayreddin!
+
+@077.000C
+All right! We actually made the\n{FO} the best in the\nMediterranean!
+
+@077.0040
+Sure, Valdes beat us fair and square\nin a straight fight, and it stung...\nbut a win's a win!\nLet's hold our heads high!
+
+@077.00A8
+You're right. Winning at sea isn't\neverything, is it?\nNow, on to rule the Estado!
+
+@078.000A
+Now we're the top power in the\nMediterranean! Even Spain can't\nignore the {FO}, backers of\nthe Portuguese royal restoration!
+
+@078.0082
+Y-yeah.\nI hope you're right...
+
+@078.00A4
+You're the king of the seas in name and\nin fact now! Puff your chest out\na little more!
+
+@078.00F4
+Y-yeah. You're right.\nThanks, Clau!
+
+@078.0122
+You're our Admiral, after all!\nCome on, we're almost there! Pull it together!
+
+@078.0166
+All right, let's go conquer the seas of the world!!
+
+@078.0190
+Yeaaaah!!
+
+@079.000A
+Admiral {FA}.\nYou did it. You've truly become\nthe Victor of the Mediterranean.\nNow, please accept this.
+
+@079.0072
+Phew.\n...That took a long time.
+
+@079.009E
+This must be a map to a Victor's Mark.\nThe Mediterranean's treasure is, if I\nrecall, some kind of "Crown"...
+
+@079.00FC
+Okay, so we just have to find it, right?\nLet's go!
+
+@079.012A
+...?\nBut the pattern drawn on this cloth\ndoesn't look anything like\na map...
+
+@080.0018
+Phew. Finally found you! You're\nAdmiral {FA}, right?\nThe King of Portugal is calling for you!!
+
+@080.0076
+Hey!\nAdmiral {FA} is back!\nThe King wants to see you!!
+
+@081.000C
+Grandpa. You promised to show me\na bullfight if I came to Spain, remember?
+
+@081.004E
+Hm? Did I?
+
+@081.006E
+Honestly!\nYou're all talk, and I've never\nseen one even once!
+
+@081.00A8
+What about you all?\nIt'd make a good story, right?\nCome on, let's go!
+
+@081.00E8
+A bullfight, huh. I've never seen one either.\nSounds interesting.
+
+@081.011E
+Sure. Let's drop by for a bit.
+
+@081.016E
+Wow. It's really something!\nLook at all these people.
+
+@081.01AC
+Well, Spain rules the world\nat the moment, after all.\nHeh heh.
+
+@081.01F0
+That doesn't make YOU great, old man.
+
+@081.021A
+Such a sharp tongue!\nShow some respect for your elders!
+
+@081.024E
+They say a really popular\nbullfighter is performing.
+
+@081.027E
+Maybe he's good-looking!
+
+@081.02AC
+Well, he can't beat me, anyway.
+
+@081.02D2
+Let's see.
+
+@081.02F0
+Hahaha!
+
+@081.0304
+Make us laugh again today!
+
+@081.0324
+What?\nThat's the most popular bullfighter?
+
+@081.034C
+That's the picador.
+
+@081.0374
+He weakens the bull first, then the star,\nthe matador,\ndelivers the finishing blow.
+
+@081.03D4
+Yaaaaah!!
+
+@081.03F2
+Gahahaha!\nThat idiot is playing with the bull!\nWhoa! He threw it right over!
+
+@081.0446
+Rrrraaagh!!
+
+@081.0460
+Hahaha!
+
+@081.0474
+Get out of there already!!
+
+@081.049C
+Oh, here comes the real star!
+
+@081.04CC
+Ooooh!!
+
+@081.04E0
+We've been waiting for this!
+
+@081.04F8
+Woo-hoo!
+
+@081.050E
+Yay, yay!
+
+@081.0522
+Give us a good show!
+
+@081.053E
+Bravo!!
+
+@081.0556
+Yay, yay!
+
+@081.0574
+(murmuring)
+
+@081.0588
+...Should we invite him to join us?
+
+@081.05AC
+Hey, hey, {FI}.\nWhat are you saying?
+
+@081.05D2
+Well, he was amazing, wasn't he?
+
+@081.05F6
+Well, yeah, but...
+
+@081.060E
+Then it's settled.
+
+@081.0626
+Wait, what?! Are you serious?!
+
+@081.0648
+Hey, hey.
+
+@081.0658
+Hm?
+
+@081.0666
+(Thud!)\nW-what? Come on,\nthat's who you meant?!
+
+@081.06A8
+Don't you want to sail out\nonto the open sea in a ship?
+
+@081.06E0
+Ship? A ship, huh. Sounds scary.\nAnd doesn't look tasty, either.
+
+@081.0722
+...Doesn't look tasty...?\nWell, no, but... I know!\nLet's go eat delicious food from\nall over the world!
+
+@081.0786
+Delicious food? Heh.\nHeh heh.
+
+@081.07AA
+Yeah. There are all kinds of food out there,\nI bet.
+
+@081.07DC
+R-really?\nLots and lots of different things?\nThen I'll go! The sea, anywhere!
+
+@081.082A
+Great, that's settled.\nNow I need to ask your name.\nI'm\n{FI} {FA}.
+
+@081.086A
+I-I'm Emilio Ferrog.\nNice to meet you.
+
+@081.0898
+Nice to meet you too. Welcome aboard, Emilio.
+
+@082.000C
+You are sooooo\npersistent!!!
+
+@082.003C
+Oh! My beloved Christina!\nWhy must you be so cold to me?
+
+@082.0088
+Are you out of your mind?\nWho keeps following someone who hates\nthem this much?
+
+@082.00D8
+There's no need to be shy!
+
+@082.0100
+Ugh, I've had it. ...Listen.\nOur engagement was just something my\nparents decided on their own!\nI have no intention of getting married!
+
+@082.0170
+Just being able to hear your voice\nmakes me so happy!
+
+@082.01B4
+Idiot!
+
+@082.01C6
+...Is that the person...?
+
+@082.01E0
+That's the one.
+
+@082.01F2
+Sounds like things are\nkind of complicated...
+
+@082.0220
+No, no. It doesn't matter at all.\nHey! Christina!
+
+@082.0264
+Oh, Christina!\nHow have you been?
+
+@082.029C
+Gramps! When did you get to London?
+
+@082.02C2
+Just now.\nI'm going to sea again, you see.
+
+@082.02F4
+What, again?!\nMom and Dad will stop you, you know!
+
+@082.0330
+They won't find out\nunless you tell them. Ho ho.
+
+@082.0368
+Honestly...
+
+@082.037C
+More importantly,\nhow about sailing out yourself?
+
+@082.03B2
+!! What did you say?!\nThat won't do at all!
+
+@082.03E2
+Who's this\nfellow?
+
+@082.03FC
+The son of one of Dad's friends.\nUm, what was his name again?
+
+@082.042A
+Oh, Christina!\nThere's no need to be so shy!\nAre you her grandfather, sir?
+
+@082.047E
+Pleased to make your acquaintance.\nI am Mi-Mivor! Mivor Genz!\nI hope you'll remember the name!
+
+@082.04E0
+Right, right, that's it.\nBefore I knew it, my parents\nhad gone and made a promise.
+
+@082.0532
+The truth is, I'm supposed to be engaged\nto this... incomprehensible thing.
+
+@082.0578
+Oh? I see.
+
+@082.058C
+Don't just say "I see"!
+
+@082.05AA
+Hmm, hmm.\nSo this pale fellow is the one...
+
+@082.05D4
+I-it's not because my parents said so,\nyou know...\nI truly care for Miss Christina...
+
+@082.062A
+Mom and Dad seem to want to tell me\n"Stop swinging that sword around\nand settle down."\nIt's so annoying.
+
+@082.06A8
+Hmph. Sounds like something Gerardo\nwould think of. Maybe I raised him wrong...
+
+@082.06F2
+Um...
+
+@082.0700
+You be quiet!\nNow, about what you said earlier...\nSomething about a ship?
+
+@082.074A
+Oh, right, right.\nI was thinking you might\ncome along with me.
+
+@082.0790
+I heard about you from your grandfather.\nWould you consider joining\nmy ship?
+
+@082.07EA
+What?\nGramps, who are these people?
+
+@082.0812
+Ahem. (One thing after another.)\nWell, first, this is\n{FI} {FA}, the\nAdmiral.
+
+@082.0862
+An admiral? Wow, you're pretty young.
+
+@082.0888
+You said you wanted to test yourself against\nother schools, even as a woman. How about\ntraveling the world to train in swordsmanship?\nThat wouldn't be so bad.
+
+@082.08FE
+I-I object!!!
+
+@082.091E
+You're right... That's not a bad idea.\nI'll go.
+
+@082.0944
+I said I object!!
+
+@082.095E
+Is it all right to leave Mr. Mivor\nbehind?
+
+@082.0992
+It's fine. Come on, "strike while\nthe iron is hot," right?\nRight, Gramps?
+
+@082.09CC
+That's my granddaughter\nfor you. You get it. Yes, yes.
+
+@082.09FC
+Mr. Mivor,\nwould you like to come along?
+
+@082.0A22
+I-I...
+
+@082.0A3A
+He can't swim. He's terrified of water.\nSo there's no way he'll come after us.
+
+@082.0A86
+Grr... In that case!\nI-I challenge you to a duel!
+
+@082.0ABA
+Whoa! Whoa!
+
+@082.0AD2
+Honestly, you just don't get it!\nHyaaah!!
+
+@082.0B10
+Waaah!! Ow ow ow ow!
+
+@082.0B36
+With a wobbly stance like that,\nyou couldn't even beat a child.
+
+@082.0B6E
+Hm.\nYour skills haven't dulled, I see.
+
+@082.0B92
+Waaah, the rapier Father\nbought me!
+
+@082.0BCC
+Okay, let's go!\nSword matches are great, but\na sea voyage sounds fun too!
+
+@082.0C12
+Hey, Admiral.\nAny chance you have business in Spain?
+
+@082.0C48
+Spain?
+
+@082.0C5A
+I'd love to see the homeland of Gramps\nand Dad, just once.
+
+@082.0C96
+Now, now, don't be selfish.
+
+@082.0CC0
+Um...\nWould Seville do?
+
+@082.0CE8
+What, really?!\nYou're a great admiral!\nThis is going to be a fun trip!
+
+@082.0D28
+...Hmm, still the same as ever.\n{FI},\nshe's a handful, but take care of her.
+
+@083.000C
+Ah, London...\nThe air of home is the best.
+
+@083.003E
+Take a good rest.\nIt's your hometown, after all.
+
+@083.006C
+Thanks.\nI'm going to take a walk around the harbor.\nI've loved walking here since I was little.
+
+@083.00B8
+Okay.\nWe'll be at the Tavern.
+
+@083.00EA
+Nothing has changed...\nIt feels great...
+
+@083.0112
+Ohhhhhhhhhhhh!\nWhat a miracle! This is love!\nChrisssstiiiinaaaa!
+
+@083.016A
+!! Uh-oh!
+
+@083.017E
+I'm so glad, so glad!\nI knew my love would reach you!\nI... I...
+
+@083.01CC
+H-hey, wait.\nDon't cry. Everyone's watching.
+
+@083.0204
+Besides, I didn't come back home!\nWe just happened to stop in London.\nI'll be setting off again\nsoon!
+
+@083.0270
+Huh?
+
+@083.027C
+So, I didn't come\nback for you!
+
+@083.02B6
+And I'm not even remotely\nthinking about marrying you!
+
+@083.0306
+B-but...\nWhat is it about me you don't like?
+
+@083.033E
+It's not that.\nI just don't want to think about marriage\nyet. So give up, okay?
+
+@083.038C
+......I understand......\nI'll give up... yes......\nSigh... My love has come to an end...
+
+@083.03EA
+Phew... Now I won't be chased around...
+
+@083.0414
+!?
+
+@083.0420
+Sigh... Huh!?
+
+@083.0436
+Eek! My baby!
+
+@083.0452
+What happened!?
+
+@083.0476
+Oh no!\nMy little boy fell into the sea!\nSomeone, please save him!!
+
+@083.04C2
+Hold on, I'll save him!
+
+@083.04EA
+Hang in there, I'm coming for you!
+
+@083.050E
+Oh, Christina...!
+
+@083.0534
+Big sis is here, so you're safe now.\nDon't worry!
+
+@083.0566
+<Boy>\nWaaah, I'm scared, I'm scared!
+
+@083.0590
+You're safe now. See?
+
+@083.05AE
+Don't cling to my neck.\nI-I can't breathe.
+
+@083.05E2
+<Boy>\nI'm scared, I'm scared!
+
+@083.0604
+Ugh, at this rate I'll drown\nright along with this kid!
+
+@083.0646
+<Boy>\nWaaah, I'm scared!
+
+@083.066A
+N-no... I'm going to drown...
+
+@083.068C
+Eek! Somebody!
+
+@083.06AA
+Is there no one here?
+
+@083.06C6
+Christina, Christina...\nBut the sea, the water...
+
+@083.06FE
+Sea scary, sea scary, sea scary\n...Sea scary  >  Christina...
+
+@083.0738
+But, but...\nUwaaaaaaaaaah!
+
+@083.0762
+Sea scary, sea scary, sea scary\n...Sea scary  <  Christina...
+
+@083.079C
+Christina, Christina\nChristina!
+
+@083.07CC
+Christiiiina!!!!!
+
+@083.07EC
+Mivor, here I goooo!
+
+@083.0812
+\nChristina!\nI'm coming for you now!
+
+@083.0850
+Ugh, cough, cough\nHuh? Mivor...\nWhere am I? What happened...
+
+@083.089A
+...Oh, my beloved Christina!\nYou're awake!
+
+@083.08D4
+...Didn't I drown...?\nOh! What about the boy?\nIs he safe?
+
+@083.0918
+Yes, he's fine.\nThe lady said thank you.
+
+@083.0956
+So someone saved us.\nI have to thank them...\nWhere's my savior?
+
+@083.09AA
+Um, well, you see...\nIt's...here...
+
+@083.09D4
+Huh?
+
+@083.09E0
+What I mean is...\nI... I saved you...
+
+@083.0A10
+Huh...? But you can't stand water...
+
+@083.0A30
+That's true, but...\nI thought I had to save Christina,\nand my head just went...
+
+@083.0A7A
+Anyway, I swam.\nI can't believe it myself.
+
+@083.0AB2
+You did?\nI can't believe it...
+
+@083.0AD2
+Oh, I need to get to the Tavern...
+
+@083.0AF8
+Oh, are you all right?
+
+@083.0B14
+Yes, I can go alone.
+
+@083.0B32
+Then, I'll be going...
+
+@083.0B52
+Oh, it's the big sister!
+
+@083.0B70
+Are you okay?
+
+@083.0B86
+Yeah, I'm fine.\nThank you!\nHey, where's the big brother who saved me?
+
+@083.0BC8
+Thank you so much.\nWhat about the man who was with you?
+
+@083.0C04
+Did that guy really jump into the sea?
+
+@083.0C2A
+Yes, he jumped in\nscreaming at the top of his lungs.
+
+@083.0C5E
+He must love you\nvery much.
+
+@083.0C92
+...So it was true...
+
+@083.0CAC
+Um, this is a token of thanks.\nPlease take it.
+
+@083.0CE4
+Oh, th-thank you...
+
+@083.0D02
+Well, we'll be going now.\nThank you so much again.
+
+@083.0D3A
+Bye, big sister.
+
+@083.0D64
+...So that's what happened.
+
+@083.0D78
+...He really swam.\nMr. Mivor is amazing.
+
+@083.0DAE
+I still can't believe it.
+
+@083.0DCC
+Oh! Speak of the devil.
+
+@083.0DF8
+Oh, Mivor...
+
+@083.0E12
+Christina...
+
+@083.0E28
+I never properly thanked you back then.\nThank you.\nMivor, you were... cool...
+
+@083.0E86
+Whaaat? Whaaaaaat!?
+
+@083.0EAA
+Really!? You think I'm cool!?\nI'm so, so happy!
+
+@083.0EFE
+You're getting the wrong idea!
+
+@083.0F26
+I don't care what it is!\nI'm just happy!\nChristiiina!
+
+@083.0F6A
+Ugh, enough, you're so loud!\nLet's set sail already!\nThis guy is so annoying!
+
+@083.0FBC
+I'll be waiting for you\nforever!
+
+@083.0FE2
+Say what you will,\nthose two are a good match.
+
+@084.000C
+I wonder if there are any mates in this port.
+
+@084.0032
+There are sailors in every port.
+
+@084.005C
+Right, let's ask the townspeople.\nJenas, go ask around.
+
+@084.00A6
+You sure work me hard.\n...Honestly.
+
+@084.00CE
+Um, excuse me.\nI'm looking for someone who knows\nabout ships...
+
+@084.0112
+Oh. You're a sailor, eh?\n...But Mr. Adelnkatz is...
+
+@084.0158
+...No, no. Never mind.\nHeh heh heh.
+
+@084.018A
+What was that about? Creepy old man.\nAdel...? Adelnkatz, was it?\n...I'll try looking for him.
+
+@084.01FA
+Admiral. I heard rumors about someone\ncalled Adeln-something.
+
+@084.0238
+What!! Adelnkatz!?\n...No mistake, Jenas?
+
+@084.0278
+I wouldn't lie.
+
+@084.0296
+...Right!
+
+@084.02AA
+Clau! Wait up!
+
+@084.02C8
+Hey, kid!\nWhere does "Gerhard Adelnkatz"\nlive?
+
+@084.031C
+You mean Admiral Adelnkatz?\nHis mansion is over that way.
+
+@084.035A
+Admiral... Just as I thought.\nThanks, kid. That way, huh.\nHurry up, {FI}.
+
+@084.03A4
+...That's unusual.\nClau is really eager about this.
+
+@084.03D6
+It's not that...\nNever mind. You'll see when we get there.
+
+@084.040A
+Is this the place?
+
+@084.041C
+...Looks like it.
+
+@084.0430
+(knock knock)
+
+@084.0450
+...Who is it?
+
+@084.0460
+Oh, nice to meet you.\nI'm from the {FO}...
+
+@084.0482
+This is Admiral\n{FI} {FA}.\nI'm the mate, Claudio Manaus.
+
+@084.04BA
+Oh, a mate...\nAnd what business brings you here?
+
+@084.04EA
+We heard you were a skilled mate,\nso we came to talk...
+
+@084.0526
+That was long ago.\nAs you can see, I live on land now.
+
+@084.0556
+Won't you sail again,\njust once more?
+
+@084.0582
+No.
+
+@084.058E
+It's not that simple.\n...You know Vels, don't you?
+
+@084.05C2
+...
+
+@084.05CC
+The one you let get away.
+
+@084.05EC
+!? Wh-what do you mean!?
+
+@084.060E
+...
+
+@084.0618
+Clau!\nWhat on earth is going on!?
+
+@084.0648
+This man is\nAdmiral "Gerhard Adelnkatz",\nformer grand admiral of the strongest\nprivate fleet devoted to hunting pirates.
+
+@084.06AA
+There was a time when the pirates went\nquiet from the North Sea to the\nMediterranean. That was thanks to\nhis fleet running wild.
+
+@084.0716
+!!!\nHe's that amazing!?
+
+@084.073C
+One day his navy captured a huge\ngang of pirates.\nVels was among them.
+
+@084.079E
+What!? What did you say!?
+
+@084.07BE
+...That's enough. Mr. Manaus, was it?\nI'll tell the rest myself.\nAnd the Admiral and company, come in.
+
+@084.0824
+Vels was still young, and he showed\npromise. So I took him in and\ntrained him.
+
+@084.087C
+The pirate Vels was...\na grand admiral's pupil...!?
+
+@084.08AA
+The moment I gave him a ship,\nhe mutinied and fled.\nAfter that, I stepped down myself.
+
+@084.0908
+Why didn't you go after him then?
+
+@084.0932
+Even the men who had fought beside me\nfor years were lured by freedom\nand gold, and followed him.
+
+@084.0996
+...Perhaps my way of doing things,\nwhich prized strict discipline and thrift,\nwas wrong.\nI lost confidence in my command.
+
+@084.0A08
+...
+
+@084.0A12
+I am a man who once abandoned the sea!
+
+@084.0A38
+Life here is comfortable.\nThe people around me leave me be.\nEach day passes in peace,\nmerely passing by...
+
+@084.0AA6
+...That doesn't really solve anything,\ndoes it?
+
+@084.0ADE
+{FI}, was it?\nWhat are you trying to say?\nSpeak plainly.
+
+@084.0B24
+Our fleet nearly\nwas destroyed by them.\nWe need your help.
+
+@084.0B76
+Help, hm...\nThe opinion of an old relic is of no use...\nHe took everything from me.
+
+@084.0BCA
+No, that's not true.
+
+@084.0BF0
+{FI}...\nWhat do you expect of me?
+
+@084.0C20
+...
+
+@084.0C2A.0
+Let's defeat Vels
+
+@084.0C2A.1
+We don't have to defeat him
+
+@084.0C68
+All I ask is that you come aboard our\nship, just yourself.\nLet's defeat Vels together!
+
+@084.0CE0
+Don't take offense.\nEven with my help, I can't believe\nyou could stand against Vels.
+
+@084.0D46
+You mean we aren't strong enough...?
+
+@084.0D6A
+...Let me think about it.
+
+@084.0D82
+I understand... I believe you'll have\nmade up your mind by the next\ntime we meet. Excuse us.
+
+@084.0DDE
+......
+
+@084.0DFC
+Forgive me if I seemed cheeky.
+
+@084.0E26
+But I can't believe that the way you\nbuilt a fleet called the strongest\nwas wrong.
+
+@084.0E8A
+!!
+
+@084.0E96
+Vels is the one who is wrong.\nI can't forgive a man who betrayed you,\nblinded by greed!
+
+@084.0F00
+...
+
+@084.0F0A
+...But Vels is cautious.\nHe won't be easy to lure out.
+
+@084.0F48
+He's getting cocky now.\nIf word spreads that you've returned\nto sea, he'll surely show himself.
+
+@084.0FA8
+Perhaps so.\nHe probably doesn't think I'm\nstill alive.
+
+@084.0FF0
+Then...!
+
+@084.1006
+Very well. I planted this seed myself.\nI must settle it.
+
+@084.103E
+Thank you!\nPlease train us too.\nWe're ready.
+
+@084.1088
+Very well. I'm strict.
+
+@084.10AE
+I want your help for more than\njust defeating Vels.
+
+@084.10F6
+...What do you mean?
+
+@084.110E
+Please sail with our fleet!\nWith you aboard, I'm sure we can do\nsomething great enough to go down in\nhistory!
+
+@084.118C
+...
+
+@084.11AA
+Don't take offense.\nEven after such a fine speech from\na boy like you, I can't bring myself\nto entrust my body to you.
+
+@084.121C
+You mean we aren't strong enough...?
+
+@084.1240
+In any case, I have abandoned the sea.\nPlease leave for today.
+
+@084.1282
+I understand... I believe you'll have\nmade up your mind by the next\ntime we meet. Excuse us.
+
+@084.12DE
+......
+
+@084.12FC
+Forgive me if I seemed cheeky.
+
+@084.1326
+But I can't believe that the way you\nbuilt a fleet called the strongest\nwas wrong.
+
+@084.138A
+!!
+
+@084.1396
+Please teach us your way\nof fighting!\nI'm begging you!
+
+@084.13D6
+...
+
+@084.13E0
+I'm strict.
+
+@084.13F4
+Then...!!
+
+@084.140C
+Very well.\nBut be prepared.
+
+@084.1448
+Well then... There's something I should\nteach you before I go to sea. How about it?\nDo you want special training?
+
+@084.14B2.0
+Take the hard training
+
+@084.14B2.1
+Just listen
+
+@084.14B2.2
+Do it my own way
+
+@084.14FC
+Good nerve. Don't give up halfway.
+
+@084.1532
+You're starting to look the part.\nNow, take me to your ship.
+
+@084.1578
+I see... On the way,\nI'll explain combat.
+
+@084.15B0
+Yes, please.
+
+@084.15CA
+First, broadside cannon fire, or what\nis called an artillery battle.\nLet me explain the standard\nT formation.
+
+@084.162A
+Avoid the enemy's flank, which is within\nits firing range, as much as possible.\nGet around to the enemy's front or rear\nand fire with your own broadside.
+
+@084.16A8
+Yes...
+
+@084.16B6
+Once you move the ship, the gunners fire.\nPutting a mate with high accuracy in the\n"Armed Battery" will make your\nbombardment more effective.
+
+@084.1730
+In naval battles, you steer your ship's\ncourse and sail direction, just as in\nnormal sailing. Ships in range\nfire automatically.
+
+@084.17B0
+If you prefer melee combat, remodel\nthe hold at a port Shipyard and build\nthe "Marine Quarters". That\nwill do.
+
+@084.1816
+Also, for melee, hire plenty of sailors\nand put someone skilled in swordsmanship\nin the Marine Quarters as Boarding Chief.\nThat will be more effective still.
+
+@084.1892
+Let's choose a mate skilled in swordsmanship\nand send them to the\nMarine Quarters.
+
+@084.18D6
+When ships make contact, melee begins\nautomatically. Your Boarding Chief\nshould do well.
+
+@084.1932
+...And that's that.
+
+@084.1948
+...Understood.\nThe rest is gaining experience in real fights.\nThank you very much...
+
+@084.19C4
+{FI}'s\nStamina, Agility, and Spirit went up!
+
+@084.19F4
+Well, that will do.
+
+@084.1A0A
+I see...\nThen let me tell you about combat.
+
+@084.1A40
+Yes, please.
+
+@084.1A5A
+First, broadside cannon fire, or what\nis called an artillery battle.\nLet me explain the standard\nT formation.
+
+@084.1ABA
+Avoid the enemy's flank, which is within\nits firing range, as much as possible.\nGet around to the enemy's front or rear\nand fire with your own broadside.
+
+@084.1B38
+Yes...
+
+@084.1B46
+Once you move the ship, the gunners fire.\nPutting a mate with high accuracy in the\n"Armed Battery" will make your\nbombardment more effective.
+
+@084.1BC0
+In naval battles, you steer your ship's\ncourse and sail direction, just as in\nnormal sailing. Ships in range\nfire automatically.
+
+@084.1C3E
+If you prefer melee combat, remodel\nthe hold at a port Shipyard and build\nthe "Marine Quarters". That\nwill do.
+
+@084.1CA4
+Also, for melee, hire plenty of sailors\nand put someone skilled in swordsmanship\nin the Marine Quarters as Boarding Chief.\nThat will be more effective still.
+
+@084.1D20
+Let's choose a mate skilled in swordsmanship\nand send them to the\nMarine Quarters.
+
+@084.1D64
+When ships make contact, melee begins\nautomatically. Your Boarding Chief\nshould do well.
+
+@084.1DC0
+...And that's that. Understood?
+
+@084.1DE4
+...Yes. The rest is gaining\nexperience in real fights.\nThank you very much...
+
+@084.1E3A
+{FI}'s\nWits went up!
+
+@084.1E5E
+...I see.\nSo what you need to learn is on the ship.\nVery well.
+
+@084.1EB0
+{FI}'s\nLuck went up!

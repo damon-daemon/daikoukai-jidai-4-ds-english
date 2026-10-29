@@ -1,0 +1,149 @@
+@0
+Help Contents\n> {The World of Uncharted Waters IV:<$01>}\n> {Port Commands:<$0B>}\n> {At-Sea Commands:<$52>}\n> {Common Commands:<$67>}\n> {Data Guide:<$8F>}\n\n[!] marks handy tips worth knowing.\n\n
+
+@1
+The World of Uncharted Waters IV\nAn overview of Uncharted Waters IV and what you aim for in the game.\n> {Game Overview:<$02>}  > {Goal of the Game:<$03>}\n> {About the Heroes:<$06>}  > {Game Over:<$0A>}\n\n
+
+@2
+Game Overview\nUncharted Waters IV is a game of sea adventure to enjoy with your companions.\nThe world is divided into seven seas. The hero leads a faction based in one of them.\nEach sea has several factions. Through trade and battle, the hero competes with them and aims to become the master of every sea.\n\n
+
+@3
+Goal of the Game\nAt first, each hero has a different goal.\n[Rafael] Become a full-fledged sailor.\n[Ril] Earn lots of money.\n[Hodrum] Make your navy the strongest in the world.\nWith any hero, you clear the game by collecting all seven Victor's Marks and becoming the master of every sea.\n> {Victor's Mark:<$04>}\n\n
+
+@4
+Victor's Mark (Goal of the Game)\nA Victor's Mark is an item proving that you are the greatest power in a sea. There is one in each sea.\nYou will never find one by searching blindly. It is important to gather information from many people and pick up clues.\nRumor has it that an item called a "Curio" leads sailors to the Victor's Marks.\n> {Curios:<$05>}\n\n
+
+@5
+Curios (Goal of the Game)\nRumor has it that a certain small item leads adventurers to the Victor's Marks. That item is called a "Curio".\nNo one yet knows what a Curio really is, or how it guides adventurers.\n\n
+
+@6
+About the Heroes\nYou can choose from three heroes at first.\nThe difficulty and advantages of the game differ by hero.\n> {Rafael Castor:<$07>}\n> {Ril Argot:<$08>}\n> {Hodrum Joachim Bergstrom:<$09>}\n\n
+
+@7
+Rafael Castor\nA Portuguese boy.\nInspired by the many pioneers who set out from Lisbon, he becomes a sailor.\nAn easy character to play, with many companions from the start. Home port: Lisbon (Mediterranean).\n[Perk 1] {Military funding:<$25>} costs only 80% of the usual amount.\n[Perk 2] {Influence:<$B8>} gains from finding ruins and items are doubled.\n\n
+
+@8
+Ril Argot\nA Dutch woman.\nDreaming of making a fortune, she sets out into world trade.\nA hard character: funds are low and there are many strong rivals nearby from the start. Home port: Amsterdam (North Sea).\n[Perk 1] Sells trade goods for 5% more.\n[Perk 2] {Influence:<$B8>} gains from selling trending goods are doubled.\n\n
+
+@9
+Hodrum Joachim Bergstrom\nA Swedish admiral.\nHe leads the cash-strapped Swedish navy and strives to make it the strongest in the world.\nHe has good ships from the start as a military man, but there are strong rivals nearby. Home port: Stockholm (North Sea).\n[Perk 1] Winning battles against other factions earns a bounty from the Crown.\n[Perk 2] {Influence:<$B8>} gains from battle victories are doubled.\n\n
+
+@10
+Game Over\nThe game ends in any of the following cases.\n1. Your faction's {share:<$96>} is 0 in every port.\n2. In battle, every ship in your fleet is sunk or captured.\n3. The sailor count of every ship in your fleet is 0.\n\n\n\n
+
+@11
+Port Commands\nCommands you can use in a port. Select a building's sign to use it.\nCommands marked "(Cities Only)" can be used only when the port's size is "{City:<$91>}".\n> {Tavern:<$0C>}  > {Market:<$15>}  > {Guild:<$1A>}  > {Inn:<$22>}\n> {Palace / Governor's Office:<$23>}  > {Plaza:<$2A>}  > {Shipyard:<$2C>}  > {Harbor:<$49>}> {Port Data:<$90>}  > {Commands Common to Port and Sea:<$67>}\n[!] You can sometimes visit {ruins:<$50>} and the like in a port.\n\n
+
+@12
+Tavern\nRecruit sailors and gather information.\n[!] Many Arab-culture ports have no tavern for religious reasons, so sailors are hard to find. Be careful about starting battles there.\n> {Order a Drink:<$0D>}  > {Treat Everyone:<$0E>}\n> {Gather Sailors:<$0F>}  > {Plan a Scheme:<$10>}\n\n
+
+@13
+Order a Drink (Tavern)\nOrder a drink. It costs 5 to 10 gold coins. You may hear news of nearby ports or other factions.\n[!] City {taverns:<$91>} have women who will chat with you. They know a lot, so talk to them often. They may tell you where an item is...\n\n
+
+@14
+Treat Everyone (Tavern)\nBuy drinks for the people in the tavern.\nYou can hear news of nearby ports and other factions. Doing this before gathering sailors makes them easier to recruit.\nThey may also tell you about\nitems...\n> {Gather Sailors:<$0F>}\n\n
+
+@15
+Gather Sailors (Tavern)\nRecruit sailors for your ships.\nThe more developed the port, the more sailors come at once, but it costs a lot of gold coins. Any extra recruits are dismissed on the spot.\nTreating people to drinks first makes them easier to gather.\nOnce gathered, assign them to your ships in {Crew Setup:<$8B>}.\n\n
+
+@16
+Plan a Scheme (Tavern)\nPlot against other factions.\nAvailable only when your {Adviser:<$76>} has an inspiration.\nIt costs 1000 gold coins. It can fail.\nNot available in seas with no other factions. Except for "Forge Documents", schemes work only if you have visited a port where the other faction has a {share:<$96>}.\n> {Guide Fleet:<$11>}  > {Forge Documents:<$12>}  > {Bad Rumor:<$13>}  > {Bribe:<$14>}\n\n
+
+@17
+Guide Fleet (Tavern > Plan a Scheme)\nLure another faction's fleet to a port you choose. Pick one port in the sea as the destination.\n\n
+
+@18
+Forge Documents (Tavern > Plan a Scheme)\nWhen there are several other factions, forge a document that sets two of them against each other. Pick the two factions to make enemies.\n\n
+
+@19
+Bad Rumor (Tavern > Plan a Scheme)\nSpread a bad reputation about another faction in a port. Pick one port in the sea.\nSpreading it lowers that faction's share in the port.\nIf your Adviser's ability is low, no inspiration comes.\n\n
+
+@20
+Bribe (Tavern > Plan a Scheme)\nBribe a go-between in a port where another faction is present and take its share. Pick one port in the sea to bribe.\nIf your Adviser's ability is low, no inspiration comes.\n\n
+
+@21
+Market\nBuy and sell trade goods and gather information.\n[!] If you visit a port's market with an item of the "{Local Goods:<$C2>}" type, you may be asked to hand it over. If you do, that port's {specialties:<$98>} increase.\n> {Trade:<$16>}  > {Invest:<$17>}  > {Prices:<$18>}\n\n
+
+@22
+Trade (Market)\nBuy and sell trade goods. Available only in ports where you have a {share:<$96>}.\nPrices vary with the {port's status:<$93>} and other factors. The most you can buy depends on the port's share and the remaining stock, which recovers when the {stock month:<$18>} comes. A high profit rate makes a {Golden Route Found:<$C9>}.\n[!] With a {Purser:<$77>}, you may get discounts or buy up all the stock.\n[!] Ril, the hero, sells goods for 5% more.\n\n
+
+@23
+Invest (Market)\nInvest to develop a port's commerce. You can invest 1 to 20 units at a time. Each unit costs gold coins equal to 50% of the port's growth.\nInvesting raises growth. If the total {share:<$96>} in the port is under 100%, or a faction {At War:<$BB>} with you holds a share, your own share rises. High growth may increase {specialties:<$98>}.\n\n
+
+@24
+Prices (Market)\nView trade goods prices and stock months. Viewing another port's information costs 50 to 200 gold coins.\nA red buying price means the goods are trending.\n> {Trends:<$19>}\n\n
+
+@25
+Trends (Market > Prices)\nPrices of trending goods soar.\nTrends start naturally, or a {Missionary:<$75>} can start one on purpose.\nSelling lots of trending goods may earn you a free share. In ports with an {Exclusive Contract:<$97>}, you may receive a letter of introduction or recommendation. Taking a {letter of introduction:<$26>} or {letter of recommendation:<$27>} to the Governor's Office may let you sign with ports you could not before.\n\n
+
+@26
+Guild (Cities Only)\nBuy and sell items, send negotiation letters, and report Golden Routes.\n"{Ancient Maps:<$8E>}" are also sold at the Guild.\n> {Send Negotiation Letter:<$1B>}  > {Report Golden Route:<$51>}\n\n
+
+@27
+Send Negotiation Letter (Guild)\nSend a letter to another faction in the same sea.\nAvailable only when you have a {First Mate:<$79>}.\nIt costs 1000 gold coins. Negotiations can fail.\nNot available in seas with no other factions.\n> {Friendly Visit:<$1C>}  > {Make Pact:<$1D>}  > {Break Pact:<$1E>}\n> {Truce:<$1F>}  > {Declare War:<$20>}  > {Threaten:<$21>}\n\n
+
+@28
+Friendly Visit (Guild > Send Letter)\nSend a friendly letter.\nRaises the other faction's goodwill a little.\n\n
+
+@29
+Make Pact (Guild > Send Letter)\nMake a pact with another faction.\nGoodwill rises greatly and relations become "{Allied:<$BA>}".\nThey may help you in battle.\n\n
+
+@30
+Break Pact (Guild > Send Letter)\nBreak a pact.\nLowers the other faction's goodwill.\n\n
+
+@31
+Truce (Guild > Send Letter)\nPropose a truce to a faction "{At War:<$BB>}" with you.\nIf they accept, a truce begins. If the letter arrives during a battle, it is discarded.\n\n
+
+@32
+Declare War (Guild > Send Letter)\nDeclare war on another faction.\nGoodwill falls greatly and relations become "{At War:<$BB>}". The influence of factions at war is shown in red.\n[!] You can take shares from factions at war through investment and battle.\n\n
+
+@33
+Threaten (Guild > Send Letter)\nPress another faction to become your vassal. Available only if you hold the sea's "{Victor's Mark:<$04>}" and your First Mate's Diplomacy is 200 or more.\n\n
+
+@34
+Inn\nStay at an inn.\nIt costs 1 gold coin per night.\nStaying lowers your sailors' {fatigue:<$9D>} by about 10 per night. Mates also recover their health and HP.\n[!] If you have an {Adviser:<$76>}, staying at an inn may bring you news about other factions. [!] To stop while staying consecutive nights, press ×.\n\n
+
+@35
+Palace / Governor's Office\nSign contracts with ports and fund the military.\n> {Contract:<$24>}  > {Fund Military:<$25>}\n> {Use Introduction:<$26>}  > {Use Recommendation:<$27>}\n> {Lend Item:<$28>}  > {Take Back Item:<$29>}\n\n
+
+@36
+Contract (Palace / Governor)\nSign a contract with a port.\nYou can sign 1 to 20 units at a time.\nYou receive a {share:<$96>} by the number of units and can then trade in that port.\nYou cannot sign with a port that already has contracts with three factions, or where other factions' shares already total 100%.\n\n
+
+@37
+Fund Military (Palace / Governor)\nInvest in a port's defenses. You can invest 1 to 20 units at a time. Each unit costs gold coins equal to 50% of the port's armament (40% for Rafael).\nInvesting raises armament. If the total {share:<$96>} in the port is under 100%, or a faction {At War:<$BB>} with you holds a share, your own share rises. High armament makes surrender less likely when attacked, and lets you buy better ships and cannons.\n\n
+
+@38
+Use Introduction (Palace / Governor)\nGive the king or governor a {letter of introduction from the Market:<$19>}. Usable only when the port's size is "Port".\nUsed in a port where you hold a {contract:<$24>}, your {share:<$96>} rises by 5%. Used in a port without a contract, it lets you sign one, even if other factions' shares total 100% (you take 1% from them).\nIt cannot be used in ports with contracts with three factions, or where your share is 100%.\n\n
+
+@39
+Use Recommendation (Palace / Governor)\nGive the king or governor a {letter of recommendation from the Market:<$19>}. Usable in a port of any size.\nUsed in a port where you hold a {contract:<$24>}, your {share:<$96>} rises by 10%. Used in a port without a contract, it lets you sign one, even if other factions' shares total 100% (you take 1% from them).\nIt cannot be used in ports with contracts with three factions, or where your share is 100%.\n\n
+
+@40
+Lend Item (Palace / Governor)\nLend an item you carry to the king or governor. Available only at the Palace or Governor's Office of your home port.\nWhile lent, you receive rent each month by the item's value. "{Victor's Mark:<$04>}", "Proof Map" and "{Ancient Maps:<$8E>}" cannot be lent.\n\n
+
+@41
+Take Back Item (Palace / Governor)\nTake back an item you lent out. Available only at the Palace or Governor's Office of your home port.\n\n
+
+@42
+Plaza\nGather information.\nShops put up signs in the plaza.\nSelecting the "Trend Info" sign tells you about goods that are {trending:<$19>}.\n> {Distribute Goods:<$2B>}\n\n
+
+@43
+Distribute Goods (Plaza)\nGive trade goods to the townspeople for free. Available only when you have a {Missionary:<$75>}.\nThe goods you give out may become a {trend:<$19>} in nearby ports.\n\n
+
+@44
+Shipyard\nBuild and refit ships, store unused ships, and form or disband local fleets.\nWork costs money and takes days. A {Shipwright:<$71>} may lower the cost.\n> {Buy:<$2D>}  > {Sell:<$30>}  > {Repair:<$31>}  > {Refit:<$32>}  > {Dock:<$3E>}\n\n
+
+@45
+Buy (Shipyard)\nBuy a ship. The ships on sale differ by region.\nAfter buying a ship, you give it a name.\n> {Standard Hull:<$2E>}  > {Custom Order:<$2F>}\n\n
+
+@46
+Standard Hull (Shipyard > Buy)\nBuy a ship in standard specifications.\n\n
+
+@47
+Custom Order (Shipyard > Buy)\nSpecially order a ship with the same refits as one of your refitted ships.\nAvailable only in ports that sell that type of ship.\n\n
+
+@48
+Sell (Shipyard)\nSell a ship you own.\nSailors aboard move to other ships in your fleet.\nMove the ship's trade goods to other ships with {Arrange Cargo:<$4F>} at the Harbor.\n\n
+
+@49
+Repair (Shipyard)\nRepair ships with reduced durability.\nRepairs cost money and take several days. A {Shipwright:<$71>} can make them cheaper.\n\n

@@ -1,0 +1,926 @@
+@093.01EE
+Run!
+
+@094.0010
+I see. What a magnificent piece of work.
+
+@094.0082
+!?\n...You seem to know something.
+
+@094.00B2
+Indeed... But it is not something\nI tell just anyone.
+
+@094.00EA
+Only one fit to be a Victor may know it.\nIs that not so?
+
+@094.0124
+...If you know that much, this will be quick.\nThen tell me, why do you seek the Mark?
+
+@094.0184
+I don't know yet, not clearly.\nBut I do believe it must never fall to\nthe great powers that mean to\nrule Asia.
+
+@094.0200
+Please, if you know anything,\ntell me.
+
+@094.0232
+Before that...
+
+@094.0244
+You hold Westerners as your enemy.\nBut hatred and bitterness are far from\nwhat a Victor should be.
+
+@094.02C4
+Yet when I look into your eyes, I see deep\nsorrow and love for your people.\nThat is a heart of righteousness\nand compassion.
+
+@094.0334
+...Very well.\nI shall tell you.
+
+@094.0352
+Long ago, in the land of China, the clan\nthat guarded the map fled the pursuit of\nthe ruler of the day, and went far, far\nto the northeast, so it is said.
+
+@094.03CA
+Far to the northeast...
+
+@094.03E0
+At the edge of the north, near the frozen\nsea... The clan's descendants reached a\nsmall village, and they should still\nlive there quietly to this day.
+
+@094.044A
+...A village far to the northeast of China.\nThank you so much.
+
+@094.0544
+And do not let yourself be seized by evil\ndesires, either. Never surrender to\nhatred or anger.
+
+@095.0010
+Do the officials in this palace feel how\nfast the world is changing?\n...Never mind. Let's go back.
+
+@095.03CC
+Oh, I couldn't...\nYou should treasure that as a\nmark of your valor.
+
+@095.0484
+If you insist so kindly...\nI will gladly accept it.
+
+@096.0058
+What a splendid piece of jade...\nEven I, raised in China, have never\nseen anything this fine.
+
+@098.0122
+Yes, I would love to see it.
+
+@099.0396
+Oh, you're right.
+
+@102.0024
+Xian?
+
+@102.0034
+Is something... the matter?
+
+@102.004C
+Nothing. I was just thinking.
+
+@102.0094
+No, you just looked like something\nwas weighing on your mind.
+
+@102.00D2.0
+Well, a little...
+
+@102.00D2.1
+Nothing's troubling me
+
+@102.0108
+...\nI'm lost.\nI've lost my confidence.
+
+@102.012E
+Confidence?
+
+@102.013C
+Whether what I've done is right.\nWhether what I'm trying to do will truly\nhelp people...
+
+@102.01AA
+Of course it is right.\nEveryone thinks so.
+
+@102.01E2
+But the people I defeated had families\nand comrades too... It's a fact that\nI've made them unhappy.
+
+@102.0252
+Even so, can I say for certain that\nwhat I'm doing is not wrong?
+
+@102.02A8
+...I'm sorry.\nWith you, I always end up saying too much...
+
+@102.02D4
+No... It was careless of me.\nI had no idea that {FI} was\ntroubled so.
+
+@102.0324
+It's all right, don't worry.\nTalking about it eased my mind a little.\nI'm fine now.
+
+@102.0376
+I am not one to believe in superstition,\nbut...
+
+@102.03AE
+if {FI} would believe in it,\nit might be worth looking for.
+
+@102.03E8
+Looking for? What are you talking about?
+
+@102.040C
+The "Guiding Cane."
+
+@102.042C
+The Guiding Cane...?
+
+@102.043E
+A cane said to lead its bearer\ntoward goodness.\nThey say it is in India.
+
+@102.048E
+...Thank you, but I'm all right now.\nBesides, I have you with me.
+
+@102.04EE
+But if it really leads one to goodness,\nI would like to hold it.
+
+@102.0534
+I see.\nIt could be a salvation when you are lost.\nIf you ever need it, do go and look.
+
+@102.0588
+Yes.\nXian, thank you so much for today.
+
+@102.05B4
+Think nothing of it.
+
+@102.05D6
+Really? You worry too much.
+
+@102.05F8
+If that is so, then good.
+
+@102.0616
+There are still mighty enemies in the world.\nI can't afford to be troubled.\nAll I can do now is move forward.
+
+@102.0682
+That's right. And for that, I need you to\nkeep working hard. I won't let you retire\nto a quiet life back home any time soon.
+
+@102.06E4
+Hahaha! I understand.\nThen I shall go and take care of my own\nwork right away.
+
+@103.000A.0
+A-Admiral!\nSharks!!
+
+@103.000A.1
+Admiral!\nThere are sharks!!
+
+@103.000A.2
+Whoa!!\nS-sharks!!
+
+@103.000A.3
+Eek!\nS-sharks!!
+
+@103.000A.4
+A-Admiral!\nSharks, I tell ya!!
+
+@103.000A.5
+A-Admiral!\nSharks!!
+
+@103.000A.6
+A-Admiral!\nSharks!!
+
+@103.000A.7
+A-Admiral!\nSharks, I say!!
+
+@104.0010
+Thirty days to go to Ceuta and\nback from here...\nIt'll be tight.
+
+@105.0008
+Big sis, let's play!
+
+@105.0026
+Oh, how cute. Whose child is he?\nLittle one, what's your name?
+
+@105.006E
+Mao, stop that!!\nY-you mustn't!
+
+@105.0096
+Why not?
+
+@105.00AA
+Lady {FA}!\nI'm so sorry!!\nPlease forgive my son's rudeness!
+
+@105.00F0
+...It's fine.
+
+@105.0106
+Th-thank you!\nI'll make sure he never does\nanything like this again!
+
+@105.0174
+(Only the flowers and the little birds,\nI suppose. They're the only ones who\nrepay the love I give...)
+
+@105.01C6
+Xian?
+
+@105.01D6
+Did I disturb you?\nI called you several times...
+
+@105.0204
+...I'm sorry, I didn't notice.\nI was lost in thought.
+
+@105.023E
+Is something... wrong?
+
+@105.025E
+The townspeople are terribly afraid\nof me, aren't they?
+
+@105.0294
+All I ever did was try everything to\nprotect them from the wokou's\nbrutality...
+
+@105.02E2
+...Someday, they will understand too.
+
+@105.030C
+Tell me, Xian.
+
+@105.0320
+...When my father died and I decided to\nfight the wokou, I vowed to become a demon.
+
+@105.0378
+A demon is bound to be feared.\nI'm well aware the wokou pirates call me\nthe "Soaring Scarlet Orca" and fear me\nmore than I deserve.
+
+@105.03F4
+A demon is bound to be feared.\nI'm well aware the wokou pirates call me\nthe "Soaring Scarlet Orca" and fear me\nmore than I deserve.
+
+@105.0470
+But when I see the townspeople cowering\nright before my eyes, I just feel\nunbearably sad...
+
+@105.04C4
+...It seems this has been painful for you.
+
+@105.04EE
+I never meant to say any of this, but with\nyou, my tongue loosens before I know it.
+
+@105.0558
+Forget what I just said.
+
+@105.0570
+The ordeal has only just begun.\nBravado alone won't see you through.\nDon't force yourself in front of me.
+
+@105.05D6
+Thank you. But I'm all right.\nI have no time for complaining.
+
+@105.061C
+There's a mountain of things to do.\nI hate the thought of regretting\nwhat I left undone.
+
+@106.000C
+Sis {FA}, it's unofficial, but the Ming\ngovernment says it's willing to approve\nwhat you folks are doing.
+
+@106.0066
+Now, of all times...\nWhat difference does it make if the\ngovernment gives its permission?
+
+@106.00B6
+Quite so. With my connection to the\nhome country in England, the Ming government\nis nothing to fear.\nTheir condescension is unbearable.
+
+@106.0128
+Now, now, don't say that. Those stubborn\nofficials being swayed by your success and\npopularity is proof enough, isn't it?
+
+@106.01A0
+But they care a lot about appearances,\nso there's one condition. Take a look.
+
+@106.01EC
+It's a diagram for deciphering\na treasure map, apparently.
+
+@106.021C
+A treasure... map?
+
+@106.0232
+Apparently the treasure marked on that map\nis the "proof of being Victor of East Asia."\nFind it, and they'll accept it\nas your permit.
+
+@106.02B2
+The Victor's Mark...
+
+@106.02C8
+Word is the Western powers are searching\nfor it like mad. Don't let them\nbeat you to it.
+
+@106.0334
+It looks like some kind of assembly diagram.\nBut this alone tells me nothing...
+
+@107.000C
+This Bamboo Craft Diagram doesn't seem to\nbe a map to the Victor's Mark...
+
+@107.0050
+No. It seems to show how to assemble the\nTang Bamboo Craft.
+
+@107.009E
+How to assemble it...\nNow I'm curious.\nPerhaps...
+
+@107.00DA
+H-hey, {FI}!\nWhat do you mean to do, taking the\nTang Bamboo Craft apart?
+
+@107.0122
+I want to take it apart exactly as the\nBamboo Craft Diagram shows. There may\nbe a secret hidden inside.
+
+@107.0186
+I knew it!\nLook at the back of this bamboo!
+
+@107.01AE
+This map...\nCan it be a map to the Victor's Mark?
+
+@107.01E0
+It must be.\nThis is the map to East Asia's Victor's Mark...
+
+@107.0218
+Set sail!\nGet ready at once!
+
+@108.0008
+Ugh... *thud*
+
+@108.0036
+W-what is this!?
+
+@108.0052
+W-what!?
+
+@108.007C
+A man has collapsed!?
+
+@108.00B4
+H-help me...
+
+@108.00CC
+That is a terrible wound.\nWhat on earth happened to you?
+
+@108.0104
+Treatment comes first, anyway.\nBear the pain, please.
+
+@108.013C
+S-sorry...
+
+@108.0152
+These wounds look like beatings.\nMy name is {FA}, if you'll tell me\nthe reason.
+
+@108.01B4
+!\nThen you're the leader of the {FO}...\nYou'll believe my story, won't you!
+
+@108.01FA
+I... I worked for Coen. But his dirty\nmethods weighed on my conscience, and\nI ended up helping the townsfolk...
+
+@108.0270
+After that I was treated as a traitor...\nand I fled from him, more or less.
+
+@108.02C8
+But how did you get those wounds?\nYou weren't robbed by highwaymen\non the way, were you?
+
+@108.031C
+Those wounds are clearly a professional's\nwork... Do you know one of Coen's secrets?
+
+@108.0362
+You're sharp...\nI know Coen's plan.\nIf it leaks out, he's in trouble too.
+
+@108.03B6
+Coen's plan, hm.\nSurely it's some sort of vile scheme.
+
+@108.03EC
+...Tell me about this plan.\nOf course, I'll guarantee your safety.
+
+@108.0446
+Thank God. After this, you're my only hope.\nBy the way... do you know the Argot Company?
+
+@108.04B2
+There was a small outfit of that name up\naround the North Sea.\nIts admiral was a Ril Argot, I believe.
+
+@108.0512
+Coen is using the Argot Company to stop\nyour {FO} from expanding into\nSoutheast Asia.
+
+@108.058C
+He fed the Argot Company false information\nthat the {FO} is engaged in\nunscrupulous business.
+
+@108.05DC
+They say the Argot Company's Leader is a\ngirl with a strong sense of justice.\nShe swore she'd never forgive the {FO}.
+
+@108.0640
+...Coen figured that while the {FO}\nwas busy with the Argot Company, it couldn't\ntouch Southeast Asia.
+
+@108.06B8
+What a scoundrel!
+
+@108.06D4
+But it's quite a dangerous plan.\nIf it leaked, Coen would be caught\nin a pincer.
+
+@108.0734
+That's why he can't let anyone who knows\nthe secret out alive. If they find me,\nI'm sure to be silenced.
+
+@108.079C
+...The Argot Company, you said?\nDoes its Leader seem to have noticed\nthis plan?
+
+@108.07F8
+I couldn't say that\nfar...
+
+@108.0820
+{FI}.\nI think it is worth looking into.
+
+@109.0012
+What is it, all of a sudden?
+
+@109.0032
+Have you thought of a new operation for\nJam and me to carry out?
+
+@109.0072
+No, it's not that.\nListen for a moment. You too, Richard.
+
+@109.00C8
+...Ming was once a maritime kingdom the\nworld envied. Zheng He's great fleet of\njunks crossed the Indian Ocean and\nreached all the way to Africa.
+
+@109.0148
+But the sea ban let our seafaring skills\ndecline and trade died out, and now the\nnewcomer Western nations are about to\nstrip Asia of its wealth...
+
+@109.01BC
+That is painful for us to hear...
+
+@109.01DE
+I don't mean to blame Westerners.\nI think the fault lies with Ming's policy of\nthrowing away rights, with all that\ntechnology and opportunity in hand.
+
+@109.0258
+But I can't imagine the government will\nunderstand. Not that we have time to\npersuade them anyway.
+
+@109.02C2
+Look at Portugal, Spain,\nthe Netherlands, England, France...
+
+@109.0302
+Every great power is sending fleet after\nfleet in pursuit of trade profits, as you\nall know.
+
+@109.0364
+So, since we can't expect the government,\nsomeone has to act in its place.\nAnd I have no choice but to dive in now.
+
+@109.03C8
+But you are in a different position\nfrom mine. So...
+
+@109.03FE
+If that's all, don't worry about it.\nI serve the Admiral. I'll go wherever\nthe Admiral goes.
+
+@109.046E
+Heh. Hard stuff doesn't matter to me.\nI got chased out of my homeland, no regrets\nabout France. Being here is the most fun\nI've ever had, yeah.
+
+@109.04F2
+I act alongside you, Admiral, because I am\nwon over by your caliber. It is not only\ngratitude for having been saved.
+
+@109.0564
+Besides, imagining those arrogant Westerners\nstunned at your skill is not a bad\nthought either.
+
+@109.05E6
+All of you...
+
+@109.05FA
+Heh.
+
+@109.0608
+Then I'll stir up the world's seas to my\nheart's content.
+
+@109.0646
+Yahoo! That's what I'm talking about!
+
+@109.0672
+I'll have you play even tougher roles from\nnow on. Don't you dare complain.
+
+@109.06D2
+Yikes, scary!
+
+@109.06FC
+Leave it to me.
+
+@110.000A
+(That's {FI}... What are they\ndoing here?)
+
+@110.003A
+(But they don't look as scary as the\nrumors say... If I act humble and flatter\nthem, maybe they won't do anything...)
+
+@110.00AA
+Admiral {FA}!\nThanks for crushing the ones who've\nbeen making us suffer, I'm in your debt...\nI mean, I am deeply indebted, ma'am!
+
+@110.0116
+...No thanks needed.
+
+@110.013E
+Hahaha!\nWe are always on the side of you\ncommon folk.
+
+@110.0186
+There was a man in Malacca looking for\nyou, Admiral, heh heh...
+
+@110.01C8
+I see... Thank you.
+
+@110.0200
+That guy was trembling...
+
+@110.0226
+(Even here, I... Why?)
+
+@111.0008
+Sis, I've been waiting for you.\nCould you take this person to a village\ncalled Guam?
+
+@111.0068
+What's the matter with this person?
+
+@111.0084
+We can't understand each other, so I'm not\nsure, but they washed up in the Spice\nIslands in a dugout canoe.
+
+@111.00DE
+Seems they sneaked onto a Western ship and\nmanaged to get this far, but then couldn't\nget back home.
+
+@111.014A
+Guam, was it?\nWhere is that village?
+
+@111.0182
+Well, don't ask me. This person only\npoints east-northeast.
+
+@111.01CA
+...What shall I do?
+
+@111.01E4
+There's nobody else I can ask.\nPlease, Sis.
+
+@111.0226
+...It may take a while.\nIf that's all right, they can ride on\nmy ship.
+
+@111.027A
+Thank you.
+
+@111.028C
+...Xie xie.
+
+@111.02A6
+Oh, Chinese?
+
+@111.02BC
+Ha, I taught them that.\nI figured you'd take them on for sure.
+
+@111.0316
+You think highly of me.
+
+@111.0336
+Xie xie.
+
+@112.0008
+What on earth is the Southeast Asian\nVictor's Mark map?
+
+@112.004A
+Isn't the Ancient Coin suspicious? Of\ncourse, nothing like a map is drawn\non it, but...
+
+@112.00B2
+Another thing I can't figure out the use\nof is the Milk Jar.
+
+@112.00F0
+What if I put the Ancient Coin in this jar?\n...Trying is faster than thinking.
+
+@112.014E
+...No!\nThe milk is dissolving the coin!
+
+@112.0198
+A map appearing when the surface melts\naway... You'd hardly think of that.
+
+@112.01E0
+Still, I'm glad that was the right call.\n{FI} does bold things now and then,\nafter all...
+
+@112.0238
+I reached out without thinking, but I should\nbe a bit more careful.\nXian, sorry for worrying you.
+
+@112.02A0
+No, no. Anyway, finding the Victor's Mark\ncomes first now.
+
+@113.0008
+...This place has few customers.
+
+@113.003E
+So it does...
+
+@113.0054
+Very few.\nJust one man in the back...
+
+@113.007E
+Ho ho ho!\nIs the feast over already?\nBring me more!
+
+@113.00CE
+Could that man be hogging it all?
+
+@113.0100
+I heard that. I'm not hogging anything.\nI'm simply paying for what I eat and drink.
+
+@113.014C
+I'm paying this much money, so I can\neat, drink and make as much noise as\nI like!
+
+@113.01A6
+What a vulgar man...
+
+@113.01B8
+No matter how much gold he has, behaving\nlike that only lowers his own dignity.
+
+@113.020A
+Ho ho ho, in this world the one with the\nmoney wins!
+
+@113.0244
+How unfortunate, to find value\nonly in money.
+
+@113.0280
+What are you saying!\nUnfortunate, me, when I'm this rich!\nIn this world money is everything!
+
+@113.02DA
+Whatever we say, it's useless...
+
+@113.0316
+It's not getting through at all.
+
+@113.033C
+Oh... Are you perhaps a newcomer?\nShould I show you the power of my\nNagarpur Company?
+
+@113.03A8
+Ah... So you're Nagarpur.\nThe Nagarpur Company, famed for its\ngreed and doing anything for money.
+
+@113.040E
+And you must be the {FO}. Since you\nfound fault with me, I trust you have the\nresolve and the funds for it.
+
+@113.047A
+I'll make you thoroughly understand\nhow precious money is.\nHo ho ho!
+
+@113.04D0
+This is going to be a troublesome opponent...
+
+@114.000C
+Oh, {FI}! How are you?\nYou're the talk of the town.
+
+@114.003E
+Heh...\nNothing good, I suppose?
+
+@114.006E
+What are you saying?\nI admire you, you know.
+
+@114.00B0
+You sail the dangerous seas and do deeds\nthat don't fall an inch behind the men,\nright? Every woman around here is your fan.
+
+@114.0130
+F-fan?
+
+@114.0146
+Yes, you're a guiding star for women!\nOh, I'll give you something nice!\nPlease take it.\nI want to be of use to you.
+
+@114.01B0
+O-oh, I see.\nI'll gladly accept.
+
+@114.01D4
+(It's been a long time since anyone in\ntown spoke to me so warmly...)
+
+@115.000C
+The Evergreen Lotus Leaf and the Kushan\nPlatter. These two are tied to the\nVictor's Mark map.
+
+@115.006E
+A leaf and a platter together.\nThat is a hard one.
+
+@115.00AE
+Can't my Tao magic do something?\nHyaaah!!
+
+@115.00E2
+...That is wasted effort.
+
+@115.0100
+...Is this lotus leaf really evergreen?\nIt looks completely dried out.
+
+@115.0156
+!!\nWhy not soak the leaf in water?
+
+@115.0184
+So that's what this platter is for?\nPour water into it and float the\nleaf on top...
+
+@115.01D2
+The leaf is soaking up the water!
+
+@115.01F8
+The leaf veins have turned into a map!\nThis is the Victor's Mark map of the\nIndian Ocean!
+
+@115.024C
+All that's left is to find the\nVictor's Mark.
+
+@116.0016
+Hey, Ian.
+
+@116.0038
+Everyone keeps saying Admiral {FI} is\nscary, but is she really that fearsome?\nShe doesn't look it to me.
+
+@116.00B8
+You joined later, so you wouldn't know.\nIt's more accurate to call her strict\nabout rewards and punishments than scary.
+
+@116.011E
+You joined later, so you wouldn't know.\nWell, instead of scary, you'd better call\nher clear about rewards and punishments.
+
+@116.0196
+Right. Once, something like this happened...
+
+@116.01C2
+In a fierce battle with the wokou, one\nsubordinate saved his own skin by fleeing\nthe line alone, leaving our ships\nsurrounded by the enemy.
+
+@116.023A
+Because of him we suffered a crushing\ndefeat, and many soldiers died or were\ncaptured.
+
+@116.027E
+But soon the man realized he would have\nno place to return to...
+
+@116.02C6
+That night, alone and risking his life, he\ncharged into the flagship of the wokou fleet,\ndrunk on victory, and took the enemy\ncommander's head. A great victory, after all.
+
+@116.032E
+Wow!
+
+@116.033C
+To the man who returned in triumph,\nAdmiral {FI} had prepared an executive\nposition and gold as rewards\nfor the victory.
+
+@116.0392
+But without a moment's pause, she charged him\nwith desertion in the face of the enemy\nand pronounced his execution...
+
+@116.03E4
+The Admiral gave the gold she had prepared\nto the man's family and promised to pay a\npension at executive rank forever.
+
+@116.0442
+The man wept, spoke his thanks, and\naccepted the sentence...
+
+@116.048E
+The Admiral then was so frightening that\nnobody could speak to her... and so sad\nthat it was unbearable to look at.
+
+@116.04FC
+The Admiral then was so frightening that\nnone could speak to her... and so sad\nthat it was unbearable to look upon.
+
+@116.0562
+...\nSo that happened...
+
+@116.058C
+Hm?\nAre you talking about Admiral {FI}?\nLet me tell you all the details!
+
+@116.05C0
+...I've already heard it, thanks.
+
+@116.05DE
+No, no, if I tell it you'll understand the\nAdmiral's feelings far better, and further\nthe high ideals the {FO} aims for...
+
+@116.0646
+I'm going to sleep.\nGood night!
+
+@116.0668
+Well then.
+
+@116.068C
+I too shall take my leave.
+
+@116.06A6
+H-hey, you, my story...
+
+@117.0008
+So these two stone tablets are the Africa\nVictor's Mark map?
+
+@117.004A
+The Stone Tablet Top and the Stone Tablet\nBase.\nWe must be meant to combine them.
+
+@117.0098
+Let's line them up and set them down.
+
+@117.00C2
+Oh, they fit together perfectly...
+
+@117.00E4
+This is the Victor's Mark map.\nFor a puzzle, this one was rather\nanticlimactic.
+
+@117.012E
+Up to here, yes.\nFinding where the Victor's Mark lies may\ngive us trouble.
+
+@117.0174
+Perhaps so.\nCome, let's go look for it.
+
+@119.0008
+You folks are looking for the\nMediterranean Victor's Mark, aren't you?
+
+@119.0042
+You know a lot.\nThat's why we're looking for the map.
+
+@119.007A
+It was quite a while ago, but I heard that\nthe Patterned Cloth is that map.
+
+@119.00C8
+It looks like plain cloth, but if you use\nsomething on it, a map is said to\nshow up...
+
+@119.0114
+What to do with it, I wonder...\nBut that was helpful. Thank you.
+
+@120.0008
+{FI}.\nAbout that Patterned Cloth we heard of...
+
+@120.003C
+Did you figure something out?
+
+@120.0054
+To make a map surface, how about\nthe heat-reveal trick?
+
+@120.0098
+I think the Brass Lamp could be used.
+
+@120.00D4
+I see.\nLet's try it.
+
+@120.00F6
+Heating the cloth with the Brass Lamp...
+
+@120.0122
+Xian, you were right. So this is the\nMediterranean Victor's Mark map.
+
+@121.001A
+<Calm Man's Voice>\nExcuse me. Sorry to intrude, but...
+
+@121.006A
+I'm Bergstrom of the Swedish Navy.\nAre you Admiral {FA}, the one who's been\nso much in the rumors lately?
+
+@121.00C0
+...And if I say yes?
+
+@121.00DC
+What is your aim?\nWorld conquest?
+
+@121.00FC
+What will you do with the answer?
+
+@121.011C
+...I only want to see with my own eyes\nwhether you are our enemy.
+
+@121.0160
+You are...
+
+@121.0176
+We meet again.\nDo you need something?
+
+@121.0196
+Admiral {FA}.\nWhat is your aim?\nWorld conquest?
+
+@121.01C6
+What will you do with the answer?
+
+@121.01EA
+If you intend to make every sea your own\nand monopolize the profits from the sea\ntrade routes...
+
+@121.024E
+then I too must fight, to protect my\nhomeland's free commerce.
+
+@121.0288
+My aim...\nI have no obligation or need to tell\nyou that.
+
+@121.02D6
+I will only say that it is a little\ndifferent from what you think.
+
+@121.031A
+Whether I am your enemy or not...\nthat is entirely up to you.
+
+@121.036E
+I don't know who you are, but... for now\nI don't sense that you will become\nmy enemy.
+
+@121.03D2
+For now, I don't sense that you will\nbecome my enemy.
+
+@121.040E
+Well, this is a surprise.\nI came to size you up, and instead\nI end up being tested.
+
+@121.045A
+Tested? Well, think what you like,\nbut I have no taste for making\nenemies needlessly.
+
+@121.04AE
+...Understood.\nThen I'll leave it at a warning.
+
+@121.04DA
+That's enough for today.\nIt would be pointless to provoke\nyour wrath carelessly.
+
+@121.052A
+Oh. What do you mean?
+
+@121.0546
+I seem to have said too much.\nExcuse me.
+
+@122.000C.2
+Admiral,\nwe found this letter at Clifford's manor.
+
+@122.000C.3
+Admiral,\nwe found this letter at Clifford's manor.
+
+@122.000C.4
+Admiral,\nwe found this letter at Clifford's manor.
+
+@122.000C.5
+Admiral,\nwe found this letter at Clifford's manor.
+
+@122.000C.6
+Admiraaal,\nthere's a letter at Clifford's house!
+
+@122.0090
+A letter?
+
+@122.009E.2
+It's this one.
+
+@122.009E.4
+Here it is, sir.
+
+@122.009E.5
+Hm, here it is.
+
+@122.00F6
+"To my worthy rival..."?
+
+@122.0112
+ To the one who defeated me: take this\n letter to a tavern in Amsterdam.\n I have prepared a gift.\n      James Clifford
+
+@122.019E
+Meaning I should go to the tavern\nin Amsterdam.

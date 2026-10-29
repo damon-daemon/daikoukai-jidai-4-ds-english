@@ -1,0 +1,911 @@
+@000.000E
+It seems to be a book recording\nold Indian legends.
+
+@000.0048
+So... Sera's homeland was\nan Indian kingdom?
+
+@000.0086
+But India is much too far from\nthe Ottoman Empire's reach...
+
+@003.01DE
+...Pirates.
+
+@003.01EE
+Their leader appears to be a woman,\nsir...
+
+@003.0210
+Woman or not,\na pirate is a pirate.\nPrepare for battle.
+
+@005.0008
+You there, heave to.\nYou're Julien Vermeer, are you not?
+
+@005.0072
+Betraying your homeland for gold\nis unforgivable.
+
+@006.0008
+Plett Perrault, I take it.\nYou have the face of a man who has\ndone plenty of wrong. I can't leave\na killer at large...
+
+@006.00DA
+As I thought, villainy is all you're\ngood for. Then no need to hold back.\nHere I come!
+
+@007.0008
+Jean Ramusio, cease your illegal\ntrade at once and surrender!
+
+@007.0048
+Illegal?\nHeh, got any proof?
+
+@007.0072
+Your very existence is the proof.\nBeat the dust out of a man like you\nand there'll be plenty. I'm happy to\nbeat it out by force.
+
+@007.00DA
+You're a dense bunch, aren't you?\nIf you're so eager to die,\nI'll help you along!
+
+@008.0008
+Jacob Portunt, is it?\nYou've grown fat on smuggling.\nBut you'll enjoy that easy money\nonly until today.
+
+@008.0082
+What did you say?\nI won't be lectured by the likes of you!
+
+@009.0008
+Hernan Berio, is it? I'll be your\nopponent myself. A match against a\nskilled fighter now and then is nice.
+
+@009.0066
+It's been a while since anyone came\nat me. These days they all take one\nlook and flee at full speed.\nBeing too strong has its problems.
+
+@009.00E4
+Fine. I've been bored for ages.\nI'll take you on!
+
+@010.000C
+Iscar Yasar, I presume?\nBy royal command, I will strike you down.\nBe prepared.
+
+@010.0054
+...Admiral {FA}, is it?\nYou're worthy of me. Let's go!
+
+@011.0044
+He's finally shown himself!
+
+@011.0060
+...He is indeed a dangerous foe.
+
+@012.0008
+Hahaha! Now you know!\nI'll let it go at this for today.
+
+@012.004E
+If you want to defeat me, you'd\nbetter make a name for yourself\nin the Caribbean first!!
+
+@012.0098
+Listen well, never show your face in\nthe southern Mediterranean again!\nIf I see you again, I'll hunt you to\nthe ends of the world and crush you!!
+
+@015.0014
+Release all the prisoners.
+
+@015.0034
+Damn it!
+
+@015.0044
+They aren't pursuing us.\nThey're withdrawing quickly.\nHm?
+
+@015.0080
+One ship has run aground.
+
+@015.009C
+Abandoned, then.\nCheck inside.
+
+@015.00C6
+Admiral, a moment...
+
+@015.00DE
+What is it?
+
+@015.00F0
+I found someone who looks very out\nof place on this ship.
+
+@015.015E
+\n\nLike a doll......
+
+@015.0180
+\n\n!!
+
+@015.018E
+Admiral!!\nThis woman!!
+
+@015.01A8
+Wait, tch...\nShe seems to think I'm a pirate\nor something.
+
+@015.01F4
+Understandable.\nRest easy, you're free now.
+
+@015.022C
+That face...\nYou don't look like other Africans.
+
+@015.0266
+Judging by your clothes,\nyou're not a Muslim either...\nYou must come from a good family.
+
+@015.02B8
+...She doesn't understand us.
+
+@015.02F0
+What shall we do? If we don't know\nwhere she was taken from, we can't\nsend her home.
+
+@015.034C
+What do we do? If we don't know\nwhere she was taken from, we'd have\na hard time sending her home.
+
+@015.03AE
+How are the other prisoners?
+
+@015.03DC
+They all seem to want us to\njust let them go.
+
+@015.040E
+They all seem to want us to\njust let them go.
+
+@015.0440
+Even we can't be trusted in their eyes.\nVery well. Anyone who wishes it\nwill be released as they are.
+
+@015.04E0
+Do as you like.\n...That knife won't protect you\nfrom now on. Take this.
+
+@015.053C
+<Foreign Girl>\n!?
+
+@015.0556
+D-dangerous, sir! Handing her a weapon!\nShe may try to cut you down\nagain!
+
+@015.05A4
+If she wants to cut me, let her.
+
+@015.05D6
+<Foreign Girl>\n...!
+
+@015.0616
+L-look out!
+
+@015.062C
+<Foreign Girl>\n...
+
+@015.0644
+Hm? You don't want it?
+
+@015.0660
+<Foreign Girl>\n(Nod.)
+
+@015.0682
+...\nHeh. I see.
+
+@015.06AC
+(Whew, that scared me...)
+
+@015.06CC
+(Phew...)
+
+@016.000C
+We won, sir.
+
+@016.0020
+Yes. For one who aims to command\nthe strongest fleet, this is expected.
+
+@016.005C
+You're as strict as ever, sir.
+
+@016.00D4
+Manuel...
+
+@016.0258
+That's a fine poem. I'm surprised.\nI never knew you had such talent.
+
+@016.029A
+Yes, I'm impressed.
+
+@017.0148
+It sounds noisy over there...
+
+@017.016A
+Her men appear to have surrounded\nthat female pirate, sir.
+
+@017.01A0
+...Bring the ship closer.
+
+@017.038A
+Admiral!\nIf we leave her be,\nthat woman will be killed!
+
+@017.03C4
+...We can hardly abandon her.
+
+@017.03E6
+Well then, let's go.
+
+@017.03FA
+H-hey, don't be hasty!
+
+@017.0506
+Shall we blow guys like that away\nwith a nice big bang?
+
+@017.05F2
+You finally noticed.
+
+@017.061C
+...Did you come to help this woman too?
+
+@017.0646
+And if I said yes?
+
+@017.0660
+Tch, she's the one to blame for it all.\nWhy are we the ones in this mess...
+
+@017.06A0
+...You must be tired of complaining by now.\nWhy not release her?
+
+@017.06E4
+You'd be satisfied if Aziza were gone,\nwouldn't you?
+
+@017.0718
+You heard that, huh?\nNobody will follow her anymore.
+
+@017.075A
+Then we'll take Aziza off your hands.
+
+@017.0794
+Is that so?\nBut we can't just give her away\nfor nothing.
+
+@017.07EC
+Al, stop.\nSo, what will it take to settle this?
+
+@017.0814
+Hand over 1,000,000 gold.
+
+@017.083C
+Aziza... come.
+
+@017.085E
+Business done. See you around!
+
+@017.0888
+Betrayed by my own crew...\nI've really sunk low.\nBut more importantly, why did you\nsave me?
+
+@017.08EC
+I couldn't leave you...
+
+@017.0908
+Not helping in that situation would\nmake you quite an inhuman wretch.
+
+@017.0942
+I've been wondering, if I may.\nA person of your caliber,\nwhy did you sink to piracy?
+
+@017.099E
+You flatter me.\n...I didn't sink to anything.\nI'm a pirate's daughter.\nMy father was a pirate.
+
+@017.09FC
+I see.
+
+@017.0A08
+Those pirates were my father's men.\nSince I was little, I learned swordplay\nby watching and picked up\nthe pirate trade.
+
+@017.0A6E
+And what became of your father?
+
+@017.0A90
+He died in an accident.\n...That sword was his treasure.\nIt vanished along with him...
+
+@017.0B64
+So when I learned you had that sword,\nI just had to get it back.\nIf I did...
+
+@017.0C1E
+Truth is, I didn't want to be a great\npirate so much as I wanted my father's\nkeepsake.\nI realized that at some point...
+
+@017.0D70
+Al, I know what you want to say.\nAziza, will you board my ship?
+
+@017.0DB4
+I'm grateful...\n...I'll work hard for you.\nAfter all, you saved my life.
+
+@017.0E38
+Repaying a benefactor with loyalty\nis also a way to live.
+
+@017.0E6C
+It's going to get lively again...
+
+@018.0062
+Say what you like.
+
+@018.0080
+Tch. I'll retreat for now,\nbut I will never yield! Remember it!\nMy name is Aziza Nurennahar!
+
+@018.00F2
+...I'll remember it.
+
+@019.001C
+...We withdraw for today.
+
+@019.003A
+Oh? Running away, are you!?\nYou're more of a coward than you look!
+
+@019.007A
+Do not take the bait, sir!
+
+@019.009E
+I know. Retreat!
+
+@019.00D2
+Let us withdraw for now, sir.
+
+@019.00F4
+That pirate is no ordinary one.\nShe'd pass as a navy admiral...
+
+@020.0012
+Behave yourself.\nYou're coming with us to Sao Jorge.
+
+@021.0012
+Bind him tightly.\nWe're taking him to Hangzhou.
+
+@022.0012
+What a troublesome fellow.\nNo wonder the Basra Guild had its hands full.
+
+@022.0052
+Give me a break! If it weren't for me,\nthis whole area would be a lot\nmore of a mess than it is!
+
+@022.00BA
+Trying to justify his own crimes,\nwhat a sickening man.\nHe's the lowest of the low.
+
+@023.0012
+D-damn...\nMy precious cargo...
+
+@023.003A
+Instead of that stolen cargo, you'd do\nbetter to worry about your fate once we\ntake you to Calicut.
+
+@024.0012
+...L-listen!\nI only lost because I let you win!
+
+@024.0042
+We'll hand you over to the Athens Guild.\nBehave until then.
+
+@025.0012
+...Guh!\nI... I lose? I can't accept it!\nI won't accept it!
+
+@025.0058
+Guhaa!!
+
+@025.006E
+The mission is complete.\nWe return to Stockholm to report\nto His Majesty.
+
+@025.00AE
+Admiral! We found this on the enemy ship!
+
+@025.00E0
+Looks like his plunder...\nBut it's no ordinary plate.
+
+@026.0044
+It's about time he showed his face,\nI would think.
+
+@026.00A6
+At this pace, we'll bury the pirate\nfleets one after another.
+
+@027.005E
+...We must get the Havana Guild\nto take him off our hands soon.
+
+@028.0008
+At last, we've dealt with them.
+
+@028.0024.0
+Let's report to the Malacca Guild\nright away!
+
+@028.0024.1
+We must report to the Malacca Guild\nat once.
+
+@028.0024.2
+Let's hurry and report to the\nMalacca Guild!
+
+@028.0024.3
+Let's report to the Malacca Guild\nright away!
+
+@028.0024.4
+Let's go report to the Malacca Guild\nand be quick about it!
+
+@028.0024.5
+Let's report to the Malacca Guild\nright away, shall we.
+
+@028.0024.6
+Let's hurry and tell the Malacca\nGuild!
+
+@028.0024.7
+Shall we go report to the Malacca\nGuild right away!
+
+@029.000E
+Th-there! I see it!
+
+@029.0026
+Is that Speyer's ship?
+
+@029.0042
+That Hanse cog is definitely it!
+
+@029.0072
+But unless it's in our territorial\nwaters, we can't crack down on it.
+
+@029.00B4
+W-what!?\nThey just opened fire on us!
+
+@029.00E4
+What are they thinking? A mistake!?
+
+@029.010C
+Hand flag signal!
+
+@029.011E
+Aye! What does it say!?
+
+@029.0138
+Your fleet may have\ntrespassed in our territorial waters.
+
+@029.0172
+We wish to hear the details,\nso we request that you heave to.
+
+@029.01CE
+N-no good!!\nThey won't even look at our signal!
+
+@029.020A
+They did it on purpose...
+
+@029.021C
+They mean to bury us before\ntrouble starts.
+
+@029.024E
+If that's how it is, no need to hold back.\nAll hands, battle stations!!
+
+@029.0286
+Tch, what annoying bastards!\nShow that makeshift, useless fleet\nhow terrifying naval war is!
+
+@029.02E4
+Charles! What's your battle plan?
+
+@029.030A
+Here we use the textbook tactic,\nthe "crossing the T" maneuver.
+
+@029.0336
+We avoid their broadsides, their effective\nrange, circle to their front or rear, and\nfinish them with a full volley from our\nown broadside!
+
+@029.03AE
+Good, I leave the gunnery to you!
+
+@029.03CE
+Leave it to me!\nJust steer the ship, and\nI'll direct the gunners!
+
+@029.0418
+Now it's time to test the power of\nthis new cannon!
+
+@029.0454
+--Steer the ship's course and\nadjust the sails just like\nyou normally do.
+
+@029.049E
+When an enemy ship enters range,\nthe cannons fire automatically.
+
+@029.04D2
+Admiral! Send me to the Marine\nQuarters as Boarding Chief!
+
+@029.0510
+In battle, change the mates' duties to\nbattle ones too. You change them on\nthe Deck Screen.
+
+@029.0564
+To open the Deck Screen, press the X\nButton and choose "Deck Screen"\nfrom the menu.
+
+@029.05B8
+In battle, assigning mates to Armed\nCannons, Marine Quarters, and the\nDeck is useful.
+
+@029.05F6
+Select Gerhard and try sending him\nto the Marine Quarters.
+
+@029.0630
+When ships touch, melee combat starts\nautomatically. He should do well as\nBoarding Chief.
+
+@029.0692
+Now, Admiral, give the ship its course!
+
+@030.0024
+Hey, you there, fleet!! Are you the one\nwho came near my turf!? If you value\nyour life, get out of the southern\nMediterranean!
+
+@030.0096
+So that's the "ridiculous guy" the\nman at the Harbor warned us about.
+
+@030.00D0
+That's Barbarossa!!\n...I knew it!!
+
+@030.00FC
+You know him?
+
+@030.0114
+Barbarossa Fazl Hayreddin...\nHe bears the name "Barbarossa,"\nsynonymous with the Algiers pirate chiefs.
+
+@030.017E
+From the look of him, he's highly skilled.
+
+@030.01A2
+Yes.\nIn a word, he's a monster.\nAnd what's more...
+
+@030.01DA
+Ally or not, I won't allow you to\nintrude on my turf!\nGet out of the southern Mediterranean!
+
+@030.0228
+So that's the "ridiculous guy" the\nman at the Harbor warned us about.
+
+@030.0262
+So it was Barbarossa after all!!
+
+@030.0296.0
+What a huge fleet! You'd better\nescape for your own good!
+
+@030.0296.1
+What a terrifying fleet...!\nIt's best to escape.
+
+@030.0296.2
+Whoa, what a huge fleet!\nWe should flee, shouldn't we!?
+
+@030.0296.3
+What a huge fleet!\nAdmiral, you should run away!
+
+@030.0296.4
+Damn, that's a huge fleet!\nBest we run for it, sir!
+
+@030.0296.5
+Goodness, what a huge fleet!\nIt'd be wise to flee, I say!
+
+@030.0296.6
+Wow, so many of them!\nNo way, let's run away!
+
+@030.0296.7
+What a huge fleet!\nBest we flee, I'd say!
+
+@030.044C.0
+Prepare for battle!
+
+@030.044C.1
+Let's fall back.
+
+@030.0478
+Oh, you mean to fight!?\nHahahaha!!\nThen I show no mercy. Kill them all!!
+
+@030.04D4
+Hahaha! A wise choice!\nIf you want to fight me, you'd better\nmake a name for yourself in the\nCaribbean first!!
+
+@030.053C
+Listen well, never show your face in\nthe Mediterranean again! If I see you\nagain, I'll hunt you to the ends of the\nworld and crush you!!
+
+@031.001A
+You're a persistent bastard.\nThen I'll take you on myself.
+
+@031.005A
+You're a persistent bastard.\nThen I'll take you on myself.\nBefore you stir the wrath of a\ntruly frightening man.
+
+@032.000A.0
+We've found Maldonado's\nfleet!!
+
+@032.000A.1
+We've found Maldonado's\nfleet!!
+
+@032.000A.2
+We found Maldonado's\nfleet, Admiral!!
+
+@032.000A.3
+We've found Maldonado's\nfleet!!
+
+@032.000A.4
+We've found Maldonado's\nfleet!!
+
+@032.000A.5
+We've found Maldonado's\nfleet!!
+
+@032.000A.6
+Oh, it's Maldonado's fleet!!
+
+@032.000A.7
+We've found Maldonado's\nfleet!!
+
+@032.00B2
+Listen up, you lot!\nShow these clueless frontier boys\nfrom Europe how things are done in\nthe Caribbean!
+
+@032.0118.0
+He's brought quite a lot of ships!!
+
+@032.0118.1
+He's brought quite a lot of ships.
+
+@032.0118.2
+He's brought loads of ships!!
+
+@032.0118.3
+He's brought loads of ships!
+
+@032.0118.4
+He's brought quite a lot of ships, sir!!
+
+@032.0118.5
+He's brought quite a lot of ships!
+
+@032.0118.6
+There are lots of them!
+
+@032.0118.7
+He's brought quite a lot of ships!!
+
+@032.0208
+Don't be intimidated.\nDo what we always do.\nHere we go! All hands, battle stations!!
+
+@032.0254.0
+Admiral, more are coming from behind!!
+
+@032.0254.1
+Admiral, more are coming from behind!!
+
+@032.0254.2
+A-Admiral!\nMore are coming from behind!!
+
+@032.0254.3
+Admiral, more are coming from behind!!
+
+@032.0254.4
+Admiral, more are coming from behind,\nsir!!
+
+@032.0254.5
+Admiral, more are coming from behind!!
+
+@032.0254.6
+Waaah!\nMore are coming from behind!!
+
+@032.0254.7
+Admiral, more are coming from behind!!
+
+@032.031C
+What!?
+
+@032.0348
+Oh, God!
+
+@032.0370
+N-no good...\nWe can't beat that many!
+
+@032.03A2
+N-no good... Logically speaking,\nwe can't beat that many!
+
+@032.03E4
+...Wait. Whose banner is that?
+
+@032.0420
+Good timing.\nWe'll lend you a hand.
+
+@032.044E
+The Escante army!
+
+@032.0476
+W-we're saved!
+
+@032.0490
+W-we're saved!
+
+@032.04B8
+Hey, good timing!\nWe'll help you out!!
+
+@032.04EE
+The Escante army!
+
+@032.0516
+W-we're saved!
+
+@032.0530
+W-we're saved!
+
+@033.0008
+Admiral {FA}.\nMagnificent work. Truly reassuring.
+
+@033.0032
+Maldonado is dealt with, but the English\npirates are still a nuisance.
+
+@033.007A
+I'd like to keep our pact with you\ngoing. What do you say?
+
+@033.00EE
+(Espinosa in Africa is starting to move\n in earnest. We must deal with him\n quickly.)
+
+@033.0152
+Hm...
+
+@033.015E
+(I think we should accept the offer\n here...)
+
+@033.019E.0
+Very well.
+
+@033.01C0
+Hmm. I look forward to your exploits.
+
+@033.0208
+I see. That's a shame.\nI pray you won't become our enemy.
+
+@034.000A
+Hahaha! Picking a fight with me in the\nopen, that's quite some nerve!\nGive me a good time, at least!
+
+@034.0086
+Heh! What a happy creature.\nI'll bet on it. You'll lose!
+
+@035.000A
+Infidels, one after another!\nThe sea routes of the Indian Ocean\nbelong to us Muslims!
+
+@036.000A
+Those Ming thugs hired barbarians!\nDamn them!\nI'll show no mercy to anyone in my way!
+
+@037.000A
+...Admiral.\nPlease look at that.
+
+@037.0038
+That ship seems to be a slaver, sir.
+
+@037.005C
+Human trafficking is supposed to\nbe banned.
+
+@037.0084
+It's still rampant, I'm afraid.\nAs a patrol fleet, we can't overlook\nit, can we?
+
+@037.00D8.0
+Prepare to attack.
+
+@037.00D8.1
+That's overstepping our authority...
+
+@037.0116
+They have something to hide.\nWhatever the pretext, we've found prey\nwe can openly take down.\nThat much is certain.
+
+@037.019C
+Good. We strike just before they dock!\nAll hands, battle stations!
+
+@037.01E6
+Heh, let's make it a big one!
+
+@038.000C
+There! It's Ril's fleet!
+
+@038.002C
+Maria Huamei Li!\nWhat have I ever done to you!?
+
+@038.0070
+Maria...?
+
+@038.0084
+Ril!\nThat's Coen's disguised fleet!\nDon't be fooled!
+
+@038.00C4
+Kamil!?
+
+@038.00D6
+It's Coen's scheme to make you and\nMaria fight each other!
+
+@038.0114
+What are you talking about?\nBut... Huh?? ??
+
+@038.013C
+Is that true, Kamil?
+
+@038.015A
+Yes, I know the man called Coen well.\nAnd Maria detected this plan and\ntold us about it.
+
+@038.01C8
+I see.
+
+@038.01D6
+Aim! The unidentified fleet ahead!
+
+@038.01FA
+Coen! Show your true colors!
+
+@038.021A
+Fire!!
+
+@038.022A
+Haaah!!
+
+@038.0250
+Damn you!!
+
+@038.026E
+That's the {FO}!?\nLord Coen, this puts us at a disadvantage.
+
+@038.02A4
+Tch, this is as far as we go!\nPull back!!
+
+@038.02D0
+That was... Coen!?\nThen I...!
+
+@039.000A
+Enemy fleet sighted ahead!
+
+@039.0026
+Barbarians!\nLet me show you the Yamato spirit!!
+
+@039.0076
+W-what is that ship!?
+
+@039.0098
+W-what is that ship!?
+
+@039.00BA
+...An ironclad!!
+
+@039.00E6
+I never knew such a ship existed...
+
+@040.000C
+Halt!
+
+@040.002C
+Too bad. There's no escape.
+
+@040.0058
+Hahaha! So you're the one called\n{FA}! Your tale of valor ends here,\nit seems!
+
+@040.00B4
+That Pasha... He won't coexist with me\nin the Mediterranean, will he.
+
+@040.011C.0
+W-we're surrounded!\nWhat a huge number of ships!
+
+@040.011C.1
+We're surrounded!\nWhat a huge number of ships!
+
+@040.011C.2
+Whoaaa! W-we're surrounded!\nWhat a huge number of ships!
+
+@040.011C.3
+W-we're surrounded!?\nWhat a huge number of ships!
+
+@040.011C.4
+W-we're surrounded, sir!\nWhat a huge number of ships!
+
+@040.011C.5
+W-we're surrounded!\nWhat a huge number of ships!
+
+@040.011C.6
+W-we're surrounded!\nThere are sooo many!
+
+@040.011C.7
+W-we're surrounded!\nWhat a huge number of ships, I say!
+
+@040.029C
+Hmph... a rabble.\nBreak through!
+
+@040.02C0
+Pwahaha! Cocky one, aren't you!\nDo you know who you're insulting?
+
+@040.030A
+A rough sort of general.
+
+@040.0324
+I'll publicly execute this fool.\nAll ships, charge!!
+
+@040.035C
+Waaah!!
+
+@040.0374
+What is it!?
+
+@040.0388
+Pasha!\nW-we're taking fire from the town!!
+
+@040.03BE
+W-what!?\nWhy!? What's going on!?
+
+@040.03F2
+I d-don't know! Someone's seized the\ntown's batteries, it seems, sir!
+
+@040.046E
+!! What was that!?
+
+@040.048A
+Gwaaaaah!
+
+@040.04B4
+Have Mushari's fleet engage them!\nFull speed away!!
+
+@040.04E8
+Have Mushari and Al-Najud's fleets\nengage them! Full speed away!!
+
+@040.0544
+Hey, what happened to my public\nexecution? Come fight me.
+
+@040.0588
+Guh! Come on!\nI'll make you spit blood!

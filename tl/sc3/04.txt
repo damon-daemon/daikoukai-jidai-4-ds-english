@@ -1,0 +1,944 @@
+@123.0008
+Master, do you recognize this letter?
+
+@123.0038
+Hm, let me see...
+
+@123.004E
+I see... So Mr. Clifford...\nWait here a moment.
+
+@123.00AA
+This is...\nthe key to solving the Mark's map?
+
+@123.00D6
+...Most likely.
+
+@123.00EA
+Going out of his way to leave the map's\nkey for whoever defeated him...\nWhat was Clifford thinking?
+
+@123.015C
+His pride, that's what.
+
+@123.0176
+He believed himself the Victor of the\nNorth Sea. So if he ever lost, no one\nbut his conqueror could be the new\nVictor. That is all there is to it.
+
+@123.022A
+I see. Somehow I think I understand\nhow he felt...
+
+@123.0270
+I see. Somehow I think I understand\nhow he felt...
+
+@124.000C
+This "Old Parchment" that cult leader\nwanted so desperately... It must be the\nmap to the North Sea Victor's Mark.
+
+@124.0066
+It looks blank to me... But to solve\nthis riddle, we will need something else.
+
+@124.00B4
+What shall we try?\n...Let's start with what's at hand.\nI'll pour the "Red Pigment" on it.
+
+@124.010E
+...Oh!\nSomething is appearing!
+
+@124.013A
+So this is the map to the North Sea\nVictor's Mark... We finally have it.
+
+@125.0008
+Oh,\nAdmiral {FA}.
+
+@125.001C
+It seems Escante was plotting a coup to\nbreak away from Spain. Thanks to you,\nwe were able to stop it before it\nhappened.
+
+@125.00A0
+But one thing still troubles me.
+
+@125.00D2
+I heard that the key to the treasure\nEscante was after was recently taken\nby someone to the west coast of the\nNew World.
+
+@125.013E
+Could it be...\nthe Mark's map!
+
+@125.0160
+The west side of the New World, eh?\nThis is serious.
+
+@126.000C
+By the way, {FI}.\nWouldn't the "Ritual Dagger" fit the\n"Sun Crest Sheath" perfectly?
+
+@126.005E
+Now that you mention it, they're the\nsame size.
+
+@126.007C
+They may once have been a single piece.\nShall we sheathe the blade...
+
+@126.00CA
+Whoa, what in the world!
+
+@126.00F2
+It's blinding!\n...\nWhat did you do, Xian?!
+
+@126.0120
+I don't know...\nThe sheath suddenly gave off light...\n...You can open your eyes now.
+
+@126.0168
+Oh?\nA map is drawn on the blade.\nWhen did that happen?
+
+@126.019E
+What is going on...
+
+@126.01B8
+This is...!\nThe map to the New World's Victor's\nMark!
+
+@126.01E8
+A map appeared when we sheathed the\ndagger? I don't understand any of this.
+
+@127.0012
+Don't screw with me.\nDon't you underestimate me.
+
+@127.003A
+Do what you want!\nYou're fired, a man like you!
+
+@127.0078
+Fine.\nI'll leave, just like you want.
+
+@127.00B4
+Dear me... Watching a man get fired\nis unpleasant.
+
+@127.00EC
+Did you see that man's build?
+
+@127.010C
+Quite fine muscles, I'd say. But he\nseems short-tempered. I'd guess he's a\ntrouble magnet.
+
+@127.0170
+Don't you think making use of a\ntroublesome man is part of a Leader's\nskill?
+
+@127.01AE
+Well, listen to you. ...Could you be\nLeader {FA}?\nI'll warn you now, that guy is hard to\nhandle.
+
+@127.020C
+And how is his skill, the part that\nmatters?
+
+@127.022E
+Well, I've never seen him lose a fight.
+
+@127.0272
+Then there's no problem.\nXian, let's go after him.
+
+@127.02AA
+There he is.
+
+@127.02CA
+I have a job for you.
+
+@127.02DE
+A job? You want to hire me?\n...Who are you?
+
+@127.030C
+The admiral of a private fleet.
+
+@127.032C
+Don't tell me... you're the famous\nAdmiral {FA}?
+
+@127.0354
+You know of me, then.\nThat makes this quick.
+
+@127.037C
+The enemies we'll face in the West are\nformidable, and we need strong\nfighters. Will you sail on my ship?
+
+@127.03E0
+The West...? Are you out of your mind?
+
+@127.0402
+Oh, losing your nerve?\nDid I misjudge you?
+
+@127.043C
+Heh, now that sounds interesting!\nFine, I'll help.\nDon't underestimate my skills.
+
+@127.0490
+Reliable indeed.\nBy the way, we haven't heard your\nname yet.
+
+@127.04CE
+It's Al.
+
+@127.04E0
+Pleased to meet you. I'll tell you now,\nI dislike men who are all talk.\nI'm counting on you.
+
+@128.000E
+Whoops, sorry about that!
+
+@128.0052
+That man must have dropped it...\nA pendant...? It has a woman's\nportrait inside...
+
+@128.00AA
+Surely a woman dear to him...\nHis sweetheart or some such, I imagine.
+
+@128.00E2
+Then let's return it to him.
+
+@128.0112
+Mamma mia! My beloved sister!\nThe pendant is gone!
+
+@128.0154
+It's not here! Not here! Not here!\nIt's nowhere to be found!
+
+@128.0186
+Admiral, that man... That's him.
+
+@128.01AA
+Pen-dan-t! Where did it go!!!
+
+@128.01E0
+Hey, you there!!\nCalm yourself!!\nPerhaps this is what you seek?
+
+@128.022E
+Oh, sister!! The pendant!
+
+@128.0254
+Sister?\n...Is this woman your sister?
+
+@128.0282
+That's right.\nThanks. She's precious to me.\nShe's missing, and I'm searching...
+
+@128.02D4
+I see. I hope you find her...
+
+@128.0300
+You're an admiral, so a sailor, right?\nHey, how about hiring me? I've\nsailed a few times! I'll be useful!
+
+@128.0380
+Please, I want to find my sister.\nI don't know where she is, but she's\nsomewhere in this world, I know it!
+
+@128.03FE
+...Very well.\nI suppose fate brought us together...\nAll right, I'll hire you.
+
+@128.0436
+Mamma mia!!\nHang on, sister!!\nI'm Angelo Puccini.\nPleased to be aboard!
+
+@128.0492
+I'm\n{FI} {FA}.\nThe pleasure is mine.
+
+@129.0008
+...Admiral, I need to talk to you.
+
+@129.0024
+Oh, all right...
+
+@129.003A
+Then we should leave you two...
+
+@129.005E
+Old man, no, all of you,\nI want you to hear this...
+
+@129.008C
+Very well.
+
+@129.00A0
+It's about my sister, Bianca...
+
+@129.00C0
+We already said we would help with\nthat.
+
+@129.00F4
+No, that's not it.
+
+@129.0112
+...Bianca is... gone.
+
+@129.0138
+Gone...?
+
+@129.014E
+Bianca, my only family, died of illness\nthree years ago...
+
+@129.0194
+She died...? Then why were you\nsearching for your sister......?
+
+@129.01CE
+When Bianca died... I couldn't accept\nit at the time...
+
+@129.0218
+I convinced myself she was missing and\nsearched the whole world for her...
+
+@129.0256
+Angelo...
+
+@129.026A
+When I collapsed with that fever...
+
+@129.0286
+My sister told me.\nYou people are my family now...\nAnd that I should live\nfor myself.
+
+@129.02FA
+She was a good sister...\nShe truly worried about you.
+
+@129.033E
+You must live as long as you have life.\nFor your late sister's share, too.
+
+@129.0386
+That's right, Angelo.\nDon't make your sister sad.\nAs she said, we are family.
+
+@129.03DC
+Yeah, thanks.\nI'm counting on you from now on, too.
+
+@129.040C
+And on you, too.
+
+@129.0422
+...\n(Bianca... I'm sorry.\n From now on... I'll live for your\n share, too. I swear.)
+
+@130.002E
+(Someone's ahead of us?)
+
+@130.03E4
+Why did you think he was ill?
+
+@130.0472
+Is that so...?\nI didn't think he looked all that bad.
+
+@130.0506
+(Well...)
+
+@130.0580
+Yes, let's go.
+
+@130.09DA
+...Wait.
+
+@130.09F8
+You're Carlo, I believe...\nCould I ask you to put your business\nsense to use on my ship?
+
+@130.0A72
+It's not sudden.\nI've been thinking about it since\nyesterday.
+
+@130.0AC8
+Then you know the market rates well.\nA fleet needs people with a merchant's\ninstincts.
+
+@130.0B24
+Do you dislike sailing alone?\nOr don't you want to leave your family?
+
+@130.0D2E
+...And your hometown?
+
+@130.0DB4
+If you dislike returning to Venice\nalone, come with us.
+
+@130.0E08
+Sailing together, everyone aboard is\nlike family. I think a new family\nwouldn't be so bad.
+
+@130.0E5C
+You people......\nare you saying you'll be my new family?
+
+@130.0EA0
+If you don't mind.
+
+@130.0EC0
+......Thank you. I'll gladly sail\nwith you.
+
+@131.000C
+Maybe I drank a bit too much...
+
+@131.0054
+The music changed...\nI've never heard a tune like this\nback home.
+
+@131.00B2
+What's wrong...?
+
+@131.013A
+Wonderful...
+
+@131.01E0
+What a wonderful dance...\nIt was a passionate dance, unlike any\nin the East.
+
+@131.021A
+Oh, this dance is called\nflamenco.
+
+@131.024A
+I'd like to see it again.
+
+@132.0008
+Yeehaw!\nThat's Calicut for you!\nIt's hot!
+
+@132.004E
+Ah, no good. A place this hot doesn't\nagree with my constitution...
+
+@132.0090
+Hmm. It really is hot.
+
+@132.00B2
+The scenery has changed quite a lot\nthis far out.
+
+@132.00E2
+Hey, Admiral!\nThey're selling something over there!\nLooks tasty!
+
+@132.0120
+Jam, wait a moment...\nAh... he's already gone.
+
+@132.0158
+Honestly...
+
+@132.016C
+Admiraaal!\nHelp meee!
+
+@132.018E
+Hm?\nWas that Jam's voice?
+
+@132.01AE
+How unusual for him to say that.\nWhat happened, I wonder?
+
+@132.01F4
+Did he eat something strange and upset\nhis stomach?
+
+@132.0222
+Oh, Admiral! Sorry!\nI can't believe it...\nI got caught by some weird brat...
+
+@132.0286
+Oh. Are you the admiral?\nThis guy lost a bet to me, so\nI'm taking him.
+
+@132.02DA
+What is this kid?!
+
+@132.02F6
+Taking him...? What do you mean?
+
+@132.031C
+He's a peddler, boss.\nHe said if I won a coin toss he'd\nthrow in a freebie, so I just...
+
+@132.0376
+And you lost...\nBut why does that make you his?
+
+@132.03D0
+Oh, that. We agreed that if the coin\ncame up heads ten times in a row,\nhe'd do anything I said.
+
+@132.043A
+Ten heads in a row never happens!\nNormally!\nDamn it, I can't believe it!
+
+@132.0488
+But it really did come up heads.\nHeh heh.
+
+@132.04B6
+...Show me that coin.
+
+@132.04DC
+Huh?\nN-no, you can't.
+
+@132.04F6
+Hm? Suspicious.
+
+@132.050E
+Is it a trick coin?\nHey, show us!!
+
+@132.0542
+Aaah!!
+
+@132.055E
+Aw, you caught me.
+
+@132.057C
+Two coins stacked together.\nHeads on both sides.
+
+@132.05B6
+Damn it!\nThis brat, making a fool of me!
+
+@132.05E6
+Heh heh. Sorry.
+
+@132.05FE
+You!\nSorry doesn't cut it!
+
+@132.0620
+Then how about this:\nI lost that bet, okay...
+
+@132.0650
+What do you propose?
+
+@132.066A
+Take me with you.\nI'll do anything.
+
+@132.06B8
+How pushy...
+
+@132.06E0
+Hmph, what use could such an arrogant\nboy possibly be!
+
+@132.0718
+(Look who's talking...)
+
+@132.073A
+...What a shameless brat.\nI'm speechless.
+
+@132.0768
+You're travelers, right?\nI can do anything, so I'll be really\nuseful, I promise.
+
+@132.07B8
+Hey, sounds fun!\nI'll work him to the bone!\n...Admiral, no good?
+
+@132.0818
+Of course not.
+
+@132.0832
+Come on, Admiral!
+
+@132.0848
+Please, Admiral!\n...Hey, why are you asking too?!
+
+@132.0880
+I'm sick of elephants, I tell you.\nI want to see other countries.\nSeriously, I'll do anything!
+
+@132.08E6
+...All right.
+
+@132.08F6
+Y-yay!
+
+@132.090C
+{FI}!\nAre you sure about this?
+
+@132.092A
+Yes. Not many could make a fool of Jam.\nHe may turn out to be a hidden gem.
+
+@132.097C
+...Did he just use me?\nDamn it!
+
+@132.09C6
+Yay! I can go somewhere else!\nI've never even been on a ship!\nI'm Samuel. Nice to meet you!
+
+@132.0A28
+...Nice to meet you.
+
+@132.0A3A
+Hmm...\nTo me he looks like nothing but a\nburden...
+
+@135.0008
+Hey, hey!
+
+@135.001A
+Eeek!!!\nSomebody help me, sir!
+
+@135.005A
+W-what?!
+
+@135.0072
+What's going on?!
+
+@135.008A
+Someone is being beaten over there!
+
+@135.00B0
+The one being attacked looks awfully\nweak...\nShall we lend a hand?
+
+@135.011A
+Attacking the weak is unforgivable!\nI shall go with you!
+
+@135.0180
+Young man. Are you all right?
+
+@135.019E
+Ow, ow...\nNot really...\nI am not all right, sir.
+
+@135.01D2
+Why were you fighting those men?
+
+@135.020C
+Did they pick a quarrel with you?\nEvery country seems to have its\nscoundrels...
+
+@135.0258
+Well, you see...
+
+@135.0280
+Those people said things like "The\nEarth is flat," you see...
+
+@135.02BE
+...What of it?
+
+@135.02DC
+The Earth is round! It is common\nknowledge now, sir!! I thought I\nshould correct their mistaken\nunderstanding.
+
+@135.0350
+...And then?
+
+@135.0362
+I began to explain, sir. And suddenly\nthose people turned strange, sir.
+
+@135.03BA
+They made a scary face, said "Who are\nyou to tell me that," and\nthrew a punch at me...
+
+@135.0412
+Hm?\nI don't quite follow.
+
+@135.0436
+I do not follow either, sir.
+
+@135.045A
+I only said, "Frankly, you are\nwrong!!" sir. And then...
+
+@135.04B8
+...The other fellow got angry.
+
+@135.04D6
+Whoa!\nHow did you know, sir?
+
+@135.0502
+...I think anyone would know.
+
+@135.0522
+Is that so... But I cannot\nunderstand it, sir.
+
+@135.055A
+Their knowledge was mistaken.\nI was correcting it for them!\nThey ought to be thanking me!
+
+@135.05CA
+I would thank anyone who taught me, sir!\nAfter all, one more truth about this\nworld would have been revealed!
+
+@135.0650
+Hmm. It seems every country has its\neccentrics.
+
+@135.0682
+Eagerness to learn is good, but...
+
+@135.06B2
+Do you have knowledge of ships?
+
+@135.06D8
+Ships, sir! Of course, sir! I once\nserved as a captain, sir! Refitting\nships was my hobby, sir!
+
+@135.0768
+This man, a captain! ...Unbelievable.
+
+@135.0790
+...I see.\nThen there should be no problem.
+
+@135.07CE
+Admiral.\nSurely you don't mean to take this man\naboard?
+
+@135.080E
+Surely you don't mean to take this man\naboard, {FI}?
+
+@135.0842
+I do. I like his zeal for research.\nBesides... with that personality,\nordinary life would be hard for him.
+
+@135.08B6
+True enough...
+
+@135.08E0
+Honestly... The Admiral is oddly\nsoft-hearted.
+
+@135.0910
+Honestly... The Admiral is oddly\nsoft-hearted, isn't she?
+
+@135.0948
+Um...
+
+@135.0958
+Oh, sorry for ignoring you.\nWhat is it?
+
+@135.0982
+Um... are you an admiral, sir?
+
+@135.09B2
+Indeed.\nHave you heard of the {FO}?
+
+@135.09D2
+!\nThen you are...\nAdmiral {FI} {FA}...?
+
+@135.09FE
+You know me?\nThen this is quick. Would you like to\nwork for me as a mate?
+
+@135.0A54
+Yes, sir! Please, I beg you, sir!\nLet me sail with you!
+
+@135.0A98
+Good, then.\nWhat is your name?
+
+@135.0AB6
+Cesare Toni, sir!\nThank you very much, sir!
+
+@135.0AFA
+Hmm...\nWhat does the Admiral see in that man?\nI don't understand...
+
+@135.0B50
+A mystery...
+
+@136.0246
+Not good enough yet... Oh, I'll pass on\nthe drink. By the way, were you really\nthat confident about gambling?
+
+@136.032A
+Luck aside, insight, you say?
+
+@136.03CC
+Is he proposing, perhaps?
+
+@136.05B2
+I'm amazed... How did you know?
+
+@136.0692
+Amazing. You noticed that much.
+
+@136.071C
+What a wonderful talent. How about\njoining my {FO} and\ntrying out that power?
+
+@136.07EA
+Forget the drink.\nCome to the {FO}\nquickly.
+
+@136.0954
+I'm counting on you.
+
+@137.0008
+Life has gotten dull lately...
+
+@137.0030
+Oh? There seems to be a man who has\nseen some years.
+
+@137.005C
+More "elderly" than "seasoned," I'd say.
+
+@137.0090
+Birds of a feather. Why not drink\ntogether?
+
+@137.00BC
+What do you mean, birds of a feather!
+
+@137.00E6
+Ho ho. Quite lively for an old-timer.
+
+@137.010E
+What! I am still young!\nYou must be well into retirement.
+
+@137.015E
+What! I'm still an active mate, I'll\nhave you know!\nI won't lose to any young whippersnapper!
+
+@137.01B0
+Oh ho! Big words from an old-timer!
+
+@137.01D8
+See, birds of a feather after all...
+
+@137.0202
+Don't get so worked up, Xian...\nExcuse me, but I hear you are a mate...?
+
+@137.025C
+That's right. I'm Julio Elneco.\nAnd you are... could you be\nAdmiral {FA}?
+
+@137.02A2
+I'm honored you know me.\nWould you be interested in my ship?
+
+@137.02DC
+Of course.\nBy the way... is that an invitation to\nbecome your mate?
+
+@137.0328
+You may take it that way.
+
+@137.034E
+The Admiral has odd tastes...
+
+@137.037A
+Look who's talking...
+
+@137.039A
+If {FI}\nsays so, I won't\nobject, but...
+
+@137.03C6
+...Very well. Sail together and we'll\nsee who the old-timer is.\nThough the result is obvious...
+
+@137.042E
+Of course I'm the younger one.
+
+@137.045A
+Now, now. I'm counting on you both.
+
+@137.0482
+Oh. A pair of geezers is born...\nThis should be fun!
+
+@138.0008
+{FI}.\nSomeone seems to be near our ship.
+
+@138.003E
+...This is a magnificent ship.\nBut...
+
+@138.006A
+What are you doing here?
+
+@138.0090
+I was looking at the ship. Standing\nnear her like this, I feel I can hear\nher heartbeat...
+
+@138.00E8
+It's just that this ship...\n!!! Could you be\nAdmiral {FA}?
+
+@138.012E
+Yes.\nMore to the point... what about this\nship?
+
+@138.0152
+It seems she has not been maintained\nenough... If you don't cherish her more,\nthe ship will weep.
+
+@138.01C0
+Oh? "The ship will weep." Quite a\npoetic expression.
+
+@138.01F4
+Who are you?
+
+@138.020A
+I am Manuel.\nI used to be a mate.\nForgive my rudeness...
+
+@138.0262
+It's true this ship is not in perfect\ncondition. To see that at a glance, he\nmust be very skilled.
+
+@138.02B8
+I sense considerable knowledge and\nexperience, and love for ships.
+
+@138.02EC
+You clearly love ships, so I don't\nunderstand why you quit being a mate.\nWould you tell me, if you don't mind?
+
+@138.0350
+I'm sorry... It was a long time ago...
+
+@138.0376
+Then another question.\nWould you consider returning to the\nsea... to life on a ship?
+
+@138.03AE
+What do you mean...?
+
+@138.03C0
+I would like you to look after my ship.
+
+@138.03FC
+What do you say?\nOf course, only if you want to.
+
+@138.0444
+...Thank you.\nBeing near ships is what I live for.\nI will gladly come aboard.
+
+@138.051E
+Well then... shall I explain especially\nthe stations that prepare you for\nocean voyages?
+
+@138.05D2
+The Galley and the Livestock Pen staff\nwill reduce the fleet's water and food\nconsumption.
+
+@138.0676
+Also, mates who are sick or injured\nrecover faster if placed in a Private\nRoom or the Recreation Room.
+
+@139.0112
+{FI}, shall we try meeting him?\nHe might be of use to us.
+
+@139.01E4
+That must be Mr. Mikhail.
+
+@139.04AC
+...Personality aside, he seems\nlearned. Shall we invite him to join?
+
+@139.051E
+We were impressed by your earlier\nknowledge. Please lend your strength\nto our {FO}.
+
+@139.05C8
+Please, somehow.\nLend us your strength.
+
+@139.0648
+Our admiral,\n{FI} {FA}.
+
+@139.0708
+Eek!
+
+@139.0714
+{FI}, are you all right!\nWhat an insolent fellow!
+
+@139.07AA
+We were the ones who invited him, after\nall. It can't be helped now.\nXian, let's permit him aboard.
+
+@139.0806
+But this shameless man...
+
+@139.0826
+Shameless, you say! This is skinship!
+
+@139.0856
+You Easterners wouldn't understand, but\nin the West it's how we show\nfriendship and affection!
+
+@139.08A4
+I'll pass...
+
+@140.0014
+Hm, an intruder!
+
+@140.0038
+...What? What happened?
+
+@140.0054
+This one has been following us for\nsome time now.\nBut...
+
+@140.0098
+To think it would be a girl like this...
+
+@140.00BA
+Hey, let go of me!
+
+@140.00D6
+Yukihisa, let her go.\n...Why were you following us?
+
+@140.0108
+I have a favor to ask you, miss.
+
+@140.0132
+You're from the {FO},\nright? Take me on your ship!
+
+@140.0170
+How sudden. A girl with no manners.
+
+@140.0198
+...You show up out of nowhere and ask\nto join my ship?\nDo you have a reason?
+
+@140.01DE
+I want to see the world!\nI'll train all over the world, get\nstronger, and show my master!
+
+@140.0244
+Hm... training, you say.\nWhat art do you hope to master?
+
+@140.0284
+Glad you asked!\nThen I'll show you my Tao magic!
+
+@140.02DA
+Okay, ready your sword! Here I go!
+
+@140.030E
+Haaaah!!!
+
+@140.0330
+(?\n Nothing seems to have happened...)
+
+@140.0358
+Opening! Hyah!
+
+@140.037E
+Whoa!
+
+@140.038E
+Wow! You dodged it, mister!\nThat was the "Binding Spell"!
+
+@140.03D2
+That was a "binding"?\nI took it for a mere slip on my part...
+
+@140.0408
+Heh heh. Mysterious, right?
+
+@140.0428
+Impressive.\nJust closing in on Yukihisa that fast\nis worth praising.
+
+@140.0472
+That movement and sense of distance...\nOnly someone trained in martial arts\ncould do that.
+
+@140.04BA
+...Do you really mean to set out into\nthe world?
+
+@140.04E2
+Because I want to show my master!\n...Please, miss! Take me out into the\nworld!
+
+@140.0542
+...The wish to prove someone wrong can\nsometimes make a person grow a lot.\nWhat is your name?
+
+@140.05B6
+Ifa, if you come aboard my ship, you\nwork as a full crew member. No special\ntreatment, so be prepared.
+
+@140.0618
+Bring it on!
+
+@140.062E
+I am Yukihisa.\nI shall not be caught off guard again!
+
+@140.0660
+Heh heh. Can you beat my Tao magic?

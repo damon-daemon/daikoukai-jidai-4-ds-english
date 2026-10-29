@@ -1,0 +1,503 @@
+@3500
+Angelo Appears
+
+@3501
+Angelo Fights
+
+@3502
+Angelo Defeated
+
+@3503
+Bianca
+
+@3504
+Angelo and Bianca
+
+@3505
+Ian at a Loss
+
+@3506
+Ian's Misfortune
+
+@3507
+Beautiful Ian
+
+@3508
+Matador Appears
+
+@3509
+Bustling Bullring
+
+@3510
+Carlo Standing at the Grave
+
+@3511
+Pitiful Mivor
+
+@3512
+Christina's Dance
+
+@3513
+Christina Close-up
+
+@3514
+Gerhard's Mansion
+
+@3515
+Samuel Puffing Up
+
+@3516
+Wild Jam 1
+
+@3517
+Wild Jam 2
+
+@3518
+Charles's Factory
+
+@3519
+Ril Hugging Kamil
+
+@3520
+Child Who Is Drowning
+
+@3521
+Christina Holding the Child
+
+@3522
+Go for It, Mivor
+
+@3523
+Quite a Good Couple
+
+@3524
+Yukihisa's Poise
+
+@3525
+Beloved Elysion
+
+@3526
+Jenas and the Ship
+
+@3527
+Tavern
+
+@3528
+Inn
+
+@3529
+Office
+
+@3530
+Reception Room
+
+@3531
+Ship's Deck 1
+
+@3532
+Ship's Deck 2
+
+@3533
+Room in Chinese Mansion
+
+@3534
+Portrait of Rocco
+
+@3535
+Forest 01 (straight)
+
+@3536
+Forest 02 (straight)
+
+@3537
+Forest 03 (right turn)
+
+@3538
+Forest 04 (left turn)
+
+@3539
+Forest 05 (left narrow, right wide)
+
+@3540
+Forest 06 (left wide, right narrow)
+
+@3541
+Forest 07 (straight or left)
+
+@3542
+Forest 08 (straight or right)
+
+@3543
+Forest 09 (cliff)
+
+@3544
+Forest 10 (dead end)
+
+@3545
+Forest 11 (river)
+
+@3546
+Forest 12 (swamp)
+
+@3547
+Forest 13 (thick fog)
+
+@3548
+Forest 14 (cave)
+
+@3549
+Jungle 01 (straight)
+
+@3550
+Jungle 02 (straight)
+
+@3551
+Jungle 03 (right turn)
+
+@3552
+Jungle 04 (left turn)
+
+@3553
+Jungle 05 (left narrow, right wide)
+
+@3554
+Jungle 06 (left wide, right narrow)
+
+@3555
+Jungle 07 (straight or left)
+
+@3556
+Jungle 08 (straight or right)
+
+@3557
+Jungle 09 (cliff)
+
+@3558
+Jungle 10 (dead end)
+
+@3559
+Jungle 11 (river)
+
+@3560
+Jungle 12 (swamp)
+
+@3561
+Jungle 13 (thick fog)
+
+@3562
+Jungle 14 (cave)
+
+@3563
+Shared Cave
+
+@3564
+Desert 01
+
+@3565
+Desert 02
+
+@3566
+Desert 03
+
+@3567
+Desert 04 (oasis)
+
+@3568
+Desert 05 (quicksand)
+
+@3569
+Desert 06 (sandstorm)
+
+@3570
+Opening Finale
+
+@3571
+Sea and Sun
+
+@3572
+Rafael and the Tomato
+
+@3573
+Opening Finale 2
+
+@3574
+Opening: Hodrum 1
+
+@3575
+Opening: Ril 1
+
+@3576
+Opening: Ril 2
+
+@3577
+Slave Ship in Port
+
+@3578
+Peaceful Scenery
+
+@3579
+Slavers Raid the Village
+
+@3580
+Meaningful Sera
+
+@3581
+Maria and the Rose 1
+
+@3582
+Maria and the Rose 2
+
+@3583
+The Enemies
+
+@3584
+Eirene in the Study
+
+@3585
+Knife 1
+
+@3586
+Map
+
+@3587
+Weigh Anchor
+
+@3588
+Set the Sails
+
+@3589
+Departure
+
+@3590
+Evening
+
+@3591
+Night
+
+@3592
+Opening: Hodrum 2
+
+@3593
+Rafael and the Tomato
+
+@3594
+Transition 1A
+
+@3595
+Transition 1B
+
+@3596
+Transition 2A
+
+@3597
+Transition 2B
+
+@3598
+Title
+
+@3599
+Title 2
+
+@3600
+Title 3
+
+@3601
+Rafael Name 1
+
+@3602
+Rafael Name 2
+
+@3603
+Hodrum Name 1
+
+@3604
+Hodrum Name 2
+
+@3605
+Ril Name
+
+@3606
+Meaningful Sera 2
+
+@3607
+Search for the X Mark
+
+@3608
+The treasure sleeps in the waters of the New World
+
+@3609
+The treasure sleeps in the waters of the New World
+
+@3610
+Who would claim the treasure, set forth from the New World seas
+
+@3611
+Who would claim the treasure, set forth from the North Sea.
+
+@3612
+The treasure sleeps in the waters of the North Sea.
+
+@3613
+Who would claim the treasure, set forth from the North Sea.
+
+@3614
+Who would claim the treasure, set forth from the Mediterranean.
+
+@3615
+The treasure sleeps in the waters of the Mediterranean.
+
+@3616
+The treasure sleeps in the waters of Africa.
+
+@3617
+The treasure sleeps in the waters of the North Sea.
+
+@3618
+The treasure sleeps in the waters of the Mediterranean.
+
+@3619
+The treasure sleeps in the waters of Africa.
+
+@3620
+The treasure sleeps in the waters of Africa.
+
+@3621
+The treasure sleeps in the waters of Africa.
+
+@3622
+The treasure sleeps in the waters of the Indian Ocean.
+
+@3623
+The treasure sleeps in the waters of the Indian Ocean.
+
+@3624
+The treasure sleeps in the waters of Southeast Asia.
+
+@3625
+Who would claim the treasure, set forth from the seas of Southeast Asia.
+
+@3626
+The treasure sleeps in the waters of Southeast Asia.
+
+@3627
+The treasure sleeps in the waters of East Asia.
+
+@3628
+Slightly north of there,
+
+@3629
+At the heart of it,
+
+@3630
+Sail far to the northeast,
+
+@3631
+Sail far to the northwest,
+
+@3632
+In the northwest of it,
+
+@3633
+Sail far to the north,
+
+@3634
+Sail far to the west,
+
+@3635
+In the northwest of it,
+
+@3636
+In the northwest of it,
+
+@3637
+At the heart of it,
+
+@3638
+At the heart of it,
+
+@3639
+At the heart of it,
+
+@3640
+Slightly south of there,
+
+@3641
+In the southeast of it,
+
+@3642
+In the west of it,
+
+@3643
+Due south of there,
+
+@3644
+Slightly west of there,
+
+@3645
+Sail far to the south,
+
+@3646
+Slightly south of there,
+
+@3647
+In the northeast of it,
+
+@3648
+This is the warrior's amulet.\nIt lends the strength of the lion\nto vanquish mighty foes.
+
+@3649
+This is a weapon against evil.\nIn ages past it was used\nin rites to drive out demons.
+
+@3650
+This is the mask of the serpent god.\nIt is said the serpent's magic\nprotects the warrior.
+
+@3651
+This is the treasure of the Marksman.\nIt is said the one who bears it\nnever misses his aim.
+
+@3652
+This is a treasure that sharpens the mind.\nSome have amassed vast fortunes\nby its aid, it is told.
+
+@3653
+This is a fearsome weapon.\nIt is said to cut things down\nwithout touching them.
+
+@3654
+This is the symbol of destruction.\nBy its magic, every enemy ship\nwas sent to the deep.
+
+@3655
+This is a strange horn.\nIt has the power to drive out\nall manner of sickness.
+
+@3656
+This is the King's Shield.\nWith the goddess's blessing, it\nwards off all calamity.
+
+@3657
+This is a weapon against evil.\nA great red spear that has\nthe power to smite wickedness.
+
+@3658
+A strange gem, colored just like\nburning flames, they say.
+
+@3659
+They say it's a dagger from a very ancient age.\nSome kind of writing is carved on it,\nbut now nobody could read it.
+
+@3660
+A stone mask used by priests long ago.\nThey say it's carved with an\neerie serpent pattern.
+
+@3661
+It's a crimson crystal, but hold it up to\nthe light and a star shape floats inside, they say.
+
+@3662
+They say it's a strange crystal with a\ndiamond inside it.\nA gem that eats gems, you know.
+
+@3663
+Apparently it's a blade of remarkable sharpness.\nTrue or not, they say it cuts\nthings down without touching them.
+
+@3664
+Looks like a statue of a Siren.\nI heard it was used as a figurehead,\nbut who'd use a witch that wrecks ships?\nI can't believe it.
+
+@3665
+It's a twisted horn, they say.\nSome say it's a dragon's horn.\nRumor has it that it makes a\ncure for any disease.
+
+@3666
+Apparently a shield once carried by a great king.\nThey say a goddess is painted on it.\nSailors call it the finest charm there is.
+
+@3667
+Apparently it's an outrageously huge spear.\nThey say it has the power\nto drive off evil.

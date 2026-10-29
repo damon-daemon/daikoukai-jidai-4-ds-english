@@ -1,0 +1,899 @@
+@167.0012
+...Just so you know, I was hired as a\nbodyguard. I'm not your pack mule\nor your errand boy.
+
+@167.0076
+?
+
+@167.0080
+Hmph. Saying that and loafing around\nagain? I pay your wages. Do the work\nI ask of you without the back talk!
+
+@167.00F6
+If you want a yes-man, hire someone\nsofter. I stake my life on this job.
+
+@167.014E
+Hmph. So fighting is all you're good\nfor, and you can't do any other\nwork. Is that it...?
+
+@167.019C
+Fine. Since you want it that way,\nI'll hire someone more obedient.\nGo wherever you like!
+
+@167.0200
+Then I'll do as I please!
+
+@167.0224
+That Al... He gets cocky just\nbecause he's good with his fists.
+
+@167.0264
+Anyway, that rude fellow is fired!\nFind a replacement bodyguard! Now!
+
+@167.02AE
+Sigh... But finding someone with that\nmuch strength won't be easy...
+
+@167.02F2
+Finding one is your job. Let's go.
+
+@167.0324
+...He's strong, he said. Wouldn't he\nbe perfect for our crew?
+
+@167.0364
+...You never change, do you? So\nnaive. Or just simple.
+
+@167.03A8
+I think a guy like that will be\ntough to recruit...
+
+@167.03E0
+I rather think a fellow like that\nwill be hard to recruit...
+
+@167.041C
+You won't know until you try!\nCome on, let's go!
+
+@167.0460
+That's him.\nUm... Excuse me, could I have a moment?
+
+@167.0486
+What do you want?
+
+@167.0498
+I have a proposal for you, because\nof your strength.
+
+@167.04CA
+(A job offer?)\nHmph. I don't know who you are, but\nyou seem to know what I'm worth.
+
+@167.0512
+(Whoa, this guy is full of\nhimself.)
+
+@167.054C
+Y-yes, anyone can tell just by\nlooking at your build.\nRight, Clau?
+
+@167.058E
+...Are you a sailor?
+
+@167.05AC
+Hardly. I'm a mercenary. I've lived\noff these two arms all my life.
+
+@167.05E4
+Hmm... So what do you do when\nthere's no fighting, like now?
+
+@167.0626
+Bodyguard work. It's a dangerous\nworld, so there's always a job.
+
+@167.0654
+And right now?
+
+@167.0668
+You saw. I just got fired from it.\nBut I'm not becoming a sailor. If it's\nnot a job offer, we're done talking.
+
+@167.06D6
+...Then there's no helping it.\nSorry to bother you.
+
+@167.0702
+W-wait, Clau, hold on!\nUm, sorry, we'll be back...
+
+@167.0756
+Just as I thought...
+
+@167.076E
+Hey! What are you nodding about?!\nI don't get it at all!
+
+@167.07AE
+Guys like that get cocky if you\nact humble with them.
+
+@167.07E8
+Just as I thought...
+
+@167.0802
+Yeah, guys like that...
+
+@167.0822
+Hey! What are you two agreeing\nabout?! I don't get it at all!
+
+@167.0868
+Listen, Admiral. A man like that\ngets cocky if you act humble\nwith him.
+
+@167.08AC
+But... So what should I do?
+
+@167.08D2
+You really took a liking to him,\ndidn't you?
+
+@167.08FE
+Well, he looks really strong, right?\nBetter to have a strong man on our side.\nI wouldn't want him as an enemy.
+
+@167.0958
+You're so simple... Oh well,\nI'll talk to him.
+
+@167.099E
+...Is there something else?
+
+@167.09BC
+If you stay here, will you ever get\na chance to use that fine strength\nof yours? Walking around town\ndoesn't take that kind of power.
+
+@167.0A30
+What did you say?
+
+@167.0A40
+Aboard our ship, you'll get plenty of\nchances to show your stuff.\nTough enemies are a dime a dozen.
+
+@167.0A9A
+...
+
+@167.0AA6
+Well, if you're not confident about\nfighting at sea, don't force it.\nWe don't want dead weight either.
+
+@167.0B14
+Hmph. Cut the obvious act.\nYou need my strength, right?\nFine. I'll come aboard.
+
+@167.0B64
+All right, it's settled.\nSo, what's your name?
+
+@167.0B88
+Al.\nAl Ferid Singh.
+
+@168.000C
+Hey, you there, kid!
+
+@168.0028
+"Kid"? Is he talking about me?
+
+@168.0046
+That's right, you. You're a crewman\non this ship, aren't you? A powder\nmonkey, or some kind of cabin boy?\nI was wondering if this ship might\nneed a navigator.
+
+@168.00D4
+I'd like to meet your captain... Well,\nan introduction from a lowly hand like\nyou won't get me far. Ahahaha.
+
+@168.013C
+Sorry, I was rude. Forget it.
+
+@168.015A
+Hey, you pretty-boy sissy!\nWhose ship do you think\nthis is?
+
+@168.01A4
+...S-sis-sy?! I'm no sissy!\nYou're the one wearing an\nearring!
+
+@168.0206
+Huh?! What, you idiot?!\nThis is a warrior's mark!!\nYou want a fight?!
+
+@168.025A
+What are you so angry about?!\nThis is why I can't stand\nmuscle-brained oafs.
+
+@168.029C
+Yoooou bastaaaard!!!!
+
+@168.02C0
+Stop it!! Clau!!
+
+@168.02DE
+...I'm not a "kid." My name is\n{FI} {FA}.\nI'm the admiral of this ship.
+
+@168.031C
+Mamma mia?!\nYou're the admiral?!
+
+@168.0350
+...I see. Forgive my rudeness.\nI'm sorry. Please pardon me.
+
+@168.038A
+Huh...?\nOh, no... It's my friend who\nsaid awful things...
+
+@168.03C0
+{FI}!!!\nYou don't have to apologize!!!
+
+@168.03EE
+But...
+
+@168.03FE
+No, he's right. When I see someone\nplain... I mean, someone who works\nhonestly, I just can't help teasing.\nMy bad.
+
+@168.0478
+Geez, what a weird guy. If you're going\nto apologize, don't say it in the\nfirst place.
+
+@168.04BE
+I really did something rude.\n...Well, so long.
+
+@168.04F2
+Hey, wait!
+
+@168.050A
+?
+
+@168.0514
+You said you wanted to be a\nnavigator, right?
+
+@168.0546
+Well, yes, but...
+
+@168.0560
+Heh, then...\nHey, {FI}!
+
+@168.0584
+Right. The more crewmates, the\nmore fun. Will you come with us?
+
+@168.05CE
+H-hey...!\nAre you sure?
+
+@168.05EC
+Well, that's how it is.\nI'm Claudio Manaus.\nNice to meet you.
+
+@168.0634
+...You two are quite the oddballs.\nI'm Angelo Puccini.
+
+@168.0674
+All right, Angelo. If you want to be\na navigator, you must be confident\nin your skills, right?
+
+@168.06BA
+Well, he picked a fight with me,\nso he's got guts, at least.
+
+@168.06F4
+Well, something like that.
+
+@168.0712
+Looking forward to it!\nAngelo!
+
+@168.073A
+Yeah. Count on me, Admiral!!
+
+@168.0788
+By the way, Admiral. If you want to\nprofit from trade, you can't keep\nscraping by in the Mediterranean.
+
+@168.07E8
+Huh? Why not?
+
+@168.0814
+Oh ho...!\nYou know your stuff, young man!
+
+@168.0844
+??
+
+@168.0854
+Sure, the sea lanes are well developed\nhere, so it looks tasty at first. But the\nbig powers have already tapped it dry.
+
+@168.08C0
+Hmm... Now that you say it, true.\nContract fees and investment costs are\nsky-high, and there's barely any\nroom for us...
+
+@168.092C
+We have to go beyond. Africa and the\nNew World still have room to grow.\nA little investment brings a big\nreturn.
+
+@168.09A4
+And the goods sold there are rare, so\njust shuttling back and forth to\nEurope should bring in a fortune\neasily.
+
+@168.0A0C
+Wow... You know a lot about trade,\ndon't you?
+
+@168.0A38
+Aw, quit it.\nI just repeat what sailors say.
+
+@168.0A70
+No, no.\nHe's quite right.
+
+@168.0A9A
+Even if you buy a ship and gain more\ncargo space, you can't win much\nmarket share. In Europe you can't\ntrade many goods at once, you see.
+
+@168.0B22
+I see... Follow the Portuguese pioneers\nand look beyond. All right, let's\ngo to Africa!
+
+@169.0012
+Ian, carry this over, please.
+
+@169.0032
+Yes.
+
+@169.004A
+That's the one. So pretty...
+
+@169.006A
+Is that really a guy?
+
+@169.0084
+Shh, he'll hear you.
+
+@169.009E
+(Again... Enough already.\nI'm not a sideshow...)
+
+@169.00DC
+Ian, take this drink over too.
+
+@169.00FC
+...Yes.
+
+@169.010E
+Eek! Ian brought me my drink!
+
+@169.013E
+What are you so happy about?\nTch, this is no fun.
+
+@169.0168
+Ian, hey.\nTake this to that table over there.
+
+@169.0194
+Yes.
+
+@169.01A0
+Hey, sweetheart!\nPour me a drink. Heh heh.
+
+@169.01CA
+...
+
+@169.01D6
+You really are pretty, you know.\nHuh?
+
+@169.0206
+...
+
+@169.0212
+Are you really a man? Skin this\nwhite isn't normal. Heh heh\nheeh...
+
+@169.025E
+Don't touch me!
+
+@169.0270
+Ow! Ow ow ow!
+
+@169.028A
+Y-you bastard!
+
+@169.02A0
+(Damn!)
+
+@169.02B6
+You...\nQuite the way to treat a customer,\nisn't it?
+
+@169.02F2
+...My apologies. ...I am sorry.
+
+@169.030E
+Sir, some drinks over here, please.
+
+@169.0334
+Coming right up.\n...Ian, a word, please.
+
+@169.036A
+Ian.\nI don't think this business\nsuits you.
+
+@169.03A0
+Boss...
+
+@169.03B4
+I've had enough trouble. There are\nways to handle customers without\nusing a sword.
+
+@169.040C
+Sorry, but I have to let you go.
+
+@169.042A
+...I understand.
+
+@169.0446
+With skin that white and looks like\nthat, he clearly doesn't belong here.\nI wonder if there's a story there.
+
+@169.04B8
+Everyone has their own life, as they say.
+
+@169.04D6
+I mean, he's not cut out for a tavern.\nToo stiff.
+
+@169.050A
+Shall we talk to him?
+
+@169.0530
+(Fired... And I have no money.\nWhat now...?)
+
+@169.0564
+(I can see a ship out at sea...\nI want to go back.)
+
+@169.0590
+Well, well, sweetheart!\nWe meet a lot today.
+
+@169.05C0
+!
+
+@169.05CA
+Heh heh heh.\nAll alone in a place like this? Bad\nluck. Boys!
+
+@169.0616
+...
+
+@169.0620
+Don't think you can run!\nYou embarrassed me earlier!
+
+@169.0660
+(Too many to take them all...\nThen only that one who looks like\nthe leader!)
+
+@169.06C0
+What are you dawdling for, going up\nagainst just one? Get it together!
+
+@169.070A
+Heh heh heh, quite skilled for a\npretty face. Even the way you fight\nis alluring.
+
+@169.0756
+Huff... Huff...\n(As I thought, I can't even get close\nalone...!)
+
+@169.078E
+But it looks like it's about over...\nFinish him off, quick!
+
+@169.07D6
+What...! Who's there?!
+
+@169.07EC
+I couldn't just watch...\nMind if I help?
+
+@169.0814
+Ugh, damn it... I only fight battles\nI can win. You'll regret this!
+
+@169.0862
+Up close, you really do have a\nbeautiful face.
+
+@169.089C
+...
+
+@169.08A6
+Only noticing now?\nYou're slow.
+
+@169.08DC
+Such white skin... Are you from the\nnorth, perhaps?
+
+@169.0906
+...Looks mean nothing.\nThey don't matter at all.
+
+@169.0932
+Easy, easy. Don't be so edgy.
+
+@169.0956
+No, I was talking to myself. ...Sorry.\nThank you.\nYou saved my life.
+
+@169.09A6
+Glad we made it in time.\nUm, actually...\nI have a favor to ask you.
+
+@169.09EC
+If it is something I can do...
+
+@169.0A0A
+Would you sail around the world\nwith us on our ship?
+
+@169.0A34
+What?
+
+@169.0A42
+Watching that fight, I thought you\nwere really skilled.
+
+@169.0A7E
+I'm actually an admiral, leading a\nfleet.
+
+@169.0AB6
+...
+
+@169.0AC2
+Is it strange to bring this up so\nsuddenly?
+
+@169.0AEA
+No, not at all. It is a welcome offer\nfor me. I am a navigator. Though\ncurrently out of work...
+
+@169.0B3E
+Oh? Then you must have made women\nall over the world cry.
+
+@169.0B76
+Honestly, Clau, that's rude!
+
+@169.0B9A
+...No, I do not mind, Admiral.\nI would very much like to join your ship.\nI am Ian Dukov.
+
+@170.0008
+The usual amount of cinnamon, please.
+
+@170.002E
+(A customer already?)
+
+@170.0044
+Here you go. This is the price.
+
+@170.0064
+Oh, the price went up.
+
+@170.0084
+No, it didn't.\nIt's always about this much.
+
+@170.00B6
+Hahaha, Adil, don't be silly. Do you\nthink I don't know what you pay\nto stock it?
+
+@170.0132
+Come on now.
+
+@170.0142
+Considering this year's harvest and the\ndemand around here, I think you can\ndo a bit better.
+
+@170.019A
+If you'd like, I can try elsewhere.\nThere's no law saying I must always\nbuy from the same shop.
+
+@170.01F4
+Ugh.\n...A-all right. I can't beat you,\nCarlo.
+
+@170.022E
+Hm?\n...Adil, do you have a fever?
+
+@170.025A
+What's that, Carlo? Still finding\nfault with my business?
+
+@170.029A
+No. You have a fever, my friend.\nGo to bed early today.
+
+@170.02DA
+Oh, come on, what are you...\nHuh? Now I really do feel chilly.
+
+@170.0312
+See? I'll shop tomorrow instead.\nClose up for today.
+
+@170.034C
+Hmm... Let's do as you say.\nSorry, but you come back tomorrow\ntoo, friend.
+
+@170.03AA
+Sorry about that. You came here to\ndo business too, didn't you?
+
+@170.03E8
+Um, how did you know the shopkeeper\nwas sick?
+
+@170.041C
+Well, he looked pale.
+
+@170.0454
+Oh ho, he seems just as perceptive as\nI am.
+
+@170.0492
+...(Was he pale?)
+
+@170.04B2
+Most people wouldn't notice. I'm a\nlittle sensitive to people's health.
+
+@170.0506
+Wow...
+
+@170.0514
+Would you like to come to the Market\nwith me tomorrow morning? I think I\ncan make up for today.
+
+@170.057A
+Thank you. I'll come.
+
+@170.059E
+Ah, Carlo, thanks for yesterday!
+
+@170.05C6
+How is Adil?
+
+@170.05E4
+He's sleeping at home today.\nBeing careful.
+
+@170.060C
+I see. I hope he recovers soon.
+
+@170.062E
+That man never listens to a word I\nsay. Even yesterday, if you hadn't\ntold him...
+
+@170.069A
+Oh, listen to me ramble. You saved\nhis life, so I wanted to thank you.
+
+@170.06E6
+Thanks. I'm glad, but thank this\ntraveler instead. He put his\nbusiness on hold for a night.
+
+@170.0740
+Oh dear, I'm sorry we held you up.\nIt's not much, but... Will you take\nthis?
+
+@170.07B8
+Thank you, ma'am. Travelers, you're\nin a hurry, right? Go ahead and shop\nfirst.
+
+@170.080E
+Hey, Carlo!\nSorry about yesterday!
+
+@170.083A
+Dear!
+
+@170.084A
+Adil!\nYou should be in bed!
+
+@170.0878
+Pfft, I'm fit as a fiddle, see? How\ncan I sleep in on such a fine\nday for business!
+
+@170.08CE
+Honestly, you're hopeless!
+
+@170.08F8
+Hahaha, if you're that lively, I'm\nrelieved. But don't overdo it today.
+
+@170.0948
+I'll stop by again tomorrow, so take\ncare of these folks' business.
+
+@170.0990
+Travelers, look after your family and\nyour health. Well, take care.
+
+@170.09CA
+...
+
+@170.09D6
+Um...
+
+@170.09E6
+Hm?
+
+@170.09F2
+...Would you join my ship?
+
+@170.0A18
+What's this, all of a sudden?
+
+@170.0A2C
+I'm impressed by your business sense\nand your character.
+
+@170.0A56
+Yeah, that haggling yesterday was\nsmooth.
+
+@170.0A86
+Well, I've been a merchant for many\nyears.
+
+@170.0AAE
+A merchant!\nThen you know the market rates?
+
+@170.0AD8
+So he was a pro after all.
+
+@170.0AF4
+Impressive.
+
+@170.0B0A
+...
+
+@170.0B16
+Hey, old-timer. Do you hate the idea\nof going to sea? Does your family\nobject?
+
+@170.0B5E
+I have no family... They died\na year ago.
+
+@170.0B90
+...
+
+@170.0BA2
+First my daughter caught an epidemic\nfever. I was absorbed in work then,\nand didn't look after her properly.
+
+@170.0C16
+By the time I treated her, it was too\nlate, and my wife caught it too...\nI lost them both.
+
+@170.0C60
+Sir...
+
+@170.0C72
+...The work I gave up my family for\nwas empty. Since then, everyone's\nhealth concerns me more than business.
+
+@170.0CF2
+Oh... So that's why you noticed the\nshopkeeper, too...
+
+@170.0D20
+...Won't you go back home?
+
+@170.0D44
+To Venice? Too many happy memories\nthere. I couldn't live there alone.
+
+@170.0DA0
+...
+
+@170.0DAE
+Sir... Please come with us after all.\nI need you.
+
+@170.0DF6
+Hmm...
+
+@170.0E06
+Hey, Clau. I think there's a lot\nwe can learn from him.
+
+@170.0E48
+...Maybe so.
+
+@170.0E64
+...
+
+@170.0E6E
+Say, Captain. How about all of us\nbecoming his new family?
+
+@170.0EBE
+Yes, that's a great idea!\nSir... What do you say?
+
+@170.0EF2
+...Thank you, everyone.\nI never expected such words.
+
+@170.0F28
+Then it's settled.\nOh, and we expect your skills as a pro\nmerchant too.
+
+@170.0F70
+My name is Carlo Sinato.\nPleased to meet you.
+
+@171.000C
+Phew, we drank quite a lot.
+
+@171.002E
+What are you saying? A man of the sea\nhas to hold his liquor. Look at\nChristina, not even tipsy.
+
+@171.0090
+Christina isn't a man...\nClau, you drank too much.
+
+@171.00CA
+I drank quite a bit too. Oh...
+
+@171.00F4
+Some passionate music has started up.
+
+@171.011C
+Yeah, it makes you want to dance.
+
+@171.0146
+This song...\nExcuse me a moment...
+
+@171.016C
+Oh, Christina...
+
+@171.0188
+Hey, Christina, going to the\nrestroom?
+
+@171.01B6
+<Patron 1>\nWow, look at that girl!
+
+@171.01DC
+<Patron 2>\nYeah, wow. She's beautiful, and\nshe can dance!
+
+@171.021E
+Christina, amazing.
+
+@171.023A
+This is... a surprise...
+
+@171.025A
+<Patron 1> <Patron 2>\nBravo, bravo, braaavo!
+
+@171.0296
+(Clap clap clap clap!)
+
+@171.02B6
+I just started dancing...\nI love this song.
+
+@171.02E6
+...That was amazing.\nYou were really cool.\nChristina.
+
+@171.031E
+Thanks. You're making me blush.
+
+@171.033C
+So our lady swordswoman likes\nflamenco too, huh?
+
+@171.0364
+...
+
+@171.0370
+Clau! What kind of talk is that?\nThat's rude!
+
+@171.039E
+I didn't mean it as an insult. I just\nthought Christina was a boring woman\nwho only ever practiced her sword.
+
+@171.0402
+What?
+
+@171.040E
+I'm sorry...
+
+@171.0424
+I like it. From now on, I'll accept you\nas a crewmate, not just the old man's\ngranddaughter.
+
+@172.000E
+Wow, amazing!
+
+@172.0024
+What the?! There's a cow lying right\nin the middle of the road!
+
+@172.005E
+Completely different from our country.
+
+@172.0092
+Step right up, how about it? Buy\nsomething! Everything's top quality!
+
+@172.00E0
+Oh, rare customers! Hey, hey, you're\ntravelers, aren't you?
+
+@172.0126
+Perfect, take me with you! I'm sick\nof looking at elephants. I want to see\nother countries. What do you say?
+
+@172.019A
+Wh-what? That's awfully sudden.\nWe are sailors, it's true...\nDo you have any special skills?
+
+@172.01FE
+Ahem! I'm a great cook!\nThat's handy at sea, right?
+
+@172.023E
+Hmm. Cooking... We do already have\nsomeone who can cook.
+
+@172.027A
+Also, I'm good with my hands, so I think\nI could be a shipwright. Maybe even\nmake maps.
+
+@172.02CE
+Anyway, I learn fast. Above all,\nI have good instincts. Yep, yep.
+
+@172.0318
+Whatever, pal, but do you have any\nexperience?
+
+@172.034A
+Not at all.
+
+@172.035C
+Huh???
+
+@172.036C
+And you can boast that much\nregardless?
+
+@172.039C
+Is that strange? I'm young, so I'll get\nused to it fast if you let me try.\nI told you, good instincts. Ahem!
+
+@172.0402
+Why not? I like him.
+
+@172.042A
+Hey, hey. Admiral, is it fine to be\nthat careless?
+
+@172.0464
+Right! Hey, you, that's too\neasygoing.
+
+@172.0490
+Huh??? Weren't you the one asking me\nto hire you?
+
+@172.04D0
+Yeah. But you have to understand\njust how great I am.
+
+@172.0510
+So what do we do?
+
+@172.0528
+Give me a test.
+
+@172.053E
+A test?
+
+@172.0552
+I'll make one dish now. If everyone\nsays it's delicious, I pass. How\nabout that?
+
+@172.05AE
+Sure. Go ahead and cook.
+
+@172.05E0
+Thanks for waiting. Here you go.
+
+@172.0600
+What is this? A weird dish. It's not\nsome freak food, is it? (Munch munch)
+
+@172.065A
+...D-delicious!!\nThis is great!
+
+@172.068E
+It's true. It's tasty.
+
+@172.06AA
+Oh, it really is good.\nHmm. Never judge by appearances.
+
+@172.06E0
+Ahem! A clever hawk hides its\ntalons, they say, right?
+
+@172.0718
+...Don't say it yourself.
+
+@172.0730
+So, can he join us, then?
+
+@172.075E
+Yay!\nI'm Samuel da Khan.\nNice to meet you!

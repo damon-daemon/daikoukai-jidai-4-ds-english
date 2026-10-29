@@ -1,0 +1,899 @@
+@171.0040
+A lecture?
+
+@171.009A.0
+Let's hear it
+
+@171.009A.1
+No, I'm fine
+
+@171.00C0
+Hey, hey. Do you have any idea\nwho you're about to lecture?
+
+@171.0114
+...Right, of course
+
+@172.0008
+Oh, are you here to see old man\nMikhail too?
+
+@172.0046
+Old man Mikhail?
+
+@172.0074
+W-what?! Mikhail?!\nThis is bad! Don't meet him!\n{FI},\nlet it go!!
+
+@172.00D0
+Oh, no? Around here he's famous as\nthe old man who knows everything.
+
+@172.0112
+Hm... Shall we meet him?
+
+@172.012E
+But if you're traveling with women,\nyou might want to skip it...
+
+@172.0172
+Exactly! You'd best skip it!!
+
+@172.01B6
+So that's old man Mikhail.
+
+@172.01D8
+Wow! Grandpa, you're amazing!
+
+@172.0200
+Of course I am, of course I am!\nHo ho ho!
+
+@172.0238
+Then what about this one?
+
+@172.0258
+Oh, this is called a "peppercorn."\nIt's a tropical seed. Grind it up and\nyou get a spice.
+
+@172.02B8
+Take it to somewhere like Brunei and\nit should grow well. It'll surely make\na profitable trade good.
+
+@172.030E
+...Hm, wait. This is rabbit droppings.\nFilthy!
+
+@172.0348
+Eww! Throw it away!
+
+@172.0364
+Yes, yes. Out it goes.
+
+@172.0380
+Grandpa, you really know everything.\nHow come you know so much?
+
+@172.03D0
+Well, I'm a genius. Few know more\nthan I do. I can even guess your\nbust size, little miss.
+
+@172.0438
+Eek, Grandpa, you pervert!
+
+@172.0460
+Ho ho ho!
+
+@172.0480
+...He seems to have plenty of\nknowledge. But that attitude is a bit\nof a problem, I think...
+
+@172.04C6
+Hmm... Still, that knowledge will\nsurely prove useful from here on.\nI think inviting him wouldn't hurt.
+
+@172.052C
+...True.
+
+@172.053E
+Wh-what do you want?
+
+@172.0560
+Old man, your knowledge is impressive.\nI'm {FI} {FA}, admiral of\na fleet.
+
+@172.05A4
+Lend us that knowledge.\nWill you?
+
+@172.05D4
+Join you...? I don't plan to leave this\ntown anymore. Besides, I refuse to be\ninvited by a man.
+
+@172.0636
+Venerable one, can't you reconsider?
+
+@172.065C
+Well, you say that, but...\n!!!
+
+@172.0680
+Oh, miss, you there with them.\nWhat's your name?
+
+@172.06D2
+This girl doesn't understand words.\nHer name is Sera, but...
+
+@172.0708
+...Ch-Christina... if you must know.
+
+@172.073E
+Sera, is it?
+
+@172.0756
+Christina, is it?
+
+@172.0776
+Lovely, simply lovely!
+
+@172.07A0
+It's decided, I tell you!\nI'm coming along. Final!
+
+@172.07E0
+Seeraaa, dear!
+
+@172.07FC
+Chriiistina, dear!
+
+@172.0820
+I'll follow you anywhere!
+
+@172.0856
+......!
+
+@172.0864
+Admiral {FI}!\nLet's stop this!\nMiss Sera is in danger!
+
+@172.08A0
+Wh-what is with this old man?!\nEek, stay away from me!
+
+@172.08EE
+Hey, Mikhail!\nStill alive, you lecherous old goat?\nStay away from my granddaughter!
+
+@172.0940
+Hm! Julio?! It's been a while!\nYou're a tough one yourself! But I'll\nnot be called an "old goat" by\nan old goat like you!
+
+@172.09BA
+Admiral {FI},\nlet's not take him on!
+
+@172.09E6
+No, no, I've made up my mind!\nI'm definitely going!\nI'll put this knowledge to good use,\nso don't you worry!
+
+@172.0A50
+...Fine.\nPermission granted. But...
+
+@172.0A84
+Yes. Lay a finger on Miss Sera and\nold or not, I'll cut you down!
+
+@172.0AC2
+Seeraaa, dear!
+
+@172.0ADA
+V-venerable one, listen...
+
+@172.0B04
+Touch me and this sword will run\nyou through!
+
+@172.0B36
+Chriiistina, dear!
+
+@172.0B56
+That's it, I'm done!
+
+@172.0B80
+Hey, Mikhail!\nYou lecherous old goat!\nI told you to stay away from her!
+
+@172.0BC6
+Love is free! But it's a good thing\nChristina didn't take after you!
+
+@172.0C22
+Shut up!
+
+@172.0C4E
+Mikhail the Scholar is not a mate,\nso he can't be assigned to the deck.
+
+@172.0C98
+With Mikhail aboard, you can now see\ndetailed item information.
+
+@173.0008
+What is it, Gerhard?
+
+@173.0028
+Oh, Admiral. I wanted to look into\nthis "Victor's Mark," and the one who\nknows about it is...\nGrrr...
+
+@173.0094
+What is it?
+
+@173.00A6
+Hmhmhm!!\nThat would be me, no less!!
+
+@173.00D8
+...I see.
+
+@173.00EC
+Yes. Of all people,\nit had to be this man...
+
+@173.0114
+Oh? Sir Gerhard?\nSomething you'd like to say?
+
+@173.0150
+N-no, not at all.\nI admire Sir Mikhail's insight,\nbut...
+
+@173.0194
+Well, never mind that.\nMikhail, tell us what you know.
+
+@173.01CC
+Ho ho. Very well...\nAdmiral {FI}, you're interested\nin the "Victor's Mark," are you?
+
+@173.0212
+I don't need the extra trivia, but...\nI'd like to know what it's for.
+
+@173.025C
+Very well. Ahem. The "Victor's Mark"\nis a treasure scattered through the\nseas, said to go to whoever rules the sea.
+
+@173.02C0
+According to old documents, there are\nseven treasures in all. Seven sages of\nantiquity marked their locations on\nvarious maps. So it is written.
+
+@173.037A
+Just treasure?\nHow disappointing...
+
+@173.03A2
+With respect, Admiral {FI}, you could\nproclaim yourself master of all the\nworld's seas, in fact and in name!\nThis is a great undertaking for us!
+
+@173.041A
+The mark of the king of the sea...
+
+@173.0432
+Think of the men who follow you,\nAdmiral {FI}, and you'll understand.
+
+@173.0476
+A clear goal gives them something\nto strive for, is that it?
+
+@173.04B2
+Exactly.
+
+@173.04C6
+What's this, whispering together?\nWell? Are you in awe of my\nvast learning?
+
+@173.0510
+We understand, we understand.\nJust please don't cause a stir aboard\nthe ship...
+
+@173.0552
+No need to worry. Ho ho ho.
+
+@173.0578
+...Sir Mikhail.\nDo you know how one might gather\nall of those Marks?
+
+@173.05CA
+First, you must become the strongest\nin the region. Powerful figures in each\nland often hold clues to the Marks.
+
+@173.063A
+Especially if one is held by someone\nwith an evil spirit, you'll need to\ndefeat that person.
+
+@173.069C
+Then find the ruins sleeping in each\ncity, and solve the mystery of the\nsealed Marks.
+
+@173.06E8
+But how are we supposed to\nfind those ruins?
+
+@173.0722
+Well now.\nIf it were me...
+
+@173.074C
+I'd ask a woman, of course.
+
+@173.0762
+Mi-kha-iiil!!
+
+@173.0780
+Don't get so worked up. In a big town,\nyou should find some clue about the\nruins nearby.
+
+@173.07E0
+Tavern girls listen every day to the\ntales of sailors from all over the world.\nTheir information is truly worth\nits weight in pearls.
+
+@173.085E
+Of course, they won't hand over\nsomething that precious for free.
+
+@173.08A0
+Hm... So some kind of "payment"\nis needed.
+
+@173.08D0
+Can't you think a bit more romantically?\nA gift should never expect anything in\nreturn. It's only meant to win a\nlady's heart... heh heh.
+
+@173.095E
+...Isn't that a "return"?
+
+@173.0986
+Oops, oh dear...
+
+@174.0014
+...Hey,\nyou there, handsome!
+
+@174.004E
+Hey, mister!
+
+@174.0066
+...Me?
+
+@174.0074
+Girl, what are you doing\nover there?
+
+@174.009A
+Shh! Quiet!\nI'm kind of in a tricky spot.
+
+@174.00D0
+Hey, hey, you guys are sailors, right?\nCan you take me on your ship?
+
+@174.0124
+What is with this girl? So sudden.
+
+@174.0144
+What do you mean, "tricky spot"?\nWhy do you want to go on a ship?
+
+@174.0172
+I ran away from my master's place.\nIf they find me, they'll drag me back!
+
+@174.01CA
+Running away is no small matter.\nWhat were you studying?
+
+@174.0204
+Heh heh, Tao magic!
+
+@174.021C
+I don't hate studying Tao magic. But\nsometimes it's a drag, you know?
+
+@174.026C
+I was slacking off and my master\ncaught me. Got a huge scolding.\nMy master's so stubborn.
+
+@174.02D2
+So I decided! I'll travel the world,\ntrain, and show my master up!\nImpressive, right?
+
+@174.0336
+Honestly... girls these days.
+
+@174.0356
+Wanting to prove yourself is admirable.\nBut how skilled are you at this\n"Tao magic" of yours?
+
+@174.03B6
+Heh, then I'll show you a little.\nHey, old man over there, draw\nyour sword!
+
+@174.0416
+O-old man...?\nDo you mean me?
+
+@174.0440
+Yep, that's you.\nHere I come... brace yourself!
+
+@174.0462
+Hm.
+
+@174.046C
+Haaaah!!!!!
+
+@174.0492
+?\n(Hm, nothing's happening...)
+
+@174.04D2
+Whoa!
+
+@174.04E4
+You dodged it!\nSo, how about that?\nThat's my "Binding Spell"!
+
+@174.0524
+Binding Spell?\nI don't quite understand...
+
+@174.0550
+Heh heh, Tao magic is amazing, right!?
+
+@174.057A
+No, that's not what I meant...
+
+@174.05A4
+...Closing in on Gerhard in an instant\nis no easy feat. She seems skilled\nat reading distance.
+
+@174.0618
+She has clearly gone through\nsome training.
+
+@174.064C
+...I had a master once too.\nHe told me to go to sea, and that's\nhow I came to be who I am...
+
+@174.0692
+I don't approve of running off in\nsilence, but I suppose you have your\nresolve. ...Girl, what's your name?
+
+@174.0702
+Ifa, my ship is a navy ship.\nStill want to board it?
+
+@174.073C
+Hmm, you mean it's strict at your\nplace too? Heh, bring it on!
+
+@175.003A
+...Hm...?
+
+@175.012A
+Ifa's...
+
+@175.0272
+...Do you intend to take Ifa back?
+
+@175.04D8
+...Was that...a dream?
+
+@175.04F0
+A strangely vivid dream...
+
+@175.0512
+Good mooorning!!!\nHey, let's get going...
+
+@175.0550
+What is it?
+
+@175.0562
+I sense my senior...!
+
+@175.057C
+!\nI doubt it, but...\nIs your senior named Sanghyun?
+
+@175.05B4
+What?! How do you know that?
+
+@175.05DA
+So he really is your senior...\nA man in my dream said so. He asked\nme to look after you.
+
+@175.0662
+He used his magic to come to us...
+
+@175.0684
+Magic?\n(Again...)
+
+@175.069E
+Come to think of it, he said to keep\nyour master's instructions even\naway from the mountain.
+
+@175.0724
+...\nWhat is it?
+
+@175.078C
+Heh.\nDon't neglect your ship duties over\ntraining. Being a girl earns you\nno leniency.
+
+@175.07E4
+I know that!
+
+@176.0072
+He's laying it on thick...
+
+@176.04DC
+Oh, sorry, I didn't notice you.\nWelcome.
+
+@176.050C
+That story just now...
+
+@176.0520
+Oh, were you listening?
+
+@176.053A
+What is this "Silla Gold Crown"?
+
+@176.055E
+Sorry, I don't really know.\nI hear it's incredibly beautiful.
+
+@176.059C
+I see...
+
+@176.05AC
+Hmm, you dress like a soldier, but\nyou're interested in that sort of thing?
+
+@176.05F0
+...He said it's in Hanseong, correct?
+
+@176.0614
+Yes.\nBut I don't know anything beyond that.
+
+@176.0640
+That's enough.\nI'll gather the rest on site.
+
+@176.066A
+If you get it, will you give it to me?
+
+@176.0692
+I'll think about it...
+
+@177.000E
+Someone here should know about\nthe "Silla Gold Crown"...
+
+@177.004E
+Welcome. How about a drink right away?
+
+@177.0076
+I'll take one.\nBy the way, I'd like to ask about\nthe "Silla Gold Crown"...
+
+@177.00BA
+What do you want to know?
+
+@177.00D2
+I'm looking for it.\nDo you know where it is?
+
+@177.0100
+It seems to be in a ruin called\n"Muryeong Tomb," but...\nI don't know how to get it.
+
+@177.0158
+Hm... "Muryeong Tomb," is it.
+
+@177.0174
+It's a strange coincidence, though.\nSomeone asked the same thing just now.
+
+@177.01B6
+The same thing? ...I see.\nWas the one who asked a man named\nJulian, by any chance?
+
+@177.0204
+I didn't catch his name. But he walked\nin and said "Your lips are like rose\npetals." A type used to sweet-talking\nwomen.
+
+@177.0286
+So that means he's already gone to\n"Muryeong Tomb"?
+
+@177.02C0
+I think so, but...
+
+@177.02DA
+Hm.\nUnderstood.\nThen I'll be going.
+
+@178.000C
+Oh, it's you... Thanks for earlier.
+
+@178.0036
+Oh, do you two know each other already?
+
+@178.005C
+Anyway, more importantly,\nhere's the "Silla Gold Crown" I promised\nyou!
+
+@178.00A4
+This is the "Silla Gold Crown"...\nIt's beautiful... Thank you!\nI'll treasure it all my life!
+
+@178.00EA
+Looks like it went well...
+
+@178.0112
+So it seems.
+
+@178.0128
+Then let's take our leave...
+
+@178.014E
+Ah, wait a moment!
+
+@178.0174
+Meihua, actually, Mr. {FI}\nis the one who found the\n"Silla Gold Crown."
+
+@178.01B6
+What?! Is that true?
+
+@178.01D4
+I asked him, and he gave it to me.
+
+@178.0204
+I believe I said you needn't mention\nthat.
+
+@178.0236
+I can't do that.\nI'll thank you properly later.
+
+@178.0276
+Julian...
+
+@178.0288
+No need to fuss. But your spirit of\nadventure and your sense of duty\ninterest me.
+
+@178.02CC
+Oh? Then take me on\nMr. {FI}'s ship!\nI'll work hard!
+
+@178.0316
+Hm... An interesting offer.
+
+@178.033C
+My grandfather sailed all over the world.\nEvery time I heard his voyage stories,\nI grew more fascinated...
+
+@178.0390
+I want to be an adventurer like him!
+
+@178.03BA
+Like your grandfather, hm...
+
+@178.03D4
+My ship doesn't exist for adventure.\nBut sailing the world is the same.
+
+@178.042E
+If you can work as well as you say,\nyou may come aboard.
+
+@178.046A
+Yes!\nThen it's settled!
+
+@179.000C
+Hm... that woman...
+
+@179.0024
+Well, well.\nIf it isn't the {FO}...\nI never thought we'd meet in\na place like this.
+
+@179.0060
+Why do you keep following our fleet?!
+
+@179.0086
+Oh my.\nBringing that up out of nowhere?\nHow boorish of you, mister.
+
+@179.00C8
+And I only wanted to spend a\npleasant moment together.
+
+@179.0102
+...What is this woman?!
+
+@179.011E
+Heh heh heh. Typical stiff soldier.\nCan't even take a joke.
+
+@179.0164
+...So you lay in wait for us here,\nplotting our assassination!
+
+@179.01AC
+Heh, count the heads.\nThere's two of you, and dozens of us!
+
+@179.01E8
+Cowards...
+
+@179.01F8
+...Angel.\nWhen did you get so high and mighty?
+
+@179.0234
+Ugh, n-no... I'm...
+
+@179.0256
+Don't butt in uninvited.\nBack off!
+
+@179.0286
+Y-yes, ma'am!
+
+@179.0298
+Hmph.\n...Don't get the wrong idea.
+
+@179.02BC
+Killing you here would offend my pride!
+
+@179.02FC
+Oh? Pirates have pride too?
+
+@179.0324
+Pirates have their own honor.\nIf you're a man of the sea, you know.\nWe'll settle this on the water!
+
+@179.0388
+I'll meet you there.
+
+@179.03A6
+Then wash your neck and wait!\n...Huh!
+
+@179.03D6
+What is it?
+
+@179.03EC
+...That's a fine sword you have.
+
+@179.0408
+So you were the one carrying it...\nHeh heh...\nOne day it'll be mine.
+
+@179.0458
+I have no idea what you're saying.
+
+@179.0482
+You'll understand one day.\nCome on, boys, we're pulling out!
+
+@179.04D4
+Strange woman... But I'll grant that\nshe can lead.
+
+@179.0506
+She could surely command a fleet or\ntwo with ease.
+
+@179.0544
+Pirate honor, hm...
+
+@198.014C
+W-what?!!\nThat must be the legendary drink!!\nAdmiral {FI},\ndid you hear that?!
+
+@198.0198
+Hmmm! We can't sit around!!\nLet's go buy this sake right now!!
+
+@203.0008
+What is it, Admiral?
+
+@203.0028
+Oh, it's this portrait.
+
+@203.0050
+That's Sir Rocco Alemquer, isn't it?
+
+@203.0072
+Yes. A mate who supported a mighty\nPortugal long ago.
+
+@203.00A4
+So he was.\nA foreigner, but worthy of respect.
+
+@203.00D8
+Yes.
+
+@203.00E6
+What are those two looking at?
+
+@203.010A
+Hmph, just a portrait.
+
+@203.0140
+What?!
+
+@203.0154
+Hmm, there's something behind the\npicture!
+
+@203.017A
+Oh, a book! Could it be a science\nbook!?
+
+@203.01AE
+(flip flip)
+
+@203.01C2
+Oh, just a navigation book.\nI'll give it to the Admiral later.
+
+@205.0030
+I don't think so.
+
+@205.00C0
+Oh? You'll replace it for free?
+
+@205.0394
+Then I leave it to you.
+
+@205.0476
+This rope is still usable. No need\nto replace it in a hurry.
+
+@206.00C6
+Hey...
+
+@206.00F6
+This was forced on me...
+
+@206.012E
+Looks like a book.
+
+@206.01FC
+So that was your aim...
+
+@207.0008
+What in the world is this!
+
+@207.001E
+What is it?
+
+@207.0044
+...A bug?
+
+@207.0054
+But some strange plant seems to be\ngrowing out of it.
+
+@207.008C
+That's what's called a\ncaterpillar fungus.
+
+@207.00C2
+In China, it's prized as medicine.
+
+@207.00F2
+This is medicine?
+
+@207.0188
+I can't accept it for free.
+
+@207.0270
+That's right.\nWill you part with it for 1000 gold?
+
+@208.0104
+Jam, you're late.\nWhere have you been all day?
+
+@208.015C
+What is that?\nWhere did you get it?
+
+@208.0244
+You, teaching people...\nWell, never mind. We're leaving, so\npack your things.
+
+@209.00AA
+This is a parrot.
+
+@209.01A4
+Got you.
+
+@209.0204
+Heh.
+
+@210.005C
+Earrings?
+
+@210.0098
+I don't think they're all that rare.
+
+@210.0192
+Impressive. ...But in my hands, they'd\nbe wasted. Christina, what do you say?
+
+@210.024A
+Sera, how about you?
+
+@210.0268
+(shake shake)
+
+@210.027E
+...Not interested? Then I don't need\nthem either.
+
+@210.050C
+Hey, that's rude! You were the one who\ncalled out to us!
+
+@210.058A
+I'm the one who's turning you down!
+
+@211.003A
+What was that?
+
+@211.0088
+Oh? You want something besides food.\nWhat kind of weapon?
+
+@211.00E6
+Hm, it must be quite a large weapon.\nSo where is it?
+
+@211.017E
+I see.\nWe'll look for it sometime.
+
+@211.01BE
+Hey now, I said "sometime."
+
+@211.01F6
+And I haven't decided to give it\nto you, either.
+
+@213.0446
+...I see. That's intriguing.
+
+@214.0086
+Oh? And then?
+
+@214.00FE
+Hm... That is unusual.
+
+@214.0198
+I see...\nWhat a waste, though.
+
+@214.0210
+I understand how he feels.\nSo what became of that sword?
+
+@215.0192
+Christina, so you're here.
+
+@215.01E6
+Swans, hm.\nRare for them to come into a town.
+
+@217.0020
+Me...?
+
+@217.0058
+That?
+
+@217.02AC
+Me?\nHeh, spare me, old man.\nI'm no such great man.
+
+@218.042A
+A traitor's sword... As long as it's\nfine goods, origin doesn't matter.\nThat's so like practical Jenas.
+
+@219.008C
+...What is it?\nWho are you?
+
+@219.00F0
+King Arthur...?
+
+@219.01A8
+Avalon? Never heard of it.
+
+@219.01D0
+Someone at a tavern might know\nthe place.
+
+@220.000A
+Old man,\ndo you know Avalon?
+
+@221.0042
+Oh?\nWhat's the weapon called?
+
+@221.00C4
+Oh. The spear of Ares, god of war?\nHow interesting.\nDo you know where it is?
+
+@221.0172
+Hey now.\nThat doesn't answer my question.
+
+@221.0202
+(Oh. So you're interested.)
+
+@221.036A
+...I see.

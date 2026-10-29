@@ -1,0 +1,917 @@
+@067.0008
+Mr. {FA}, is it?\nSomeone would like to meet you.\nWould you be so kind as to\ncome with me?
+
+@067.0068
+Me...?
+
+@067.0078
+Don't worry.\nIt won't take long.
+
+@067.00C4
+Welcome.
+
+@067.00D4
+...\nWho are you?
+
+@067.00E6
+Hmm.\nSomeone who may become your enemy...
+
+@067.0114
+My enemy?
+
+@067.0126
+If you are one of those Westerners who\nwould feed on Asia, then yes.\nThat is what I mean.
+
+@067.018A
+We have only one goal.\nTo raise our homeland's navy to\nthe level of the world's best.
+
+@067.01D8
+What a fine pretext.\nIs that what you told yourselves as you\nshoved others aside to get this far?
+
+@067.022C
+...Think what you like.
+
+@067.0248
+But when I stand before the fleet we\nbuilt, an ambition wells up in me that\nI cannot deny.
+
+@067.02B8
+Sailors from every land are locked in a\nfierce struggle for supremacy at sea.\nFor a man of the sea, there is no\nbetter stage.
+
+@067.0338
+Pfft!\nI can't believe you said that with\na straight face.
+
+@067.037A
+Hehe, sorry.\nYou seem like someone I can trust.\nAll right. I'll let you help me.
+
+@067.03EE
+I don't follow what you're saying.\n...Besides, who are you?
+
+@067.0440
+Me?\nI am Maria Huamei Li.
+
+@067.0478
+!\nThen you're of the Li family?\nWhat are you doing in a place like this?
+
+@067.04A6
+Let's call it scouting the enemy.\nTell no one. As far as anyone knows,\nI am not here.
+
+@067.050E
+Mr. {FA}.\nDo you know of Coen and Pereira?
+
+@067.0560
+...Yes.
+
+@067.0572
+Coen...?
+
+@067.059C
+Pereira...?
+
+@067.05B4
+...No.
+
+@067.05DA
+They are the prime examples of my\n"enemies." Even now they glare at each\nother over the Spice Islands, which\nbreed enormous profit.
+
+@067.0644
+They stop at nothing for their interests.\nThey shell towns, seize them by force,\nand claim the spice lands for themselves.
+
+@067.06B2
+Coen's methods are beyond cruel.\nHe throws any citizen who displeases him\nin prison without mercy and crushes\nevery rebellion by force.
+
+@067.073C
+...I see. I understand what sort of\n"enemy" you mean.\nSo, how do you want me to help?
+
+@067.07A2
+First, don't get in the way\nof my plan.
+
+@067.07CC
+Get in the way?
+
+@067.07E0
+I'll set them against each other to\nsap their strength, then strike while\nthey're weak and drive both out of Asia.
+
+@067.083E
+Will that really work?
+
+@067.085A
+It will take time, of course.
+
+@067.087C
+Until then, we'd be overlooking\ntheir tyranny.
+
+@067.08B6
+Care to hear my proposal?
+
+@067.08DE
+...What is it?
+
+@067.08F0
+No scheming needed. I'll drive them out.\nThat's all.
+
+@067.0920
+You will?
+
+@067.0932
+Drop the act.\nYou wanted me to say that, didn't you?
+
+@067.0966
+...Hehe.
+
+@067.0976
+I give up. Let's stop the games.\nFor certain reasons, it's true I can't\nspare a fleet to send to these waters\nright now.
+
+@067.09F0
+Even so...\nleaving it all to you alone does\nmake me uneasy.
+
+@067.0A3A
+You've got nerve.
+
+@067.0A4E
+Coen seized the rights Portugal held\naround here in no time at all. He is no\nordinary man. He will not be easy\nto handle.
+
+@067.0AE0
+Do not rush in and overreach. You will\nsuffer a painful counterattack. Also, my\nplan goes ahead as it is, so keep\nthat in mind.
+
+@067.0B5A
+...Do as you like.
+
+@068.000C
+Oh, {FI}!\nPlease, help me!
+
+@068.0030
+Kamil, isn't it? What's wrong?
+
+@068.0056
+Ril is in danger!
+
+@068.007A
+What do you mean?
+
+@068.0092
+Coen is deceiving her!\nAt this rate Ril will fall right into\nthe trap he set!
+
+@068.00F2
+I don't follow, but never mind.\nWhere is she?
+
+@068.0122
+Batavia! Sorry,\nI'll explain everything later!
+
+@068.0160
+Right, come with me!
+
+@069.000C
+Ril! Thank goodness, we made it in time.
+
+@069.0038
+I'm sorry, Kamil, I'm so sorry...\nI... I... I didn't listen when you tried\nto stop me, and I believed that man.
+
+@069.00B0
+No, it's all right, Ril.
+
+@069.00D2
+No, I almost doubted Maria, too.\nI'm glad you came back.
+
+@069.0122
+If you want to thank someone,\nthank {FI}.
+
+@069.0142
+I only carried you here. I did nothing.\nI don't know what happened, but it looks\nlike you two are back together.
+
+@069.01AA
+Huh? Um...\nHey, Ril.\nCan I get on your ship again...?
+
+@069.01F0
+Of course you can! It was hard\nwhile you were gone! You'd better work\nextra to make up for it!
+
+@069.0250
+Looks like it's settled.
+
+@069.0272
+{FI},\nI couldn't even explain, and you still\nhelped me. Thank you so much.
+
+@069.02C8
+Ah, enough of that.\nGet along, you two.
+
+@070.000A
+Admiral. Coen's hidden fortune\nhas turned up.
+
+@070.003A
+Distribute all of it to the people\nhe made suffer.
+
+@070.0070
+There was something like this\nmixed in with it...
+
+@071.000A
+Mr. {FA}.
+
+@071.0022
+Admiral Maria Li is waiting\nfor you in Hangzhou.
+
+@072.000C
+Ah, Mr. {FA}.\nAdmiral Li has called for you.\nThis way, please.
+
+@072.004C
+I hear you finally defeated Coen.\nCongratulations.
+
+@072.0084
+What's with the gloomy face?
+
+@072.00A8
+What will you use me for this time?
+
+@072.00CC
+My, how suspicious.
+
+@072.00E4
+Well, never mind. In the end, we\nestablished a foothold in\nSoutheast Asia.
+
+@072.012C
+So our interests lined up?
+
+@072.015E
+Perhaps.
+
+@072.0170
+Good.\nWhile we're at it, I have\nanother proposal.
+
+@072.01B0
+...I knew it.
+
+@072.01C6
+Have you heard of the "wokou"?
+
+@072.01F8
+Ming has a closed-door policy, so there\nis no navy. The Japanese pirates who\nraid our coast and plunder it are\nthe "wokou."
+
+@072.027A
+Their leader is Sojin Kurushima.\nI built a private fleet to protect people\nfrom his raids...
+
+@072.02D8
+You want me to take him down?
+
+@072.0306
+I will reward you, of course.\nAnd I think Japan holds something you\nare looking for.
+
+@072.035E
+Something I'm looking for? Heh heh heh.\n...You think little of me.\nSo I'm your hunting dog.
+
+@072.03B8
+What a suspicious way to see it.\nI'm offering you the trading rights\nwith Japan.
+
+@072.0416
+You like to make a favor of everything.
+
+@072.0432
+...Shall we call it off?
+
+@072.0448
+I came all the way to the eastern edge\nof the world. I will bring back results,\nbut the target needn't be Japan.
+
+@072.04C4
+...If you would rather take me on,\nthat's fine too.
+
+@072.04F6
+I'm curious whether that is confidence or\na bluff, but I have no reason to quarrel\nwith you now. Don't get worked up.
+
+@072.058A
+Needless to say, I know that accepting\nyour proposal is, in the end, the best\nchoice for me.
+
+@072.05F0
+You're a frightening woman...\nDancing in the palm of your hand must\nbe what I'm doing now.
+
+@072.0644
+Listen. Just sit back and watch.\nWhile I wipe out the pirates, you need\nnot lift a finger.
+
+@072.069C
+Oh, will that be so?
+
+@072.06BE
+With that bold smile at my back, I can\nsay such brave words with ease.\nI'm truly grateful.
+
+@072.0720
+What a cynical man.
+
+@072.0732
+"Such an honest man, so easy to handle."\nThat's what you're thinking, isn't it?\nJust wait for good news.
+
+@073.0040
+Admiral {FA}.\nThat was splendid work.
+
+@073.0066
+...Don't make me angrier.
+
+@073.008C
+Forgive me.\nNow, here is the reward I promised.\nTake it.
+
+@073.00E6
+The day has come when I must\nacknowledge you as the master of\nthese waters. Take this.
+
+@074.0086
+The Ottoman Empire is stirring in the\nMediterranean. Once you find that\ntreasure, why not head back?
+
+@074.00E8
+You're well informed.\nI'll remember that.
+
+@075.004C
+Maria!?\nWhat brings you all the way here?
+
+@075.0078
+The Ottoman navy has launched a major\noffensive to seize control of the\nMediterranean.
+
+@075.00CE
+I doubt my homeland will be dragged\ninto the war, but...\nDid you come just to tell me?
+
+@075.0128
+It's not as if I owe you nothing.
+
+@075.0148
+That helps. Thank you.
+
+@075.0162
+(Oh? How honest of him...)
+
+@075.0186
+But stop calling me "Mr. {FA}"...
+
+@076.000A
+A letter arrived\nfrom the Escante army.
+
+@076.0036
+The Escante army has\ndeclared war!
+
+@076.0096
+That man...\nI knew he had something up his sleeve.
+
+@076.00D2
+So in the end, Escante\nbetrayed us.
+
+@076.0106
+When I heard their true colors in some\ntavern, I thought it would come to this...\nBut we are in a much worse position now.
+
+@076.0178
+What do you mean?
+
+@076.0190
+While our army was fighting Maldonado,\nEscante was hoarding gold and strength.\nFor their own purpose.
+
+@076.0200
+Purpose?\nWhat purpose?
+
+@076.022A
+Well, I can guess...
+
+@077.001C
+Admiral. A call to arms has arrived\nfrom His Majesty the King.
+
+@077.0050
+Admiral. A call to arms has arrived\nfrom His Majesty the King.
+
+@077.0088
+From the King? What does it say?
+
+@077.00B8
+If you will allow me...\n"The Ottoman offensive has placed the\nChristian nations in unprecedented\ndanger."
+
+@077.0122
+"On the honor of the national army,\nmeet the enemy and fight to defend the\npeace of Europe and safe trade in the\nMediterranean."\nThat is all.
+
+@077.01B6
+If you will allow me...\n"The Ottoman offensive has placed the\nChristian nations in unprecedented\ndanger."
+
+@077.0220
+"On the honor of the national army,\nmeet the enemy and fight to defend the\npeace of Europe and safe trade in the\nMediterranean."\nThat is all.
+
+@077.02B4
+...So the Nordic countries are finally\nfeeling the heat!
+
+@078.001C
+Grrrr!
+
+@078.003A
+Just one more step and my empire...\nI could have taken the New World!\nIf, if not for you!
+
+@078.00A4
+Escante!
+
+@078.00B8
+You, of all people...\nI will not give you my empire!\n...Die!!
+
+@078.0106
+Well, well.\nMr. {FA}.
+
+@078.011E
+Escante...
+
+@078.0132
+Splendid work.\nYou have beaten me completely.
+
+@078.0170
+Heh, heh heh.\nJust one more step and my empire...\nI could have taken the New World...
+
+@078.01CE
+If, if not for you!
+
+@078.0200
+Admiral, look out!
+
+@078.0228
+Guhhh!!
+
+@078.023E
+Gh, gh, gh...\nI... am going to d-die here...?
+
+@078.0274
+Guh!!
+
+@078.0292
+Admiral, are you unharmed? Are you hurt!?
+
+@078.02BC
+I'm fine...
+
+@078.02CE
+Escante... a pitiful man.\nDid you truly believe the people of\nthe New World would accept a man\nlike you as king...?
+
+@078.033A
+Huh? Escante has something\nin his coat.
+
+@079.001E
+What a commotion...
+
+@079.0036
+I hear the pirate Hayreddin got\nbadly beaten by the Ottoman navy.\nThe stragglers are coming back, and\nit's chaos.
+
+@079.00A0
+Hayreddin?
+
+@079.00BA
+Out of the way!
+
+@079.00D2
+Ah!!\nH-Hayreddin... sir!!
+
+@079.0124
+What? Come to laugh at my\ndisgrace?
+
+@079.014E
+...Full of yourself, aren't you.\nI came on the King's orders to fight\nthe Ottoman Empire.
+
+@079.019E
+Heh, bad luck for you.\nIf you make them your enemy, you'd\nbetter be ready to die.
+
+@079.01E2
+Didn't the Hayreddin family have an\nalliance with the Ottoman Empire?
+
+@079.0238
+The Ottoman fleet commander, the Pasha,\nwanted to fold our pirate fleet into this\noffensive and forced me, his ally, to\n"pay homage."
+
+@079.02BA
+I won't have the fleet my father and I\nworked so hard to build swallowed up by\nsome army. Without hesitation, I rose\nagainst the Ottoman Empire...
+
+@079.033A
+That much was fine. Even outnumbered, I\nplanned to hold out two or three years\nand show them the pride of the\nAlgiers pirates.
+
+@079.03A4
+But my trusted men betrayed me, and the\nPasha's army caught me off guard. This\nis the result. I can't face my father.
+
+@079.041E
+There's no point telling you this.
+
+@079.0450
+Take this. The Pasha sent it as a sign\nof my vassalage. I can't stand the\nsight of it!
+
+@079.04B8
+Listen. Try not to lose in a\npathetic way.
+
+@080.000A
+Sera!!
+
+@080.001C
+{FI}!!
+
+@080.0030
+Why are you here!?
+
+@080.004A
+{FI}, danger.\nI heard. To help my people\nand the legendary king, I came.
+
+@080.0092
+You saved my life.\nThank you, everyone.
+
+@080.00C4
+{FI}!\n○×○×!!
+
+@080.00DC
+Yes, thank you, truly.\nNow, everyone, you should flee quickly.\nThe Ottomans won't stay quiet.
+
+@080.0170
+Everyone, flee.
+
+@080.0186
+Yes, you flee too.
+
+@080.01AC
+...What's wrong? Hurry.
+
+@080.01CA
+I won't go.
+
+@080.01E6
+I stay\nwith {FI}.
+
+@080.01FA
+What are you saying?
+
+@080.0212
+I ride the ship.
+
+@080.0222
+I still have work to do.\nIt's dangerous. Go home.
+
+@080.0252
+{FI} will be king of the sea.\nI will see it.
+
+@080.0272
+...No. Go home.
+
+@080.0288
+I decided already.
+
+@080.02A6
+Stubborn woman...\nDo as you like.
+
+@080.02CE
+What is it?
+
+@080.02DC
+After you beat the Pasha,\ncome back to this town.
+
+@080.0300
+To this town?
+
+@080.0312
+Yes.\nTo the king's tomb...
+
+@080.0328
+The king's tomb......\nYou mean the pyramid?\nWhat do you mean?
+
+@080.0360
+If you go... you will know.
+
+@081.000A
+This is my home...
+
+@081.0024
+I see.
+
+@081.0032
+Still, I don't understand.\nWhy would the legend of the Indian Ocean\nMark be told in a place like this...?
+
+@081.008C
+The Indian Ocean is much too far from\nthe Black Sea.
+
+@081.00C8
+True, when you put it that way...
+
+@081.00F4
+It seems she can't tell us the answer.
+
+@081.012C
+The word "legend" bothers me.\nIt may be that their roots actually lie\nsomewhere around the Indian Ocean.
+
+@081.0196
+But that is only a possibility.\nDon't dig in out of mere curiosity.
+
+@081.01F2
+Oh, it's been a while.\nSo you're the one leading the building\nof this town.
+
+@081.0248
+Yes, let's rest here\nfor the night.
+
+@081.0278
+But the town truly has nothing yet.\nIt will take time to develop.
+
+@081.02BC
+It can't be helped.\nThey have only a few people and little gold.
+
+@081.02EE
+Still, this is far too unsafe. If the\nOttoman Empire attacked again, the town\nwouldn't stand a chance.
+
+@081.0358
+...True.\nWe need to build up arms first.\n...Let's start by gathering some guns.
+
+@081.03AC
+{FI}, you don't have to\nforce yourself...
+
+@081.03CA
+Sera. This is your home. If you don't\nwant to lose it again, listen to me.\nYou need weapons to defend yourselves.
+
+@081.0436
+...Right.\nI'll prepare five holds' worth.
+
+@081.0470
+...Don't worry. We're with you.\nYou do your best, too, and keep\nbuilding the town.
+
+@082.001E
+I've prepared the guns.\nThey should help you defend yourselves.
+
+@082.0068
+...{FI}\nThey say follow them.\nCan you?
+
+@082.0094
+Sure, but... what is it?
+
+@082.00C4
+...Here.
+
+@082.00D2
+Oh... quite a fine building.\nWell done.
+
+@082.0100
+You could almost call this a palace.\nWe could also seek military investment.
+
+@082.014C
+With investment,\nthis town will grow more...
+
+@082.0186
+Yes, I'll invest first.\nUse it to build a Market.
+
+@083.001A
+You're Mr. {FA}, right?\nThe King of Sweden\nis calling for you.
+
+@083.0064
+Hey, Mr. {FA}'s\nback!\nThe King wants to see you!
+
+@084.000C
+Hm, what's this?
+
+@084.001E
+What's that poster?\n...Oh, a bullfight!
+
+@084.0044
+It's a rare chance. Shall we go see it?
+
+@084.007C
+...Phew. What a crowd.
+
+@084.009C
+It's incredibly lively.
+
+@084.00B8
+Spain rules the world\nat the moment, after all.
+
+@084.00EE
+According to the poster, the most\npopular bullfighter is appearing\ntoday.
+
+@084.016E
+Is that the most popular bullfighter?
+
+@084.0194
+That's a picador.
+
+@084.01BE
+He wears the bull down first, and then\nthe star bullfighter, the matador,\ndelivers the finishing blow.
+
+@084.03CC
+...Shall I invite him?
+
+@084.03E2
+Are you serious?
+
+@084.03F6
+Talent like that is hard to find.
+
+@084.040A
+...? Will a bullfighter be of use?
+
+@084.043C
+Got a moment?
+
+@084.0462
+What!?\n...Th-that one...
+
+@084.048A
+How would you like to set out onto\nthe great sea aboard a ship?
+
+@084.04FC
+Well, ships don't taste good.\nBut if you travel by ship, you can\nfeast on the food of the whole world.
+
+@084.0554
+F-feast? Heh. Heh heh.
+
+@084.057A
+That's right. The world has all\nkinds of food.
+
+@084.05A8
+I-I see. Lots and lots of kinds, huh.\nThen I'll go! The sea,\nanywhere!
+
+@084.05FA
+Then it's settled. Let me have\nyour name. I'm\n{FI} {FA}.
+
+@084.063A
+I-I'm Emilio Ferrog.
+
+@084.0662
+Welcome aboard, Emilio.
+
+@085.01F2
+It seems there's a bit of trouble\nin their personal lives...
+
+@085.0794
+Your grandfather says you're quite\nskilled with a sword. I'm sorry to be\nforward, but would you join my ship?
+
+@085.0966
+...What about this man?
+
+@085.09EC
+Mivor, was it? Will you come along?
+
+@086.003E
+You're back in your hometown.\nGet some good rest.
+
+@086.00B0
+I see. We'll rest at the inn,\nthen.
+
+@086.0D70
+Oh, Mivor did that?\nNot bad at all.
+
+@086.0DC4
+Hm?\nHeh, speak of the devil...
+
+@086.0FD2
+Heh, they make a good pair.
+
+@087.0008
+This is sudden, but...
+
+@087.001E
+...Hm?
+
+@087.0038
+Um...\nCould you hire me?
+
+@087.0062
+A volunteer. If you have the skills,\nI might consider it.
+
+@087.009E
+Yes. I like machines, so I'm good\nat handling and repairing ships.
+
+@087.00DA
+Your terms?
+
+@087.00EA
+...Then I have a request.\nPlease give me 1000 gold coins!
+
+@087.012E.0
+Very well.
+
+@087.012E.1
+I don't have that kind of money.
+
+@087.0160
+Thank you so much!\nNow I can make the repairs!
+
+@087.0192
+...Oh, sorry.\nPlease wait one day before sailing.
+
+@087.01C6
+Well then. Tomorrow, at the Harbor!
+
+@087.01FC
+Ah, I've been waiting for you.\nThis way. Take a look.
+
+@087.024C
+Thanks to the repair money you gave me\nyesterday, the ship is fixed up\nand I've even paid back my debts.
+
+@087.029E
+Sorry for testing you like that.\nThe admiral I'd stake my life on needs\nto have the right caliber, you know.
+
+@087.031E
+You'll do just fine.\nPlease, use this ship if you like.
+
+@087.0358
+Hm. Tell me your name.
+
+@087.0372
+The ship's? Of course, you're\nwelcome to give it any name you like.
+
+@087.03BA
+No, not the ship's name...\nI haven't asked yours yet.
+
+@087.03F8
+Oh, sorry.\nI got carried away yesterday and\nnever introduced myself.
+
+@087.0444
+I'm Jenas Passer.\nI look forward to working with you.
+
+@087.0494
+Take the ship out of the dock and give\nit any name you like with "Refit."
+
+@087.04DC
+I see... Can't be helped.\nI'll try somewhere else.
+
+@088.000A
+So this is Japan...\nWhat an unusual country...
+
+@088.003E
+G-good heavens, {FI}!\nLook at that!\nThat man is eating with two sticks!
+
+@088.009E
+Oh, those are called "hashi."\nThey're tableware, I hear.
+
+@088.00D0
+How very peculiar...
+
+@088.016C
+Looks like they want something\nfrom us...
+
+@088.018C
+So it seems...
+
+@088.01B8
+Eek...
+
+@088.0266
+...!
+
+@088.0272
+What are you saying!\nYou bumped into us!
+
+@088.02B8
+That's right!
+
+@088.03A0
+They've got quite a crowd, too...
+
+@088.03DA
+I-I can't fight!
+
+@088.03FE
+A bunch like this? You and I\ncan handle them with change to spare,\n{FI}.
+
+@088.05AC
+I'm amazed... in a tiny island\ncountry like this...
+
+@088.05CE
+Me too. That swordsmanship is\nnothing ordinary.
+
+@088.0616
+That speed is scientifically impossible...
+
+@088.067C
+We're the ones who should bow our heads.\nYou saved us. Thank you.
+
+@088.0758
+You may never return to Japan, you know.
+
+@088.07EA
+I see. A fine ambition. I am\n{FI} {FA}.\nI look forward to working with you.
+
+@089.0022
+Oh, so this is the Silla Gold Crown...
+
+@089.0048
+It's not just heavy. It has real\ndignity...
+
+@089.0072
+Even a man might want it.\nI understand the feeling.
+
+@089.00D4
+You... Julian, wasn't it?\nYou left before me and still\narrived a step too late.
+
+@089.011C
+Who are you?\nHave we met somewhere?
+
+@089.014C
+I am {FI}.\nI heard you talking about the Silla Gold\nCrown in a tavern in Hangzhou.
+
+@089.01A2
+That story caught my interest, so I\ncame all this way to search for it\nmyself.
+
+@089.01FC
+H-how cruel...\nThat was supposed to be a gift\nfor her...
+
+@089.024C
+Now I've lost all face!\nOh, I can't look Meihua in the eye...\nPlease, would you give it to me?
+
+@089.02C0
+...What will you do?
+
+@089.02DC
+...Very well.
+
+@089.02F0
+Really!?
+
+@089.0306
+Yes, take it. We are men of the sea.\nWe have no use for it, and it would go\nto waste. Say you found it yourself.\nI don't mind.
+
+@089.0370
+Oh, what a wonderful man!\nSomeday I will repay you, I promise!\nBye!
+
+@089.03C6
+Of course he's wonderful.\nThis man is the Leader of the {FO}...
+
+@089.03F2
+He's already gone.\nIf we meet again, I'd like to\ntalk with him at length.

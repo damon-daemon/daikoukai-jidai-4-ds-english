@@ -1,0 +1,749 @@
+@1000
+You're giving me something this expensive!?\nOh, thank you!
+
+@1001
+Oh, thanks.\n...You didn't have to push yourself.
+
+@1002
+Oh my, are you saying I'm Venus?\nHee hee, I don't mind that at all.
+
+@1003
+Come on, let's drink and make some noise!
+
+@1004
+On my days off I always stroll around the garden.\nWatching the flowers and trees,\nI can feel my heart getting\npurer.
+
+@1005
+I baked a pie.\nPlease have some.
+
+@1006
+I really hate stingy people.\nYou're not like that, are you?
+
+@1007
+La la la~ (music)\nThis song is about a woman waiting for her\nlover to return from the sea. Loving a sailor\nis so painful...
+
+@1008
+Hey, hey,\ntell me about foreign lands.
+
+@1009
+I like this port.\nIt's always lively, isn't it?\nGloomy ports get me down.
+
+@1010
+Surveying ruins sounds like fun.\nGetting a glimpse of how ancient people\nlived is kind of romantic, isn't it?
+
+@1011
+Some people are just out of touch with trends.\nI hate even walking next to\nthat kind of person.
+
+@1012
+You're really wonderful.\nStrong and kind...
+
+@1013
+If you have any troubles,\nshall I tell your fortune?\nOh? You don't have any?
+
+@1014
+You must be tired.\nI'll indulge your whims\njust a little, okaaay?
+
+@1015
+The idea that men go out to sea and women\nguard the home is so old-fashioned.\nDon't you think women should be able to\nget out into society these days?
+
+@1016
+I used to be bad with foreigners,\nbut you're special.
+
+@1017
+Sailors really are wonderful.\nHey, have you ever seen a dolphin?\nWhat about a whale?
+
+@1018
+Hey, tell me about pirates!\nWhat kind of ships do they sail?\nAre they strong?
+
+@1019
+Lately animals are being hunted\nfor their fur.\nWhy would everyone do such\nterrible things?
+
+@1020
+There is no information on the ports\nthat faction has contracts with.
+
+@1021
+I don't think it will succeed at all...\nAre you sure?
+
+@1022
+The chances of success seem\nquite low...\nAre you sure?
+
+@1023
+I think the odds are low...\nDo you still want to try?
+
+@1024
+...Looks like the chance of success\nis pretty low.\nStill gonna do it?
+
+@1025
+I can't see it succeeding at all...\nAre you sure, hm?
+
+@1026
+I think it's a bit impossible, but...\nDo you still want to try?
+
+@1027
+There's hardly any hope of success,\nbut would you still\ncare to try?
+
+@1028
+By the way, did you know?\nThere's a village near %s\nwhere you can resupply.
+
+@1029
+Oh yeah, did ye know?\nThere's a village near %s\nwhere ye can resupply.
+
+@1030
+I hear an unknown fleet\nis anchored at\n%s.
+
+@1031
+An unidentified fleet\nis heading to\n%s.
+
+@1032
+A fleet of unknown origin\nis heading to\n%s, I tell ye.
+
+@1033
+An unidentified fleet\nis anchored at\n%s.
+
+@1034
+Dunno whose fleet it is,\nbut it's anchored at\n%s.
+
+@1035
+We're still short of the\nrequired number of sailors by %s.\nRecruit more?
+
+@1036
+We're still short of the required\nnumber by %s.\nShould we recruit more?
+
+@1037
+We're short of the required\nnumber by %s.\nRecruit more?
+
+@1038
+Still %s short of the\nrequired number.\nWanna recruit more?
+
+@1039
+Still %s sailors short,\nhmm.\nShall we recruit more?
+
+@1040
+We didn't get the required number.\n%s short.\nRecruit more?
+
+@1041
+Still %s short of the\nrequired number, I'm afraid.\nShall we recruit more?
+
+@1042
+The cabins have room for\n%s more people.\nRecruit more?
+
+@1043
+The cabins still have room\nfor %s more.\nRecruit more?
+
+@1044
+The cabins still have room for\n%s more people.\nRecruit more?
+
+@1045
+The cabins still have space\nfor %s more.\nWanna recruit more?
+
+@1046
+Seems the cabins still have room\nfor %s more, hmm.\nShall we try recruiting more?
+
+@1047
+It looks like %s more\nsailors can board.\nRecruit more?
+
+@1048
+The cabins still have room\nfor %s more people.\nShall we recruit more?
+
+@1049
+What a refreshing afternoon.\nLet's open the window and let the breeze in.
+
+@1050
+I'm not that interested in romance.\nYou can call me childish, but I'd rather\nmake a ruckus with everyone.
+
+@1051
+My mom worked here all her life, too.\nShe was the most popular girl.\nI'll do my best and\nsurpass her someday.
+
+@1052
+Cooking is so much fun.\nThe happiest moment is when you\neat it and look like you enjoy it.\nWell, that's what I think.
+
+@1053
+I'm glad everyone likes my singing.\nI want to be of some help to Mom.\nShe's been working nonstop\nsince Dad left...
+
+@1054
+I want to go to a faraway country too.\nIn a huge castle I've never seen,\nwith a wonderful foreign prince... Eek!
+
+@1055
+You shouldn't fall in love with sailors.\nWaiting forever for a man who might\nnever come back. ...Even so,\nonce you're smitten, you're helpless.
+
+@1056
+I can't stand people without brains.\nI wish all sailors were as clever\nas you.
+
+@1057
+The time when everyone dotes on a woman\nis very short. That's why I never\nhave time to neglect polishing\nmy beauty.
+
+@1058
+Seeing a fight really fires me up!\nMaybe I just have hot blood?
+
+@1059
+I'm not that interested in money or luxury,\nbut ever since I was little\nI've longed to be a princess.
+
+@1060
+I don't think looking after my\nsiblings is hard. But sometimes I dream of\nmarrying a rich man and being freed\nfrom this life.
+
+@1061
+Men are so simple. Act a little\nhumble and they get full of themselves\nright away. Is it sly of women\nto take advantage of that?
+
+@1062
+Ahh, I want a burning romance.\nI wonder if there's a good man\nsomewhere?
+
+@1063
+Even if you grew up in an advanced country,\nsomeone who tries to solve things by force\nis a barbarian. I hate people like that.
+
+@1064
+Hee hee!\nI'll get scolded for drinking too much again...\n...but I'll drink anyway!
+
+@1065
+People often say I only care about looks,\nbut I'm really just weak to a nice mood.\nBut if the face isn't to my taste,\nthere's no mood at all, right?
+
+@1066
+Talking with foreigners is hard.\nThe language differs by country...\nDo you really understand\nmy language?
+
+@1067
+Thank you for always coming.\nI'll treat you to a drink today,\nso take your time.
+
+@1068
+I'd like to steer a ship, too.\nThis job is fun because I hear\nstories from all sorts of people, but still.
+
+@1069
+The parrot you gave me\nis doing great.\nHe's mischievous, but so cute.
+
+@1070
+Sorry, we're sold out.
+
+@1071
+Which one will it be?
+
+@1072
+That one is\n%s gold coins.\nI doubt you can afford it, eh?
+
+@1073
+That one is\n%s gold coins.\nWanna buy it?
+
+@1074
+Thanks for your business!
+
+@1075
+That's expensive.\nCan't you make it cheaper?
+
+@1076
+That's expensive.\nYou can make it cheaper, right?
+
+@1077
+That's a bit pricey. Give me a discount.
+
+@1078
+Oh, that's expensive.\nYou can lower it, right?
+
+@1079
+Hey now, that's too expensive.\nYou can go lower, can't you?
+
+@1080
+That's expensive, hmm.\nYou can go lower, can't you?
+
+@1081
+Hmm, that's expensive.\nYou'll give me a discount, right?
+
+@1082
+That's expensive.\nCan't you lower it?
+
+@1083
+Can't be helped. All right,\n%s gold coins\nit is.
+
+@1084
+Hey now,\nyou don't have anything worth selling.
+
+@1085
+Which one will you sell me?
+
+@1086
+Hmm. In that case,\nI'll pay %s gold coins.\nHow's that?
+
+@1087
+You must be joking. There's not\nanother one like it in the world.\nPlease take a closer look.
+
+@1088
+...You don't really intend to take an item\nlike this for that price, do you?
+
+@1089
+This is really rare, you know!\nDid you look at it properly?
+
+@1090
+That price!?\nIf you miss this chance, I think you\nwon't be able to get one again.
+
+@1091
+You're joking, right?\nThis is a one-of-a-kind masterpiece.\nTake a closer look, will ya?
+
+@1092
+Hm?\nYou don't understand the value of this fine piece.\nLook at it more carefully.
+
+@1093
+That's too cheap! Look at it closely!\nThis is really valuable, you knoow!
+
+@1094
+You jest. This is a masterpiece.\n...Surely you can see its value?
+
+@1095
+...All right.\nI'll pay %s gold coins.
+
+@1096
+Thanks!
+
+@1097
+For 1000 gold coins, I'll deliver\na document to another faction.
+
+@1098
+Choose a partner\nfor the %s.
+
+@1099
+Who should the %s\nbe with?
+
+@1100
+And who shall the %s\nbe with, hm?
+
+@1101
+Who's the %s with?
+
+@1102
+With whom shall\nthe %s be?
+
+@1103
+Choose the enemy to stand against together.
+
+@1104
+So, who's the enemy we stand against together?
+
+@1105
+Who's the enemy we stand against together, hm?
+
+@1106
+Who do you want to fight?
+
+@1107
+Who shall we stand up\nto together?
+
+@1108
+So you'll make a pact with %s\nto stand against\n%s together?
+
+@1109
+So we'll make a pact with %s\nto stand against\n%s together, right?
+
+@1110
+So you'll make a pact with %s\nto stand against\n%s together, hm?
+
+@1111
+So we're promising %s\nthat we'll team up\nagainst %s, right?
+
+@1112
+So you'll make a pact with %s\nto stand against\n%s together, I take it?
+
+@1113
+You'll send %s\na document about\n%s, right?
+
+@1114
+You'll send %s\na document about\n%s, right?
+
+@1115
+You'll send %s\na document about\n%s, hm?
+
+@1116
+You'll send %s\na document about\n%s, right?
+
+@1117
+I'll write the letter.\nWhat should it say?
+
+@1118
+Okay, I'll write the letter.\nWhat should it say?
+
+@1119
+I'll write the letter for ya.\nSo, what should it say?
+
+@1120
+I'll write the letter.\nWhat should it say, hm?
+
+@1121
+I'll write the letter!\nSo what should it say?
+
+@1122
+I'll draft the letter.\nWhat would you like it to say?
+
+@1123
+I'll make sure it gets delivered.\nDon't worry.
+
+@1124
+Admiral. There's no faction in these waters\nthat we can deliver a letter to.
+
+@1125
+...Come to think of it, there's no faction\nin these waters we can send a letter to.
+
+@1126
+Now that I think of it, there's nobody\nin these waters we can send a letter to.
+
+@1127
+...Admiral. There's no faction in these waters\nwe can deliver a letter to, hmm.
+
+@1128
+Now that I think of it, there's nobody\nin these waters we can\nsend a letter to.
+
+@1129
+Well, well, there's no faction in these\nwaters we could deliver a\nletter to.
+
+@1130
+Sorry about that.\nThe couriers are all out right now.\nWait five or six days.
+
+@1131
+There are no factions to stand against together.
+
+@1132
+There are no enemies to stand against together.
+
+@1133
+There's no faction to stand against together.
+
+@1134
+There's nobody to stand against together.
+
+@1135
+There's no faction to stand against together.
+
+@1136
+There's nobody to fight together.
+
+@1137
+There are no enemies to stand against together.
+
+@1138
+I really don't think %s\nwould join under us.\nAre you sure?
+
+@1139
+I can't imagine %s\nwould join under us...\nAre you sure?
+
+@1140
+I don't think %s\nwould join under us...\nDo you really want to do it?
+
+@1141
+I can't imagine %s\nwould join under us.\nYou really want to do this?
+
+@1142
+No way %s\nwould join under us...\nStill wanna try?
+
+@1143
+%s joining under us\nis unthinkable, but\nyou still want to try?
+
+@1144
+I don't think %s\nwill ever surrender...\n...Still want to do it?
+
+@1145
+I don't think %s\nwould join under us.\nAre you sure about this?
+
+@1146
+Unfortunately, this port has already\nsigned contracts with many factions.\nThere's no room for any others.
+
+@1147
+This port currently has an exclusive contract\nwith %s.\nWe cannot make contracts with other factions.
+
+@1148
+Too bad.\nThere's no room in this port\nfor other factions.
+
+@1149
+You wish to do business in this port?\nVery well. The minimum contract fee here\nis %s gold coins.
+
+@1150
+We cannot permit you to expand your\nbusiness any further in this port.\nUse your funds in other ports.
+
+@1151
+Oh, %s!\nHow admirable that you would help defend\na port you have no contract with.
+
+@1152
+You already monopolize this port.\nYou would do well to spend your funds\nin other ports.
+
+@1153
+What?\nYou say you have a Market letter of recommendation?\nVery well, show me.
+
+@1154
+Oh, %s!\nI hear you will help defend the port.
+
+@1155
+What?\nYou say you have a Market letter of introduction?\nVery well, show me.
+
+@1156
+You wish to do business in this port?\nHmm, very well.\nThe minimum contract fee here\nis %s gold coins.
+
+@1157
+I will grant you control in proportion\nto the contract fee you pay.\nHow much will you pay?
+
+@1158
+Bah, what an indecisive fellow.
+
+@1159
+Then I will permit you to do business in this port.
+
+@1160
+Hmm, what admirable spirit.\nCommendable.
+
+@1161
+Hmm...\nThere's no need to put on airs\nwhen you carry only small change.
+
+@1162
+That much money on hand\nis not enough for the contract fee.\nCome back when you're ready.
+
+@1163
+Then let bygones be bygones, and\nI will permit you to do business here.
+
+@1164
+So you will display your rare treasures\nin my castle.\nWhich ones will you lend me?
+
+@1165
+Oh, what a magnificent piece!\nHmm, splendid...
+
+@1166
+Let me see. ...For that piece\nI will pay %s gold coins\nper month.\nIs that acceptable?
+
+@1167
+Very well, I have taken it into my keeping.
+
+@1168
+I can't wait to show it off.\nI can already picture everyone's\nsurprised faces.
+
+@1169
+You wish to take back what you\nleft with me?\nWhich one shall I return?
+
+@1170
+You're taking it away!\nIt can't be helped...
+
+@1171
+Understood.\nThen I shall return it to you.
+
+@1172
+What a shame...
+
+@1173
+The people of the port seem to have opened\ntheir hearts to your contributions.
+
+@1174
+Hmm. A letter of introduction won't do...\nA letter of recommendation, though,\nI might consider.
+
+@1175
+Hmm, I can trust you.\nI permit you to expand your\ncontract share in this port.
+
+@1176
+Hmm, I can trust you.\nI permit you to do business in this port.
+
+@1177
+That's 1 gold coin.
+
+@1178
+All right, good night.
+
+@1179
+It's 1 gold coin per night.\nHow many nights will you stay?
+
+@1180
+Staying %s night(s), right?
+
+@1181
+Take your time.
+
+@1182
+I hear in %s,\nprices for %s\nhave crashed.
+
+@1183
+Rumor has it %s\ntook a huge loss.
+
+@1184
+Looks like someone in %s\nbought up all the %s.
+
+@1185
+I hear %s, who missed out\non buying, is\npretty bitter about it.
+
+@1186
+Admiral, I gathered some information\non %s.
+
+@1187
+Admiral, I have obtained information\non %s.
+
+@1188
+Admiral, I looked into\n%s for you.
+
+@1189
+Oh right, I looked into\n%s for you.
+
+@1190
+Admiral, I checked up on\n%s.
+
+@1191
+Admiral, I got some information\non %s for you.
+
+@1192
+I looked into\n%s, Admiral!
+
+@1193
+Admiral. I have obtained information\nconcerning %s.
+
+@1194
+You don't have enough money.
+
+@1195
+I hear %s, %s\nfought %s's fleet\nand won a splendid victory.
+
+@1196
+I hear %s, %s\nfought %s's fleet\nbut got beaten back.
+
+@1197
+%s, %s\nattacked %s.\nTerrible thing to do.
+
+@1198
+%s, %s\nattacked %s\nbut failed miserably. Serves them right.
+
+@1199
+Oh, are you leaving already?
+
+@1200
+Today is a joyous day.\nCome, let us pray together.
+
+@1201
+Hm?\nAre you here to take part in the ceremony?
+
+@1202
+Come, let us sing a song of joy.
+
+@1203
+Kneel there.\nNow then... ahem.
+
+@1204
+Aaah, aaaah!
+
+@1205
+!?
+
+@1206
+What!?
+
+@1207
+OOOXXX...\nOXOXOX... (unintelligible)
+
+@1208
+???
+
+@1209
+Huh???
+
+@1210
+Now then, help with the preparations right away.
+
+@1211
+Help?
+
+@1212
+Help, you say?
+
+@1213
+Help with what?
+
+@1214
+Help?
+
+@1215
+Come on, don't stop working!
+
+@1216
+......
+
+@1217
+(Honestly, what is going on?)
+
+@1218
+God is always watching\nyour deeds.
+
+@1219
+You are the ones taking part in\nthe %s ceremony?
+
+@1220
+Good, come in.
+
+@1221
+What business do you have at these ruins?\nIf none,\nleave at once.
+
+@1222
+Haaaaaa!!!
+
+@1223
+!?
+
+@1224
+Huh?
+
+@1225
+Haaaaa, XXOOXO!\nOOOXXX... (unintelligible)
+
+@1226
+You must be pilgrims.\nNow line up there and offer\nyour prayers in turn.
+
+@1227
+Then you should join the circle\nof dancers.
+
+@1228
+Dance?
+
+@1229
+What do you mean, dance?
+
+@1230
+Now, cast off your idle thoughts.\nForget everything and throw yourself,\nbody and soul, into the whirl of\nthis gentle melody.
+
+@1231
+Release the hot current surging\nfrom deep within your body.\nYes, yes, that's the way.
+
+@1232
+We shall now begin the fast.\nAgreed?
+
+@1233
+What!?
+
+@1234
+What!
+
+@1235
+Whaaat!
+
+@1236
+...\nCan't be helped...
+
+@1237
+Now, pray quietly.
+
+@1238
+(Grrrowl...)
+
+@1239
+(Grrrowl...)
+
+@1240
+(I'm hungry...)
+
+@1241
+...
+
+@1242
+We will climb the sacred mountain\nto draw holy water.\nAre you ready?
+
+@1243
+Then follow me.\nDon't get separated.
+
+@1244
+If we don't return before sundown,\nwe'll be prey for wild beasts.\nHurry.
+
+@1245
+It costs %s gold coins,\nbut you don't seem to have enough.
+
+@1246
+It'll cost %s gold coins.\nIs that okay?
+
+@1247
+Mates here recover their\nhealth and spirits.
+
+@1248
+With a shipwright, you can repair\nthe ship when it's damaged.
+
+@1249
+With a Doctor aboard, you can cure\nmates' and sailors' ailments.

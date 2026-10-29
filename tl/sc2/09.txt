@@ -1,0 +1,929 @@
+@160.0040
+The ship's gone...?\nYou probably just mistook it for\nthe one next to it.
+
+@160.0078
+Bad joke for this early in the morning...
+
+@160.00AA
+Come on, knock it off!\nLosing sleep is the enemy of beauty!
+
+@160.0118
+It's really gone!!\nIt vanished!!
+
+@160.015A
+Don't tell me...\nEmilio ate it?
+
+@160.0188
+Not me!\nI don't eat stuff that looks yucky!\nHonest!
+
+@160.01CE
+I'm kidding. ...Wait,\nthis is no time for jokes!\nWhat's going on?!
+
+@160.0258
+Mamma mia!\nThat woke me right up!
+
+@160.028C
+What's going on??
+
+@160.0350
+Didn't you stop him?!
+
+@160.037C
+This is bad...\n{FI}, what do we do...?
+
+@160.03FC
+Right...\nYou'd never expect someone to sail\noff alone.
+
+@160.043A
+For now, let's gather info in town\nand look for the ship thief.
+
+@160.0482
+Mamma mia! Seriously!\nWhat rotten luck!
+
+@163.0042
+Huh!
+
+@163.0064
+Mamma mia! No way!
+
+@163.0154
+Hey, you!\nThis ship is mine!\nWhat do you think you're doing?!
+
+@163.0194
+That's right, get off right now!
+
+@163.01E4
+Things don't just lie around like that!
+
+@163.0216
+Mamma mia! Is this guy all right in the head?\nIs his brain turned to strawberry\njam or something?
+
+@163.0350
+Jam, he says? I knew it, his head...
+
+@163.037A
+You just picked it up...?\nA picked-up ship won't sail by itself.\nHow did you get out to sea?
+
+@163.040C
+ALONE!?
+
+@163.0424
+Amazing... Maybe this guy's a genius...
+
+@163.044A
+What if you couldn't turn back?\nWhat were you going to do then?
+
+@163.0542
+What do you mean "Yahoo!"?\nEnough is enough!
+
+@163.063A
+Mamma mia! What a piece of work!\nLet's hand him over to the guards!
+
+@163.0684
+Hey, {FI}!\nLet's take this guy with us!
+
+@163.06C6
+K-Kamil?!
+
+@163.06E0
+Hey, what are you saying?!
+
+@163.071E
+Have you gone strawberry jam\nin the brain too?!
+
+@163.0768
+It's crazy, but he's amazing!\nHe sailed out all by himself!\nI've never met anyone this weird!\nCome on, please?
+
+@163.07DC
+Oh, fine!\nOur mates are all weirdos anyway!
+
+@163.083A
+A-Admiral!!\nYou looked right at me when you said that!
+
+@163.086A
+Now, now, Angelo, calm down...
+
+@163.0892
+So, Jam, what do you say?\nCome travel with us!
+
+@163.0946
+You've decided?
+
+@164.0008
+So this is Alexandria.\nHuh, it's a pretty big town.
+
+@164.003E
+Africa is huge, so there are probably\na lot of big towns, right?
+
+@164.0074
+Maybe so!\nIt feels like land just goes on\nto the ends of the earth.
+
+@164.00B2
+Bluntly put,\nyou are mistaken!!!
+
+@164.00E2
+Whoa. Who's that, all of a sudden?
+
+@164.00FC
+Hey! Who are you?\nLooking for a fight?
+
+@164.012E
+You are mistaken because you are\nmistaken, sir. There is no end of the\nearth. The world is round. That is\ncommon knowledge now, sir!!!
+
+@164.01A8
+Well, yeah, that's true...\nBut were you even listening?
+
+@164.01E0
+I merely corrected a mistake of yours.\nIs that a problem, sir?
+
+@164.0212
+Ugh, I can't figure this guy out.
+
+@164.0238
+Maybe he's just that knowledgeable?
+
+@164.0260
+Indeed, sir.\nI have traveled the world and picked up\nall manner of knowledge.
+
+@164.02AA
+Wow, impressive. You're a real scholar.
+
+@164.02D0
+Why are you impressed?\nHe picked a fight with us out of\nnowhere.
+
+@164.030E
+It was just bad timing.\nBut don't you think knowledge from\naround the world would be useful?
+
+@164.036E
+Don't tell me you...
+
+@164.0384
+Hey, would you like to come with us?
+
+@164.03AC
+Huh???
+
+@164.03BC
+I knew it! Wait a second!
+
+@164.03E6
+We're on a ship, you see.\nAnd she's the admiral.
+
+@164.041C
+Oh!!!\nHow wonderful!!!\nYou are an admiral, ma'am?\nPlease, let me sail with you!
+
+@164.047C
+Ugh. What do we do?\nKamil, come on!
+
+@164.04A6
+If he's traveled the world,\nhe must have sailing experience.\nHe could probably help with the ship.\nDon't you think?
+
+@164.050A
+Please, I beg you, sir!\nAdmiral!
+
+@164.0530
+...Sigh. He sounds exhausting,\nbut fine. You're hired.
+
+@164.0568
+Thank you very much, sir!\nI am Cesare Toni, sir!
+
+@164.05A8
+Nice to meet you, Cesare.\nI'll show you around the ship.
+
+@164.05E2
+Ugh. Another weirdo joins us...
+
+@164.0704
+I shall now begin preparing\nto set sail, sir.\nAdieu!
+
+@164.07E0
+Once your share grows and you can\nbuy plenty of trade goods,\nthat is when to buy a ship.
+
+@164.0870
+Choose a ship that fits your share and\nfunds. Otherwise you cannot buy enough\ngoods to fill the hold, and you end up\nneeding only more sailors.
+
+@164.09D0
+After trading a while, when you have\nfunds to spare, trade up\nto a medium ship.
+
+@164.0A1C
+Medium ships come in two-masted and\nthree-masted types. Three masts are\nfaster, of course, but they need\nmore sailhands, sir.
+
+@164.0B14
+If you want to open routes to distant\nports on ocean voyages, add more supply\nholds and you can go quite far.
+
+@164.0B78
+But if you plan to take on any other\npower, you will need a large ship.
+
+@164.0BCC
+At the very least, your flagship needs\nmarine quarters and batteries, or you\nwill hardly win any sea battles, sir.
+
+@164.0C3C
+...The rest depends on your funds.\nTwo medium ships cost less than one\nlarge one, and carry more goods.
+
+@164.0CA6
+Someday you will trade up to a large\nship, but if you plan a regional fleet,\nyou may want to keep your old medium\nships instead of selling them.
+
+@165.0008
+Now, who will treat me to some\nfine liquor, I wonder...
+
+@165.003E
+Honestly, for a man of the sea, nothing\nis harder than going without good\nliquor.
+
+@165.00A8
+What's that guy muttering\nto himself about?
+
+@165.00DE
+Hey Kamil, look at that old man.\nHe's done nothing but complain.
+
+@165.0120
+Hmm... People get grumpy as they\nage. Everybody ends up like that.
+
+@165.0168
+What?! Not me!\nMy figure won't change,\nand I'll never go senile!
+
+@165.01C2
+Who are you calling senile?!
+
+@165.01FA
+Whoa! That startled me.\nUm... sorry about that.\n{FI}, you apologize too.
+
+@165.0240
+Why? He just heard it wrong\nall by himself!
+
+@165.0274
+I did not hear it wrong!\nI am still an active mate, I'll have you\nknow!
+
+@165.02B2
+Oh... So you were a mate, Grandpa.\nLive long, okay?
+
+@165.0300
+Whoa!\n{FI}, there you go again...
+
+@165.031E
+!!! What did you say?!\nYou crooked brat!\nYoung folks these days are hopeless!
+
+@165.0374
+Hey, I'm an admiral, you know!\nWhat does a "former" mate\nwant with me?
+
+@165.03DE
+I can't watch this...
+
+@165.0400
+What! An admiral, are you?\nRight, that settles it. I'm joining\nyour ship.
+
+@165.0440
+I'll have to educate you myself,\nor I'll never rest easy!
+
+@165.0472
+W-wait a second...\nHow did it come to this?
+
+@165.04A6
+Now, show me to the ship.
+
+@165.04D4
+(Maybe {FI} will settle down\na little?)\nCome on, let's give up and take him.
+
+@165.0524
+Oh, fine!\nI guess I have no choice...
+
+@165.0546
+That's right. Listen to a veteran\nwhen he speaks.
+
+@165.0584
+I'm Julio Elneco.\nI'm counting on you.
+
+@165.05B6
+Yeah, yeah. And you'd better prove\nyou're still "active."
+
+@166.0008
+Is it the sail position?...\nOr maybe...
+
+@166.003C
+Hey, do you need something\nwith this ship?
+
+@166.0072
+Oh, are you the owner?\nI think this ship could be so much\nbetter with a little work.
+
+@166.00D6
+Add extra sails, maybe...\nOr change the base sails...
+
+@166.0120
+And if you add more batteries,\nit would be even stronger...\nOr maybe change the type of cannon...
+
+@166.0184
+Come on, enough already.\nWho are you?
+
+@166.01B2
+Oh... pardon me.\nI got carried away over a ship\nthat isn't even mine.
+
+@166.01F6
+I'm Manuel. I used to be a mate.
+
+@166.0228
+Hmm, a mate...
+
+@166.0242
+When I see a ship, I can't help\nthinking things over. I never\nshook the habit from my sea days.
+
+@166.0292
+Truly, you must think me rude.\nI'm sorry. But let me say one more\nthing.
+
+@166.02F0
+...It may be none of my business, but\nthis ship is crying.\nGive her a bit more care.
+
+@166.034A
+Hey, wait!
+
+@166.0360
+Ah, I've said far too much.\nDon't take offense.\nWell, I'll be going.
+
+@166.03C2
+...Weird guy.
+
+@166.03D2
+What are you saying? That man is great!\nHey, {FI}, wouldn't it be good to\nhave someone like him on our ship?
+
+@166.043C
+You, {FI}, don't take any care of the ship.\nThat's why "the ship is crying."
+
+@166.049C
+And you work us too hard.
+
+@166.04C0
+Don't say that to me.\nI don't know anything about machines.\nIt can't be helped.
+
+@166.0524
+Stop being defensive, {FI}! So it'd be good\nto have someone who loves the ship\nin your place.
+
+@166.057E
+Then the ship wouldn't cry anymore.\nI'm sure of it.\nSo can we invite him aboard?
+
+@166.05CE
+Hmm...\nWell, if you're fine with it, Kamil.
+
+@166.05FE
+Sir, would you like to look after\nour ship?
+
+@166.063C
+You mean become a mate?\nBut it's been so many years since\nI left the sea...
+
+@166.06A0
+But you can't be that different from\nus active sailors. Someone who loves\nships that much couldn't have\nforgotten the sea.
+
+@166.070E
+Well, that's true, but......
+
+@166.072C
+Then please, love that ship.\nWe seem to "make her cry."
+
+@166.0790
+...Thank you. If you say that much,\nI'll gladly take the job.
+
+@166.07D4
+Then let me properly introduce myself.\nI'm Manuel Almeida.\nPleased to meet you.
+
+@166.08E0
+Put someone persuasive in the\n"First Mate Cabin" and "Chapel,"\nand it eases the sailors' discontent.
+
+@166.0996
+A doctor in the "Sickbay" heals\nfatigue, plague and injuries among\nmates and sailors.
+
+@167.0098.0
+Sure, go ahead.
+
+@167.0098.1
+I'll pass.
+
+@168.0112
+Wow, a funny old man. Sounds fun,\nI'd like to meet him.
+
+@168.013C
+Yeah, let's go.
+
+@168.01E6
+That must be the old man.
+
+@168.04B0
+He's a strange old man,\nbut he does seem to know a lot.
+
+@168.04E2
+True, but...\nisn't he a bit too strange?\nAnd kind of lewd.
+
+@168.051C
+You'll be fine,\n{FI}.
+
+@168.0534
+What's that supposed to mean?!\nStill, a group like ours might actually\nneed a guy like that...
+
+@168.0582
+We're all so far from scholarly,\naren't we? Hey, let's talk to him.
+
+@168.05EA
+"Far from scholarly"? Me too?...
+
+@168.063A
+Are you Mikhail?\nWe'd like you to put your great\nknowledge to use in the {FO}.
+
+@168.0680
+Please, we'd really like you\nto join us!
+
+@168.0710
+Please! We need that knowledge.
+
+@168.0794
+My name is {FI} {FA}!\nWhat of it?
+
+@168.07AE
+Little {FI}, is it?
+
+@168.081E
+Liiittle {FI}!
+
+@168.0858
+Hey! Don't just come near me!
+
+@168.0886
+Whoa! Mikhail, forget what\nI just said! You don't need to join!\nGoodbye!
+
+@168.094C
+Oh, well... Fine. You can come aboard,\nbut toward {FI}...\nAh, Mikhail!
+
+@168.099E
+Liiittle {FI}!\n(grope)
+
+@168.09BC
+Hey! Where are you touching?!\nYou dirty old man!
+
+@168.09F6
+Abyu!
+
+@168.0A06
+Oh dear...
+
+@169.0008
+Oh, Kamil.\nWhat are you doing?
+
+@169.002A
+Ah, {FI}. Well, I was looking into a\ntreasure called the "Victor's Mark."\nBut the one who knows the clues is...
+
+@169.0096
+Who???
+
+@169.00A8
+Mu-hu-hun!!\nNone other than me!!\nOh! Little {FI}!!
+
+@169.00F2
+Eek!! It's him!!\nThe pervert!!\nTouch me and I'll punch you again!
+
+@169.013E
+{FI}, that's too harsh...
+
+@169.0154
+How cold.\nAnd Little {FI} is so cute, too.
+
+@169.018E
+...Th-this is throwing me off. Um,\nMikhail. No, Dr. Mikhail Retzel,\nnaturalist! I wanted to ask you about\nthe "Victor's Mark"...
+
+@169.0214
+Hmm. If you call me doctor, I can't\nrefuse... Ahem.\nLittle {FI}, are you interested\nin the "Victor's Mark"?
+
+@169.027A
+Listen... Kamil is the one asking.\nWell, fine. So do you really\nknow? What is this "Victor's Mark"?
+
+@169.02E8
+Yes. It is said to be treasure scattered\nacross the seas, held by whoever\nmasters the sea. The details remain\na mystery, however...
+
+@169.0362
+According to old documents, there are\nseven treasures in all. The seven sages\nof ancient times marked their locations\non maps of many different shapes.
+
+@169.0426
+So if our {FO}\ngets them...!
+
+@169.045A
+The mark of the king of the sea...
+
+@169.0484
+Hmm, I see. Even Mikhail says\nsomething sensible once in a while.
+
+@169.04E6
+So it would prove the {FO}\nis the top power in that sea...
+
+@169.053C
+I don't really get it. Anyway, we\nhave to collect all those marks\nto get anywhere, right?!
+
+@169.059C
+Well? Are you awed by my vast\nlearning?
+
+@169.05CC
+W-well, sure... You're on my ship,\nso you'd better be useful...\nBut don't touch me, or else!
+
+@169.0662
+I can't trust him at all!
+
+@169.0684
+But Mikhail, how should we go about\ncollecting the Marks?
+
+@169.06CC
+First, become the strongest power in\nthat sea. Influential people in each\nregion often hold clues to the Marks.
+
+@169.073A
+Especially if someone with an evil\nspirit holds one, you will need to\ndefeat that person.
+
+@169.0794
+Hmm. So just beat up the bad guys?
+
+@169.07C4
+Then find the ruins sleeping in each\ncity, and solve the mystery of the\nsealed Marks.
+
+@169.0812
+How do I find ruins?
+
+@169.0838
+...Women.
+
+@169.084A
+Huh?!
+
+@169.085A
+In any big city, you should find some\nclue about the ruins nearby.
+
+@169.08A8
+So what is that supposed to mean?
+
+@169.08C6
+The tavern girls listen every day to\nthe tales of sailors from all over the\nworld, so they must know something.
+
+@169.0976
+...Ugh! What a cheapskate.
+
+@169.0996
+Everything in life is "give and take."\nCompared to the value of the treasure\nwe seek, it's cheap.
+
+@170.0026
+Oh, sorry! I'm in a hurry!
+
+@170.0048
+Hey!\nYou bump into me and that's it?
+
+@170.0080
+I said I'm in a hurry!\nI apologized properly, didn't I?
+
+@170.00BA
+I don't think that was "proper."
+
+@170.00E2
+Ugh! You're so persistent!
+
+@170.0102
+What did you say?!!
+
+@170.011A
+Look, I don't have time for this.
+
+@170.014C
+"This"?! You've got some nerve!\nCome over here!
+
+@170.01A2
+...H-hey, miss.\nI'm sorry. I was wrong.
+
+@170.01DE
+Huh? Oh, well. As long as you get it.
+
+@170.0206
+...You're actually nice, miss.
+
+@170.022C
+W-well, yes! People tell me that!
+
+@170.0252
+Then... could you help me out?\nI'm really in trouble.
+
+@170.02A2
+Sure! Tell me anything.\nI'm an admiral, you know.
+
+@170.02E4
+An admiral?
+
+@170.02F2
+I lead a fleet called the {FO}\nand sail on a ship.
+
+@170.0322
+Wow! Miss, that's amazing!
+
+@170.0346
+Hmm. I thought you were just a cheeky\nbrat, but you're kind of cute.
+
+@170.039A
+...So what's your trouble? Money?
+
+@170.03C0
+...I ran away from my master.\nI want to go out into the world.
+
+@170.0410
+?\nI don't follow. Why did you\nrun away in the first place?
+
+@170.0456
+I was training in Tao magic, but my\nmaster just kept scolding me.\nI got sick of it.
+
+@170.04B0
+But if I quit now, I can never prove\nmy master wrong, right?
+
+@170.04FC
+So I want to travel the world, train\nalong the way, and get way stronger!
+
+@170.0540
+Tao magic training...??? What's that?
+
+@170.0564
+But I do get wanting to prove your\nmaster wrong. Kind of.
+
+@170.05B2
+Yay! You get it!\nThen will you let me on your ship?
+
+@170.05F6
+Hmm. Going to sea isn't a game.\nDo you have the resolve to never\nlose to anyone?
+
+@170.065A
+No problem!\nI've endured harsh training\nall this time!
+
+@170.069A
+Looks like your mind's made up.\nAll right, what's your name?
+
+@170.06CA
+I'm Ifa! And you, miss?
+
+@170.06EA
+I'm {FI}.\nIfa, work hard and show your master!
+
+@171.003A
+...Huh?
+
+@171.012C
+Ifa?...
+
+@171.027A
+So, you...\nYou're going to take Ifa back?
+
+@171.04EA
+Was that... a dream?\nIt felt strangely real...
+
+@171.0588
+Senior?!\nCould that person be named\nSanghyun?
+
+@171.05C6
+!? No way!\nIs Brother here?
+
+@171.05F2
+Ah... The person in my dream\nsaid so. He said he's your senior.
+
+@171.0642
+In your dream...
+
+@171.06BC
+Magic, huh... I still don't get it.
+
+@171.06E6
+Come to think of it, that man said\nnot to slack off training after leaving\nthe mountain. To obey our master.
+
+@171.07EC
+Hey! Ship work comes first!\nTraining comes after!
+
+@172.0072
+...Wow. How can he say that\nso boldly?
+
+@172.0532
+Hmm... Listen, I overheard.\nWhat exactly is the "Silla Gold Crown"?
+
+@172.057C
+Well... I heard but forgot.\nAll I remember is that it's\nsuper pretty.
+
+@172.05C8
+Hmm. Now I want to see it too.
+
+@172.05F8
+Oh, you're interested too?\nIf I get it, I'll show you.
+
+@172.0638
+No thanks. I'll find it myself!\nYou said it was in Hanseong, right?
+
+@172.0694
+That's what I heard.\nBut I don't know where in Hanseong.
+
+@172.06CC
+That's enough to go on!\nI'll ask around when I get there.
+
+@172.071E
+Then please show me when you\nget it.
+
+@173.000E
+Does anyone know about the\n"Silla Gold Crown"...?
+
+@173.0064
+...Maybe I'll ask.\nHey, ever heard of the\n"Silla Gold Crown"?
+
+@173.00AC
+Well, yes... I've heard of it.\nWhy do you ask?
+
+@173.00E6
+Yes! I'm looking for it!\nI hear it's really pretty.
+
+@173.0130
+Yes, it's supposedly pretty.\n...Strange.\nSomeone asked me the same thing earlier.
+
+@173.0176
+What?!\nIs that person named Julian?
+
+@173.01B4
+Hmm... I don't remember.\nHe was a smooth talker, though...\nI think he went to the "Muryeong Tomb."
+
+@173.0228
+It's a ruin nearby. I heard the\n"Silla Gold Crown" is there.
+
+@173.027A
+A ruin!\nAt this rate Julian's already there.\nAll right, I won't lose!
+
+@174.000C
+Oh, you're... Thanks for earlier.
+
+@174.004C
+I got the "Silla Gold Crown" from her,\nthat's how we met.\nShe actually found it first.
+
+@174.00AE
+Oh! So this is the "Silla Gold Crown"!\nIncredible, it's so substantial...\nand elegant...
+
+@174.00FE
+As promised, it's my gift to you!
+
+@174.0126
+Wonderful! I'll treasure it forever!
+
+@174.014A
+...Glad it worked out.
+
+@174.0166
+Thanks to you. But could you tell me\nhow you got to the "Muryeong Tomb"\nso fast?
+
+@174.01C2
+Well, we've got more adventuring\nexperience.
+
+@174.01E6
+You're an adventurer? Charming and\ndependable, it seems!
+
+@174.0234
+...Ahem!\nW-well, not an adventurer.\nWe sail around the world doing business.
+
+@174.027A
+Wow! Amazing!\nSo you sailed to Hanseong by ship.
+
+@174.02C4
+Me, I ran all the way. After hearing\nthe tavern talk in Hanseong, I collapsed.\nWhile I rested, you beat me to it...
+
+@174.0342
+You ran all the way to Hanseong?\nNo way!?
+
+@174.037E
+If I ran that long\nI'd get hungry...
+
+@174.03AE
+Ah, going to Hanseong must have been\nfate! To meet a wonderful woman like\nyou!
+
+@174.040E
+Huh?\n(He's saying weird things again...)
+
+@174.043E
+Hey! Take me with you!\nI want to see the world too!
+
+@174.0484
+Huh? Seriously?\nWhat do you want to do out there?
+
+@174.04BA
+I want to see lands all over the world.\nMy grandfather sailed everywhere.\nI've admired that since I was a kid.
+
+@174.0520
+I want to be an adventurer like my\ngrandfather!
+
+@174.0550
+Hmm... your grandpa was a mate, huh.\nSo you must know about sailing?
+
+@174.05A4
+Of course. I won't be a burden.
+
+@174.05C6
+...Fine. Let's go together.
+
+@174.05EE
+Ah, I'm happy just to go to sea\nwith a cute girl like you!
+
+@174.0638
+...Say any more and\nI'll throw you overboard!
+
+@174.0668
+Julian?\nWhat about me?
+
+@174.0690
+Oh... Meihua...
+
+@174.06A2
+You've got nerve, flirting with another\nwoman in front of me. Just go! Go to the\nworld or wherever!
+
+@174.06FE
+Come on, Meihua, there's no need to\nbe jealous. She's my new employer.\nPlease don't be mad...
+
+@174.07C6
+...Really?\nThen I'll be looking forward to it!
+
+@174.07F2
+(This guy might be something...)
+
+@175.000C
+Huh? That person looks familiar...
+
+@175.0034
+Where, where...?
+
+@175.004C
+Well, well. You're the one from before...
+
+@175.006E
+You! It's that woman pirate from\nthat time!
+
+@175.0094
+Who'd have thought we'd meet here.
+
+@175.00BE
+You've got guts, girls. Coming here\njust the two of you. You think you'll\nwalk away unharmed?
+
+@175.011E
+Uh-oh... We're surrounded before we\nknew it. {FI}, what do we do...
+
+@175.0156
+Hey! Is this your game?\nSurrounding us with a crowd,\nhow cowardly!
+
+@175.01AE
+What! You brat!
+
+@175.01CC
+{FI}, come on... Picking a fight\nin a place like this,\nwhat are you thinking?
+
+@175.0210
+Heh heh heh. Give up.
+
+@175.022A
+Enough!
+
+@175.023A
+Are you sure?
+
+@175.0252
+How many times do I have to say it?\nWe're not thugs.\nWe have our pride as pirates!
+
+@175.02A8
+(...Huh, so that's the kind of person she is.)
+
+@175.02D0
+I don't plan to kill you here.\nPirates settle things at sea.\nBut when that time comes, don't run!
+
+@175.034A
+I won't run!\nOf course not!
+
+@175.0374
+Heh, you talk big. I like your guts.\nWhat's your name?
+
+@175.03BA
+{FI} {FA}!
+
+@175.03CC
+Quite a cute admiral, aren't you...\n...Hm!?
+
+@175.0404
+What!\nDo you have a problem?
+
+@175.042A
+...Girl. That's a fine sword you have.\nIt doesn't suit you. I'll take it\nfrom you sometime.
+
+@175.0494
+What are you talking about?
+
+@175.04A6
+Never mind.\nAll right, boys! Pull out!
+
+@175.04F4
+Phew... We're saved.\nI thought we were done for.
+
+@175.0524
+With types like that, you've got to\nbe bold!
+
+@175.0552
+That woman was intense.\n{FI} is scary too,\nbut she was even more so...
+
+@175.0594
+What's that supposed to mean?\nBut settling it at sea is kind of cool.
+
+@175.05EA
+"Kind of cool"... so carefree.\nThat pirate's going to chase us\nforever now.
+
+@175.0648
+...It'll work out!\nI won't lose!
+
+@175.067A
+You and your fighting spirit,\nreally...

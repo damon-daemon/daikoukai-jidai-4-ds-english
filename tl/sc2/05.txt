@@ -1,0 +1,1082 @@
+@093.0026
+Huh? What is it?
+
+@093.007E
+What's this all of a sudden?\nAh, you heard another rumor, didn't you?
+
+@093.00EE
+Don't tell me it's a mail made from\nthe feathers of that bird, the peacock?
+
+@093.017C
+Somehow... it sounds weak.
+
+@093.01EE
+Really?\nSo where is it?
+
+@093.0284
+That's not enough for me to\neven guess.
+
+@093.0300
+Hmm, well, I'll keep it in mind\nanyway. Don't get your hopes up.
+
+@094.0024
+Huh? What is it?
+
+@094.00C4
+Another new rumor?
+
+@094.00FE
+What do you mean?
+
+@094.01CE
+...That's so like you. Anyway, about the\nvest, the New World is huge, you know.\nCan't you narrow it down?
+
+@094.0254
+Can't you be a bit more specific?
+
+@094.02D0
+Honestly, Samuel!\nFine, I'll do that.
+
+@095.005E
+...Stop it. That's bad luck.
+
+@095.00FE
+Really?\nThat's amazing!
+
+@095.017A
+Huh? Sounds fishy to me.
+
+@095.02D2
+Sounds fun! Maybe I'll look for it!\nIf it's really there, I'll make a profit!
+
+@096.0038
+Every single time we reach port,\nyou say the same thing.
+
+@096.00CE
+What do you mean, looking for something?
+
+@096.0104
+Honestly!\nHow are you going to tell if it's\nthe most delicious in the world?
+
+@096.01B0
+Hestia? What's that?
+
+@099.0070
+Of course. We only found it thanks\nto your report, Yukihisa.
+
+@101.006E
+Wait a second.\nThe "Victor's Mark"... what's that?
+
+@101.00D2
+Conquering the seas, huh?\nWow! Sounds kind of exciting!
+
+@101.011A
+Hey, hey, tell me more!
+
+@101.0144
+Could you tell us more, please?
+
+@101.0178
+Huh?\nFather, do you know something?
+
+@101.0212
+Leave it to me!\nI may not look it, but once I decide\nto do something, I never give up!
+
+@103.0098
+Huh? Everyone's cross looks newer\nthan mine...?
+
+@103.00D0.0
+What is it?\nOh, you're right.\nOnly the Admiral's is a totally different color...
+
+@103.00D0.1
+What is it?\nOh, you're right.\nOnly the Admiral's is a totally different color...
+
+@103.00D0.2
+What's up?\nOh, you're right.\nOnly the Admiral's is a totally different color...
+
+@103.00D0.3
+What's up?\nOh, you're right.\nOnly the Admiral's is a totally different color...
+
+@103.00D0.4
+What's up?\nOh, yeah.\nOnly the Admiral's is a totally different color...
+
+@103.00D0.5
+What's the matter?\nOh, so it is.\nOnly the Admiral's is a totally different color, hmm.
+
+@103.00D0.6
+What's up?\nOh, you're right!\nOnly the Admiral's is a totally different color...
+
+@103.00D0.7
+What is it?\nOh, so it is.\nOnly the Admiral's is a totally different color...
+
+@103.022E
+No fair!
+
+@103.0240
+...But being this old might actually\nmake it cooler.
+
+@104.00D4
+Whoa! It talked!?
+
+@105.000E
+Wow, it's huge!
+
+@105.004A
+Eek!\nW-who's there!?
+
+@105.02C4
+Aw, that's cheating!
+
+@105.02E6
+There are ten people here in all,\nadults and babies. When the hands and\nfeet touching the floor total 32,\nhow many are babies?
+
+@105.034A.2
+6 people
+
+@105.0404
+Um...
+
+@105.0438
+{FI}, calm down.\nFirst, let's work out how many feet\nare on the floor.
+
+@105.047A
+The feet of ten people...\nThat's twenty, right?
+
+@105.04B4
+Subtract those twenty feet from 32...
+
+@105.04DE
+That makes twelve hands on the floor,\nso... I've got it!\nThere are six babies!
+
+@105.0544
+Amazing!
+
+@106.0010
+Oh, is that the weird festival?
+
+@106.0062
+S-singing?\nAre they drunk on wine?
+
+@106.00A4
+Shh!
+
+@106.0182
+This is... kind of creepy...
+
+@106.0208
+W-what did he say!?
+
+@106.0228
+Hey!!\nI won't allow that, no way!!
+
+@106.0280
+Whoa, you idiot!
+
+@106.02A8.0
+A-Admiral!
+
+@106.02A8.1
+A-Admiral!
+
+@106.02A8.2
+Whoa, what are you doing!
+
+@106.02A8.3
+Eek! A-Admiral, don't!
+
+@106.02A8.4
+A-Admiral!
+
+@106.02A8.5
+A-Admiral!
+
+@106.02A8.6
+A-Admiraaal!
+
+@106.02A8.7
+A-Admiral!
+
+@106.0338
+There are still those out there who\ndefy the will of God...\nSeize them and make them sacrifices!!
+
+@106.0386
+Ooooh!
+
+@106.03BE
+...Honestly, this girl!
+
+@106.03E8
+Hold it!
+
+@106.0406
+Heretics!\nYour vile deeds are plain to see!\nWe won't let you do as you please!\nGive us back our village's ruins!
+
+@106.0462
+Ugh, damn it!
+
+@106.0478
+The villagers...?
+
+@106.04AE
+You came!\nThank goodness I asked the nearby\nvillage for help!
+
+@106.04F4
+I thought something like this might\nhappen, so I asked the villagers\nfor their support as well.
+
+@106.054A
+Figured something like this might\nhappen, so I asked the villagers\nto back us up.
+
+@106.0596
+Grrr! I'm getting out of here!!\nWhat!? It's gone!?\nIt's gone! Where is it!?
+
+@106.05F2.0
+Hm? What's this?
+
+@106.05F2.1
+What's this?
+
+@106.05F2.2
+Hm? What could this be?
+
+@106.05F2.3
+I wonder what this is?
+
+@106.05F2.4
+Hey. What's this?
+
+@106.05F2.5
+Hm? What's this, then?
+
+@106.05F2.6
+There's something here!
+
+@106.05F2.7
+Hm? What is this?
+
+@106.06B0
+You mean this?\nIt was sitting on the altar like it was\nprecious, so I'm just taking a look.
+
+@106.0760
+Come on! Behave yourself!!
+
+@106.0792
+Thank you.\nThanks to you telling us, our village\nwas saved.
+
+@106.07D6
+We can't give you much of a reward,\nbut we'll see you to London.\nBears roam that forest, you see.
+
+@106.0820
+B-bears? I've had enough of that...
+
+@106.0844
+Don't worry, we'll send a skilled\nhunter along.\nTake care on your way back.
+
+@107.000E
+Traveler.
+
+@107.001C
+Eek! What, what!?
+
+@107.003A
+Grant my wish.
+
+@107.0054
+W-who's there!?
+
+@107.0066
+...I wear gold, dazzling as the sun,\nI wear silver, pale as the moonlight.
+
+@107.00B6
+Yet I have never known the shine of stars.\nAdorn me as purely as a new star.\nAdorn me as purely as a new star.
+
+@107.012E
+Eeek!
+
+@107.0146
+Huh? What? What does it mean?
+
+@107.0178
+??\nI don't know what's going on...
+
+@107.019C
+I have no idea what it was saying!
+
+@107.01CA
+...\n(At a time like this,\nif only Kamil were here...)
+
+@107.0202
+..."Adorn me as purely as a new star"?\nSince it says adorn, doesn't that mean\nwe should bring some kind of\nornament?
+
+@107.026A
+An ornament?
+
+@107.027A
+Gems, precious metals...
+
+@107.0296
+H-hold on. That's way too broad.\nI can't tell at all!
+
+@107.02E0
+This is a problem...
+
+@108.00B0
+Hey, hey, have you ever heard the story\nof the treasure that goes to the\nperson who conquers the seven seas?
+
+@108.0148
+Huh?\nDo you know something?
+
+@108.025A
+Yes! Leave it to me!
+
+@109.0048
+Huh?\n...What do you mean?
+
+@109.01BA.0
+Admiral, what do you think?\nI have no idea...
+
+@109.01BA.1
+This is... hard.\nI don't know.
+
+@109.01BA.2
+I give up... I have no clue.
+
+@109.01BA.3
+This is hopeless... I have no clue.
+
+@109.01BA.4
+Hmm, what's this about...
+
+@109.01BA.5
+Hmm, what's this about, eh?
+
+@109.01BA.6
+????
+
+@109.01BA.7
+Hmm, a difficult one.
+
+@109.02A0
+It's a hard one.\n{FI}, what do you think?
+
+@109.02C6
+Heh heh, leave it to me!\nThe answer is "1 second"!
+
+@109.030C
+You're so confident!\nYou must be sure!
+
+@109.0338
+Of course! I'm brains and beauty!
+
+@109.0386
+Hey... what was that confidence\nbased on?
+
+@109.03B2
+...Just a hunch.
+
+@109.03F8.0
+Admiral, what do you think?\nI have no idea...
+
+@109.03F8.1
+This is... hard. I don't know.
+
+@109.03F8.2
+...I give up. I have no clue.
+
+@109.03F8.3
+...This is hopeless. I have no clue.
+
+@109.03F8.4
+Hmm, what's this about...
+
+@109.03F8.5
+Hmm, what's this about, eh?
+
+@109.03F8.6
+????
+
+@109.03F8.7
+Hmm, a tough one.
+
+@109.04D6
+It's a hard one.\n{FI}, what do you think?
+
+@109.04FC
+Heh heh, leave it to me!\nThe answer is "30 seconds"!
+
+@109.0544
+You're so confident!\nYou must be sure!
+
+@109.0570
+Of course! I'm brains and beauty!
+
+@109.05BE
+Hey... what was that confidence\nbased on?
+
+@109.05EA
+...Just a hunch.
+
+@109.0630
+..."59 seconds," maybe...
+
+@109.064A.0
+Admiral, did you work it out?
+
+@109.064A.1
+Admiral, have you worked it out?
+
+@109.064A.2
+Admiral, you figured it out!?
+
+@109.064A.3
+Admiral, you figured it out?
+
+@109.064A.4
+Admiral, you did the math!?
+
+@109.064A.5
+Oh! You solved it?
+
+@109.064A.6
+Wow! You figured it out!
+
+@109.064A.7
+Oh, you have it figured out, I see?
+
+@109.0724
+W-well, yeah...
+
+@109.073C
+Oh, I see!
+
+@109.0752
+You got it!?\nAs expected of Kamil!
+
+@109.0778
+The answer is "59 seconds"!
+
+@109.0796
+I-I was just thinking the same\nthing right now!!
+
+@109.0824
+Phew, lucky!
+
+@109.0846
+You're so reliable, Kamil!
+
+@109.0866
+Well, yeah!
+
+@110.01EE
+Aaah! R-run!
+
+@111.0010
+Wow!\nIt really is a gold-plated temple!\nSuch bad taste!
+
+@111.004C
+You there! Girl!
+
+@111.0064
+Uh-oh!\nS-sorry!
+
+@111.0086
+Of all the things to say, "bad taste"?\nI cannot let that pass.
+
+@111.00BA
+You cannot see the dignity and\nformal beauty within this splendor?\nYour eyes are still clouded by the world...
+
+@111.0116
+Ugh! Spare me the sermon!\nI already apologized!
+
+@111.0156
+Hmm, how lamentable.\nYoung people these days...
+
+@111.0184
+If you have no business here, leave!
+
+@111.01A6
+Yeah, yeah.\nWell, no clue about the Mark here\nafter all.
+
+@111.01E8
+...What!? What did you just say!?
+
+@111.0212
+Huh? ...I said there's no clue about\nthe Victor's Mark...\n(Did I offend him again?)
+
+@111.026C
+What!!\nThis ill-mannered girl is seeking\nthe Mark!?
+
+@111.02B2
+What!? Reverend, you know about it!?
+
+@111.02DA
+I-I can't believe it...
+
+@111.02F2
+Hey, hey, if you know, tell me!\nI'll apologize again if you're still angry.\nPlease?
+
+@111.0342
+Pleeease. Okay?
+
+@111.0358
+...I must teach you some Eastern humility\nand courtesy first.
+
+@111.03AC
+Very well. I shall tell you, but you\nwill train under me for a while.
+
+@111.0406
+If you cannot endure this, you have no\nright to call yourself a "Victor."
+
+@111.0446
+Ugh, f-fine.
+
+@111.0464
+The proper reply is "Yes, sir," is it not?
+
+@111.048E
+Yes, sir!
+
+@111.04A6
+Hmm, a good, honest answer.
+
+@111.04D6
+Heh heh.\nPerfect training for someone with\na sharp tongue like {FI}.
+
+@111.050C
+Grrrr...
+
+@111.051E
+Now then, go and buy the rice to be\noffered to the Buddha.
+
+@111.0564
+Rice?\nSure, one hold's worth should do.\nOh, who's paying?
+
+@111.05A2
+Kaaah!!!
+
+@111.05B6
+Whoa!! What, what??
+
+@111.05DC
+You mean I have to pay for it myself?
+
+@111.0604
+It is an offering.
+
+@111.0618
+...Unbelievable.
+
+@112.0010
+Okay, let's go home.
+
+@112.00AA
+What's wrong?
+
+@112.0122
+A boy is drowning!
+
+@112.0238
+I'm glad that boy is okay!
+
+@112.0378
+Oh no...\nSir, you should keep that\nas a keepsake.
+
+@112.0470
+Bye-bye, big sister!
+
+@113.0058
+Beautiful...\nI've never seen such amazing jade.
+
+@114.0010
+Little lady, little lady.
+
+@114.0044
+Hey, I wanted to thank you.
+
+@114.0078
+I told you, I'm not a little lady!
+
+@114.009A
+Sorry, sorry.\nI wanted to thank you.
+
+@114.00D2
+Listen to this!\nLately the underground trade in slaves\nand drugs has dropped sharply!
+
+@114.0120
+Wow, really!?
+
+@114.0138
+It must be thanks to you bringing\nin the cacao! It's this port's\nspecialty now.
+
+@114.0194
+So I was useful after all!\nThat's great, mister!
+
+@114.01F6
+Now, I don't know if it'll help, but...\nI hear you're looking for something?
+
+@114.024C
+We're not supposed to tell outsiders,\nbut there are ruins near here.\nA bit inland, deep in the desert.
+
+@114.02BA
+I'll tell you where the castle gate is.\nBuy a map at the Guild here and go\nsee it yourself.
+
+@114.0310
+Thanks, mister!\nI'll go take a look!
+
+@115.00A4
+Oh, it's just a stone tablet.
+
+@116.0122
+Yeah! Thank you!
+
+@117.01AA
+Hmm, you're right.
+
+@117.0398
+Oh, you're right!
+
+@119.0030
+W-wow...
+
+@119.005C
+Woohoo!\nWhat a smash hit!
+
+@119.0098
+Tomato sauce!!\nWow, that looks delicious!
+
+@119.00E6
+Look at that woman!\nEven the pattern on her clothes...
+
+@119.0124
+I never thought it would get\nthis popular!
+
+@119.0154
+Of course it did!\nI produced it, after all!
+
+@119.01AA
+Heh, says who?\nYou were standing there gaping,\nand you know it.
+
+@119.01E6
+No way! W-was I?
+
+@119.020E
+{FI},\nyou look happy.
+
+@119.0226
+Heh heh. Of course I am!\nWe got to make everyone in town\nthis happy with our own efforts!
+
+@119.028E
+Look at everyone's faces.\nSee? Smiles, smiles everywhere...
+
+@119.02C2
+The shopkeepers profit, and I profit big!\nNothing could make me happier!
+
+@119.0320
+You really are cut out for this\nwork, {FI}.
+
+@119.0350
+Yeah. I'm so glad I went to sea.
+
+@119.0386
+I want to see even more happy faces,\nand the {FO}\nhas to earn even more!
+
+@119.03F8
+Oh, how reliable!\nSo, what are we going to make\npopular next, and where?
+
+@119.044E
+Fernando's really into it.
+
+@119.047A
+Not even a casino gives you\na gamble this big.
+
+@119.04DC
+Let's make bananas the next trend!\nPumpkins would be good too!\nWow, just thinking about it makes me hungry!
+
+@119.0538
+...Honestly. You're fine with\nanything as long as it's food.
+
+@119.0584
+Come on, let's go report to the Guild\nin this port!
+
+@119.05BA
+Come on, let's go report to the Guild\nin this port!
+
+@120.000C
+We're finally at sea!\nAh, the sound of the sea breeze, the\nseagulls. Kamil, hurry up and give the orders!
+
+@120.006C
+Before that... {FI},\nI'll teach you how to steer a ship too.
+
+@120.009C
+I'm fine, really.\nI'm bad at that stuff.
+
+@120.00C6
+Bad at it or not, you have to learn.\nWe don't know what will happen.\nIt's to be ready when the time comes.
+
+@120.012C
+Ugh... fine, fine.
+
+@120.014A
+Okay, let's start!\nFirst, check which way the ship is\nfacing.
+
+@120.018E
+{FI},\nyou give the fleet's course\nto everyone.
+
+@120.01BC
+A ship won't go anywhere unless you\npoint it the way you want to go.
+
+@120.0282
+So, how's it going?
+
+@120.02C8
+(Will she be all right?)\nBruges is southwest of Amsterdam.\nDo your best!
+
+@120.0336
+(Will she be all right?)\nBruges is southwest of Amsterdam.\nDo your best!
+
+@120.03BC
+(Will she be all right?)\nBruges is southwest of Amsterdam.\nDo your best!
+
+@120.041A.0
+Leave it to me!
+
+@120.041A.1
+Don't I need to think about the wind?
+
+@120.0458
+Not bad!\nI'm counting on you, Admiral!
+
+@120.0484
+Hey, don't talk to me right now.\nUm, the wind is this way, so I match\nthe sails to it, right...
+
+@120.04E2
+Hmm... I get how to pick a direction,\nbut I want to catch the wind and\nzoom ahead, you know?
+
+@120.053A
+For that, you have to catch the wind\nin the sails properly.\nNext is setting the sail angle.
+
+@120.0590
+That sounds like a pain.
+
+@120.06AC
+You have to watch the wind direction.\nThe wind should hit the back of the sails\nrelative to the ship's heading.
+
+@120.0704
+??\nI don't really get it...
+
+@120.0724
+You'll get used to it.\nCome on, practice, practice.
+
+@120.07C6
+(Will she be all right?)\nBruges is southwest of Amsterdam.\nDo your best!
+
+@121.000A
+Admiral, a suspicious fleet is\nheading our way!
+
+@121.003A
+Find out whose fleet it is!
+
+@121.0058
+That's... the Li family...\nAdmiral, it's a Li fleet!\nFive ships, and they're firing!
+
+@121.00BC
+The Li family!?
+
+@121.00EA
+Impossible, what's going on!
+
+@121.0110
+Admiral, what do we do!?
+
+@121.012E.0
+We'll meet them head on!
+
+@121.012E.1
+We'd better retreat!
+
+@121.0162
+Aye, Admiral! Engaging!
+
+@121.018C
+Admiral, it's no good!\nWe can't shake them!!
+
+@121.01B6
+Ugh... we have no choice but to fight!\nMaria Huamei Li... you were the enemy\nall along? I can't believe it...
+
+@121.0214
+Everyone, battle stations!
+
+@121.0236
+Can we really beat a fleet like that...?
+
+@121.025E
+If we can't shake them, we break\nthrough! We have to do it!
+
+@121.02AE
+The rest is down to luck!\nIf only luck is on our side...
+
+@121.02DC
+Admiral, this is bad! More ships have\nappeared!
+
+@121.031E
+What! More ships!?
+
+@121.0348
+Against a fleet this big, even I might\nnot make it...
+
+@121.0396
+Looks like we need to steel ourselves...
+
+@121.03D6
+Lady {FI} at least\nI, Yukihisa, will protect with my life!
+
+@121.0414
+Kamil, I wanted to see you again...\nI wanted to meet you and apologize...\nI'm sorry...
+
+@121.046E
+You idiot, don't give up that easily!
+
+@121.04B2
+Huh!? Th-that voice!
+
+@121.04E6
+It can't be!?
+
+@121.051E
+Waaah! He's back!
+
+@121.0544
+Kamil, is that really you!?
+
+@121.0572
+We made it just in time, Kamil.
+
+@121.059A
+Yes. Thanks to you and Hodrum.
+
+@121.05C8
+Huh!? Maria...?\nWhat's going on!?
+
+@121.05FC
+We made it in time, Kamil.
+
+@121.0622
+Just barely.
+
+@121.063E
+Y-you, who are you?\nAnd Maria too...?\nWhat's going on?
+
+@121.0680
+H-huh, you're Hodrum, the soldier...\nAnd Maria...?\nWhat's going on?
+
+@121.06D6
+That whole fleet is Coen's disguised\nfleet! Coen made up a story that {FI}\nwas killed by the Li family...
+
+@121.0736
+He was trying to create a pretext to\navenge his ally!
+
+@121.077C
+Damn! So that's what this is!
+
+@121.07A4
+This is Coen's true face...\nNow you understand, don't you?
+
+@121.07DC
+I was such an idiot...\nI'm sorry, Kamil, I'm so sorry...
+
+@121.081A
+We can talk later!\nWe have to defeat Coen's fleet!
+
+@121.085C
+Kamil is right,\nLady {FI}!
+
+@121.0898
+...I'll scatter them!
+
+@121.08BA
+Y-yes...!
+
+@121.08D0
+W-what is this!? Georg!\nWhy is Maria here?\nAnd even Marinus...!!
+
+@121.0934
+Hmm... both are miscalculations.\nI believe it would be best to\npull back for now...
+
+@121.0982
+Yes, all ships retreat!\nGrr, I'll repay this debt someday!
+
+@121.09C2
+Looks like the crisis is over.
+
+@121.09E0
+Thank you... Um, what you said before\nwas true after all.\nI'm sorry I didn't believe you.
+
+@121.0A3A
+It's fine.\nBesides, it's him you really want\nto apologize to, isn't it?
+
+@121.0A8A
+{FI}, you must have a mountain\nof things to say...
+
+@121.0ACA
+Kamil.
+
+@121.0ADE
+Kamil.
+
+@121.0AFA
+Y-yes.\n{FI}, I'm sorry...\nI...
+
+@121.0B1E
+I'm the one who should apologize.\nKamil, I'm sorry.\nYou're Coen's...
+
+@121.0B5E
+Yeah... Overijssel is my mother's\nfamily name. My real name is Marinus Coen.\nI'm the son of that Anthony Coen.
+
+@121.0BCE
+Come to think of it, the tavern owner told\nme "Kamil" is a nickname. So it was\njust a nickname.
+
+@121.0C2C
+Yeah. As a child my face looked even\nmore like a girl's, and someone half-joking\ncalled me by a girl's name. That's how it started.
+
+@121.0C9A
+But... only my father never did.\nBy then, he wasn't the father he used to be...
+
+@121.0CF4
+My father was a good man once, too.\nWhen he met my mother, he was a\nvery small trader, they say.
+
+@121.0D62
+They were poor, but every day was fun\nand happy, my mother used to say.
+
+@121.0DAA
+But as soon as he expanded into the Spice\nIslands, the Coen Company started to profit.\nWhen he got a lot of money, he changed...
+
+@121.0E0E
+Greed blinded him. He thought only\nabout making money, and didn't mind\nusing dirty tricks...
+
+@121.0E6E
+My mother and I couldn't\nstand that.
+
+@121.0EA2
+Kamil...
+
+@121.0EB2
+Everyone around feared my father.\nEven the neighbors started avoiding\nmy mother and me...
+
+@121.0F14
+My mother decided we couldn't live here\nanymore, so she took me back to\nthe Netherlands.
+
+@121.0F6C
+{FI}... I never meant to tell anyone about\nmy father. Especially not you...\nI didn't want you to know.
+
+@121.0FC6
+So back then...\nI'm sorry.
+
+@121.100C
+So that's how it was...
+
+@121.1030
+Hey, {FI}.\nWill you let me aboard your ship again...?
+
+@121.1064
+...O-of course!\nWhat are you saying! It's been really\nhard while you were gone!
+
+@121.10BC
+{FI}...!\nThank you!
+
+@121.10D6
+Work hard to make up for all the\nworrying you put me through!
+
+@121.110E
+Oh boy.\nYou're as bossy as ever.
+
+@121.1138
+(Kamil is back...\nI'm so glad...)
+
+@121.117C
+Have you cleared up the misunderstanding?
+
+@121.119A
+Yes. I'm truly grateful to you, Hodrum,\nand to you, Maria.
+
+@121.11DC
+Have you two made up?
+
+@121.11F6
+Hodrum...\nThis is thanks to you as well.
+
+@121.122A
+Maria tricked me. I was only told to\nbring Kamil on my ship and come here.\nI did nothing.
+
+@121.128E
+Tricked? You saw through everything...
+
+@121.12BA
+Maria...\nThank you for telling us about the\nattack!
+
+@121.1304
+You're welcome.\nOne day I'll collect on this favor.\n...Well, we'll be on our way.
+
+@121.1358
+Just so you know, Coen won't stop\nat this. Be prepared.
+
+@121.13B0
+You're right. My father wouldn't give\nup over this. The days ahead might be\neven scarier.
+
+@121.1428
+But Kamil, if you lend {FI}\nyour strength, you'll surely\nget through it.
+
+@121.1470
+Yes... I'll do my best.\nThank you so much.\nUm, please pass a message to Hodrum.
+
+@121.14CC
+Thank you for letting me meet Maria\nand helping me get back on my feet...
+
+@121.1510
+And tell him: don't give up, aim for\nthe strongest fleet.
+
+@121.154C
+Yes. I'll tell him.
+
+@121.156A
+Kamil. You can get through it now.\nTeam up with {FI} and prove it.\nWell then, I'm off too.
+
+@121.15C0
+Hodrum... thank you so much.\nI pray the strongest fleet is built\nas soon as possible.
+
+@121.1622
+Well, I'll be going...\n...Oh, that's right. Take this.
+
+@121.1664
+That is a key to unlocking the Mark's\nmap. I'll give it to you.
+
+@121.16C8
+Um... Maria. Why are you being so kind\nto me? I've done nothing but\nbe rude to you...
+
+@121.1732
+Because I found "hope" in you.
+
+@121.1768
+Hope?
+
+@121.1776
+You will surely save Asia. The nations\nof Asia, split apart by the European\npowers and unable even to keep their\nindependence...
+
+@121.17E4
+M-me?\nI wonder if I can do that...
+
+@121.180E
+You can. Your dream is to make people in\ntrouble all over the world happy,\nisn't it? The people of Asia are in\ntrouble right now.
+
+@121.1882
+And it was you who said "dreams come\ntrue." I decided to bet on a person\nlike that.
+
+@121.18EA
+Maria...\nThank you. I'll do my best.\nI'll do all I can.
+
+@121.1932
+Thank you so much, truly.
+
+@121.1956
+Let's go!
+
+@121.1988
+Now that that's settled!\nLet's go, yeehaw!

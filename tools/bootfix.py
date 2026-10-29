@@ -9,6 +9,9 @@ handler (ARM9 then spins forever on IPC sync: white screens).
 Fix: before its autoload/bss clear, the ARM9 polls a code word near the end of ARM7 chunk 2 in main
 RAM (invalidating the dcache line each time) until the ARM7 has copied it. The stub is appended to
 the end of arm9 (it lies in bss, so it's wiped right after it has run). No-op on hardware.
+The wait gives up after TIMEOUT polls: with 16 MB main RAM (DSi mode, e.g. nds-bootstrap on a
+3DS) 0x023f6dd8 is not a mirror of 0x027f6dd8, the word never shows up and an endless wait
+hangs on white screens.
 
 usage: bootfix.py in.nds out.nds   (standalone test ROM)
 """
@@ -23,6 +26,7 @@ AUTOLOAD = 0x020009e0
 POLL_ADDR = 0x023f6dd8           # ARM7 chunk 2 (0x027f6dd8: last loop of its last function), via
                                  # the 4 MB main RAM mirror: the SDK MPU makes 0x027e0000+ no-access
 POLL_WORD = 0x1affffd4           # bne 0x027f6d30
+TIMEOUT = 0x100000               # polls (~0.3 s), then boot anyway
 
 
 def bl(src, dst):
@@ -40,11 +44,15 @@ def apply(arm9):
     code, _ = Ks(KS_ARCH_ARM, KS_MODE_ARM).asm(f"""
         ldr r0, ={POLL_ADDR:#x}
         ldr r1, ={POLL_WORD:#x}
+        mov r3, #{TIMEOUT:#x}
     wait:
+        subs r3, r3, #1
+        beq done
         mcr p15, 0, r0, c7, c6, 1
         ldr r2, [r0]
         cmp r2, r1
         bne wait
+    done:
         b {AUTOLOAD:#x}
     """, stub)
     arm9 += bytes(code)

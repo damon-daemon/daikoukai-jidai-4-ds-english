@@ -77,7 +77,7 @@ It's the stolen Victor's Mark!
 The Victor's Mark. Oh, there's a letter...
 
 @122.058A
-To my dear {FI}\nand Kamil
+To my dear {FI}\nand Camille
 
 @122.05A6
 I'm sorry.\nI pray for your success.\nJames Clifford
@@ -110,7 +110,7 @@ It didn't look that way to me...
 W-wasn't it? A convincing act that\nwins a girl's heart... If you can\npull that off, you're a real pro, right?\nAhaha!
 
 @125.0024
-Oh, Kamil!
+Oh, Camille!
 
 @125.003A
 Is something... wrong?
@@ -158,7 +158,7 @@ But everyone has a family, don't they?\n...And I'm making those people\nunhappy.
 That's...
 
 @125.033A
-No, it's okay.\nI feel better for talking about it.\nSorry, Kamil.
+No, it's okay.\nI feel better for talking about it.\nSorry, Camille.
 
 @125.0386
 Well, you've got your own work to do.
@@ -200,7 +200,7 @@ That's not enough to go on...\nOh well. Let's look for it if we\nget the chance.
 Right. Well, I'm heading back\nto my work.
 
 @125.05D4
-Oh, Kamil!
+Oh, Camille!
 
 @125.060A
 Huh? Y-yeah.
@@ -212,7 +212,7 @@ Of course not!\nIf I moped around all the time,\nI couldn't call myself a woman 
 Heh, you're right.
 
 @125.0696
-Besides, worrying is your job, Kamil.\nIf I worried too, it'd get so gloomy\nthat every last sailor would quit.
+Besides, worrying is your job, Camille.\nIf I worried too, it'd get so gloomy\nthat every last sailor would quit.
 
 @125.0710
 That's harsh. I don't worry because\nI like it. It's because of {FI}...
@@ -257,7 +257,7 @@ Aw, again?
 {FI}, you're\nthe admiral, remember...
 
 @126.018C
-Geez, Kamil,\nyou sound like my mom.\nYes, yes, I get it.
+Geez, Camille,\nyou sound like my mom.\nYes, yes, I get it.
 
 @126.01CA
 "Buy trade goods cheap and sell them\nhigh." That's the basis of trading.\nAt first we can't handle many goods...
@@ -305,7 +305,7 @@ Ugh...\nI lost...
 Fernando,\nthat was some match!
 
 @127.0232
-Oh, Kamil. You were watching?\nHey, old man! Pour this kid a drink\ntoo. It's on me.
+Oh, Camille. You were watching?\nHey, old man! Pour this kid a drink\ntoo. It's on me.
 
 @127.0286
 Coming right up.
@@ -320,7 +320,7 @@ Heh. Pretty sharp. Exactly.
 Luck, and the other half is "watching\nclosely." In other words, insight.\nLose either one and you can't win.
 
 @127.0384
-All right, Kamil, a quiz.\nHow do you think you make\nluck your ally?
+All right, Camille, a quiz.\nHow do you think you make\nluck your ally?
 
 @127.03D2
 Huh?\nHow...?\nHmm... Can you even do that?
@@ -341,7 +341,7 @@ And to build a "winning habit"...
 Insight, right?\nSo sharpening your insight means\nraising your odds of winning!
 
 @127.04FE
-You're smart, Kamil.\nThat's it. Because I won the early\nrounds with insight, he misread\nthe final hand and lost.
+You're smart, Camille.\nThat's it. Because I won the early\nrounds with insight, he misread\nthe final hand and lost.
 
 @127.0574
 You're amazing, Fernando.
@@ -464,7 +464,7 @@ But that old man was so\nunpleasant!
 Geez... you're such a child.
 
 @128.0792
-Hmph!\nYou're one to talk, Kamil! There's\nno point going on about what's done!
+Hmph!\nYou're one to talk, Camille! There's\nno point going on about what's done!
 
 @128.07E0
 Geez, you're so selfish.
@@ -473,7 +473,7 @@ Geez, you're so selfish.
 Well then. Now that it's come to this,\nwe'll crush the Speyer Company\nfair and square!
 
 @128.083E
-Hey Kamil, to crush the Speyer\nCompany, we have to drive them out\nof the ports they have contracts with,\nright?
+Hey Camille, to crush the Speyer\nCompany, we have to drive them out\nof the ports they have contracts with,\nright?
 
 @128.08B0
 Oh, you know that? Surprising.\nI was sure you'd ask\n"How do we crush them?"
@@ -545,7 +545,7 @@ In that case, you start a "Naval Battle"\nwith the enemy near that port.
 If they lose a "Naval Battle," the faction's\nreputation drops. And the shares of\nports near where the battle happened\nstop being 100%.
 
 @128.0F74
-So we slip in there and make a\ncontract! As expected of Kamil! All right,\nwatch out, Speyer Company!!
+So we slip in there and make a\ncontract! As expected of Camille! All right,\nwatch out, Speyer Company!!
 
 @129.0018
 I was told to go to Amsterdam, but...\nIs there really such a thing as\n"Red Pigment"...?
@@ -911,7 +911,7 @@ The Silveira Company took some of your\nshare in Sao Jorge.
 (That stingy old goat!\nJust you wait, one day I'll make you\nregret this!)
 
 @134.06F8
-Hey, Kamil?!
+Hey, Camille?!
 
 @134.0710
 Y-yeah...\n(Why does it always turn into\na head-on fight?)

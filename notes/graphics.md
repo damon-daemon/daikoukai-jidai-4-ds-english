@@ -134,6 +134,8 @@ bbox width - 3), missing letters c, h, K, R hand-drawn in fls.GLYPHS; Kamil card
 14 letters) holds the full name for the last frames. Verified in melonDS: opening cards,
 M20 (Rafael prologue) and M24 (Hodrum prologue); M22 (Ril?) not seen but same format.
 Slightly bigger compressed card strips (+3-6 %) play fine.
+**2026-10-30:** Lil Argot / Camille Overijssel cards back to stock (frames identical to the clean ROM); only
+Hodrum's card is still re-typed; hand-drawn K, R removed. The "HD spellings" premise above was wrong (see CLAUDE.md).
 **Boot slide (S13)**: logo.fls entries 1-3 are full-screen 4bpp slides (256 px rows, 256 rows,
 LZ10; 32-byte param blob kept). Entry 3 "リコエイションゲーム" -> "A RECOEITION GAME" composed in
 fls.logo() from entry 2's italic letters ("AN EIJI FUKUZAWA PRODUCTION"): line un-slanted

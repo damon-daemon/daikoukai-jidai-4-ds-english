@@ -496,7 +496,7 @@
 0215C134	Hodrum
 0215DFD4	Bergstrom
 0215C3D4	Joachim
-0215B970	Ril
+0215B970	Lil
 0215CC98	Argot
 0215C030	Maria
 0215BAB8	Li
@@ -512,7 +512,7 @@
 0215E004	Arcadius
 0215D7A4	Eudosios
 0215C83C	Eirene
-0215BF08	Kamil
+0215BF08	Camille
 0215E96C	Overijssel
 0215C230	Marinus
 0215BE88	Xian
@@ -1455,7 +1455,7 @@
 021385FC	Ancient Maps
 021399B4	Great Scenes from Rafael's Story
 02139934	Great Scenes from Hodrum's Story
-02139818	Great Scenes from Ril's Story
+02139818	Great Scenes from Lil's Story
 021398A4	Great Scenes from Maria's Story
 02138954	Prev
 02138964	Next
@@ -1500,23 +1500,23 @@
 02139664	Maria's Relaxed Smile
 02139344	Maria and Company at the Review
 02138F2C	Maria Image
-02139888	Exhausted Kamil and Cheerful Ril
-0213958C	Ril Looking Back at the Port
-02138A34	Ril Departs
+02139888	Exhausted Camille and Cheerful Lil
+0213958C	Lil Looking Back at the Port
+02138A34	Lil Departs
 02139088	Clifford Appears
-021393F4	Ril in a Dress (Large)
-02139254	Ril and Clifford
+021393F4	Lil in a Dress (Large)
+02139254	Lil and Clifford
 02138A40	Feast
-02138E4C	Ril and Hodrum
-0213940C	Ril Hugging Kamil
+02138E4C	Lil and Hodrum
+0213940C	Lil Hugging Camille
 02139268	Ian at a Loss
 02138C7C	Ian's Misfortune
 02138BFC	Beautiful Ian
-0213909C	Ril and Samuel
+0213909C	Lil and Samuel
 02138C8C	Inside Coen's Residence
-021390B0	Kamil and Hodrum
-02138C6C	Ril Is Attacked
-02138E6C	Welcome Back, Kamil
+021390B0	Camille and Hodrum
+02138C6C	Lil Is Attacked
+02138E6C	Welcome Back, Camille
 02139424	The Coen Family Locket
 021390C4	Wild Jam 1
 021390D8	Wild Jam 2
@@ -1526,24 +1526,24 @@
 02138C9C	Ship on Fire (Large)
 021390EC	Clifford Dies
 0213943C	Against the Setting Sun
-02138CAC	Shy Ril
-02139454	Ril Gazing at Kamil
+02138CAC	Shy Lil
+02139454	Lil Gazing at Camille
 02138B60	Kiss Scene
 02138CBC	Two Embracing
-02139914	Ril in a Wedding Dress
+02139914	Lil in a Wedding Dress
 02138EAC	Two Facing Each Other
 02139AD4	Landscape of Blooming Tulips (Large)
 0213946C	Two Opening the Church Door
-02138C2C	Ril in the Rain
-02138EBC	Ril Looks Up
-02138C5C	At Kamil's House
-02139484	Ril Meets Kamil
+02138C2C	Lil in the Rain
+02138EBC	Lil Looks Up
+02138C5C	At Camille's House
+02139484	Lil Meets Camille
 021391B4	Enemy Ship Sighted! (Large)
 02138D5C	Hodrum Appears
 02138FFC	Bustling Ship Interior
 02139010	Hodrum Rises from His Seat
 02138E9C	Hodrum's Address
-02138E0C	Ril and Hodrum
+02138E0C	Lil and Hodrum
 02138E1C	Angelo Fights
 02139544	Angelo Defeated
 021389F8	Fleet Appears
@@ -1559,7 +1559,7 @@
 02139394	Beloved Elysion
 02139574	Hodrum vs. Escante
 02138AE8	Sera's Homeland
-02139038	Kamil and Hodrum
+02139038	Camille and Hodrum
 0213904C	Hodrum and Maria
 0213899C	Made Up
 02139994	Wounded Hayreddin and Hodrum
@@ -1583,7 +1583,7 @@
 02138974	Repair Ship
 021394CC	Rafael's Profile (Large)
 02138B30	Julio's Shop
-02138F5C	Ril and Raffy
+02138F5C	Lil and Raffy
 02139240	Meeting Room
 02139604	Arcadius's True Identity 1
 0213961C	Arcadius's True Identity 2
@@ -1919,7 +1919,7 @@
 02139FFC	A group of pyramids left by Teotihuacan, said to have\nbeen built around the 2nd century AD.\nExplore from Veracruz to find it: Influence +15.
 02138DEC	00 Rafael
 02138B6C	01 Hodrum
-021389A4	02 Ril
+021389A4	02 Lil
 02138A94	03 Maria
 02138FAC	04 Claudio
 02138BE4	05 Jenas
@@ -1929,7 +1929,7 @@
 02138BF0	09 Charles
 02138BCC	10 Manuel
 021389CC	11 Sera
-02138A64	12 Kamil
+02138A64	12 Camille
 02138F8C	13 Fernando
 02138BA8	14 Emilio
 02138F9C	15 Christina
@@ -2029,7 +2029,7 @@
 0214F334	All
 0214FDDC	A Portuguese boy who vaguely dreams of the sea.\nHis friend talks him into setting sail.\nRecommended for first-time players.
 0214FE48	A Swedish admiral from a newly independent nation.\nHe leads a "navy" that is really a privateer fleet,\nworking to make his country's fleet the world's best.
-0214FD7C	A Dutch girl with a head for business.\nWith her childhood friend Kamil,\nshe sails out to make her fortune.
+0214FD7C	A Dutch girl with a head for business.\nWith her childhood friend Camille,\nshe sails out to make her fortune.
 0214FEB4	A female Ming admiral who defies the national isolation\nlaw to protect people from the wokou pirates,\nfighting with her own private fleet.
 0214FC28	Change Given Name
 0214FC3C	Change Middle Name

@@ -11,7 +11,7 @@ characters; plain modern English, not archaic.
 
 Protagonists (official English of the 2021 HD release where known):
 - ラファエル・カストール = **Rafael Castor** (Portuguese boy, Lisbon)
-- リル・アーゴット = **Ril Argot** (Dutch merchant girl)
+- リル・アーゴット = **Lil Argot** (Dutch merchant girl)
 - ホドラム・ヨアキム・ベルグストロン = **Hodrum Joachim Bergstrom** (Swedish admiral)
 - マリア・リー・ホアメイ = **Maria Huamei Li** (Ming China; table order is given/family/other)
 
@@ -208,9 +208,9 @@ terse military speech, dry; uses "I" (俺/私). Crew:
 - Carlo (19): kind, observant merchant (notices people's health); Manuel (23): rough sailor.
 - Christina (7), Julio (6): as in SC0.
 
-**SC2: Ril Argot** (Dutch merchant girl, Amsterdam; teen): confident, cheeky, money-minded,
+**SC2: Lil Argot** (Dutch merchant girl, Amsterdam; teen): confident, cheeky, money-minded,
 quick-tempered but warm ("Heh, that's skill!"). Crew:
-- Kamil (9): her laid-back, sensible childhood friend; mild, a little reluctant.
+- Camille (9): her laid-back, sensible childhood friend; mild, a little reluctant.
 - Fernando (20): cocky, rough-talking sailor; knows trade and politics.
 - Emilio (14): young cook boy, childish, always hungry (おいら -> plain "I", kid speech).
 - Julian (26, ユリアン Julian Lopez; not ジュリアン = Julien Vermeer, a traitor merchant): flamboyant romantic, flirts with every woman; born and raised in Ming.

@@ -80,7 +80,7 @@ Rafael
 Hodrum
 
 @3277
-Ril and Kamil
+Lil and Camille
 
 @3278
 Explore! Explore!
@@ -455,7 +455,7 @@ Ship in the Dock
 Hans and Arcadius
 
 @3402
-Ril and Raffie
+Lil and Raffie
 
 @3403
 Meeting Room
@@ -551,7 +551,7 @@ Hodrum Rises from His Seat
 Hodrum's Address
 
 @3434
-Ril and Hodrum
+Lil and Hodrum
 
 @3435
 Fleet Appears
@@ -617,25 +617,25 @@ Smiling Hodrum
 The Departing Ship
 
 @3456
-Ril and Kamil Running
+Lil and Camille Running
 
 @3457
-Worn-out Kamil and Lively Ril
+Worn-out Camille and Lively Lil
 
 @3458
-Ril Looking Back at Town from Ship
+Lil Looking Back at Town from Ship
 
 @3459
-Ril Departs
+Lil Departs
 
 @3460
 Clifford Appears
 
 @3461
-Ril in a Dress (Large)
+Lil in a Dress (Large)
 
 @3462
-Disappointed Ril and Welcoming Clifford
+Disappointed Lil and Welcoming Clifford
 
 @3463
 Feast
@@ -644,13 +644,13 @@ Feast
 Inside Coen's Mansion
 
 @3465
-Kamil and Hodrum
+Camille and Hodrum
 
 @3466
-Ril Attacked
+Lil Attacked
 
 @3467
-Welcome Back, Kamil
+Welcome Back, Camille
 
 @3468
 Clifford Takes a Hostage
@@ -668,10 +668,10 @@ Clifford Dies
 With the Sunset at Their Backs
 
 @3473
-Fidgeting Ril
+Fidgeting Lil
 
 @3474
-Ril Gazing at Kamil
+Lil Gazing at Camille
 
 @3475
 Kiss Scene
@@ -680,7 +680,7 @@ Kiss Scene
 The Two Embrace
 
 @3477
-Ril in a Wedding Dress
+Lil in a Wedding Dress
 
 @3478
 The Two Face Each Other

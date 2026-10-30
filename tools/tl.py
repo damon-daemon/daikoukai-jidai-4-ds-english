@@ -143,7 +143,7 @@ def encode_en(en):
 SC_NAMES = {
     'sc0': ('Rafael', 'Castor', 'Castor Co.', 'Rafael Castor'),
     'sc1': ('Hodrum', 'Bergstrom', 'Bergstrom Army', 'Hodrum Joachim Bergstrom'),
-    'sc2': ('Ril', 'Argot', 'Argot Co.', 'Ril Argot'),
+    'sc2': ('Lil', 'Argot', 'Argot Co.', 'Lil Argot'),
     'sc3': ('Maria', 'Li', 'Li Clan', 'Maria Huamei Li'),
 }
 NAME_CODES = re.compile(r'\{F[IAOU]\}')
@@ -326,7 +326,10 @@ def table(src, pseudo=False):
             continue
         if kind(src) == 'sc' and NAME_CODES.search(en):
             en, width = join_soft(en), None   # runtime word wrap with the real names
-        out[rid] = encode_en(wrap(en, width))
+        en = wrap(en, width)
+        if kind(src) == 'sc':
+            en = en.replace('%', '%%')        # the engine runs SC text through printf ("100% of" -> octal)
+        out[rid] = encode_en(en)
     return out
 
 

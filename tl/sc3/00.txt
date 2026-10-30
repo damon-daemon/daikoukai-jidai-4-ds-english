@@ -128,7 +128,7 @@ You're awfully spirited.\nYour face is completely different from\na moment ago.
 W-what do you want?
 
 @012.00BE
-Ril, just thank her properly.\nThank you very much. You really\nsaved us...
+Lil, just thank her properly.\nThank you very much. You really\nsaved us...
 
 @012.0128
 It's all right, don't mind it. More\nimportantly, they may still be nearby.\nStay on your guard.
@@ -137,7 +137,7 @@ It's all right, don't mind it. More\nimportantly, they may still be nearby.\nSta
 She saved me again...\nAh, this is so frustrating.
 
 @012.01C8
-Ril, honestly!
+Lil, honestly!
 
 @012.01DC
 It's all right, don't mind it. More\nimportantly, they may still be nearby.\nStay on your guard.
@@ -152,7 +152,7 @@ Ngh... we'd better pull back here.\nRetreat!
 Damn it!\nLosing to a vulgar thug like that!
 
 @013.0072
-Ril, honestly... Just being alive\nthis time is good enough.\nThank you very much.\nYou really saved us...
+Lil, honestly... Just being alive\nthis time is good enough.\nThank you very much.\nYou really saved us...
 
 @013.00E2
 It's all right, don't mind it. More\nimportantly, they may still be nearby.\nStay on your guard.
@@ -167,7 +167,7 @@ It's all right, don't mind it. More\nimportantly, they may still be nearby.\nBe 
 It'd be embarrassing to keep being\nrescued forever.\nI'll show you I can get stronger!
 
 @013.022C
-That's the spirit! Ril!
+That's the spirit! Lil!
 
 @013.024A
 Heh. What a positive young lady.
@@ -395,7 +395,7 @@ What is that fleet?!
 That's... an iron-plated ship!?
 
 @029.0032
-Ril! Are you all right!?
+Lil! Are you all right!?
 
 @029.004C
 That Clifford!\nHow dare he betray us!!
@@ -449,10 +449,10 @@ In this situation,\nyou don't look strong at all.
 M-maybe so, but\nI'm actually...!
 
 @029.040E
-Honestly, Ril! Don't pick a fight with\nsomeone offering to help us now!\nPlease! Help us, please!
+Honestly, Lil! Don't pick a fight with\nsomeone offering to help us now!\nPlease! Help us, please!
 
 @029.047A
-Kamil, deciding things on his own again!
+Camille, deciding things on his own again!
 
 @029.049C
 Whatever's going on, a hare hunt that\nwasn't fun at all just got a fine\nprize I never expected.\nI'll gladly take her!
@@ -524,13 +524,13 @@ The {FO}\nis firing on us!
 The {FO}!\nHey... it's just like Coen said!
 
 @031.00A4
-What is going on!?\nIt isn't us attacking Ril's fleet!\nWho is that fleet?
+What is going on!?\nIt isn't us attacking Lil's fleet!\nWho is that fleet?
 
 @031.00F8
 Coen disguised a fleet as ours\nand had it attack the Argot Company!
 
 @031.013C
-Coen's decoy fleet...\nHe's finally showing his true colors.\nWe must go help Ril at once!
+Coen's decoy fleet...\nHe's finally showing his true colors.\nWe must go help Lil at once!
 
 @031.018E
 W-wait!\nAnother fleet is heading this way!\nThat fleet is...
@@ -539,13 +539,13 @@ W-wait!\nAnother fleet is heading this way!\nThat fleet is...
 It seems we made it in time...
 
 @031.01F2
-Rilllll!!!
+Lilllll!!!
 
 @031.020A
-K-Kamil!\nAnd Hodrum...?\nWhy are you here?
+K-Camille!\nAnd Hodrum...?\nWhy are you here?
 
 @031.0248
-{FI} told us.\n"Ril's in danger!" she said.\nIt's Coen's decoy fleet that's\nattacking you!
+{FI} told us.\n"Lil's in danger!" she said.\nIt's Coen's decoy fleet that's\nattacking you!
 
 @031.02A8
 What!? What did you say!!!
@@ -752,7 +752,7 @@ Then answer my question too. You said\nSwedish forces. Do you know the Argot\nCo
 And you are?
 
 @035.024A
-This is Kamil.\nHe isn't one of my fleet, but for\ncertain reasons he travels with us.
+This is Camille.\nHe isn't one of my fleet, but for\ncertain reasons he travels with us.
 
 @035.0290
 I know the Argot Company well.\nCould you tell me about it, please?
@@ -770,7 +770,7 @@ So it was true...
 Wait... knowing this, who are you?
 
 @035.03D0
-Kamil is a young man of the Argot\nCompany, close to Admiral Argot.\nHe happens to be acting separately\nfor now...
+Camille is a young man of the Argot\nCompany, close to Admiral Argot.\nHe happens to be acting separately\nfor now...
 
 @035.0440
 ...I see. Then does Admiral Argot\nrealize Coen is using her?
@@ -785,16 +785,16 @@ So you don't know everything either.\nThanks to Coen's scheme, the {FO}\nand the
 Admiral {FA}.\nI understand the situation is quite\ncomplicated. ...What will you do?
 
 @035.0582
-I want to talk with the Argot Company's\nLeader. Directly, with no one in between.\nKamil, would you guide me?
+I want to talk with the Argot Company's\nLeader. Directly, with no one in between.\nCamille, would you guide me?
 
 @035.05DC
-That's a bit... But Ril should be\nstaying somewhere around Batavia, I\nthink.
+That's a bit... But Lil should be\nstaying somewhere around Batavia, I\nthink.
 
 @035.062C
 Batavia, then. I'll go see.\nThank you.
 
 @035.0668
-Kamil... don't you want to go yourself?\nThis seems a good chance.
+Camille... don't you want to go yourself?\nThis seems a good chance.
 
 @035.06A6
 ...Sorry.\nRight now I really can't face her...
@@ -806,16 +806,16 @@ Kamil... don't you want to go yourself?\nThis seems a good chance.
 Everyone, ready to leave port?
 
 @036.002E
-Oh, that's the Argot Company's Leader,\nRil Argot.
+Oh, that's the Argot Company's Leader,\nLil Argot.
 
 @036.006A
 So it seems.
 
 @036.007C
-Excuse me.\nAre you Admiral Ril Argot?
+Excuse me.\nAre you Admiral Lil Argot?
 
 @036.00A6
-W-what, all of a sudden?\nI'm Ril, sure, but\nwho are you?
+W-what, all of a sudden?\nI'm Lil, sure, but\nwho are you?
 
 @036.00EA
 I am {FI} of\nthe {FO}.\nYou must know the name.
@@ -854,7 +854,7 @@ Saying that out of nowhere, as if I'd\nbelieve you!\nHmph!
 That was close...\n...Coen, that bastard...
 
 @037.002C
-Ril! Are you safe!?
+Lil! Are you safe!?
 
 @037.0048
 Yeah...\nEveryone, because of me...\nI don't know how to apologize...
@@ -878,10 +878,10 @@ What will you two do?
 I'm going back to the North Sea too.\nI realized I can't compete in the\nworld as I am now...
 
 @037.01C2
-Ril...\nI'll go with you.
+Lil...\nI'll go with you.
 
 @037.01E0
-Thank you, Kamil!
+Thank you, Camille!
 
 @037.01FC
 Then leave the rest to us.\nWe'll take down Coen.

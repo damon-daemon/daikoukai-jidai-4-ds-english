@@ -302,7 +302,7 @@ Huh? What? What does it mean?
 I have no idea what it was saying!
 
 @107.01CA
-...\n(At a time like this,\nif only Kamil were here...)
+...\n(At a time like this,\nif only Camille were here...)
 
 @107.0202
 ..."Adorn me as purely as a new star"?\nSince it says adorn, doesn't that mean\nwe should bring some kind of\nornament?
@@ -449,7 +449,7 @@ W-well, yeah...
 Oh, I see!
 
 @109.0752
-You got it!?\nAs expected of Kamil!
+You got it!?\nAs expected of Camille!
 
 @109.0778
 The answer is "59 seconds"!
@@ -461,7 +461,7 @@ I-I was just thinking the same\nthing right now!!
 Phew, lucky!
 
 @109.0846
-You're so reliable, Kamil!
+You're so reliable, Camille!
 
 @109.0866
 Well, yeah!
@@ -701,7 +701,7 @@ Come on, let's go report to the Guild\nin this port!
 Come on, let's go report to the Guild\nin this port!
 
 @120.000C
-We're finally at sea!\nAh, the sound of the sea breeze, the\nseagulls. Kamil, hurry up and give the orders!
+We're finally at sea!\nAh, the sound of the sea breeze, the\nseagulls. Camille, hurry up and give the orders!
 
 @120.006C
 Before that... {FI},\nI'll teach you how to steer a ship too.
@@ -830,7 +830,7 @@ Looks like we need to steel ourselves...
 Lady {FI} at least\nI, Yukihisa, will protect with my life!
 
 @121.0414
-Kamil, I wanted to see you again...\nI wanted to meet you and apologize...\nI'm sorry...
+Camille, I wanted to see you again...\nI wanted to meet you and apologize...\nI'm sorry...
 
 @121.046E
 You idiot, don't give up that easily!
@@ -845,10 +845,10 @@ It can't be!?
 Waaah! He's back!
 
 @121.0544
-Kamil, is that really you!?
+Camille, is that really you!?
 
 @121.0572
-We made it just in time, Kamil.
+We made it just in time, Camille.
 
 @121.059A
 Yes. Thanks to you and Hodrum.
@@ -857,7 +857,7 @@ Yes. Thanks to you and Hodrum.
 Huh!? Maria...?\nWhat's going on!?
 
 @121.05FC
-We made it in time, Kamil.
+We made it in time, Camille.
 
 @121.0622
 Just barely.
@@ -881,13 +881,13 @@ Damn! So that's what this is!
 This is Coen's true face...\nNow you understand, don't you?
 
 @121.07DC
-I was such an idiot...\nI'm sorry, Kamil, I'm so sorry...
+I was such an idiot...\nI'm sorry, Camille, I'm so sorry...
 
 @121.081A
 We can talk later!\nWe have to defeat Coen's fleet!
 
 @121.085C
-Kamil is right,\nLady {FI}!
+Camille is right,\nLady {FI}!
 
 @121.0898
 ...I'll scatter them!
@@ -917,22 +917,22 @@ It's fine.\nBesides, it's him you really want\nto apologize to, isn't it?
 {FI}, you must have a mountain\nof things to say...
 
 @121.0ACA
-Kamil.
+Camille.
 
 @121.0ADE
-Kamil.
+Camille.
 
 @121.0AFA
 Y-yes.\n{FI}, I'm sorry...\nI...
 
 @121.0B1E
-I'm the one who should apologize.\nKamil, I'm sorry.\nYou're Coen's...
+I'm the one who should apologize.\nCamille, I'm sorry.\nYou're Coen's...
 
 @121.0B5E
 Yeah... Overijssel is my mother's\nfamily name. My real name is Marinus Coen.\nI'm the son of that Anthony Coen.
 
 @121.0BCE
-Come to think of it, the tavern owner told\nme "Kamil" is a nickname. So it was\njust a nickname.
+Come to think of it, the tavern owner told\nme "Camille" is a nickname. So it was\njust a nickname.
 
 @121.0C2C
 Yeah. As a child my face looked even\nmore like a girl's, and someone half-joking\ncalled me by a girl's name. That's how it started.
@@ -956,7 +956,7 @@ Greed blinded him. He thought only\nabout making money, and didn't mind\nusing d
 My mother and I couldn't\nstand that.
 
 @121.0EA2
-Kamil...
+Camille...
 
 @121.0EB2
 Everyone around feared my father.\nEven the neighbors started avoiding\nmy mother and me...
@@ -989,7 +989,7 @@ Work hard to make up for all the\nworrying you put me through!
 Oh boy.\nYou're as bossy as ever.
 
 @121.1138
-(Kamil is back...\nI'm so glad...)
+(Camille is back...\nI'm so glad...)
 
 @121.117C
 Have you cleared up the misunderstanding?
@@ -1004,7 +1004,7 @@ Have you two made up?
 Hodrum...\nThis is thanks to you as well.
 
 @121.122A
-Maria tricked me. I was only told to\nbring Kamil on my ship and come here.\nI did nothing.
+Maria tricked me. I was only told to\nbring Camille on my ship and come here.\nI did nothing.
 
 @121.128E
 Tricked? You saw through everything...
@@ -1022,7 +1022,7 @@ Just so you know, Coen won't stop\nat this. Be prepared.
 You're right. My father wouldn't give\nup over this. The days ahead might be\neven scarier.
 
 @121.1428
-But Kamil, if you lend {FI}\nyour strength, you'll surely\nget through it.
+But Camille, if you lend {FI}\nyour strength, you'll surely\nget through it.
 
 @121.1470
 Yes... I'll do my best.\nThank you so much.\nUm, please pass a message to Hodrum.
@@ -1037,7 +1037,7 @@ And tell him: don't give up, aim for\nthe strongest fleet.
 Yes. I'll tell him.
 
 @121.156A
-Kamil. You can get through it now.\nTeam up with {FI} and prove it.\nWell then, I'm off too.
+Camille. You can get through it now.\nTeam up with {FI} and prove it.\nWell then, I'm off too.
 
 @121.15C0
 Hodrum... thank you so much.\nI pray the strongest fleet is built\nas soon as possible.

@@ -83,7 +83,7 @@ Mamma mia! What a piece of work!\nLet's hand him over to the guards!
 Hey, {FI}!\nLet's take this guy with us!
 
 @163.06C6
-K-Kamil?!
+K-Camille?!
 
 @163.06E0
 Hey, what are you saying?!
@@ -173,7 +173,7 @@ We're on a ship, you see.\nAnd she's the admiral.
 Oh!!!\nHow wonderful!!!\nYou are an admiral, ma'am?\nPlease, let me sail with you!
 
 @164.047C
-Ugh. What do we do?\nKamil, come on!
+Ugh. What do we do?\nCamille, come on!
 
 @164.04A6
 If he's traveled the world,\nhe must have sailing experience.\nHe could probably help with the ship.\nDon't you think?
@@ -233,7 +233,7 @@ Honestly, for a man of the sea, nothing\nis harder than going without good\nliqu
 What's that guy muttering\nto himself about?
 
 @165.00DE
-Hey Kamil, look at that old man.\nHe's done nothing but complain.
+Hey Camille, look at that old man.\nHe's done nothing but complain.
 
 @165.0120
 Hmm... People get grumpy as they\nage. Everybody ends up like that.
@@ -359,7 +359,7 @@ Stop being defensive, {FI}! So it'd be good\nto have someone who loves the ship\
 Then the ship wouldn't cry anymore.\nI'm sure of it.\nSo can we invite him aboard?
 
 @166.05CE
-Hmm...\nWell, if you're fine with it, Kamil.
+Hmm...\nWell, if you're fine with it, Camille.
 
 @166.05FE
 Sir, would you like to look after\nour ship?
@@ -461,7 +461,7 @@ Abyu!
 Oh dear...
 
 @169.0008
-Oh, Kamil.\nWhat are you doing?
+Oh, Camille.\nWhat are you doing?
 
 @169.002A
 Ah, {FI}. Well, I was looking into a\ntreasure called the "Victor's Mark."\nBut the one who knows the clues is...
@@ -488,7 +488,7 @@ How cold.\nAnd Little {FI} is so cute, too.
 Hmm. If you call me doctor, I can't\nrefuse... Ahem.\nLittle {FI}, are you interested\nin the "Victor's Mark"?
 
 @169.027A
-Listen... Kamil is the one asking.\nWell, fine. So do you really\nknow? What is this "Victor's Mark"?
+Listen... Camille is the one asking.\nWell, fine. So do you really\nknow? What is this "Victor's Mark"?
 
 @169.02E8
 Yes. It is said to be treasure scattered\nacross the seas, held by whoever\nmasters the sea. The details remain\na mystery, however...

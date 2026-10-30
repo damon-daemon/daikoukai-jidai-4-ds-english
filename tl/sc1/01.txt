@@ -164,7 +164,7 @@ Are you listening? I'm talking to you!
 This is my turf, got it? Don't you dare\ngo doing business here without asking,\nnot ever!
 
 @044.0126
-Ril!\nThat's a rude way to talk to someone\nyou've never met!
+Lil!\nThat's a rude way to talk to someone\nyou've never met!
 
 @044.015C
 If we sign a contract and trade,\nthere should be no problem...
@@ -182,7 +182,7 @@ Stop it, this is bad.
 Outsiders keep barging into us\nmerchants' territory, one after another,\nand they act so high and mighty about\nit. It's so annoying!
 
 @044.02E8
-Ril!
+Lil!
 
 @044.02F8
 I've listened quietly long enough.\nThis woman!
@@ -200,7 +200,7 @@ But, sir!
 ...Hmm. You're a bit more decent\nthan I thought.
 
 @044.03A0
-But that's a separate matter! Get in my\nway and I won't forgive you!\nCome on, Kamil!
+But that's a separate matter! Get in my\nway and I won't forgive you!\nCome on, Camille!
 
 @044.0406
 Um, I'm sorry about this...\nPlease don't take offense.\n...Though that's impossible, right?
@@ -251,7 +251,7 @@ Aaah!\nYou already found it?\nSo annoying!
 If you beat me, you can't lose to\nanyone else. You'd better become the\nbest in the world, or I won't accept it!
 
 @048.0008
-Ril Argot has found\nHunter God Ur's Bow!
+Lil Argot has found\nHunter God Ur's Bow!
 
 @048.0052
 Heh. Too bad,\n{FI}!!
@@ -890,13 +890,13 @@ W-well, yes, I suppose...
 ?  ...Ah!!
 
 @066.0136
-Kamil...!?\nIf I remember right.
+Camille...!?\nIf I remember right.
 
 @066.0154
 {FI}...\nIt's you, right?
 
 @066.016E
-Why are you here? Where's Ril?
+Why are you here? Where's Lil?
 
 @066.019A
 Well, um...\nWe're acting separately right now.

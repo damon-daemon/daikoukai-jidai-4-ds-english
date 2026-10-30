@@ -2,7 +2,7 @@
 Ahh. Having time to stroll around town\nfor once... I'm so happy!\nHee hee, I haven't gone shopping in ages!
 
 @071.0068
-Huh? Kamil's still not here?\nHey, I'm leaving without you!
+Huh? Camille's still not here?\nHey, I'm leaving without you!
 
 @071.009E
 {FI}, come on!\nW-wait a second!
@@ -14,7 +14,7 @@ Honestly! You're a guy, and you take\nlonger to get ready than a girl like me!\n
 Stop rushing me!
 
 @071.013C
-...Kamil, are you done yet?\nI'm really going without you!
+...Camille, are you done yet?\nI'm really going without you!
 
 @071.0170
 Phew. Sorry to keep you waiting.\nLet's go.
@@ -77,7 +77,7 @@ Maybe you'd call it admiration?
 Huh, is that so?\nWell, I'll let you have it your way.
 
 @071.051C
-Hmph! Well, maybe you wouldn't get it,\nKamil. The mind of a grown woman\nand all that.
+Hmph! Well, maybe you wouldn't get it,\nCamille. The mind of a grown woman\nand all that.
 
 @071.0566
 Heh... ahahaha!\nI never thought I'd hear the words\n"mind of a grown woman" from you, {FI}.
@@ -92,7 +92,7 @@ Ka-mi-iil!\nHow dare you laugh at me!\nHey, running away is cowardly!
 Of course I run before\nI get hit!
 
 @071.0646
-...Oh, wait. Could it be... Kamil,\nyou're jealous!?
+...Oh, wait. Could it be... Camille,\nyou're jealous!?
 
 @071.0680
 I see, it's twisted boyish feelings!
@@ -173,7 +173,7 @@ Admiral Adelnkatz!\nIt's been a long time!
 Oh!\nYou are... um...
 
 @074.0258
-Kamil Overijssel!\nYou helped me out a little before!
+Camille Overijssel!\nYou helped me out a little before!
 
 @074.02A4
 Ah... that's right. Must be my age,\nI've grown quite forgetful.\nForgive me.
@@ -209,7 +209,7 @@ Really?\nI'm having fun.
 Exactly what it says.\nYou have no manners toward your elders,\nand a poor vocabulary besides.
 
 @074.057C
-To submit yourself to such a rabble...\nKamil has fallen far.
+To submit yourself to such a rabble...\nCamille has fallen far.
 
 @074.05C2
 Hey!\nYou've got some nerve\nsaying that!
@@ -218,10 +218,10 @@ Hey!\nYou've got some nerve\nsaying that!
 I merely stated the facts.
 
 @074.0620
-Say whatever you like about me!\nBut my bad manners have nothing\nto do with Kamil!
+Say whatever you like about me!\nBut my bad manners have nothing\nto do with Camille!
 
 @074.068A
-"Kamil has fallen" isn't a fact!\nThat's just slander!
+"Camille has fallen" isn't a fact!\nThat's just slander!
 
 @074.06F6
 ...That was a slip of the tongue.\nYou are right.
@@ -248,7 +248,7 @@ A navy admiral, huh... So that's why\nyou didn't tell me who he was\nbeforehand.
 If I'd said he was military, you'd have\nbeen prejudiced, right? I thought you\nshould meet him and see how wonderful\nhe is, but...
 
 @074.0964
-Kamil.
+Camille.
 
 @074.0972
 Oh, yes! I'm sorry!\nSpeaking so rudely to the Admiral...
@@ -263,7 +263,7 @@ No, that's enough. More than that,\nI find myself wanting to know why you\nwork 
 Your words just now came from the\nheart. You lack manners, but you seem\nto care about your friends.
 
 @074.0AA6
-I doubt you and I will get along,\nbut if Kamil sails with you,\nI will board your ship.
+I doubt you and I will get along,\nbut if Camille sails with you,\nI will board your ship.
 
 @074.0AF6
 Admiral! Really!?
@@ -278,7 +278,7 @@ Yes. If the Admiral is willing, that is.
 I can't imagine ever liking this man,\nbut...
 
 @074.0BA6
-I know, I know.\nKamil admires him this much, so\nhe must have some good in him\nsomewhere.
+I know, I know.\nCamille admires him this much, so\nhe must have some good in him\nsomewhere.
 
 @074.0C00
 Yes! Admiral Adelnkatz,\nthank you so much! Please keep\nguiding me from now on!
@@ -362,7 +362,7 @@ Well, I like machines, so I studied\nhow ships work in detail. I even\ncollected
 !\nThat's amazing!
 
 @075.02CC
-Hey, Kamil!\nWho said you could keep talking?\nI'm the admiral here!
+Hey, Camille!\nWho said you could keep talking?\nI'm the admiral here!
 
 @075.0316
 I know.\nBut don't you think it's impressive?
@@ -446,7 +446,7 @@ Kyaaa!!
 !! Phew. That startled me, but...\n{FI}, you're such a\ngirl.\n"Kyaa!" Hee hee.
 
 @076.00E8
-What! Kamil, you jerk!!\n(Slap!)
+What! Camille, you jerk!!\n(Slap!)
 
 @076.011C
 Ow. You didn't have to hit me...
@@ -491,7 +491,7 @@ Um,\ncan I go now...?
 No! Show me where he is!\nLet's recruit him!\nBombs, whatever, bring it on!
 
 @076.04C8
-Come on, Kamil! Let's go!!\n(Whack!)
+Come on, Camille! Let's go!!\n(Whack!)
 
 @076.04FC
 That hurts!!!\nStop hitting me all the time, geez!!
@@ -563,7 +563,7 @@ Huh? It's settled already?\nBut I'm the admiral...\nOh well, let's go to the shi
 I'm {FI}.
 
 @076.0AB6
-I'm Kamil. Nice to meet you.
+I'm Camille. Nice to meet you.
 
 @076.0AD2
 I am Charles Jean Rochefort!\nEveryone calls me "Dr. Charles"!

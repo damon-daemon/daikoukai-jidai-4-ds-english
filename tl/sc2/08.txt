@@ -29,16 +29,16 @@ Who knows... Mr. Coen never talks\nabout it, not a word.\nThat was the last of t
 Look, I really, really want to meet\nthat child! Anything at all, please,\ntell me what you know!
 
 @148.023A
-Hmm, even if you say that...\nI can't even recall the real name.\nBack then we called him "Kamil," though.
+Hmm, even if you say that...\nI can't even recall the real name.\nBack then we called him "Camille," though.
 
 @148.02B4
-What, Kamil?!
+What, Camille?!
 
 @148.02D6
-Kamil?! Mister, did you just say\n"Kamil"...?
+Camille?! Mister, did you just say\n"Camille"...?
 
 @148.030C
-That's right.\n"Kamil" is a girl's name, isn't it?\nHe had such a pretty face that\nthe nickname just stuck.
+That's right.\n"Camille" is a girl's name, isn't it?\nHe had such a pretty face that\nthe nickname just stuck.
 
 @148.037E
 Hm? Miss, is something wrong?
@@ -50,7 +50,7 @@ N-no, it's nothing.\nThank you.
 Sorry I couldn't be more help.
 
 @148.03F8
-Coen's son is... Kamil...?\nCome to think of it, I don't know\nanything about Kamil at all...
+Coen's son is... Camille...?\nCome to think of it, I don't know\nanything about Camille at all...
 
 @148.0464
 Me neither... I've known him for ages,\nbut a secret like this...
@@ -59,16 +59,16 @@ Me neither... I've known him for ages,\nbut a secret like this...
 And about his father, he only said\nhe had passed away...
 
 @148.04D8
-Kamil... Maybe you knew about Coen's\nmethods...\nThat's why you opposed it so much...
+Camille... Maybe you knew about Coen's\nmethods...\nThat's why you opposed it so much...
 
 @148.0548
 He knew, but couldn't say it, and\nwas torn up inside...\nThat idiot...
 
 @148.059A
-Poor Kamil...
+Poor Camille...
 
 @148.05BA
-I...\n...\nI'm sorry, Kamil...
+I...\n...\nI'm sorry, Camille...
 
 @149.000C
 Hey, this "Tang Bamboo Craft"\nis built so intricately, isn't it?\nJust looking at it gives me a headache.
@@ -80,7 +80,7 @@ Just looking at it makes me hungry,\nI'll tell you.
 But the "Bamboo Craft Diagram"\nshows how it's made.\nJust follow it step by step.
 
 @149.0130
-I'm no good at this stuff!\nThis is Kamil's specialty, right?
+I'm no good at this stuff!\nThis is Camille's specialty, right?
 
 @149.0178
 ...Yeah, yeah. So you do this here...\nand this part comes off...
@@ -89,7 +89,7 @@ I'm no good at this stuff!\nThis is Kamil's specialty, right?
 ...Phew. I think that's got it all\ncome apart.
 
 @149.01EC
-That's Kamil for you!\nYou're so good at fiddly stuff.
+That's Camille for you!\nYou're so good at fiddly stuff.
 
 @149.021E
 Tch, flattery is {FI}'s\nspecialty at times like this.
@@ -431,7 +431,7 @@ Hmph, fine by me.\nHey, we have to recruit him!
 ...Yeah, yeah, whatever you say.
 
 @154.049E
-Heh heh heh, Kamil, you're being\nawfully agreeable today.
+Heh heh heh, Camille, you're being\nawfully agreeable today.
 
 @154.04DE
 ...Look who's talking. You never\nlisten to my opinion at times like this.
@@ -521,7 +521,7 @@ B-brat?!\nI won't be called a kid by a man as\nsuspicious-looking as you!
 Hey, {FI}...\n(Honestly, this is why\n people call you a brat.)
 
 @155.0270
-Stop it, {FI}.\nI'm Kamil Overijssel.
+Stop it, {FI}.\nI'm Camille Overijssel.
 
 @155.02A2
 And she is\n{FI} {FA},\nthe admiral of this ship.
@@ -533,10 +533,10 @@ And she is\n{FI} {FA},\nthe admiral of this ship.
 Huh...? Well, she said some rude\nthings too, so...
 
 @155.0376
-Kamil!!\nYou don't have to apologize!\nHe was the one who insulted us!!
+Camille!!\nYou don't have to apologize!\nHe was the one who insulted us!!
 
 @155.03D4
-No, the lady is right, Kamil.\nWhen I see a cute boy, I just have\nto tease him. My bad.
+No, the lady is right, Camille.\nWhen I see a cute boy, I just have\nto tease him. My bad.
 
 @155.043E
 Oh, um, uh...?\nThat's fine. Please don't worry about it.
@@ -557,13 +557,13 @@ It's fine, isn't it?\n{FI}?
 W-what?! You're going to hire this guy?\nYou're unbelievably soft-hearted.
 
 @155.057C
-Right, Kamil.\nHe made fun of you!
+Right, Camille.\nHe made fun of you!
 
 @155.05B0
 Now, now. He doesn't seem like such a\nbad person. A voyage is more fun with\nall kinds of people, right?
 
 @155.0622
-What a softie.\n...Well, that's Kamil's good side too.
+What a softie.\n...Well, that's Camille's good side too.
 
 @155.0670
 Still, this guy is odd. Even with my\ninsight, I can't read him at all.
@@ -818,7 +818,7 @@ Who do you think you are? Nobody just\nsays "okay" and takes you on as crew\nbec
 Now, now, {FI}.\nNo need to get so worked up.\n...You'll get wrinkles, you know.
 
 @159.02CE
-W-what?!\nKamil! What a thing to say!
+W-what?!\nCamille! What a thing to say!
 
 @159.02FA
 Sorry. Getting angry is her hobby,\nso don't mind her.
@@ -845,13 +845,13 @@ Thanks for asking!\nMy talent is, of course, "cooking"!!\nIt's really delicious,
 !!!!!!\n"Cooking," he says?!
 
 @159.058C
-Kamil, let's go!\nIt's obviously a lie!\nBesides, anyone who insults a lady is\nno good!
+Camille, let's go!\nIt's obviously a lie!\nBesides, anyone who insults a lady is\nno good!
 
 @159.05F4
 I only said "chubby"!\nI didn't insult anyone!
 
 @159.0636
-That's what an insult is!!\nLet's go, Kamil!!\nI can't deal with this guy!!
+That's what an insult is!!\nLet's go, Camille!!\nI can't deal with this guy!!
 
 @159.06A2
 Join us!
@@ -893,7 +893,7 @@ If this tastes bad, I'm not letting\nit slide!
 ...Huh? I-it's good...\nHow annoying...
 
 @159.08DE
-Then it's settled, right? I'm Kamil.\nShe's {FI},\nour admiral.
+Then it's settled, right? I'm Camille.\nShe's {FI},\nour admiral.
 
 @159.0922
 Hmph. ...Well, I guess it can't be\nhelped. If I get to eat cooking like this\nevery day, I can put up with a little.\nNice to meet you.

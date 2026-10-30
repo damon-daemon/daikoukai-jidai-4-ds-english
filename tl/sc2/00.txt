@@ -344,7 +344,7 @@ Heh. I finally got it.\nThe trade permit! Just you watch!\nI'm going to make a f
 {FI}!\nWait! Wait for me!
 
 @022.00B6
-Come on! Kamil, hurry up!\nGet the ship ready and let's go!
+Come on! Camille, hurry up!\nGet the ship ready and let's go!
 
 @022.00FA
 Huff, huff...\nWe don't have to leave today of all days...
@@ -389,7 +389,7 @@ Like before, I won't earn anything!\nIf we go overseas, striking it\nrich is no 
 I wonder... Getting rich quick\nisn't that easy, I think.
 
 @022.04C6
-Don't be a sore loser, Kamil.
+Don't be a sore loser, Camille.
 
 @022.04E4
 Oh, Fernando's coming too?\nYou said "I'm not going with you\nlot!" so firmly before.
@@ -410,7 +410,7 @@ Yeah, the kid's strong, so I figured\nhe'd be useful. I lured him\nwith food.
 What a crew...\nWill we be okay out at sea?
 
 @022.0680
-Enough talk, let's go, let's go!\nCome on, Kamil.\nGet to work!
+Enough talk, let's go, let's go!\nCome on, Camille.\nGet to work!
 
 @022.06CC
 Full Sail. Anchor's up!\nHurry up and give the order!
@@ -470,7 +470,7 @@ So this is the town I grew up in...\nA lot happened here. But...
 {FI}!\nWhat's wrong?
 
 @022.0AB4
-Oh... Kamil.\n...Sorry, sorry!\nIt's nothing.
+Oh... Camille.\n...Sorry, sorry!\nIt's nothing.
 
 @022.0AE8
 Really?\n...Well, if you say so.\nWe're ready on our end.
@@ -722,7 +722,7 @@ Okay. Understood.
 Then, tonight. I'll be waiting.
 
 @026.07E0
-...Kamil, did you hear? Dinner!\nA pirate under the Crown must have\na grand mansion, right?\nOoh, I'm so excited!
+...Camille, did you hear? Dinner!\nA pirate under the Crown must have\na grand mansion, right?\nOoh, I'm so excited!
 
 @026.0860
 I'm excited too!\nI want to go already!
@@ -764,10 +764,10 @@ Heh heh, how do I look?
 Like they say, "fine feathers\nmake fine birds."
 
 @026.0B16
-...\n(Idiot. Kamil, watch your words!)
+...\n(Idiot. Camille, watch your words!)
 
 @026.0B42
-...I was a fool to ask Kamil.
+...I was a fool to ask Camille.
 
 @026.0B78
 Ah, you came.

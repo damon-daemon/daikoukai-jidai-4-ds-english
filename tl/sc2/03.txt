@@ -5,7 +5,7 @@ Mixed feelings...
 {FI}...\nThis was bound to happen sooner or later...
 
 @064.004E
-Kamil...
+Camille...
 
 @064.005E
 Marinus. I've been looking for you.
@@ -56,13 +56,13 @@ That's how adults are.\nYou'll understand one day...
 Why... Father...
 
 @064.0404
-Kamil...
+Camille...
 
 @064.0414
 It's all right, I knew.\nFather is just like that.\nHe won't change easily...
 
 @064.0468
-Maybe... But when he handed Kamil\nthe locket...\nhe had the face of a kind father...
+Maybe... But when he handed Camille\nthe locket...\nhe had the face of a kind father...
 
 @064.04D2
 In his own way, Coen\nloves you...
@@ -113,7 +113,7 @@ Coen!
 Marinus... is it?
 
 @065.03D8
-Marinus?\nWhy is Kamil answering?\nI don't get it at all! What's going on?!
+Marinus?\nWhy is Camille answering?\nI don't get it at all! What's going on?!
 
 @065.042E
 Marinus!? What does that mean?\nYou know Coen?
@@ -131,7 +131,7 @@ Marinus. I never thought I'd run into\nmy own son in a place like this...
 Son...
 
 @065.057C
-Son!? Kamil's father is\nAnthony Coen!?
+Son!? Camille's father is\nAnthony Coen!?
 
 @065.05CE
 S-son?\nYou told me your old man was gone...\nDidn't you say he died?
@@ -185,7 +185,7 @@ Marinus... look after your mother.
 ...Understood. Take care, Father...
 
 @065.0976
-Kamil, what was all that...?
+Camille, what was all that...?
 
 @065.0998
 ...Sorry.\nI don't want to talk about it...
@@ -242,13 +242,13 @@ I see... You don't know.
 What are you talking about?
 
 @066.023E
-That's Kamil's real name?\n...Kamil left us.
+That's Camille's real name?\n...Camille left us.
 
 @066.027C
 You'd know the story better than I\nwould, wouldn't you?\nYou're his father, right?
 
 @066.02DA
-You know about Kamil and me?
+You know about Camille and me?
 
 @066.0304
 ...Sort of.
@@ -260,16 +260,16 @@ No, forgive me. Farewell.
 Father!
 
 @066.0356
-Kamil...
+Camille...
 
 @066.037C
-Kamil, you rat!\nWhere have you been?!
+Camille, you rat!\nWhere have you been?!
 
 @066.03C0
 You're back! I'm so glad!
 
 @066.03F6
-Kamil, you'll be fine now.
+Camille, you'll be fine now.
 
 @066.0422
 Then I'll be going.
@@ -281,7 +281,7 @@ Hodrum, sir.\nThank you so much for everything!
 Think nothing of it.
 
 @066.047E
-Kamil, where have you been!?
+Camille, where have you been!?
 
 @066.04AE
 And what's this about "Father"?\nWhat's going on!?
@@ -290,16 +290,16 @@ And what's this about "Father"?\nWhat's going on!?
 I looked... everywhere for you...
 
 @066.0508
-I have to apologize.\nKamil, you're really Coen's...
+I have to apologize.\nCamille, you're really Coen's...
 
 @066.0540
 Yes... Overijssel is my mother's name.\nMy original name is\n"Marinus Coen."\nI'm the son of that Anthony Coen.
 
 @066.05C2
-Marinus Coen...\nCoen is Kamil's father...
+Marinus Coen...\nCoen is Camille's father...
 
 @066.05F6
-Right.\nKamil is just an old nickname.
+Right.\nCamille is just an old nickname.
 
 @066.0628
 Father was a good man once.\nWhen he met Mother, he was just a\ntiny trader, they say.
@@ -317,7 +317,7 @@ Greed blinded him.\nAll he thought about was profit,\nand he didn't mind using d
 Mother and I couldn't stand it.
 
 @066.07D2
-Kamil...
+Camille...
 
 @066.07E2
 Everyone around feared Father.\nEven the neighbors started avoiding\nMother and me...
@@ -338,7 +338,7 @@ No... Back then.\nThat's why you were so against it...
 I didn't know, but I still doubted you...\nI'm really sorry...
 
 @066.09A8
-No...\nYou were hurting too, Kamil.
+No...\nYou were hurting too, Camille.
 
 @066.09D8
 ...Hey, {FI}.\nWill you let me aboard your ship again...?
@@ -356,7 +356,7 @@ Well, sorry about that!
 Haha. But that's just like\nyou, {FI}.
 
 @066.0ADE
-Kamil...\n(I'm so glad he's come back to me!)
+Camille...\n(I'm so glad he's come back to me!)
 
 @066.0B1E
 Hey, Father.
@@ -485,7 +485,7 @@ A gift...? I don't really get it, but\nI just need to go to the tavern\nin Amste
 You did it!\n{FI}!
 
 @069.0028
-Oh...\nKamil.
+Oh...\nCamille.
 
 @069.003A
 You did it!\nYour trade domain finally\nspans the whole world!
@@ -509,19 +509,19 @@ W-what, no...
 I left Mother behind, so I worry.\nI'd like to show my face once in a while.
 
 @069.0190
-Kamil...
+Camille...
 
 @069.01A0
 Is that okay?
 
 @069.01B2
-Yeah...\n(Thank you, Kamil.)
+Yeah...\n(Thank you, Camille.)
 
 @070.0020
 You did it!\n{FI}!
 
 @070.003C
-Oh!\n...Kamil!
+Oh!\n...Camille!
 
 @070.0052
 You did it!\nYour trade domain finally\nspans the whole world!
@@ -578,7 +578,7 @@ Ahem!\nI guess it was thanks to me.
 It's {FI}'s character.\nEveryone came to like\n{FI} for that cheerful spirit.
 
 @070.049C
-And, well...\nUmm, let's see...\nKamil...
+And, well...\nUmm, let's see...\nCamille...
 
 @070.04E0
 It's because\n...\nyou were there...
@@ -620,7 +620,7 @@ You dirty old man!\nYou're the biggest nuisance of all!!
 You know, I finally...
 
 @070.07C4
-When Kamil\nleft me...
+When Camille\nleft me...
 
 @070.07F6
 I realized...
@@ -638,7 +638,7 @@ But I went out to sea, met all kinds of\npeople, and saw the world. Little by\nl
 My dream now is for people in need all\nover the world... no, for everyone in\nthe world to be happy.\nEven I think I've changed.
 
 @070.096E
-And Kamil... you've been supporting\nme like that all along, haven't you...
+And Camille... you've been supporting\nme like that all along, haven't you...
 
 @070.09C2
 Thank you... really.
@@ -662,7 +662,7 @@ What do you mean by that!?
 I don't want to make a girl say this\nkind of thing out loud.
 
 @070.0AFC
-Kamil...?
+Camille...?
 
 @070.0B0E
 ...{FI}\nI... no...
@@ -674,7 +674,7 @@ I'll always be by your side.\nNo matter what happens, I'll protect you.
 And... whatever happens,\nI'll be thinking of you.
 
 @070.0B9A
-Kamil...
+Camille...
 
 @070.0BAA
 I love you...
@@ -689,7 +689,7 @@ They finally got together.
 Yeah. They're such good friends.\nHow nice.
 
 @070.0C26
-Well, romance is a kind of bargaining too.\nKamil came through when it counted,\ndidn't he?
+Well, romance is a kind of bargaining too.\nCamille came through when it counted,\ndidn't he?
 
 @070.0C86
 Yeah-hoo!\nKiss, kiss, kiss!\nAnd one more yahoo for good measure!
@@ -704,7 +704,7 @@ Yes, yes.\nWhen it comes to proposals,\nsincerity is everything.
 ...Coming from you,\nit has no ring of truth at all.
 
 @070.0DE2
-Kamil's words were wonderful.\nHmm, I shall write a poem based on them.
+Camille's words were wonderful.\nHmm, I shall write a poem based on them.
 
 @070.0E46
 It's "love," plain and simple!
@@ -722,7 +722,7 @@ Huh? Don't tell me Samuel too...?\nI'll never understand your taste.
 Peeping is rude, you know!
 
 @070.0F72
-Kamil, it's your chance!\nSweep her off her feet!
+Camille, it's your chance!\nSweep her off her feet!
 
 @070.0FB2
 Hush, you noisy ones!\nThey'll notice us!
@@ -788,7 +788,7 @@ There is nothing in this world that is\nabsolutely right. You can only walk\nthe
 If I'm with {FI},\nI feel like I'll find it.
 
 @070.13DC
-(Kamil...)
+(Camille...)
 
 @070.13F2
 ...Heh.
@@ -896,7 +896,7 @@ Please, be happy!!
 Hehe, thank you.
 
 @070.1A10
-Kamil, it's about to begin.
+Camille, it's about to begin.
 
 @070.1A30
 Yeah. Let's go!\nOur new voyage begins!

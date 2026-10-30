@@ -302,7 +302,7 @@ Hey, you're lucky!\nNormally I'd wipe you out,\nbut I'll let you off today.
 If you're scared of wolves,\nyou could just say so...
 
 @312.09B0
-Did you say something, Kamil?!
+Did you say something, Camille?!
 
 @312.09CE
 N-no, nothing at all.\n(She only ever hears\n this kind of thing.)

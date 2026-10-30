@@ -140,16 +140,16 @@ Do not rush in and overreach. You will\nsuffer a painful counterattack. Also, my
 Oh, {FI}!\nPlease, help me!
 
 @068.0030
-Kamil, isn't it? What's wrong?
+Camille, isn't it? What's wrong?
 
 @068.0056
-Ril is in danger!
+Lil is in danger!
 
 @068.007A
 What do you mean?
 
 @068.0092
-Coen is deceiving her!\nAt this rate Ril will fall right into\nthe trap he set!
+Coen is deceiving her!\nAt this rate Lil will fall right into\nthe trap he set!
 
 @068.00F2
 I don't follow, but never mind.\nWhere is she?
@@ -161,13 +161,13 @@ Batavia! Sorry,\nI'll explain everything later!
 Right, come with me!
 
 @069.000C
-Ril! Thank goodness, we made it in time.
+Lil! Thank goodness, we made it in time.
 
 @069.0038
-I'm sorry, Kamil, I'm so sorry...\nI... I... I didn't listen when you tried\nto stop me, and I believed that man.
+I'm sorry, Camille, I'm so sorry...\nI... I... I didn't listen when you tried\nto stop me, and I believed that man.
 
 @069.00B0
-No, it's all right, Ril.
+No, it's all right, Lil.
 
 @069.00D2
 No, I almost doubted Maria, too.\nI'm glad you came back.
@@ -179,7 +179,7 @@ If you want to thank someone,\nthank {FI}.
 I only carried you here. I did nothing.\nI don't know what happened, but it looks\nlike you two are back together.
 
 @069.01AA
-Huh? Um...\nHey, Ril.\nCan I get on your ship again...?
+Huh? Um...\nHey, Lil.\nCan I get on your ship again...?
 
 @069.01F0
 Of course you can! It was hard\nwhile you were gone! You'd better work\nextra to make up for it!

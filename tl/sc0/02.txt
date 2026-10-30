@@ -437,10 +437,10 @@ Hm?\nWhat's that? The Market seems noisy...\nLet's go see.
 Hey!\nYou!
 
 @049.0072
-Ril!\nNo fighting!
+Lil!\nNo fighting!
 
 @049.00A8
-You have to say these things\nstraight out! Kamil, you stay quiet.
+You have to say these things\nstraight out! Camille, you stay quiet.
 
 @049.010C
 What's going on? The mood is awfully\nhostile...
@@ -515,7 +515,7 @@ In Germany, Martin Speyer of the Hanseatic\nLeague is somehow managing the place
 And as for the other regions, we want to\nget most of them ourselves, from now on.
 
 @049.0718
-I see. But Ril, if you sign a contract with\na port, isn't trade fair to everyone?
+I see. But Lil, if you sign a contract with\na port, isn't trade fair to everyone?
 
 @049.0762
 I know that. So I'm saying, please just\nleave us alone for a while.
@@ -554,7 +554,7 @@ So for a while, I'm telling you not to\ntouch my turf.
 If you want a head-on fight, that's\ndifferent, but then we have plans of\nour own. Got it?
 
 @049.0A54
-R-Ril, come on...
+R-Lil, come on...
 
 @049.0A72
 Yes, more or less. So you mean you want\nan agreement with us... right?
@@ -596,7 +596,7 @@ She's telling us to look elsewhere.
 So that's that! Got it?\nWe're busy too, so see you!
 
 @049.0DBA
-Ah! Ril, wait!\nS-sorry for the trouble!\nExcuse us! Ril, wait for me!
+Ah! Lil, wait!\nS-sorry for the trouble!\nExcuse us! Lil, wait for me!
 
 @049.0E32
 ...A typhoon has passed.
@@ -617,7 +617,7 @@ Then let's head for other waters\nfor now.
 Wait!
 
 @050.001C
-Oh!\nUm, it's Ril, right?
+Oh!\nUm, it's Lil, right?
 
 @050.0046
 Heh. You remembered. More importantly...\nin the end, you outsmarted me.
@@ -635,19 +635,19 @@ What?!\nAre you sure?
 Sigh.\nI lost to this guy?\n...Oh well.
 
 @050.015E
-Ah! Ril, honestly!\nThere you are!\nWe haven't finished getting ready yet!
+Ah! Lil, honestly!\nThere you are!\nWe haven't finished getting ready yet!
 
 @050.01B6
 Oh, hello.\nMr. {FA}, wasn't it?
 
 @050.01E0
-Y-yes. Um... Kamil?
+Y-yes. Um... Camille?
 
 @050.0208
 Yes, that's right. Well, I suppose it's\nbeen a while... Ha ha.
 
 @050.0256
-By the way, Ril! You haven't been rude\nagain, have you?!
+By the way, Lil! You haven't been rude\nagain, have you?!
 
 @050.0298
 Nooo.\nI just gave it to him because I won't\nbe using that pigment anymore.
@@ -686,13 +686,13 @@ So, no congratulations?
 Wh-what?\n(...Oh no.\nI have no idea what this is about...)
 
 @050.04DA
-No, please don't worry about it.\nCome on, Ril, let's go.\nTake care, Leader {FI}.
+No, please don't worry about it.\nCome on, Lil, let's go.\nTake care, Leader {FI}.
 
 @050.052A
 Okay!\nThen do your best for us too!
 
 @050.0560
-Ril, Kamil, thank you so much!\nI'll do my best to live up to\nyour hopes!
+Lil, Camille, thank you so much!\nI'll do my best to live up to\nyour hopes!
 
 @050.05AE
 (But what was the "celebration"\nabout, I wonder...)

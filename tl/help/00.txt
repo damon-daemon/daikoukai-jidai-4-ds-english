@@ -8,7 +8,7 @@ The World of Uncharted Waters IV\nAn overview of Uncharted Waters IV and what yo
 Game Overview\nUncharted Waters IV is a game of sea adventure to enjoy with your companions.\nThe world is divided into seven seas. The hero leads a faction based in one of them.\nEach sea has several factions. Through trade and battle, the hero competes with them and aims to become the master of every sea.\n\n
 
 @3
-Goal of the Game\nAt first, each hero has a different goal.\n[Rafael] Become a full-fledged sailor.\n[Ril] Earn lots of money.\n[Hodrum] Make your navy the strongest in the world.\nWith any hero, you clear the game by collecting all seven Victor's Marks and becoming the master of every sea.\n> {Victor's Mark:<$04>}\n\n
+Goal of the Game\nAt first, each hero has a different goal.\n[Rafael] Become a full-fledged sailor.\n[Lil] Earn lots of money.\n[Hodrum] Make your navy the strongest in the world.\nWith any hero, you clear the game by collecting all seven Victor's Marks and becoming the master of every sea.\n> {Victor's Mark:<$04>}\n\n
 
 @4
 Victor's Mark (Goal of the Game)\nA Victor's Mark is an item proving that you are the greatest power in a sea. There is one in each sea.\nYou will never find one by searching blindly. It is important to gather information from many people and pick up clues.\nRumor has it that an item called a "Curio" leads sailors to the Victor's Marks.\n> {Curios:<$05>}\n\n
@@ -17,13 +17,13 @@ Victor's Mark (Goal of the Game)\nA Victor's Mark is an item proving that you ar
 Curios (Goal of the Game)\nRumor has it that a certain small item leads adventurers to the Victor's Marks. That item is called a "Curio".\nNo one yet knows what a Curio really is, or how it guides adventurers.\n\n
 
 @6
-About the Heroes\nYou can choose from three heroes at first.\nThe difficulty and advantages of the game differ by hero.\n> {Rafael Castor:<$07>}\n> {Ril Argot:<$08>}\n> {Hodrum Joachim Bergstrom:<$09>}\n\n
+About the Heroes\nYou can choose from three heroes at first.\nThe difficulty and advantages of the game differ by hero.\n> {Rafael Castor:<$07>}\n> {Lil Argot:<$08>}\n> {Hodrum Joachim Bergstrom:<$09>}\n\n
 
 @7
 Rafael Castor\nA Portuguese boy.\nInspired by the many pioneers who set out from Lisbon, he becomes a sailor.\nAn easy character to play, with many companions from the start. Home port: Lisbon (Mediterranean).\n[Perk 1] {Military funding:<$25>} costs only 80% of the usual amount.\n[Perk 2] {Influence:<$B8>} gains from finding ruins and items are doubled.\n\n
 
 @8
-Ril Argot\nA Dutch woman.\nDreaming of making a fortune, she sets out into world trade.\nA hard character: funds are low and there are many strong rivals nearby from the start. Home port: Amsterdam (North Sea).\n[Perk 1] Sells trade goods for 5% more.\n[Perk 2] {Influence:<$B8>} gains from selling trending goods are doubled.\n\n
+Lil Argot\nA Dutch woman.\nDreaming of making a fortune, she sets out into world trade.\nA hard character: funds are low and there are many strong rivals nearby from the start. Home port: Amsterdam (North Sea).\n[Perk 1] Sells trade goods for 5% more.\n[Perk 2] {Influence:<$B8>} gains from selling trending goods are doubled.\n\n
 
 @9
 Hodrum Joachim Bergstrom\nA Swedish admiral.\nHe leads the cash-strapped Swedish navy and strives to make it the strongest in the world.\nHe has good ships from the start as a military man, but there are strong rivals nearby. Home port: Stockholm (North Sea).\n[Perk 1] Winning battles against other factions earns a bounty from the Crown.\n[Perk 2] {Influence:<$B8>} gains from battle victories are doubled.\n\n
@@ -65,7 +65,7 @@ Bribe (Tavern > Plan a Scheme)\nBribe a go-between in a port where another facti
 Market\nBuy and sell trade goods and gather information.\n[!] If you visit a port's market with an item of the "{Local Goods:<$C2>}" type, you may be asked to hand it over. If you do, that port's {specialties:<$98>} increase.\n> {Trade:<$16>}  > {Invest:<$17>}  > {Prices:<$18>}\n\n
 
 @22
-Trade (Market)\nBuy and sell trade goods. Available only in ports where you have a {share:<$96>}.\nPrices vary with the {port's status:<$93>} and other factors. The most you can buy depends on the port's share and the remaining stock, which recovers when the {stock month:<$18>} comes. A high profit rate makes a {Golden Route Found:<$C9>}.\n[!] With a {Purser:<$77>}, you may get discounts or buy up all the stock.\n[!] Ril, the hero, sells goods for 5% more.\n\n
+Trade (Market)\nBuy and sell trade goods. Available only in ports where you have a {share:<$96>}.\nPrices vary with the {port's status:<$93>} and other factors. The most you can buy depends on the port's share and the remaining stock, which recovers when the {stock month:<$18>} comes. A high profit rate makes a {Golden Route Found:<$C9>}.\n[!] With a {Purser:<$77>}, you may get discounts or buy up all the stock.\n[!] Lil, the hero, sells goods for 5% more.\n\n
 
 @23
 Invest (Market)\nInvest to develop a port's commerce. You can invest 1 to 20 units at a time. Each unit costs gold coins equal to 50% of the port's growth.\nInvesting raises growth. If the total {share:<$96>} in the port is under 100%, or a faction {At War:<$BB>} with you holds a share, your own share rises. High growth may increase {specialties:<$98>}.\n\n

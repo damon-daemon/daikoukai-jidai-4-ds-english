@@ -35,7 +35,7 @@ The {FO} as it stands now\nshould be a match for\nHayreddin's clan.
 Huh? What's wrong? I was sure the\nusual {FI} would jump\nright on it.
 
 @044.035E
-Oh, n-nothing... You know, Kamil,\nyou've changed lately...
+Oh, n-nothing... You know, Camille,\nyou've changed lately...
 
 @044.039C
 (He's gotten stronger somehow...\nMore manly, I guess you'd say.)
@@ -68,7 +68,7 @@ I bet this is a kind of "transitional\nperiod" for trade.
 I think things will keep changing.\nAnd anyone who clings to the old ways\nwill be weeded out, one by one...
 
 @045.026E
-Exactly, Kamil. Always grasping the\nsituation of the present, or rather\none step ahead, is the road to success.
+Exactly, Camille. Always grasping the\nsituation of the present, or rather\none step ahead, is the road to success.
 
 @045.02DC
 That's right. You can't afford to cling\nto old customs.
@@ -77,7 +77,7 @@ That's right. You can't afford to cling\nto old customs.
 {FI}!\nWe have to work hard and\nmake the {FO} even bigger!
 
 @045.034C
-Y-yeah...\n(When did Kamil start making such\na manly face?)
+Y-yeah...\n(When did Camille start making such\na manly face?)
 
 @045.03E2
 To think you made Hayreddin's army\nyour vassals... I'm amazed!
@@ -179,7 +179,7 @@ A good proposition?
 I'll explain the details later.\nI'll be waiting for you, then.
 
 @047.0148
-Kamil, what do you think...?
+Camille, what do you think...?
 
 @047.0164
 It sure sounds suspicious...\nI'm not really in favor, but...\nI'll leave it up to you, {FI}.
@@ -209,7 +209,7 @@ I am a messenger for Mr. Anthony von\nCoen, Leader of the Coen Company.
 !!\n(W-what... Coen?!)
 
 @048.01FC
-Hm, what's wrong, Kamil?\nYour hands are shaking. Not feeling\nwell? Are you cold?
+Hm, what's wrong, Camille?\nYour hands are shaking. Not feeling\nwell? Are you cold?
 
 @048.0244
 N-no. It's nothing...\nSorry. Please go on.
@@ -257,10 +257,10 @@ Quite so, quite so.
 It's just no good! {FI}, turn\nthem down!
 
 @048.06EC
-What's with you, Kamil?!\nThis isn't like you!
+What's with you, Camille?!\nThis isn't like you!
 
 @048.071E
-Kamil, was it...?\nCould it be... you have some\nconnection to the Pereira Company?
+Camille, was it...?\nCould it be... you have some\nconnection to the Pereira Company?
 
 @048.0774
 W-what?!
@@ -269,7 +269,7 @@ W-what?!
 Mamma mia! That's ridiculous!
 
 @048.07DA
-Not Kamil! Impossible!
+Not Camille! Impossible!
 
 @048.07FE
 Then why are you so set against\nthis deal? I'd like you to explain.
@@ -284,10 +284,10 @@ Can't you explain? Then I'm afraid\nyou can't blame us for suspecting\nsome conn
 H-hey, don't just stand there.\nSay something!
 
 @048.090A
-Kamil...
+Camille...
 
 @048.091E
-K-Kamil... It's not true, is it?\nYou have nothing to do with Pereira,\nright?
+K-Camille... It's not true, is it?\nYou have nothing to do with Pereira,\nright?
 
 @048.0962
 Not you too, {FI}!\nOf course I have nothing to do\nwith them!
@@ -299,7 +299,7 @@ Then you have no objection to forming\nthis alliance?
 That's... No, we can't.
 
 @048.09DC
-Kamil, you've been acting strange\nthis whole time! What is wrong\nwith you?!
+Camille, you've been acting strange\nthis whole time! What is wrong\nwith you?!
 
 @048.0A20
 I'm the same as always! Please,\n{FI}!\nJust turn this offer down!
@@ -308,10 +308,10 @@ I'm the same as always! Please,\n{FI}!\nJust turn this offer down!
 So there really is a connection to the\nPereira Company... Ms. {FI},\nyou shouldn't trust such a person...
 
 @048.0ABA
-Kamil...
+Camille...
 
 @048.0ADE
-Kamil... what's the matter?\nExplain yourself.
+Camille... what's the matter?\nExplain yourself.
 
 @048.0B1C
 It's not true that you have a\n"connection," is it?
@@ -320,10 +320,10 @@ It's not true that you have a\n"connection," is it?
 {FI}...!\nI... I... Goodbye!
 
 @048.0B76
-!? Kamil!!\nHey, where do you think you're going?!
+!? Camille!!\nHey, where do you think you're going?!
 
 @048.0BC0
-Kamil, wait! Wait, I say!
+Camille, wait! Wait, I say!
 
 @048.0BFA
 Hey! Don't do anything rash!
@@ -341,10 +341,10 @@ That man seems to be hiding\nsomething. Why not watch him for a\nwhile and find 
 More importantly, please,\nsign here.\nCome, Ms. {FI}.
 
 @048.0D28
-Y-yes...\nKamil, what's wrong with you...?
+Y-yes...\nCamille, what's wrong with you...?
 
 @048.0D6A
-Kamil... you...
+Camille... you...
 
 @049.0010
 Mr. Coen.\nThe alliance with the {FO}\nis concluded.
@@ -359,10 +359,10 @@ And also, Master Marinus...
 Marinus! Are you certain?\nIt wasn't someone else?
 
 @049.00CA
-Yes. When I heard the name Kamil, I\nthought it might be him, but that face\nis unmistakable.
+Yes. When I heard the name Camille, I\nthought it might be him, but that face\nis unmistakable.
 
 @049.013A
-Kamil... He's still using a girl's name?\nAnd how did he seem?
+Camille... He's still using a girl's name?\nAnd how did he seem?
 
 @049.0180
 Master Marinus was against the alliance.\nI was on pins and needles several\ntimes along the way.
@@ -404,7 +404,7 @@ Ms. {FI}.\nIt has been some time.
 Oh, you're from Coen's...
 
 @051.0048
-What became of that man, Kamil,\nafterward?
+What became of that man, Camille,\nafterward?
 
 @051.0084
 ...That was the last I saw of him.
@@ -815,7 +815,7 @@ I don't want to kill your friends. I\ndon't want to be that much of a villain.\n
 {FI}!\nNo! Don't give them to him!!
 
 @061.08CE
-But!\nYour life is more important, Kamil!
+But!\nYour life is more important, Camille!
 
 @061.0900
 A wise choice.\nI'll gratefully accept them.

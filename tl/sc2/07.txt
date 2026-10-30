@@ -74,7 +74,7 @@ Hmph!\nYou'll regret laughing when it's too late!
 Well, do try your best.\nHeh heh heh.
 
 @135.065C
-No matter what happens, I'm taking\ndown that Espinosa Company!\nDon't try to stop me, Kamil!
+No matter what happens, I'm taking\ndown that Espinosa Company!\nDon't try to stop me, Camille!
 
 @135.06B4
 Yeah. I won't stop you this time.\nA vile man like that... I can't forgive him!
@@ -539,7 +539,7 @@ So,\nthis "polder" is my first step.\nThat's what I want it to be.
 {FI}...!\nNot "maybe." You can\ndo it, for sure. I'll help too!
 
 @140.0B62
-Thanks, Kamil.
+Thanks, Camille.
 
 @140.0B94
 A fine idea.\nI approve.
@@ -704,19 +704,19 @@ Smoking it out!\nCould be a good idea. Let's try!\nHolding the "Patterned Cloth"
 We did it!\nThis is the map to the Mediterranean's\nVictor's Mark! All right, let's go find it!
 
 @146.0008
-Hey, where's Kamil?\nHasn't Kamil come back?
+Hey, where's Camille?\nHasn't Camille come back?
 
 @146.003A
-No, Kamil wasn't with\nyou, Admiral?
+No, Camille wasn't with\nyou, Admiral?
 
 @146.008A
 Where the hell did he go!?\nI can't read what he's up to either...
 
 @146.00D0
-Kamil, what's gotten into you...
+Camille, what's gotten into you...
 
 @146.00FE
-Meanwhile, Kamil...
+Meanwhile, Camille...
 
 @146.0118
 Father... nothing has changed?
@@ -740,10 +740,10 @@ Bergstrom...\nNot of the Bergstrom Army?
 Something like that.
 
 @146.0236
-Oh, sorry.\nI should have introduced myself.\nI'm Kamil Overijssel.
+Oh, sorry.\nI should have introduced myself.\nI'm Camille Overijssel.
 
 @146.0284
-Kamil, is it... Are you feeling ill?\nYour hands are shaking.
+Camille, is it... Are you feeling ill?\nYour hands are shaking.
 
 @146.02BC
 No, I'm fine.\nIt's just...
@@ -785,7 +785,7 @@ I can't leave you alone in this state.\nYou're not giving up on being a sailor, 
 No, nothing like that...\nBut me, on a Bergstrom Army ship?
 
 @146.04E2
-...Kamil.\nIf you're troubled, go out to sea.
+...Camille.\nIf you're troubled, go out to sea.
 
 @146.0522
 When troubled, don't shut yourself in.\nKeeping busy takes your mind off things.\nOnce your mind settles,\nyou can find a solution.

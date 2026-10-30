@@ -44,7 +44,7 @@ Hm! What's this?
 What an old-looking book.
 
 @199.027C
-Kamil! What are you doing? Let's go!
+Camille! What are you doing? Let's go!
 
 @199.02A4
 Huh, where's Samuel?
@@ -74,7 +74,7 @@ What's this?\nA present?
 N-no, that's not it...
 
 @199.03D6
-It looks old, but Kamil giving\nme a present? That's rare!
+It looks old, but Camille giving\nme a present? That's rare!
 
 @199.041E
 That's not it...

@@ -26,7 +26,7 @@ your own copy of the game.
 
 ## What's translated
 
-- All four scenarios (Rafael, Hodrum, Ril, Maria): story events, dialogue and choices
+- All four scenarios (Rafael, Hodrum, Lil, Maria): story events, dialogue and choices
 - System and NPC messages (ports, taverns, guilds, palace, sea), help pages, item
   descriptions
 - Menus, commands, names of people, ships, ports, items and goods
@@ -36,8 +36,10 @@ your own copy of the game.
 - A variable-width font, so English text is proportional and readable
 - Name entry uses an English letter keyboard
 
-Character names follow the 2021 English release (*Uncharted Waters IV HD*): Rafael
-Castor, Hodrum Joachim Bergstrom, Ril Argot, Maria Huamei Li.
+Character names follow the Latin spellings on the DS game's own opening name cards (Lil Argot,
+Camille Overijssel) and English press coverage of the HD version (Rafael Castor, Maria
+Huamei Li). Hodrum Joachim Bergstrom is a deliberate exception: the DS card reads "Hoodlum Joakim".
+There is no official English release of this game to take names from.
 
 **Intentionally not translated:** the title logo.
 

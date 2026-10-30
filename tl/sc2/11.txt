@@ -164,7 +164,7 @@ W-what are you saying?!\nYou're supposed to say, "All right,\nlet's go"!
 Huh, don't tell me...\n{FI}, are you scared of caves?
 
 @288.0700
-I-I am not!\nL-let's go, Kamil!
+I-I am not!\nL-let's go, Camille!
 
 @288.073E
 Ugh...\nIt's so dark, it creeps me out...

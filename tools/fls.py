@@ -9,7 +9,8 @@ the opening name cards 7..15 (outline dark .. body white).
 
 Edits (build time, from the ROM's own pixels, nothing of Koei's art is stored here):
   CAPTIONS  prologue speech captions redrawn with the VWF font
-  CARDS     opening typewriter name cards re-typed with the HD spellings: letters are cut from
+  CARDS     Hodrum's opening typewriter name card re-typed (stock: "Hoodlum Joakim"; the other
+            cards keep their stock spelling): letters are cut from
             the stock frames (each frame adds one letter) and re-composed; missing letters
             are built from parts of others (GLYPH_FIX).
 """
@@ -105,7 +106,7 @@ def caption(w, h, s, lines):
 
 # ---- opening name cards ------------------------------------------------------------------
 # Hand-drawn letters missing from the stock cards, in each card's own pixel values
-# (Bergstrom card: 7/8 outline, b..f body; Argot/Overijssel card: 6/7/9 outline, b rim, c..e body).
+# (Bergstrom card: 7/8 outline, b..f body).
 # (bottom row sits on the line's 'base' row given in CARDS)
 GLYPHS = {
     'c': ( '''
@@ -140,38 +141,6 @@ GLYPHS = {
 8efb888efb87.
 888888888887.
 77777777777..'''),
-    'K': ( '''
-...66666..66666
-..6bbbbb66bbbb6
-..6bdedb6bbeeb6
-..6bdecbbbeeb6.
-..6bdebbdeeb6..
-..6bdebeedb6...
-.9bbedeedb6....
-.6bbeeedbb6....
-.6bceedeb6.....
-.6beebbdeb6....
-9bbeebbbdeb6...
-6bceb66bbdeb6..
-6bdeb6.6bdeeb6.
-6bbbb6..6bbbb6.
-.6666....6666..'''),
-    'R': ( '''
-...6666666...
-..6bbbbbbbb6.
-..6bdeeeedbb6
-..6bdebbbdeb6
-..6bdeb6bbeb6
-..6bdebbdeb6.
-.9bbedeedbb6.
-.6bbeedbbb6..
-.6bcebdeb6...
-.6beebbdeb6..
-9bbeebbbdeb6.
-6bceb66bbdeb6
-6bdeb6.6bdeb6
-6bbbb6.6bbbb6
-.6666...6666.'''),
 }
 
 # file -> stock card frames (first, last) with the letters each frame adds, and the new cards:
@@ -184,14 +153,6 @@ CARDS = [
     dict(file='FLS/M28.fls', first=25, last=46,
          steps='H o o d l u m J o a k i m B e r g s t r o m'.split(),
          base=16, words=[[0, 1, 3, 15, 5, 6], [7, 8, 9, 'c', 'h', 11, 12], list(range(13, 22))]),
-    # Lil Argot -> Ril Argot
-    dict(file='FLS/M28.fls', first=49, last=56,
-         steps='L i l A r g o t'.split(),
-         base=50, words=[['R', 1, 2], [3, 4, 5, 6, 7]]),
-    # Camille Overijssel -> Kamil Overijssel (Ril Argot stays on the second line)
-    dict(file='FLS/M28.fls', first=57, last=72, keep_prev=True,
-         steps='C a m i l l e O v e r ij s s e l'.split(),
-         base=20, words=[['K', 1, 2, 3, 4], list(range(7, 16))]),
 ]
 OVERLAP = 3                         # italic letters: next bbox starts 3 px before this one ends
 

@@ -758,7 +758,7 @@ Good. We strike just before they dock!\nAll hands, battle stations!
 Heh, let's make it a big one!
 
 @038.000C
-There! It's Ril's fleet!
+There! It's Lil's fleet!
 
 @038.002C
 Maria Huamei Li!\nWhat have I ever done to you!?
@@ -767,10 +767,10 @@ Maria Huamei Li!\nWhat have I ever done to you!?
 Maria...?
 
 @038.0084
-Ril!\nThat's Coen's disguised fleet!\nDon't be fooled!
+Lil!\nThat's Coen's disguised fleet!\nDon't be fooled!
 
 @038.00C4
-Kamil!?
+Camille!?
 
 @038.00D6
 It's Coen's scheme to make you and\nMaria fight each other!
@@ -779,7 +779,7 @@ It's Coen's scheme to make you and\nMaria fight each other!
 What are you talking about?\nBut... Huh?? ??
 
 @038.013C
-Is that true, Kamil?
+Is that true, Camille?
 
 @038.015A
 Yes, I know the man called Coen well.\nAnd Maria detected this plan and\ntold us about it.

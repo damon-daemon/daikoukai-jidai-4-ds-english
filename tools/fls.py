@@ -219,14 +219,14 @@ def card(f, c, prev_frame=None):
 
 # ---- boot slide "リコエイションゲーム" ----------------------------------------------------------
 # logo.fls entries 1-3 are full-screen 4bpp slides (256 px rows, LZ10). Entry 3's katakana is
-# replaced by "A RECOEITION GAME" composed from the italic letters of entry 2 ("AN EIJI
+# replaced by "A REKOEITION GAME" composed from the italic letters of entry 2 ("AN EIJI
 # FUKUZAWA PRODUCTION"). Letters are cut in an un-slanted copy of the line (row y shifted by
 # round((y - LOGO_Y1) * LOGO_K)), placed side by side there and slanted back, so stock letters
 # come back pixel-exact. G = C + O's lower right + bar, M = left half of N + its mirror.
 LOGO_Y0, LOGO_Y1, LOGO_K, LOGO_PAD = 88, 104, 0.25, 8
 LOGO_CUTS = dict(A=(16, 26), N=(26, 36), E=(43, 51), I=(51, 55), C=(204, 214), T=(214, 223),
-                 O=(227, 238), R=(163, 173))
-LOGO_TEXT = 'A RECOEITION GAME'
+                 O=(227, 238), R=(163, 173), K=(91, 100))
+LOGO_TEXT = 'A REKOEITION GAME'
 LOGO_SPACE = 7
 
 

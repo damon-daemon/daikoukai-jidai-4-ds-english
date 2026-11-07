@@ -137,7 +137,7 @@ Slightly bigger compressed card strips (+3-6 %) play fine.
 **2026-10-30:** Lil Argot / Camille Overijssel cards back to stock (frames identical to the clean ROM); only
 Hodrum's card is still re-typed; hand-drawn K, R removed. The "HD spellings" premise above was wrong (see CLAUDE.md).
 **Boot slide (S13)**: logo.fls entries 1-3 are full-screen 4bpp slides (256 px rows, 256 rows,
-LZ10; 32-byte param blob kept). Entry 3 "リコエイションゲーム" -> "A RECOEITION GAME" composed in
+LZ10; 32-byte param blob kept). Entry 3 "リコエイションゲーム" -> "A REKOEITION GAME" (was RECOEITION until 2026-11-05, issue #2; K from FUKUZAWA) composed in
 fls.logo() from entry 2's italic letters ("AN EIJI FUKUZAWA PRODUCTION"): line un-slanted
 (row shift round((y-104)*0.25)), letters cut along darkest seams (fls._seam, window +-1),
 placed, slanted back (stock letters pixel-exact). G = C + O's lower right + bar; M = N's
